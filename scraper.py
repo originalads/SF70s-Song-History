@@ -22,12 +22,13 @@ try:
     except (FileNotFoundError, json.JSONDecodeError):
         history = []
 
-    # 3. DUPLICATE CHECK: Only add if the song is different from the top of the list
+    # 3. DUPLICATE CHECK: Look at the very first item in the list
     if not history or history[0]['song'] != current_song:
         history.insert(0, new_entry)
         print(f"Added new song: {current_song}")
     else:
         print("Song hasn't changed. Skipping.")
+
 
     # 4. ROLLING 7-DAY CLEANUP
     seven_days_ago = datetime.now() - timedelta(days=7)
