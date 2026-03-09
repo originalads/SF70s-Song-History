@@ -3,7 +3,7 @@ import json
 from datetime import datetime, timedelta
 
 # Shoutcast JSON stats endpoint — sid=1 is the default stream ID
-URL = "http://live4.rcast.net/stats?sid=1&json=1"
+URL = "http://live4.rcast.net:8368/stats?sid=1&json=1"
 
 try:
     response = requests.get(URL, timeout=10)
