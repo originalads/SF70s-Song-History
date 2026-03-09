@@ -2,38 +2,41 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-# Your Stream URL
-URL = "http://live4.rcast.net:8368/stats?sid=1&json=1"
+URL = "http://live4.rcast.net"
 
 try:
     response = requests.get(URL, timeout=10)
     data = response.json()
     
-    # Extracting Artist - Title (Adjusting for your specific JSON structure)
-    current_song = data.get('songtitle', 'Unknown')
-    
+    # 1. Grab the current song (Adjusted to 'title' based on your stream)
+    current_song = data.get('title', 'Unknown')
     new_entry = {
         "timestamp": datetime.now().isoformat(),
         "song": current_song
     }
 
-    # Load existing history or start new
+    # 2. Load the existing file (if it exists)
     try:
         with open('playlist.json', 'r') as f:
             history = json.load(f)
-    except FileNotFoundError:
+    except (FileNotFoundError, json.JSONDecodeError):
         history = []
 
-    # Add new song if it's different from the last one
+    # 3. DUPLICATE CHECK: Only add if the song is different from the top of the list
     if not history or history[0]['song'] != current_song:
         history.insert(0, new_entry)
+        print(f"Added new song: {current_song}")
+    else:
+        print("Song hasn't changed. Skipping.")
 
-    # Keep only 7 days (168 hours)
+    # 4. ROLLING 7-DAY CLEANUP
     seven_days_ago = datetime.now() - timedelta(days=7)
     history = [entry for entry in history if datetime.fromisoformat(entry['timestamp']) > seven_days_ago]
 
+    # 5. Save it back
     with open('playlist.json', 'w') as f:
         json.dump(history, f, indent=4)
 
 except Exception as e:
     print(f"Error: {e}")
+
