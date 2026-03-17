@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-17T17:46:54.718879",
+        "song": "John Stewart - Gold"
+    },
+    {
         "timestamp": "2026-03-17T16:47:52.649952",
         "song": "Five Stairsteps - Ooh Child"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-03-10T18:10:06.191867",
         "song": "Lipps, Inc. - Funkytown"
-    },
-    {
-        "timestamp": "2026-03-10T17:31:02.669083",
-        "song": "Andrew Gold - Thank You For Being A Friend"
     }
 ]
