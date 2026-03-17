@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-17T05:25:08.360925",
+        "song": "Bob Welch - Ebony Eyes"
+    },
+    {
         "timestamp": "2026-03-17T04:01:14.752443",
         "song": "Ray Parker Jr. & Raydio - You Can't Change That"
     },
@@ -854,9 +858,5 @@
     {
         "timestamp": "2026-03-10T05:55:13.707510",
         "song": "Cheap Trick - Surrender"
-    },
-    {
-        "timestamp": "2026-03-10T05:00:17.307376",
-        "song": "Andy Gibb - An Everlasting Love"
     }
 ]
