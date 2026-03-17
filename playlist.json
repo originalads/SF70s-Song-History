@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-17T07:40:10.666057",
+        "song": "KC & The Sunshine Band - Shake Your Booty"
+    },
+    {
         "timestamp": "2026-03-17T06:38:45.363445",
         "song": "Tony Orlando & Dawn - Knock Three Times"
     },
@@ -850,13 +854,5 @@
     {
         "timestamp": "2026-03-10T08:02:55.991355",
         "song": "Bee Gees - You Should Be Dancing"
-    },
-    {
-        "timestamp": "2026-03-10T07:30:06.463829",
-        "song": "Spinners - It's A Shame"
-    },
-    {
-        "timestamp": "2026-03-10T06:45:22.040623",
-        "song": "Kiki Dee - I've Got The Music In Me"
     }
 ]
