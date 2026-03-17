@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-17T08:30:15.870004",
+        "song": "Neil Sedaka - Bad Blood"
+    },
+    {
         "timestamp": "2026-03-17T07:40:10.666057",
         "song": "KC & The Sunshine Band - Shake Your Booty"
     },
@@ -850,9 +854,5 @@
     {
         "timestamp": "2026-03-10T08:57:56.056523",
         "song": "Orleans - Dance With Me"
-    },
-    {
-        "timestamp": "2026-03-10T08:02:55.991355",
-        "song": "Bee Gees - You Should Be Dancing"
     }
 ]
