@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-17T20:21:41.940868",
+        "song": "Barry White - You're The First, The Last, My Everything"
+    },
+    {
         "timestamp": "2026-03-17T19:42:00.398851",
         "song": "Elton John - Tiny Dancer"
     },
@@ -838,13 +842,5 @@
     {
         "timestamp": "2026-03-10T20:53:46.004958",
         "song": "Steely Dan - Rikki Don't Lose That Number"
-    },
-    {
-        "timestamp": "2026-03-10T20:19:26.575487",
-        "song": "Steve Miller Band - Swingtown"
-    },
-    {
-        "timestamp": "2026-03-10T19:51:08.875727",
-        "song": "Cornelius Brothers & Sister Rose - Treat Her Like A Lady"
     }
 ]
