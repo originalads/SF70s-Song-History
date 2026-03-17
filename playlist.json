@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-17T23:31:00.162784",
+        "song": "Doobie Brothers - Take Me In Your Arms"
+    },
+    {
         "timestamp": "2026-03-17T22:55:22.527640",
         "song": "Sly & The Family Stone - Everyday People"
     },
@@ -834,9 +838,5 @@
     {
         "timestamp": "2026-03-10T23:44:16.629957",
         "song": "Carly Simon - You Belong To Me"
-    },
-    {
-        "timestamp": "2026-03-10T23:14:37.471006",
-        "song": "Rolling Stones - You Can't Always Get What You Want"
     }
 ]
