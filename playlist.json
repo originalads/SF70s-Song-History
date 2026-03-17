@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-17T11:25:28.795395",
+        "song": "Jacksons - Shake Your Body"
+    },
+    {
         "timestamp": "2026-03-17T10:29:07.398674",
         "song": "Fleetwood Mac - You Make Lovin' Fun"
     },
@@ -846,13 +850,5 @@
     {
         "timestamp": "2026-03-10T11:47:10.424039",
         "song": "Glen Campbell - Southern Nights"
-    },
-    {
-        "timestamp": "2026-03-10T11:08:47.330726",
-        "song": "Carole King - Sweet Seasons"
-    },
-    {
-        "timestamp": "2026-03-10T10:29:35.591822",
-        "song": "Creedence Clearwater Revival - Proud Mary"
     }
 ]
