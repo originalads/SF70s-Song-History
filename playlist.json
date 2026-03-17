@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-17T18:40:16.244782",
+        "song": "Andrew Gold - Thank You For Being A Friend"
+    },
+    {
         "timestamp": "2026-03-17T17:46:54.718879",
         "song": "John Stewart - Gold"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-03-10T19:08:38.003369",
         "song": "M - Pop Muzik"
-    },
-    {
-        "timestamp": "2026-03-10T18:10:06.191867",
-        "song": "Lipps, Inc. - Funkytown"
     }
 ]
