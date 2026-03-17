@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-17T06:38:45.363445",
+        "song": "Tony Orlando & Dawn - Knock Three Times"
+    },
+    {
         "timestamp": "2026-03-17T05:25:08.360925",
         "song": "Bob Welch - Ebony Eyes"
     },
@@ -854,9 +858,5 @@
     {
         "timestamp": "2026-03-10T06:45:22.040623",
         "song": "Kiki Dee - I've Got The Music In Me"
-    },
-    {
-        "timestamp": "2026-03-10T05:55:13.707510",
-        "song": "Cheap Trick - Surrender"
     }
 ]
