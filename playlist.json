@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-18T06:58:03.465579",
+        "song": "Seals & Crofts - Get Closer"
+    },
+    {
         "timestamp": "2026-03-18T05:54:49.921152",
         "song": "Rita Coolidge - Higher And Higher"
     },
@@ -830,9 +834,5 @@
     {
         "timestamp": "2026-03-11T07:11:16.933642",
         "song": "Rolling Stones - Brown Sugar"
-    },
-    {
-        "timestamp": "2026-03-11T06:09:43.259617",
-        "song": "Stevie Wonder - Master Blaster (Jammin')"
     }
 ]
