@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-18T21:53:02.871736",
+        "song": "John Travolta & Olivia Newton-John - You're The One That I Want"
+    },
+    {
         "timestamp": "2026-03-18T21:19:19.085540",
         "song": "Meat Loaf - Two Out Of Three Ain't Bad"
     },
@@ -818,9 +822,5 @@
     {
         "timestamp": "2026-03-11T21:54:29.651007",
         "song": "Shocking Blue - Venus"
-    },
-    {
-        "timestamp": "2026-03-11T21:24:35.841036",
-        "song": "Fleetwood Mac - Don't Stop"
     }
 ]
