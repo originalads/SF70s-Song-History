@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-18T08:54:15.950514",
+        "song": "Earth, Wind & Fire - Got To Get You Into My Life"
+    },
+    {
         "timestamp": "2026-03-18T07:56:49.469084",
         "song": "Three Degrees - When Will I See You Again"
     },
@@ -826,9 +830,5 @@
     {
         "timestamp": "2026-03-11T09:26:36.029256",
         "song": "Vicki Sue Robinson - Turn The Beat Around"
-    },
-    {
-        "timestamp": "2026-03-11T08:39:06.922425",
-        "song": "Gladys Knight & The Pips - Midnight Train to Georgia"
     }
 ]
