@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-18T07:56:49.469084",
+        "song": "Three Degrees - When Will I See You Again"
+    },
+    {
         "timestamp": "2026-03-18T06:58:03.465579",
         "song": "Seals & Crofts - Get Closer"
     },
@@ -826,13 +830,5 @@
     {
         "timestamp": "2026-03-11T08:39:06.922425",
         "song": "Gladys Knight & The Pips - Midnight Train to Georgia"
-    },
-    {
-        "timestamp": "2026-03-11T07:55:25.204139",
-        "song": "Helen Reddy - Delta Dawn"
-    },
-    {
-        "timestamp": "2026-03-11T07:11:16.933642",
-        "song": "Rolling Stones - Brown Sugar"
     }
 ]
