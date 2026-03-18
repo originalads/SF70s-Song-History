@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-18T22:25:09.648067",
+        "song": "Lynyrd Skynyrd - Sweet Home Alabama"
+    },
+    {
         "timestamp": "2026-03-18T21:53:02.871736",
         "song": "John Travolta & Olivia Newton-John - You're The One That I Want"
     },
@@ -814,13 +818,5 @@
     {
         "timestamp": "2026-03-11T22:47:31.736511",
         "song": "Barry White - You're The First, The Last, My Everything"
-    },
-    {
-        "timestamp": "2026-03-11T22:22:59.094761",
-        "song": "Isaac Hayes - Theme From Shaft"
-    },
-    {
-        "timestamp": "2026-03-11T21:54:29.651007",
-        "song": "Shocking Blue - Venus"
     }
 ]
