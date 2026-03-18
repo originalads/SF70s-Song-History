@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-18T12:07:08.263788",
+        "song": "Bay City Rollers - You Made Me Believe In Magic"
+    },
+    {
         "timestamp": "2026-03-18T11:30:34.494075",
         "song": "Marvin Gaye - I Want You"
     },
@@ -822,13 +826,5 @@
     {
         "timestamp": "2026-03-11T13:23:22.414239",
         "song": "Emotions - Flowers"
-    },
-    {
-        "timestamp": "2026-03-11T12:01:53.447526",
-        "song": "Bob Seger & The Silver Bullet Band - Still The Same"
-    },
-    {
-        "timestamp": "2026-03-11T11:40:45.033701",
-        "song": "Chicago - Alive Again"
     }
 ]
