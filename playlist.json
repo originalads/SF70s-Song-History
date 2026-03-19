@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-19T23:03:48.575384",
+        "song": "John Stewart - Gold"
+    },
+    {
         "timestamp": "2026-03-19T22:43:02.632143",
         "song": "Andy Gibb - Thicker Than Water"
     },
@@ -806,9 +810,5 @@
     {
         "timestamp": "2026-03-12T23:32:45.662526",
         "song": "Jackson Browne - Running On Empty"
-    },
-    {
-        "timestamp": "2026-03-12T22:57:34.202284",
-        "song": "Free Movement - I've Found Someone Of My Own"
     }
 ]
