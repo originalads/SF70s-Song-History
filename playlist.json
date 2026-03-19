@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-19T04:29:07.972401",
+        "song": "Captain & Tennille - Lonely Night (Angel Face)"
+    },
+    {
         "timestamp": "2026-03-19T02:03:08.946053",
         "song": "Donna Summer - Heaven Knows"
     },
@@ -810,13 +814,5 @@
     {
         "timestamp": "2026-03-12T05:32:34.785224",
         "song": "Chicago - 25 Or 6 To 4"
-    },
-    {
-        "timestamp": "2026-03-12T04:21:55.026052",
-        "song": "Blondie - Heart Of Glass"
-    },
-    {
-        "timestamp": "2026-03-12T02:10:47.282312",
-        "song": "Silver Convention - Get Up And Boogie"
     }
 ]
