@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-19T05:43:15.290568",
+        "song": "Freda Payne - Band Of Gold"
+    },
+    {
         "timestamp": "2026-03-19T04:29:07.972401",
         "song": "Captain & Tennille - Lonely Night (Angel Face)"
     },
@@ -810,9 +814,5 @@
     {
         "timestamp": "2026-03-12T06:30:47.843927",
         "song": "Four Seasons - Who Loves You"
-    },
-    {
-        "timestamp": "2026-03-12T05:32:34.785224",
-        "song": "Chicago - 25 Or 6 To 4"
     }
 ]
