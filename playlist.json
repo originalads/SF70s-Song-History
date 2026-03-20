@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-20T20:46:29.393109",
+        "song": "James Taylor - Shower The People"
+    },
+    {
         "timestamp": "2026-03-20T20:01:14.871551",
         "song": "Boz Scaggs - What Can I Say"
     },
@@ -802,9 +806,5 @@
     {
         "timestamp": "2026-03-13T21:02:55.988090",
         "song": "Joe Jackson - Is She Really Going Out With Him"
-    },
-    {
-        "timestamp": "2026-03-13T20:30:39.183654",
-        "song": "Three Degrees - When Will I See You Again"
     }
 ]
