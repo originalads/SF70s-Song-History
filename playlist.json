@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-20T07:31:34.663648",
+        "song": "Chicago - Just You N Me"
+    },
+    {
         "timestamp": "2026-03-20T06:33:16.222627",
         "song": "Dave Edmunds - I Hear You Knocking"
     },
@@ -806,9 +810,5 @@
     {
         "timestamp": "2026-03-13T07:55:12.258916",
         "song": "Kiki Dee - I've Got The Music In Me"
-    },
-    {
-        "timestamp": "2026-03-13T07:09:55.236152",
-        "song": "Earth, Wind & Fire - Fantasy"
     }
 ]
