@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-20T21:16:18.310122",
+        "song": "Gordon Lightfoot - Wreck Of The Edmund Fitzgerald"
+    },
+    {
         "timestamp": "2026-03-20T20:46:29.393109",
         "song": "James Taylor - Shower The People"
     },
@@ -802,9 +806,5 @@
     {
         "timestamp": "2026-03-13T21:46:04.967558",
         "song": "Walter Egan - Magnet And Steel"
-    },
-    {
-        "timestamp": "2026-03-13T21:02:55.988090",
-        "song": "Joe Jackson - Is She Really Going Out With Him"
     }
 ]
