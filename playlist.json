@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-20T21:47:37.514686",
+        "song": "Eagles - Hotel California"
+    },
+    {
         "timestamp": "2026-03-20T21:16:18.310122",
         "song": "Gordon Lightfoot - Wreck Of The Edmund Fitzgerald"
     },
@@ -802,9 +806,5 @@
     {
         "timestamp": "2026-03-13T22:03:13.214388",
         "song": "Paul McCartney - Jet"
-    },
-    {
-        "timestamp": "2026-03-13T21:46:04.967558",
-        "song": "Walter Egan - Magnet And Steel"
     }
 ]
