@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-20T23:57:44.239522",
+        "song": "Herb Alpert - Rise"
+    },
+    {
         "timestamp": "2026-03-20T23:38:45.761114",
         "song": "Captain & Tennille - Love Will Keep Us Together"
     },
@@ -802,9 +806,5 @@
     {
         "timestamp": "2026-03-14T02:27:06.531343",
         "song": "Van McCoy - The Hustle"
-    },
-    {
-        "timestamp": "2026-03-13T23:57:33.074030",
-        "song": "Firefall - Just Remember I Love You"
     }
 ]
