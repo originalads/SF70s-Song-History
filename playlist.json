@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-21T13:09:39.473170",
+        "song": "Silver Convention - Get Up And Boogie"
+    },
+    {
         "timestamp": "2026-03-21T12:01:12.199921",
         "song": "Eddie Money - Baby Hold On"
     },
@@ -810,9 +814,5 @@
     {
         "timestamp": "2026-03-14T13:51:50.410487",
         "song": "Heatwave - The Groove Line"
-    },
-    {
-        "timestamp": "2026-03-14T13:01:20.909332",
-        "song": "Elton John - Lucy In The Sky With Diamonds"
     }
 ]
