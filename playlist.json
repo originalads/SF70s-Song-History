@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-21T22:36:39.550564",
+        "song": "Spinners - It's A Shame"
+    },
+    {
         "timestamp": "2026-03-21T22:00:53.937807",
         "song": "Carl Carlton - Everlasting Love"
     },
@@ -818,9 +822,5 @@
     {
         "timestamp": "2026-03-14T22:48:35.878092",
         "song": "Elton John - Mama Can't Buy You Love"
-    },
-    {
-        "timestamp": "2026-03-14T22:19:57.810950",
-        "song": "Betty Wright - Clean Up Woman"
     }
 ]
