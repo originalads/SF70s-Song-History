@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-21T08:16:13.633783",
+        "song": "Gerry Rafferty - Right Down The Line"
+    },
+    {
         "timestamp": "2026-03-21T07:50:05.199347",
         "song": "Tony Orlando & Dawn - Tie A Yellow Ribbon Round The Ole Oak Tree"
     },
@@ -806,9 +810,5 @@
     {
         "timestamp": "2026-03-14T08:49:58.122700",
         "song": "Rickie Lee Jones - Chuck E's In Love"
-    },
-    {
-        "timestamp": "2026-03-14T08:02:46.013747",
-        "song": "Earth, Wind & Fire - Shining Star"
     }
 ]
