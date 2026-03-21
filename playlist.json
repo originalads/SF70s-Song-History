@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-21T17:54:46.427863",
+        "song": "Rickie Lee Jones - Chuck E's In Love"
+    },
+    {
         "timestamp": "2026-03-21T17:34:16.751427",
         "song": "Rare Earth - Get Ready"
     },
@@ -814,9 +818,5 @@
     {
         "timestamp": "2026-03-14T17:58:19.261249",
         "song": "Foreigner - Double Vision"
-    },
-    {
-        "timestamp": "2026-03-14T17:39:25.266441",
-        "song": "John Sebastian - Welcome Back"
     }
 ]
