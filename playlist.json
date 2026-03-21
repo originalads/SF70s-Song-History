@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-21T21:29:03.228256",
+        "song": "Fleetwood Mac - You Make Lovin' Fun"
+    },
+    {
         "timestamp": "2026-03-21T20:57:10.804743",
         "song": "Jackson 5 - Never Can Say Goodbye"
     },
@@ -818,9 +822,5 @@
     {
         "timestamp": "2026-03-14T21:33:50.423808",
         "song": "Kiss - I Was Made For Lovin' You"
-    },
-    {
-        "timestamp": "2026-03-14T20:58:39.375737",
-        "song": "Rare Earth - I Just Want To Celebrate"
     }
 ]
