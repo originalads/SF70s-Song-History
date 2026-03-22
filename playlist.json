@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-22T23:57:08.997705",
+        "song": "Shocking Blue - Venus"
+    },
+    {
         "timestamp": "2026-03-22T23:35:04.450356",
         "song": "Rolling Stones - Tumbling Dice"
     },
@@ -834,9 +838,5 @@
     {
         "timestamp": "2026-03-15T23:59:07.976432",
         "song": "Rupert Holmes - Escape"
-    },
-    {
-        "timestamp": "2026-03-15T23:38:41.292600",
-        "song": "Seals & Crofts - Get Closer"
     }
 ]
