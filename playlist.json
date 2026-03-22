@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-22T09:18:49.722219",
+        "song": "Andrew Gold - Thank You For Being A Friend"
+    },
+    {
         "timestamp": "2026-03-22T08:49:37.528944",
         "song": "First Class - Beach Baby"
     },
@@ -822,9 +826,5 @@
     {
         "timestamp": "2026-03-15T09:47:15.441973",
         "song": "Vanity Fair - Hitchin' A Ride"
-    },
-    {
-        "timestamp": "2026-03-15T09:03:50.321579",
-        "song": "John Stewart - Gold"
     }
 ]
