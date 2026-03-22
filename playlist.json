@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-22T21:22:46.277619",
+        "song": "Doobie Brothers - Minute By Minute"
+    },
+    {
         "timestamp": "2026-03-22T20:54:46.189503",
         "song": "Three Dog Night - Mama Told Me Not To Come"
     },
@@ -830,9 +834,5 @@
     {
         "timestamp": "2026-03-15T21:45:49.153167",
         "song": "Paper Lace - The Night Chicago Died"
-    },
-    {
-        "timestamp": "2026-03-15T21:17:32.441504",
-        "song": "Stevie Wonder - Higher Ground"
     }
 ]
