@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-22T19:16:55.458682",
+        "song": "Cliff Richard - We Don't Talk Anymore"
+    },
+    {
         "timestamp": "2026-03-22T18:51:48.869020",
         "song": "Little River Band - Cool Change"
     },
@@ -830,9 +834,5 @@
     {
         "timestamp": "2026-03-15T19:36:49.223964",
         "song": "Gordon Lightfoot - Sundown"
-    },
-    {
-        "timestamp": "2026-03-15T19:01:25.044965",
-        "song": "Jigsaw - Sky High"
     }
 ]
