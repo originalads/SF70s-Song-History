@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-22T19:42:30.177295",
+        "song": "Paul Simon - 50 Ways To Leave Your Lover"
+    },
+    {
         "timestamp": "2026-03-22T19:16:55.458682",
         "song": "Cliff Richard - We Don't Talk Anymore"
     },
@@ -830,9 +834,5 @@
     {
         "timestamp": "2026-03-15T19:54:22.648754",
         "song": "Tower Of Power - So Very Hard To Go"
-    },
-    {
-        "timestamp": "2026-03-15T19:36:49.223964",
-        "song": "Gordon Lightfoot - Sundown"
     }
 ]
