@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-22T21:46:36.894195",
+        "song": "Rod Stewart - Do Ya Think I'm Sexy"
+    },
+    {
         "timestamp": "2026-03-22T21:22:46.277619",
         "song": "Doobie Brothers - Minute By Minute"
     },
@@ -830,9 +834,5 @@
     {
         "timestamp": "2026-03-15T22:00:43.721409",
         "song": "David Bowie - Fame"
-    },
-    {
-        "timestamp": "2026-03-15T21:45:49.153167",
-        "song": "Paper Lace - The Night Chicago Died"
     }
 ]
