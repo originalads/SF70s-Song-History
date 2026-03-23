@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-23T06:06:33.208788",
+        "song": "Chic - Dance Dance Dance"
+    },
+    {
         "timestamp": "2026-03-23T04:53:36.172459",
         "song": "Olivia Newton-John - If You Love Me Let Me Know"
     },
@@ -834,9 +838,5 @@
     {
         "timestamp": "2026-03-16T06:54:01.264534",
         "song": "Barry White - You're The First, The Last, My Everything"
-    },
-    {
-        "timestamp": "2026-03-16T05:28:29.846624",
-        "song": "Bee Gees - Fanny (Be Tender With My Love)"
     }
 ]
