@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-23T20:51:11.061144",
+        "song": "Supertramp - The Logical Song"
+    },
+    {
         "timestamp": "2026-03-23T20:03:56.533562",
         "song": "Electric Light Orchestra - Evil Woman"
     },
@@ -838,9 +842,5 @@
     {
         "timestamp": "2026-03-16T21:01:37.851009",
         "song": "Bee Gees - Nights On Broadway"
-    },
-    {
-        "timestamp": "2026-03-16T20:21:26.434730",
-        "song": "Earth, Wind & Fire - Serpentine Fire"
     }
 ]
