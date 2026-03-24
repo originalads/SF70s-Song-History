@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-24T06:46:11.616038",
+        "song": "Earth, Wind & Fire - Fantasy"
+    },
+    {
         "timestamp": "2026-03-24T05:49:19.910808",
         "song": "Nick Lowe - Cruel To Be Kind"
     },
@@ -838,9 +842,5 @@
     {
         "timestamp": "2026-03-17T07:40:10.666057",
         "song": "KC & The Sunshine Band - Shake Your Booty"
-    },
-    {
-        "timestamp": "2026-03-17T06:38:45.363445",
-        "song": "Tony Orlando & Dawn - Knock Three Times"
     }
 ]
