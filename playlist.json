@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-24T04:47:40.982615",
+        "song": "Elton John - Philadelphia Freedom"
+    },
+    {
         "timestamp": "2026-03-24T02:52:18.509831",
         "song": "Andrew Gold - Thank You For Being A Friend"
     },
@@ -838,9 +842,5 @@
     {
         "timestamp": "2026-03-17T05:25:08.360925",
         "song": "Bob Welch - Ebony Eyes"
-    },
-    {
-        "timestamp": "2026-03-17T04:01:14.752443",
-        "song": "Ray Parker Jr. & Raydio - You Can't Change That"
     }
 ]
