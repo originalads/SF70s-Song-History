@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-24T23:53:17.461915",
+        "song": "Whispers - It's A Love Thing"
+    },
+    {
         "timestamp": "2026-03-24T23:23:59.252742",
         "song": "Paul McCartney - My Love"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-03-17T23:58:33.185144",
         "song": "Bob Seger & The Silver Bullet Band - Hollywood Nights"
-    },
-    {
-        "timestamp": "2026-03-17T23:31:00.162784",
-        "song": "Doobie Brothers - Take Me In Your Arms"
     }
 ]
