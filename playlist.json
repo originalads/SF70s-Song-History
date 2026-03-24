@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-24T21:01:59.220318",
+        "song": "Manfred Mann's Earth Band - Blinded By The Light"
+    },
+    {
         "timestamp": "2026-03-24T20:23:47.012456",
         "song": "Five Man Electrical Band - Signs"
     },
@@ -838,9 +842,5 @@
     {
         "timestamp": "2026-03-17T21:49:56.414440",
         "song": "Donna Summer - Hot Stuff"
-    },
-    {
-        "timestamp": "2026-03-17T21:00:54.007401",
-        "song": "Elton John - Island Girl"
     }
 ]
