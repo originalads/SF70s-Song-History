@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-24T02:52:18.509831",
+        "song": "Andrew Gold - Thank You For Being A Friend"
+    },
+    {
         "timestamp": "2026-03-24T00:02:16.085776",
         "song": "Eagles - Life In The Fast Lane"
     },
@@ -838,9 +842,5 @@
     {
         "timestamp": "2026-03-17T04:01:14.752443",
         "song": "Ray Parker Jr. & Raydio - You Can't Change That"
-    },
-    {
-        "timestamp": "2026-03-17T01:29:51.200479",
-        "song": "Thin Lizzy - The Boys Are Back In Town"
     }
 ]
