@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-24T08:33:35.235912",
+        "song": "Electric Light Orchestra - Sweet Talkin' Woman"
+    },
+    {
         "timestamp": "2026-03-24T07:43:37.357241",
         "song": "Chi-Lites - Have You Seen Her"
     },
@@ -838,9 +842,5 @@
     {
         "timestamp": "2026-03-17T09:31:40.946204",
         "song": "Elton John - Philadelphia Freedom"
-    },
-    {
-        "timestamp": "2026-03-17T08:30:15.870004",
-        "song": "Neil Sedaka - Bad Blood"
     }
 ]
