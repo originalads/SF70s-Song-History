@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-24T07:43:37.357241",
+        "song": "Chi-Lites - Have You Seen Her"
+    },
+    {
         "timestamp": "2026-03-24T06:46:11.616038",
         "song": "Earth, Wind & Fire - Fantasy"
     },
@@ -838,9 +842,5 @@
     {
         "timestamp": "2026-03-17T08:30:15.870004",
         "song": "Neil Sedaka - Bad Blood"
-    },
-    {
-        "timestamp": "2026-03-17T07:40:10.666057",
-        "song": "KC & The Sunshine Band - Shake Your Booty"
     }
 ]
