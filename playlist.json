@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-24T05:49:19.910808",
+        "song": "Nick Lowe - Cruel To Be Kind"
+    },
+    {
         "timestamp": "2026-03-24T04:47:40.982615",
         "song": "Elton John - Philadelphia Freedom"
     },
@@ -838,9 +842,5 @@
     {
         "timestamp": "2026-03-17T06:38:45.363445",
         "song": "Tony Orlando & Dawn - Knock Three Times"
-    },
-    {
-        "timestamp": "2026-03-17T05:25:08.360925",
-        "song": "Bob Welch - Ebony Eyes"
     }
 ]
