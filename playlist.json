@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-25T09:30:47.370693",
+        "song": "Boz Scaggs - Lido Shuffle"
+    },
+    {
         "timestamp": "2026-03-25T08:29:57.448626",
         "song": "Mark Lindsay - Arizona"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-03-18T09:48:29.039702",
         "song": "Brick - Dazz"
-    },
-    {
-        "timestamp": "2026-03-18T08:54:15.950514",
-        "song": "Earth, Wind & Fire - Got To Get You Into My Life"
     }
 ]
