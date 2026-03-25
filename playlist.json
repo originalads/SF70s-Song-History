@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-25T01:24:26.633619",
+        "song": "Bee Gees - Night Fever"
+    },
+    {
         "timestamp": "2026-03-24T23:53:17.461915",
         "song": "Whispers - It's A Love Thing"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-03-18T02:49:29.126378",
         "song": "James Taylor - Your Smiling Face"
-    },
-    {
-        "timestamp": "2026-03-17T23:58:33.185144",
-        "song": "Bob Seger & The Silver Bullet Band - Hollywood Nights"
     }
 ]
