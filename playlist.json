@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-25T05:26:03.885905",
+        "song": "Little River Band - Cool Change"
+    },
+    {
         "timestamp": "2026-03-25T03:58:41.765018",
         "song": "Elton John - Goodbye Yellow Brick Road"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-03-18T05:54:49.921152",
         "song": "Rita Coolidge - Higher And Higher"
-    },
-    {
-        "timestamp": "2026-03-18T04:49:05.777337",
-        "song": "Kiki Dee - I've Got The Music In Me"
     }
 ]
