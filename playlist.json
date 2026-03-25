@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-25T03:58:41.765018",
+        "song": "Elton John - Goodbye Yellow Brick Road"
+    },
+    {
         "timestamp": "2026-03-25T01:24:26.633619",
         "song": "Bee Gees - Night Fever"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-03-18T04:49:05.777337",
         "song": "Kiki Dee - I've Got The Music In Me"
-    },
-    {
-        "timestamp": "2026-03-18T02:49:29.126378",
-        "song": "James Taylor - Your Smiling Face"
     }
 ]
