@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-25T23:00:58.485611",
+        "song": "Joe Jackson - Is She Really Going Out With Him"
+    },
+    {
         "timestamp": "2026-03-25T22:22:33.060117",
         "song": "Climax - Precious And Few"
     },
@@ -838,13 +842,5 @@
     {
         "timestamp": "2026-03-18T23:31:37.349306",
         "song": "Spinners - Working My Way Back to You/Forgive Me, Girl"
-    },
-    {
-        "timestamp": "2026-03-18T22:56:28.188261",
-        "song": "Bee Gees - Tragedy"
-    },
-    {
-        "timestamp": "2026-03-18T22:25:09.648067",
-        "song": "Lynyrd Skynyrd - Sweet Home Alabama"
     }
 ]
