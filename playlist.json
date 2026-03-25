@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-25T19:00:36.764151",
+        "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
+    },
+    {
         "timestamp": "2026-03-25T17:57:20.234581",
         "song": "Lee Michaels - Do You Know What I Mean"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-03-18T19:18:22.371483",
         "song": "James Taylor - You've Got A Friend"
-    },
-    {
-        "timestamp": "2026-03-18T18:12:40.410255",
-        "song": "Eagles - Heartache Tonight"
     }
 ]
