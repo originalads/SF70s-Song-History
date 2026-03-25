@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-25T08:29:57.448626",
+        "song": "Mark Lindsay - Arizona"
+    },
+    {
         "timestamp": "2026-03-25T07:39:44.314062",
         "song": "David Gates - Goodbye Girl"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-03-18T08:54:15.950514",
         "song": "Earth, Wind & Fire - Got To Get You Into My Life"
-    },
-    {
-        "timestamp": "2026-03-18T07:56:49.469084",
-        "song": "Three Degrees - When Will I See You Again"
     }
 ]
