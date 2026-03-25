@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-25T07:39:44.314062",
+        "song": "David Gates - Goodbye Girl"
+    },
+    {
         "timestamp": "2026-03-25T06:39:08.899329",
         "song": "Smokey Robinson - Cruisin'"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-03-18T07:56:49.469084",
         "song": "Three Degrees - When Will I See You Again"
-    },
-    {
-        "timestamp": "2026-03-18T06:58:03.465579",
-        "song": "Seals & Crofts - Get Closer"
     }
 ]
