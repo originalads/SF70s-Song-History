@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-26T20:19:23.431312",
+        "song": "Boz Scaggs - We're All Alone"
+    },
+    {
         "timestamp": "2026-03-26T19:43:18.484860",
         "song": "Elton John - Sorry Seems To Be The Hardest Word"
     },
@@ -826,9 +830,5 @@
     {
         "timestamp": "2026-03-19T20:33:28.405989",
         "song": "Eddie Money - Baby Hold On"
-    },
-    {
-        "timestamp": "2026-03-19T19:54:48.617004",
-        "song": "The Clash - Train In Vain"
     }
 ]
