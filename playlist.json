@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-26T18:42:00.867868",
+        "song": "Shirley & Company - Shame Shame Shame"
+    },
+    {
         "timestamp": "2026-03-26T17:45:28.031588",
         "song": "Bee Gees - Love You Inside Out"
     },
@@ -826,9 +830,5 @@
     {
         "timestamp": "2026-03-19T19:14:54.063311",
         "song": "Supertramp - Take The Long Way Home"
-    },
-    {
-        "timestamp": "2026-03-19T18:03:00.047477",
-        "song": "Carole King - Sweet Seasons"
     }
 ]
