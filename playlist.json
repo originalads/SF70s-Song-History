@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-26T05:28:14.762443",
+        "song": "Linda Ronstadt - You're No Good"
+    },
+    {
         "timestamp": "2026-03-26T03:52:54.869210",
         "song": "Gladys Knight & The Pips - If I Were Your Woman"
     },
@@ -838,9 +842,5 @@
     {
         "timestamp": "2026-03-19T05:43:15.290568",
         "song": "Freda Payne - Band Of Gold"
-    },
-    {
-        "timestamp": "2026-03-19T04:29:07.972401",
-        "song": "Captain & Tennille - Lonely Night (Angel Face)"
     }
 ]
