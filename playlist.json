@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-26T22:20:48.228628",
+        "song": "Elvis Presley - The Wonder Of You"
+    },
+    {
         "timestamp": "2026-03-26T21:53:18.569913",
         "song": "Seals & Crofts - Get Closer"
     },
@@ -826,9 +830,5 @@
     {
         "timestamp": "2026-03-19T22:43:02.632143",
         "song": "Andy Gibb - Thicker Than Water"
-    },
-    {
-        "timestamp": "2026-03-19T22:02:37.592767",
-        "song": "Three Dog Night - Shambala"
     }
 ]
