@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-26T11:32:45.929757",
+        "song": "Foreigner - Head Games"
+    },
+    {
         "timestamp": "2026-03-26T10:36:10.118357",
         "song": "Journey - Lovin' Touchin' Squeezin'"
     },
@@ -830,13 +834,5 @@
     {
         "timestamp": "2026-03-19T11:55:55.971005",
         "song": "Dramatics - Whatcha See Is Whatcha Get"
-    },
-    {
-        "timestamp": "2026-03-19T11:23:27.589452",
-        "song": "Temptations - Papa Was a Rolling Stone"
-    },
-    {
-        "timestamp": "2026-03-19T10:43:00.606458",
-        "song": "Spinners - Rubberband Man"
     }
 ]
