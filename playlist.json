@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-26T10:36:10.118357",
+        "song": "Journey - Lovin' Touchin' Squeezin'"
+    },
+    {
         "timestamp": "2026-03-26T09:41:23.045544",
         "song": "Brownsville Station - Smokin' In The Boys Room"
     },
@@ -834,9 +838,5 @@
     {
         "timestamp": "2026-03-19T10:43:00.606458",
         "song": "Spinners - Rubberband Man"
-    },
-    {
-        "timestamp": "2026-03-19T09:56:57.126575",
-        "song": "El Chicano - Tell Her She's Lovely"
     }
 ]
