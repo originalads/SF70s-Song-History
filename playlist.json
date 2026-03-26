@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-26T19:43:18.484860",
+        "song": "Elton John - Sorry Seems To Be The Hardest Word"
+    },
+    {
         "timestamp": "2026-03-26T18:42:00.867868",
         "song": "Shirley & Company - Shame Shame Shame"
     },
@@ -826,9 +830,5 @@
     {
         "timestamp": "2026-03-19T19:54:48.617004",
         "song": "The Clash - Train In Vain"
-    },
-    {
-        "timestamp": "2026-03-19T19:14:54.063311",
-        "song": "Supertramp - Take The Long Way Home"
     }
 ]
