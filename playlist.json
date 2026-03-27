@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-27T19:24:41.366258",
+        "song": "Frankie Valli - My Eyes Adored You"
+    },
+    {
         "timestamp": "2026-03-27T18:30:45.166981",
         "song": "Fleetwood Mac - Don't Stop"
     },
@@ -810,9 +814,5 @@
     {
         "timestamp": "2026-03-20T19:40:15.721799",
         "song": "Elton John - Honky Cat"
-    },
-    {
-        "timestamp": "2026-03-20T18:59:04.188680",
-        "song": "Steve Miller Band - Fly Like An Eagle"
     }
 ]
