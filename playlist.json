@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-27T21:20:35.569706",
+        "song": "Chuck Mangione - Feels So Good"
+    },
+    {
         "timestamp": "2026-03-27T20:44:59.331847",
         "song": "Three Degrees - When Will I See You Again"
     },
@@ -806,13 +810,5 @@
     {
         "timestamp": "2026-03-20T21:47:37.514686",
         "song": "Eagles - Hotel California"
-    },
-    {
-        "timestamp": "2026-03-20T21:16:18.310122",
-        "song": "Gordon Lightfoot - Wreck Of The Edmund Fitzgerald"
-    },
-    {
-        "timestamp": "2026-03-20T20:46:29.393109",
-        "song": "James Taylor - Shower The People"
     }
 ]
