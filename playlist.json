@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-27T11:51:25.342598",
+        "song": "Vicki Lawrence - The Night The Lights Went Out In Georgia"
+    },
+    {
         "timestamp": "2026-03-27T11:02:16.702782",
         "song": "Knack - My Sharona"
     },
@@ -814,9 +818,5 @@
     {
         "timestamp": "2026-03-20T11:59:48.219248",
         "song": "Arlo Guthrie - City Of New Orleans"
-    },
-    {
-        "timestamp": "2026-03-20T11:39:49.175520",
-        "song": "Foreigner - Double Vision"
     }
 ]
