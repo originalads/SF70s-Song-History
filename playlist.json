@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-27T14:45:55.867147",
+        "song": "Commodores - Too Hot Ta Trot"
+    },
+    {
         "timestamp": "2026-03-27T13:54:25.723445",
         "song": "Creedence Clearwater Revival - Who'll Stop The Rain"
     },
@@ -814,9 +818,5 @@
     {
         "timestamp": "2026-03-20T15:01:31.178174",
         "song": "Santana - Black Magic Woman"
-    },
-    {
-        "timestamp": "2026-03-20T14:09:20.257840",
-        "song": "Elvis Presley - Suspicious Minds"
     }
 ]
