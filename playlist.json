@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-27T16:33:01.699195",
+        "song": "David Bowie - Fame"
+    },
+    {
         "timestamp": "2026-03-27T15:37:00.790953",
         "song": "Gordon Lightfoot - Wreck Of The Edmund Fitzgerald"
     },
@@ -814,9 +818,5 @@
     {
         "timestamp": "2026-03-20T16:37:05.637113",
         "song": "Hall & Oates - Sara Smile"
-    },
-    {
-        "timestamp": "2026-03-20T15:54:06.191108",
-        "song": "Foreigner - Feels Like The First Time"
     }
 ]
