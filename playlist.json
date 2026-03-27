@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-27T11:02:16.702782",
+        "song": "Knack - My Sharona"
+    },
+    {
         "timestamp": "2026-03-27T10:04:39.690095",
         "song": "Johnny Rivers - Rockin' Pneumonia...Boogie Woogie Flu"
     },
@@ -814,13 +818,5 @@
     {
         "timestamp": "2026-03-20T11:39:49.175520",
         "song": "Foreigner - Double Vision"
-    },
-    {
-        "timestamp": "2026-03-20T11:01:36.735548",
-        "song": "Harry Chapin - Cat's In The Cradle"
-    },
-    {
-        "timestamp": "2026-03-20T10:22:15.069859",
-        "song": "Rose Royce - Love Don't Live Here Anymore"
     }
 ]
