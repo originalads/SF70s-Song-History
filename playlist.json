@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-28T22:38:14.886160",
+        "song": "Lee Michaels - Do You Know What I Mean"
+    },
+    {
         "timestamp": "2026-03-28T21:59:07.375859",
         "song": "Doobie Brothers - Take Me In Your Arms"
     },
@@ -770,13 +774,5 @@
     {
         "timestamp": "2026-03-21T22:56:47.687046",
         "song": "Barbra Streisand - My Heart Belongs To Me"
-    },
-    {
-        "timestamp": "2026-03-21T22:36:39.550564",
-        "song": "Spinners - It's A Shame"
-    },
-    {
-        "timestamp": "2026-03-21T22:00:53.937807",
-        "song": "Carl Carlton - Everlasting Love"
     }
 ]
