@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-28T07:34:39.875461",
+        "song": "Pretenders - Brass in Pocket"
+    },
+    {
         "timestamp": "2026-03-28T06:40:54.915514",
         "song": "Paul McCartney - Another Day"
     },
@@ -798,13 +802,5 @@
     {
         "timestamp": "2026-03-21T07:50:05.199347",
         "song": "Tony Orlando & Dawn - Tie A Yellow Ribbon Round The Ole Oak Tree"
-    },
-    {
-        "timestamp": "2026-03-21T07:22:44.430420",
-        "song": "Bee Gees - Love So Right"
-    },
-    {
-        "timestamp": "2026-03-21T06:43:21.097166",
-        "song": "Beatles - Let It Be"
     }
 ]
