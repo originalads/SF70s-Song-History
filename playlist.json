@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-28T18:20:39.341381",
+        "song": "Sylvers - Boogie Fever"
+    },
+    {
         "timestamp": "2026-03-28T17:49:34.589905",
         "song": "Stephanie Mills - Never Knew Love Like This Before"
     },
@@ -782,9 +786,5 @@
     {
         "timestamp": "2026-03-21T18:31:24.951485",
         "song": "Eagles - Life In The Fast Lane"
-    },
-    {
-        "timestamp": "2026-03-21T17:54:46.427863",
-        "song": "Rickie Lee Jones - Chuck E's In Love"
     }
 ]
