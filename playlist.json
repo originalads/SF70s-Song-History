@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-28T10:47:00.736797",
+        "song": "Rufus - Once You Get Started"
+    },
+    {
         "timestamp": "2026-03-28T10:02:50.273904",
         "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
     },
@@ -790,13 +794,5 @@
     {
         "timestamp": "2026-03-21T11:02:36.186591",
         "song": "Boz Scaggs - Look What You've Done To Me"
-    },
-    {
-        "timestamp": "2026-03-21T10:46:52.320586",
-        "song": "Brewer & Shipley - One Toke Over The Line"
-    },
-    {
-        "timestamp": "2026-03-21T10:13:03.120794",
-        "song": "Earth, Wind & Fire - Serpentine Fire"
     }
 ]
