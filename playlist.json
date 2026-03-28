@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-28T16:02:30.231263",
+        "song": "Journey - Lovin' Touchin' Squeezin'"
+    },
+    {
         "timestamp": "2026-03-28T15:42:47.766033",
         "song": "Lobo - I'd Love You To Want Me"
     },
@@ -782,9 +786,5 @@
     {
         "timestamp": "2026-03-21T16:38:41.878837",
         "song": "Temptations - Papa Was a Rolling Stone"
-    },
-    {
-        "timestamp": "2026-03-21T15:58:33.954943",
-        "song": "Heart - Magic Man"
     }
 ]
