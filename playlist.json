@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-28T08:54:50.523064",
+        "song": "KC & the Sunshine Band - Please Don't Go"
+    },
+    {
         "timestamp": "2026-03-28T08:04:27.552553",
         "song": "Staple Singers - If You're Ready (Come Go with Me)"
     },
@@ -794,13 +798,5 @@
     {
         "timestamp": "2026-03-21T09:21:33.248923",
         "song": "Electric Light Orchestra - Can't Get It Out Of My Head"
-    },
-    {
-        "timestamp": "2026-03-21T08:52:05.790024",
-        "song": "Diana Ross - Ain't No Mountain High Enough"
-    },
-    {
-        "timestamp": "2026-03-21T08:16:13.633783",
-        "song": "Gerry Rafferty - Right Down The Line"
     }
 ]
