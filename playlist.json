@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-29T10:50:42.906548",
+        "song": "Pure Prairie League - Amie"
+    },
+    {
         "timestamp": "2026-03-29T10:04:30.713803",
         "song": "Billy Joel - My Life"
     },
@@ -758,13 +762,5 @@
     {
         "timestamp": "2026-03-22T11:12:14.442860",
         "song": "Guess Who - No Time"
-    },
-    {
-        "timestamp": "2026-03-22T10:48:28.684388",
-        "song": "Kool & The Gang - Ladies Night"
-    },
-    {
-        "timestamp": "2026-03-22T10:14:42.195008",
-        "song": "Deep Purple - Smoke On The Water"
     }
 ]
