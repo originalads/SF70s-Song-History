@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-29T14:46:57.677864",
+        "song": "Johnny Rivers - Rockin' Pneumonia...Boogie Woogie Flu"
+    },
+    {
         "timestamp": "2026-03-29T14:02:09.174446",
         "song": "Bee Gees - Tragedy"
     },
@@ -754,13 +758,5 @@
     {
         "timestamp": "2026-03-22T14:59:25.178514",
         "song": "Manfred Mann's Earth Band - Blinded By The Light"
-    },
-    {
-        "timestamp": "2026-03-22T14:39:22.903380",
-        "song": "Rose Royce - Wishing on a Star"
-    },
-    {
-        "timestamp": "2026-03-22T14:02:25.504999",
-        "song": "Jim Croce - You Don't Mess Around With Jim"
     }
 ]
