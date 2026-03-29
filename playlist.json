@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-29T08:05:46.175739",
+        "song": "Carole King - Sweet Seasons"
+    },
+    {
         "timestamp": "2026-03-29T07:38:24.108811",
         "song": "Chicago - Just You N Me"
     },
@@ -762,13 +766,5 @@
     {
         "timestamp": "2026-03-22T08:49:37.528944",
         "song": "First Class - Beach Baby"
-    },
-    {
-        "timestamp": "2026-03-22T08:02:21.248951",
-        "song": "Stevie Wonder - Sir Duke"
-    },
-    {
-        "timestamp": "2026-03-22T07:46:43.967468",
-        "song": "Michael Jackson - Rockin' Robin"
     }
 ]
