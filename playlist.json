@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-29T19:59:17.442524",
+        "song": "Paul McCartney - Maybe I'm Amazed (live)"
+    },
+    {
         "timestamp": "2026-03-29T19:36:17.778043",
         "song": "Queen - Bohemian Rhapsody"
     },
@@ -742,13 +746,5 @@
     {
         "timestamp": "2026-03-22T20:30:11.387657",
         "song": "Bee Gees - Tragedy"
-    },
-    {
-        "timestamp": "2026-03-22T19:56:30.450330",
-        "song": "Aerosmith - Dream On"
-    },
-    {
-        "timestamp": "2026-03-22T19:42:30.177295",
-        "song": "Paul Simon - 50 Ways To Leave Your Lover"
     }
 ]
