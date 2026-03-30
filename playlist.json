@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-30T14:12:38.816458",
+        "song": "Lynyrd Skynyrd - Free Bird"
+    },
+    {
         "timestamp": "2026-03-30T12:41:18.496297",
         "song": "Beatles - Let It Be"
     },
@@ -730,9 +734,5 @@
     {
         "timestamp": "2026-03-23T14:44:00.744779",
         "song": "Elton John - Lucy In The Sky With Diamonds"
-    },
-    {
-        "timestamp": "2026-03-23T13:44:53.715788",
-        "song": "Captain & Tennille - Shop Around"
     }
 ]
