@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-30T21:56:24.452241",
+        "song": "First Class - Beach Baby"
+    },
+    {
         "timestamp": "2026-03-30T21:08:19.748145",
         "song": "Elton John - Lucy In The Sky With Diamonds"
     },
@@ -722,13 +726,5 @@
     {
         "timestamp": "2026-03-23T22:29:06.328135",
         "song": "Trammps - Disco Inferno"
-    },
-    {
-        "timestamp": "2026-03-23T21:54:54.980257",
-        "song": "Elton John - Levon"
-    },
-    {
-        "timestamp": "2026-03-23T21:23:44.142636",
-        "song": "Little River Band - Lady"
     }
 ]
