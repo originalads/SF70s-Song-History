@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-30T21:08:19.748145",
+        "song": "Elton John - Lucy In The Sky With Diamonds"
+    },
+    {
         "timestamp": "2026-03-30T20:26:11.413812",
         "song": "Peter Frampton - Show Me The Way"
     },
@@ -726,9 +730,5 @@
     {
         "timestamp": "2026-03-23T21:23:44.142636",
         "song": "Little River Band - Lady"
-    },
-    {
-        "timestamp": "2026-03-23T20:51:11.061144",
-        "song": "Supertramp - The Logical Song"
     }
 ]
