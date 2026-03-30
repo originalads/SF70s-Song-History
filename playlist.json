@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-30T06:11:05.635101",
+        "song": "Heart - Straight On"
+    },
+    {
         "timestamp": "2026-03-30T04:16:27.323050",
         "song": "Eagles - Best Of My Love"
     },
@@ -734,13 +738,5 @@
     {
         "timestamp": "2026-03-23T07:38:13.809986",
         "song": "James Taylor - You've Got A Friend"
-    },
-    {
-        "timestamp": "2026-03-23T06:06:33.208788",
-        "song": "Chic - Dance Dance Dance"
-    },
-    {
-        "timestamp": "2026-03-23T04:53:36.172459",
-        "song": "Olivia Newton-John - If You Love Me Let Me Know"
     }
 ]
