@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-31T18:09:13.693694",
+        "song": "T. Rex - Bang A Gong"
+    },
+    {
         "timestamp": "2026-03-31T17:15:39.459225",
         "song": "Bob Seger & The Silver Bullet Band - Night Moves"
     },
@@ -714,9 +718,5 @@
     {
         "timestamp": "2026-03-24T18:40:38.775237",
         "song": "Randy Vanwarmer - Just When I Needed You Most"
-    },
-    {
-        "timestamp": "2026-03-24T17:42:52.282924",
-        "song": "Steely Dan - Peg"
     }
 ]
