@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-31T05:51:14.285464",
+        "song": "Sylvers - Boogie Fever"
+    },
+    {
         "timestamp": "2026-03-31T04:05:57.329913",
         "song": "Undisputed Truth - Smiling Faces Sometimes"
     },
@@ -718,13 +722,5 @@
     {
         "timestamp": "2026-03-24T06:46:11.616038",
         "song": "Earth, Wind & Fire - Fantasy"
-    },
-    {
-        "timestamp": "2026-03-24T05:49:19.910808",
-        "song": "Nick Lowe - Cruel To Be Kind"
-    },
-    {
-        "timestamp": "2026-03-24T04:47:40.982615",
-        "song": "Elton John - Philadelphia Freedom"
     }
 ]
