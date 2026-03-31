@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-31T01:04:50.194985",
+        "song": "Three Dog Night - Joy To The World"
+    },
+    {
         "timestamp": "2026-03-30T23:50:49.397613",
         "song": "Raspberries - Go All The Way"
     },
@@ -722,9 +726,5 @@
     {
         "timestamp": "2026-03-24T02:52:18.509831",
         "song": "Andrew Gold - Thank You For Being A Friend"
-    },
-    {
-        "timestamp": "2026-03-24T00:02:16.085776",
-        "song": "Eagles - Life In The Fast Lane"
     }
 ]
