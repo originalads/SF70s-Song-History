@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-03-31T23:53:58.101080",
+        "song": "Little River Band - Help Is On It's Way"
+    },
+    {
         "timestamp": "2026-03-31T23:21:06.548316",
         "song": "Whispers - It's A Love Thing"
     },
@@ -710,13 +714,5 @@
     {
         "timestamp": "2026-03-25T01:24:26.633619",
         "song": "Bee Gees - Night Fever"
-    },
-    {
-        "timestamp": "2026-03-24T23:53:17.461915",
-        "song": "Whispers - It's A Love Thing"
-    },
-    {
-        "timestamp": "2026-03-24T23:23:59.252742",
-        "song": "Paul McCartney - My Love"
     }
 ]
