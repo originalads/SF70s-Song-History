@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-01T04:53:10.791118",
+        "song": "Commodores - Lady (You Bring Me Up)"
+    },
+    {
         "timestamp": "2026-04-01T02:01:55.532574",
         "song": "Gerry Rafferty - Baker Street"
     },
@@ -710,9 +714,5 @@
     {
         "timestamp": "2026-03-25T05:26:03.885905",
         "song": "Little River Band - Cool Change"
-    },
-    {
-        "timestamp": "2026-03-25T03:58:41.765018",
-        "song": "Elton John - Goodbye Yellow Brick Road"
     }
 ]
