@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-01T21:07:04.846254",
+        "song": "Silver Convention - Fly Robin Fly"
+    },
+    {
         "timestamp": "2026-04-01T20:24:45.690266",
         "song": "Jacksons - Enjoy Yourself"
     },
@@ -698,13 +702,5 @@
     {
         "timestamp": "2026-03-25T21:51:09.145726",
         "song": "Pointer Sisters - Fire"
-    },
-    {
-        "timestamp": "2026-03-25T21:01:58.680918",
-        "song": "Fleetwood Mac - Go Your Own Way"
-    },
-    {
-        "timestamp": "2026-03-25T20:25:33.126289",
-        "song": "Johnnie Taylor - Disco Lady"
     }
 ]
