@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-01T07:58:56.294318",
+        "song": "Olivia Newton-John - I Honestly Love You"
+    },
+    {
         "timestamp": "2026-04-01T06:22:57.455649",
         "song": "Peter Brown - Dance With Me"
     },
@@ -706,13 +710,5 @@
     {
         "timestamp": "2026-03-25T08:29:57.448626",
         "song": "Mark Lindsay - Arizona"
-    },
-    {
-        "timestamp": "2026-03-25T07:39:44.314062",
-        "song": "David Gates - Goodbye Girl"
-    },
-    {
-        "timestamp": "2026-03-25T06:39:08.899329",
-        "song": "Smokey Robinson - Cruisin'"
     }
 ]
