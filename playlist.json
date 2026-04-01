@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-01T19:39:54.495211",
+        "song": "Eagles - Desperado"
+    },
+    {
         "timestamp": "2026-04-01T18:30:58.695527",
         "song": "Doobie Brothers - Listen To The Music"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-25T19:51:08.117061",
         "song": "Ace - How Long"
-    },
-    {
-        "timestamp": "2026-03-25T19:00:36.764151",
-        "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
     }
 ]
