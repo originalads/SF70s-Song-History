@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-02T19:15:30.694273",
+        "song": "Toto - Hold The Line"
+    },
+    {
         "timestamp": "2026-04-02T18:11:05.713826",
         "song": "Paul Nicholas - Heaven On The Seventh Floor"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-26T19:43:18.484860",
         "song": "Elton John - Sorry Seems To Be The Hardest Word"
-    },
-    {
-        "timestamp": "2026-03-26T18:42:00.867868",
-        "song": "Shirley & Company - Shame Shame Shame"
     }
 ]
