@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-02T11:10:28.366218",
+        "song": "Bee Gees - More Than A Woman"
+    },
+    {
         "timestamp": "2026-04-02T10:12:26.711540",
         "song": "Yvonne Elliman - If I Can't Have You"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-26T11:32:45.929757",
         "song": "Foreigner - Head Games"
-    },
-    {
-        "timestamp": "2026-03-26T10:36:10.118357",
-        "song": "Journey - Lovin' Touchin' Squeezin'"
     }
 ]
