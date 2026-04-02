@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-02T13:23:57.298960",
+        "song": "Seals & Crofts - Get Closer"
+    },
+    {
         "timestamp": "2026-04-02T11:57:37.748427",
         "song": "Knack - My Sharona"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-26T14:08:33.024519",
         "song": "Blackbyrds - Walking In Rhythm"
-    },
-    {
-        "timestamp": "2026-03-26T12:35:46.539785",
-        "song": "Steve Miller Band - Jungle Love"
     }
 ]
