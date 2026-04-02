@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-02T05:46:39.015254",
+        "song": "Amazing Rhythm Aces - Third Rate Romance"
+    },
+    {
         "timestamp": "2026-04-02T04:03:12.690288",
         "song": "Starbuck - Moonlight Feels Right"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-26T06:46:19.039436",
         "song": "Ray Parker Jr. & Raydio - Jack and Jill"
-    },
-    {
-        "timestamp": "2026-03-26T05:28:14.762443",
-        "song": "Linda Ronstadt - You're No Good"
     }
 ]
