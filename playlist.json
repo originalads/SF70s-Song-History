@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-02T20:45:51.884957",
+        "song": "Cher - Dark Lady"
+    },
+    {
         "timestamp": "2026-04-02T19:59:20.514391",
         "song": "David Bowie - Fame"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-26T20:53:56.443325",
         "song": "Jefferson Starship - Count On Me"
-    },
-    {
-        "timestamp": "2026-03-26T20:19:23.431312",
-        "song": "Boz Scaggs - We're All Alone"
     }
 ]
