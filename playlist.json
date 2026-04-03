@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-03T03:51:40.711974",
+        "song": "Earth, Wind & Fire - Let's Groove"
+    },
+    {
         "timestamp": "2026-04-03T01:03:07.015143",
         "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-27T04:40:42.554985",
         "song": "Barbra Streisand - My Heart Belongs To Me"
-    },
-    {
-        "timestamp": "2026-03-27T02:05:11.320352",
-        "song": "Dr. Hook - Sylvia's Mother"
     }
 ]
