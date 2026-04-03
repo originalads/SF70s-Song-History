@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-03T05:27:44.469467",
+        "song": "Paul Simon - 50 Ways To Leave Your Lover"
+    },
+    {
         "timestamp": "2026-04-03T03:51:40.711974",
         "song": "Earth, Wind & Fire - Let's Groove"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-27T06:02:36.736708",
         "song": "Eagles - New Kid In Town"
-    },
-    {
-        "timestamp": "2026-03-27T04:40:42.554985",
-        "song": "Barbra Streisand - My Heart Belongs To Me"
     }
 ]
