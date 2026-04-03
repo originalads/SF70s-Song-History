@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-03T11:52:23.171253",
+        "song": "Rod Stewart - Do Ya Think I'm Sexy"
+    },
+    {
         "timestamp": "2026-04-03T11:09:40.993259",
         "song": "Donna Summer - On the Radio"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-27T12:34:22.455628",
         "song": "Creedence Clearwater Revival - Travellin' Band"
-    },
-    {
-        "timestamp": "2026-03-27T11:51:25.342598",
-        "song": "Vicki Lawrence - The Night The Lights Went Out In Georgia"
     }
 ]
