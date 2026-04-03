@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-03T23:53:07.424658",
+        "song": "Oliver  - Good Morning Starshine"
+    },
+    {
         "timestamp": "2026-04-03T23:20:33.476674",
         "song": "Elton John - Rocket Man"
     },
@@ -706,9 +710,5 @@
     {
         "timestamp": "2026-03-28T00:00:16.639385",
         "song": "Heart - Straight On"
-    },
-    {
-        "timestamp": "2026-03-27T23:40:57.067018",
-        "song": "Dr. Hook - When You're In Love With A Beautiful Woman"
     }
 ]
