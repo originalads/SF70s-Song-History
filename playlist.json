@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-03T12:39:06.231512",
+        "song": "B.W. Stevenson - My Maria"
+    },
+    {
         "timestamp": "2026-04-03T11:52:23.171253",
         "song": "Rod Stewart - Do Ya Think I'm Sexy"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-27T13:54:25.723445",
         "song": "Creedence Clearwater Revival - Who'll Stop The Rain"
-    },
-    {
-        "timestamp": "2026-03-27T12:34:22.455628",
-        "song": "Creedence Clearwater Revival - Travellin' Band"
     }
 ]
