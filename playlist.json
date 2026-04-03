@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-03T06:47:28.197212",
+        "song": "Marvin Gaye - Got To Give It Up"
+    },
+    {
         "timestamp": "2026-04-03T05:27:44.469467",
         "song": "Paul Simon - 50 Ways To Leave Your Lover"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-27T07:22:12.832007",
         "song": "Barbra Streisand - You Don't Bring Me Flowers (With Neil Diamond)"
-    },
-    {
-        "timestamp": "2026-03-27T06:02:36.736708",
-        "song": "Eagles - New Kid In Town"
     }
 ]
