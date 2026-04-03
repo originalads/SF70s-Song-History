@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-03T15:24:25.282865",
+        "song": "Thelma Houston - Don't Leave Me This Way"
+    },
+    {
         "timestamp": "2026-04-03T14:32:45.057059",
         "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-27T15:37:00.790953",
         "song": "Gordon Lightfoot - Wreck Of The Edmund Fitzgerald"
-    },
-    {
-        "timestamp": "2026-03-27T14:45:55.867147",
-        "song": "Commodores - Too Hot Ta Trot"
     }
 ]
