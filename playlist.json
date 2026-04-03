@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-03T15:59:32.420296",
+        "song": "David Bowie - Changes"
+    },
+    {
         "timestamp": "2026-04-03T15:24:25.282865",
         "song": "Thelma Houston - Don't Leave Me This Way"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-27T16:33:01.699195",
         "song": "David Bowie - Fame"
-    },
-    {
-        "timestamp": "2026-03-27T15:37:00.790953",
-        "song": "Gordon Lightfoot - Wreck Of The Edmund Fitzgerald"
     }
 ]
