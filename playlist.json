@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-03T10:25:26.187851",
+        "song": "Electric Light Orchestra - Turn To Stone"
+    },
+    {
         "timestamp": "2026-04-03T09:37:33.595387",
         "song": "Doobie Brothers - Take Me In Your Arms"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-27T11:02:16.702782",
         "song": "Knack - My Sharona"
-    },
-    {
-        "timestamp": "2026-03-27T10:04:39.690095",
-        "song": "Johnny Rivers - Rockin' Pneumonia...Boogie Woogie Flu"
     }
 ]
