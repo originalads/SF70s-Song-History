@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-03T22:02:20.126682",
+        "song": "Boz Scaggs - Lido Shuffle"
+    },
+    {
         "timestamp": "2026-04-03T21:37:38.701019",
         "song": "Dire Straits - Sultans Of Swing"
     },
@@ -706,9 +710,5 @@
     {
         "timestamp": "2026-03-27T22:25:35.132995",
         "song": "Loggins & Messina - Danny's Song"
-    },
-    {
-        "timestamp": "2026-03-27T21:53:45.607078",
-        "song": "Captain & Tennille - Love Will Keep Us Together"
     }
 ]
