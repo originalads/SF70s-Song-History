@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T14:07:15.592944",
+        "song": "Nick Gilder - Hot Child In The City"
+    },
+    {
         "timestamp": "2026-04-04T13:32:22.897829",
         "song": "Tom Petty & The Heartbreakers - Don't Do Me Like That"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-28T14:39:12.432293",
         "song": "Neil Diamond - Sweet Caroline"
-    },
-    {
-        "timestamp": "2026-03-28T13:58:49.783804",
-        "song": "Steely Dan - Josie"
     }
 ]
