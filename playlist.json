@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T17:59:54.942985",
+        "song": "Edgar Winter Group - Free Ride"
+    },
+    {
         "timestamp": "2026-04-04T17:33:55.118992",
         "song": "Elton John - Island Girl"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-28T18:20:39.341381",
         "song": "Sylvers - Boogie Fever"
-    },
-    {
-        "timestamp": "2026-03-28T17:49:34.589905",
-        "song": "Stephanie Mills - Never Knew Love Like This Before"
     }
 ]
