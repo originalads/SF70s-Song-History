@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T17:33:55.118992",
+        "song": "Elton John - Island Girl"
+    },
+    {
         "timestamp": "2026-04-04T16:57:01.019191",
         "song": "Gladys Knight & The Pips - If I Were Your Woman"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-28T17:49:34.589905",
         "song": "Stephanie Mills - Never Knew Love Like This Before"
-    },
-    {
-        "timestamp": "2026-03-28T17:16:30.461259",
-        "song": "Tony Orlando & Dawn - Tie A Yellow Ribbon Round The Ole Oak Tree"
     }
 ]
