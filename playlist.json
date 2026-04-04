@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T22:00:12.070861",
+        "song": "Guess Who - American Woman"
+    },
+    {
         "timestamp": "2026-04-04T21:40:50.887695",
         "song": "Steely Dan - Josie"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-28T22:38:14.886160",
         "song": "Lee Michaels - Do You Know What I Mean"
-    },
-    {
-        "timestamp": "2026-03-28T21:59:07.375859",
-        "song": "Doobie Brothers - Take Me In Your Arms"
     }
 ]
