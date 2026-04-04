@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T08:54:36.453146",
+        "song": "Gordon Lightfoot - If You Could Read My Mind"
+    },
+    {
         "timestamp": "2026-04-04T08:00:17.036191",
         "song": "Three Dog Night - Joy To The World"
     },
@@ -706,9 +710,5 @@
     {
         "timestamp": "2026-03-28T08:54:50.523064",
         "song": "KC & the Sunshine Band - Please Don't Go"
-    },
-    {
-        "timestamp": "2026-03-28T08:04:27.552553",
-        "song": "Staple Singers - If You're Ready (Come Go with Me)"
     }
 ]
