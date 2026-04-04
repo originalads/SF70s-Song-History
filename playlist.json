@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T21:40:50.887695",
+        "song": "Steely Dan - Josie"
+    },
+    {
         "timestamp": "2026-04-04T21:00:44.532209",
         "song": "Carly Simon - You Belong To Me"
     },
@@ -698,13 +702,5 @@
     {
         "timestamp": "2026-03-28T21:59:07.375859",
         "song": "Doobie Brothers - Take Me In Your Arms"
-    },
-    {
-        "timestamp": "2026-03-28T21:39:52.039947",
-        "song": "Peter Frampton - Baby I Love Your Way"
-    },
-    {
-        "timestamp": "2026-03-28T21:02:03.627064",
-        "song": "Santana - Evil Ways"
     }
 ]
