@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T05:14:13.014731",
+        "song": "Tom Petty & The Heartbreakers - Refugee"
+    },
+    {
         "timestamp": "2026-04-04T03:45:20.633924",
         "song": "John Denver - Calypso"
     },
@@ -706,9 +710,5 @@
     {
         "timestamp": "2026-03-28T05:46:44.922105",
         "song": "Sylvester - Dance (Disco Heat)"
-    },
-    {
-        "timestamp": "2026-03-28T04:49:43.032696",
-        "song": "Curtis Mayfield - Superfly"
     }
 ]
