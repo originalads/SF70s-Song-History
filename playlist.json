@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T08:00:17.036191",
+        "song": "Three Dog Night - Joy To The World"
+    },
+    {
         "timestamp": "2026-04-04T07:18:57.532780",
         "song": "Elton John - Lucy In The Sky With Diamonds"
     },
@@ -706,9 +710,5 @@
     {
         "timestamp": "2026-03-28T08:04:27.552553",
         "song": "Staple Singers - If You're Ready (Come Go with Me)"
-    },
-    {
-        "timestamp": "2026-03-28T07:34:39.875461",
-        "song": "Pretenders - Brass in Pocket"
     }
 ]
