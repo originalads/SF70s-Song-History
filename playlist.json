@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T16:18:52.811489",
+        "song": "Johnny Rivers - Swayin' To The Music"
+    },
+    {
         "timestamp": "2026-04-04T15:50:23.208327",
         "song": "Simon & Garfunkel - My Little Town"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-28T16:47:52.541785",
         "song": "MFSB - TSOP"
-    },
-    {
-        "timestamp": "2026-03-28T16:02:30.231263",
-        "song": "Journey - Lovin' Touchin' Squeezin'"
     }
 ]
