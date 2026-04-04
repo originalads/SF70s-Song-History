@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T06:13:50.208126",
+        "song": "Heart - Straight On"
+    },
+    {
         "timestamp": "2026-04-04T05:14:13.014731",
         "song": "Tom Petty & The Heartbreakers - Refugee"
     },
@@ -706,9 +710,5 @@
     {
         "timestamp": "2026-03-28T06:40:54.915514",
         "song": "Paul McCartney - Another Day"
-    },
-    {
-        "timestamp": "2026-03-28T05:46:44.922105",
-        "song": "Sylvester - Dance (Disco Heat)"
     }
 ]
