@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T07:18:57.532780",
+        "song": "Elton John - Lucy In The Sky With Diamonds"
+    },
+    {
         "timestamp": "2026-04-04T06:13:50.208126",
         "song": "Heart - Straight On"
     },
@@ -706,9 +710,5 @@
     {
         "timestamp": "2026-03-28T07:34:39.875461",
         "song": "Pretenders - Brass in Pocket"
-    },
-    {
-        "timestamp": "2026-03-28T06:40:54.915514",
-        "song": "Paul McCartney - Another Day"
     }
 ]
