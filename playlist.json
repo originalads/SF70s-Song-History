@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-04T19:33:12.475287",
+        "song": "Stevie Wonder - Sir Duke"
+    },
+    {
         "timestamp": "2026-04-04T18:56:55.175013",
         "song": "Elton John - Crocodile Rock"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-28T19:39:14.612781",
         "song": "Elton John - Philadelphia Freedom"
-    },
-    {
-        "timestamp": "2026-03-28T19:03:23.614423",
-        "song": "Jefferson Starship - Jane"
     }
 ]
