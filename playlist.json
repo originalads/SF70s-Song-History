@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-05T14:01:51.858485",
+        "song": "Bee Gees - Tragedy"
+    },
+    {
         "timestamp": "2026-04-05T13:16:46.861442",
         "song": "Peter Frampton - I'm In You"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-29T14:02:09.174446",
         "song": "Bee Gees - Tragedy"
-    },
-    {
-        "timestamp": "2026-03-29T13:17:19.445963",
-        "song": "Rita Coolidge - Higher And Higher"
     }
 ]
