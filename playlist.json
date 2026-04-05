@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-05T07:42:25.565297",
+        "song": "Chic - Le Freak"
+    },
+    {
         "timestamp": "2026-04-05T06:43:28.146479",
         "song": "Alicia Bridges - I Love The Nightlife"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-29T08:05:46.175739",
         "song": "Carole King - Sweet Seasons"
-    },
-    {
-        "timestamp": "2026-03-29T07:38:24.108811",
-        "song": "Chicago - Just You N Me"
     }
 ]
