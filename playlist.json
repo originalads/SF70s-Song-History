@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-05T23:28:04.733111",
+        "song": "Gordon Lightfoot - Sundown"
+    },
+    {
         "timestamp": "2026-04-05T22:54:01.183434",
         "song": "Commodores - Lady (You Bring Me Up)"
     },
@@ -694,9 +698,5 @@
     {
         "timestamp": "2026-03-29T23:51:09.215652",
         "song": "Van McCoy - The Hustle"
-    },
-    {
-        "timestamp": "2026-03-29T23:18:20.151467",
-        "song": "Norman Greenbaum - Spirit In The Sky"
     }
 ]
