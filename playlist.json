@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-06T23:22:25.265398",
+        "song": "Barbra Streisand - You Don't Bring Me Flowers (With Neil Diamond)"
+    },
+    {
         "timestamp": "2026-04-06T22:46:49.332311",
         "song": "Barry Manilow - Weekend In New England"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-30T23:50:49.397613",
         "song": "Raspberries - Go All The Way"
-    },
-    {
-        "timestamp": "2026-03-30T23:07:30.817074",
-        "song": "Janis Joplin - Me And Bobby McGee"
     }
 ]
