@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-06T14:45:17.634002",
+        "song": "Curtis Mayfield - Freddie's Dead"
+    },
+    {
         "timestamp": "2026-04-06T13:55:38.798571",
         "song": "Stevie Wonder - Master Blaster (Jammin')"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-03-30T15:41:41.086684",
         "song": "Moments - Love On A Two Way Street"
-    },
-    {
-        "timestamp": "2026-03-30T14:12:38.816458",
-        "song": "Lynyrd Skynyrd - Free Bird"
     }
 ]
