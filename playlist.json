@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-07T04:44:42.591685",
+        "song": "Eddie Holman - Hey There Lonely Girl"
+    },
+    {
         "timestamp": "2026-04-07T02:24:18.865011",
         "song": "ABBA - Voulez-Vous"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-31T05:51:14.285464",
         "song": "Sylvers - Boogie Fever"
-    },
-    {
-        "timestamp": "2026-03-31T04:05:57.329913",
-        "song": "Undisputed Truth - Smiling Faces Sometimes"
     }
 ]
