@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-07T18:39:22.227217",
+        "song": "Pablo Cruise - Whatcha Gonna Do"
+    },
+    {
         "timestamp": "2026-04-07T17:42:05.980852",
         "song": "Three Dog Night - An Old Fashioned Love Song"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-31T19:18:22.552668",
         "song": "Seals & Crofts - We May Never Pass This Way Again"
-    },
-    {
-        "timestamp": "2026-03-31T18:09:13.693694",
-        "song": "T. Rex - Bang A Gong"
     }
 ]
