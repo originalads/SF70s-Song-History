@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-07T17:42:05.980852",
+        "song": "Three Dog Night - An Old Fashioned Love Song"
+    },
+    {
         "timestamp": "2026-04-07T16:42:16.480774",
         "song": "Bay City Rollers - Money Honey"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-31T18:09:13.693694",
         "song": "T. Rex - Bang A Gong"
-    },
-    {
-        "timestamp": "2026-03-31T17:15:39.459225",
-        "song": "Bob Seger & The Silver Bullet Band - Night Moves"
     }
 ]
