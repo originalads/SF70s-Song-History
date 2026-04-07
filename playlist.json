@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-07T23:25:37.242647",
+        "song": "Bee Gees - Night Fever"
+    },
+    {
         "timestamp": "2026-04-07T22:49:13.875031",
         "song": "Rick James - Mary Jane"
     },
@@ -698,13 +702,5 @@
     {
         "timestamp": "2026-03-31T23:53:58.101080",
         "song": "Little River Band - Help Is On It's Way"
-    },
-    {
-        "timestamp": "2026-03-31T23:21:06.548316",
-        "song": "Whispers - It's A Love Thing"
-    },
-    {
-        "timestamp": "2026-03-31T22:50:53.097196",
-        "song": "America - A Horse With No Name"
     }
 ]
