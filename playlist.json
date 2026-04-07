@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-07T16:42:16.480774",
+        "song": "Bay City Rollers - Money Honey"
+    },
+    {
         "timestamp": "2026-04-07T15:48:53.175369",
         "song": "Little River Band - Help Is On It's Way"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-31T17:15:39.459225",
         "song": "Bob Seger & The Silver Bullet Band - Night Moves"
-    },
-    {
-        "timestamp": "2026-03-31T16:13:39.800019",
-        "song": "Dire Straits - Sultans Of Swing"
     }
 ]
