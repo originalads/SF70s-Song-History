@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-07T21:11:31.587283",
+        "song": "Evelyn 'Champagne' King  - Love Come Down"
+    },
+    {
         "timestamp": "2026-04-07T20:26:49.867103",
         "song": "Lynn Anderson - Rose Garden"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-31T21:34:17.531848",
         "song": "Queen - We Will Rock You...We Are The Champions"
-    },
-    {
-        "timestamp": "2026-03-31T20:54:10.321949",
-        "song": "Doobie Brothers - Minute By Minute"
     }
 ]
