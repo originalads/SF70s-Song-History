@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-07T21:58:47.545671",
+        "song": "Supertramp - Take The Long Way Home"
+    },
+    {
         "timestamp": "2026-04-07T21:11:31.587283",
         "song": "Evelyn 'Champagne' King  - Love Come Down"
     },
@@ -702,9 +706,5 @@
     {
         "timestamp": "2026-03-31T22:06:02.581828",
         "song": "Bee Gees - Night Fever"
-    },
-    {
-        "timestamp": "2026-03-31T21:34:17.531848",
-        "song": "Queen - We Will Rock You...We Are The Champions"
     }
 ]
