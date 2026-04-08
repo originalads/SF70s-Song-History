@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-08T10:33:06.614114",
+        "song": "Chris Rea - Fool If You Think It's Over"
+    },
+    {
         "timestamp": "2026-04-08T09:18:53.921694",
         "song": "Elton John - Honky Cat"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-04-01T11:31:57.806762",
         "song": "Allman Brothers - Ramblin' Man"
-    },
-    {
-        "timestamp": "2026-04-01T10:31:17.684403",
-        "song": "Chicago - Searchin' So Long"
     }
 ]
