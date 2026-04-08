@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-08T15:49:10.928055",
+        "song": "Cheap Trick - I Want You To Want Me"
+    },
+    {
         "timestamp": "2026-04-08T14:15:40.204100",
         "song": "Elton John - Lucy In The Sky With Diamonds"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-04-01T16:30:21.665355",
         "song": "Boz Scaggs - Lido Shuffle"
-    },
-    {
-        "timestamp": "2026-04-01T15:23:46.699791",
-        "song": "Art Garfunkel - All I Know"
     }
 ]
