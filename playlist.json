@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-08T14:15:40.204100",
+        "song": "Elton John - Lucy In The Sky With Diamonds"
+    },
+    {
         "timestamp": "2026-04-08T12:39:11.277400",
         "song": "Sammy Johns - Chevy Van"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-04-01T15:23:46.699791",
         "song": "Art Garfunkel - All I Know"
-    },
-    {
-        "timestamp": "2026-04-01T14:04:34.386008",
-        "song": "Jackson Browne - Running On Empty"
     }
 ]
