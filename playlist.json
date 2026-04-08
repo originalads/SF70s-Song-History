@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-08T16:47:46.756434",
+        "song": "France Joli - Come To Me"
+    },
+    {
         "timestamp": "2026-04-08T15:49:10.928055",
         "song": "Cheap Trick - I Want You To Want Me"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-04-01T17:30:46.161801",
         "song": "David Bowie - Golden Years"
-    },
-    {
-        "timestamp": "2026-04-01T16:30:21.665355",
-        "song": "Boz Scaggs - Lido Shuffle"
     }
 ]
