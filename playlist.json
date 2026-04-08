@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-08T21:43:04.022088",
+        "song": "Stylistics - Betcha By Golly Wow"
+    },
+    {
         "timestamp": "2026-04-08T20:57:03.466320",
         "song": "Walter Egan - Magnet And Steel"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-04-01T21:56:00.155663",
         "song": "Three Dog Night - Celebrate"
-    },
-    {
-        "timestamp": "2026-04-01T21:07:04.846254",
-        "song": "Silver Convention - Fly Robin Fly"
     }
 ]
