@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-08T19:00:46.451436",
+        "song": "Three Dog Night - Joy To The World"
+    },
+    {
         "timestamp": "2026-04-08T17:52:18.464929",
         "song": "Abba - Dancing Queen"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-04-01T19:39:54.495211",
         "song": "Eagles - Desperado"
-    },
-    {
-        "timestamp": "2026-04-01T18:30:58.695527",
-        "song": "Doobie Brothers - Listen To The Music"
     }
 ]
