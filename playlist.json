@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-08T22:24:48.069169",
+        "song": "John Denver - Sunshine On My Shoulder"
+    },
+    {
         "timestamp": "2026-04-08T21:43:04.022088",
         "song": "Stylistics - Betcha By Golly Wow"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-04-01T22:37:16.309470",
         "song": "The Cars - Just What I Needed"
-    },
-    {
-        "timestamp": "2026-04-01T21:56:00.155663",
-        "song": "Three Dog Night - Celebrate"
     }
 ]
