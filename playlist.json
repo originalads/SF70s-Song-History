@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-09T23:59:13.740667",
+        "song": "Heart - Magic Man"
+    },
+    {
         "timestamp": "2026-04-09T23:24:15.005740",
         "song": "BT Express - Do It ('Til You're Satisfied)"
     },
@@ -678,9 +682,5 @@
     {
         "timestamp": "2026-04-03T01:03:07.015143",
         "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
-    },
-    {
-        "timestamp": "2026-04-02T23:48:10.239353",
-        "song": "Jefferson Starship - Count On Me"
     }
 ]
