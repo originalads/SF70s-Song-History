@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-09T11:04:07.575931",
+        "song": "Nick Gilder - Hot Child In The City"
+    },
+    {
         "timestamp": "2026-04-09T09:57:54.360827",
         "song": "Rick Derringer - Rock And Roll Hoochie Koo"
     },
@@ -694,9 +698,5 @@
     {
         "timestamp": "2026-04-02T11:10:28.366218",
         "song": "Bee Gees - More Than A Woman"
-    },
-    {
-        "timestamp": "2026-04-02T10:12:26.711540",
-        "song": "Yvonne Elliman - If I Can't Have You"
     }
 ]
