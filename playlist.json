@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-09T21:54:47.064899",
+        "song": "Atlanta Rhythm Section - So Into You"
+    },
+    {
         "timestamp": "2026-04-09T21:03:08.703861",
         "song": "Four Seasons - Who Loves You"
     },
@@ -682,9 +686,5 @@
     {
         "timestamp": "2026-04-02T21:56:41.183525",
         "song": "Baby's - Isn't It Time"
-    },
-    {
-        "timestamp": "2026-04-02T21:21:51.339787",
-        "song": "Yarbrough & Peoples - Don't Stop The Music"
     }
 ]
