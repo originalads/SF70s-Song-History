@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-09T01:02:32.311007",
+        "song": "Journey - Lovin' Touchin' Squeezin'"
+    },
+    {
         "timestamp": "2026-04-08T23:51:40.476245",
         "song": "War - Slippin' Into Darkness"
     },
@@ -698,9 +702,5 @@
     {
         "timestamp": "2026-04-02T01:21:49.470014",
         "song": "Harold Melvin & The Blue Notes - The Love I Lost"
-    },
-    {
-        "timestamp": "2026-04-01T23:52:46.204405",
-        "song": "Loggins & Messina - My Music"
     }
 ]
