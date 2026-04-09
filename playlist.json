@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-09T22:37:22.008392",
+        "song": "Five Man Electrical Band - Signs"
+    },
+    {
         "timestamp": "2026-04-09T21:54:47.064899",
         "song": "Atlanta Rhythm Section - So Into You"
     },
@@ -678,13 +682,5 @@
     {
         "timestamp": "2026-04-02T23:02:48.521486",
         "song": "Cars - Just What I Needed"
-    },
-    {
-        "timestamp": "2026-04-02T22:33:32.781523",
-        "song": "Glen Campbell - Wichita Lineman"
-    },
-    {
-        "timestamp": "2026-04-02T21:56:41.183525",
-        "song": "Baby's - Isn't It Time"
     }
 ]
