@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-09T12:01:38.174363",
+        "song": "Hollies - Long Cool Woman"
+    },
+    {
         "timestamp": "2026-04-09T11:04:07.575931",
         "song": "Nick Gilder - Hot Child In The City"
     },
@@ -690,13 +694,5 @@
     {
         "timestamp": "2026-04-02T13:23:57.298960",
         "song": "Seals & Crofts - Get Closer"
-    },
-    {
-        "timestamp": "2026-04-02T11:57:37.748427",
-        "song": "Knack - My Sharona"
-    },
-    {
-        "timestamp": "2026-04-02T11:10:28.366218",
-        "song": "Bee Gees - More Than A Woman"
     }
 ]
