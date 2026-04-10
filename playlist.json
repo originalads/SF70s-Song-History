@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-10T05:39:10.303645",
+        "song": "Eagles - Tequila Sunrise"
+    },
+    {
         "timestamp": "2026-04-10T03:33:35.433934",
         "song": "Sly & The Family Stone - Hot Fun In The Summertime"
     },
@@ -674,13 +678,5 @@
     {
         "timestamp": "2026-04-03T06:47:28.197212",
         "song": "Marvin Gaye - Got To Give It Up"
-    },
-    {
-        "timestamp": "2026-04-03T05:27:44.469467",
-        "song": "Paul Simon - 50 Ways To Leave Your Lover"
-    },
-    {
-        "timestamp": "2026-04-03T03:51:40.711974",
-        "song": "Earth, Wind & Fire - Let's Groove"
     }
 ]
