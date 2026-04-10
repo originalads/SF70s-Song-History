@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-10T21:06:00.780064",
+        "song": "Norman Greenbaum - Spirit In The Sky"
+    },
+    {
         "timestamp": "2026-04-10T20:32:16.260767",
         "song": "Eagles - Life In The Fast Lane"
     },
@@ -662,9 +666,5 @@
     {
         "timestamp": "2026-04-03T21:37:38.701019",
         "song": "Dire Straits - Sultans Of Swing"
-    },
-    {
-        "timestamp": "2026-04-03T20:57:11.665469",
-        "song": "Chi-Lites - Have You Seen Her"
     }
 ]
