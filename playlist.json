@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-10T03:33:35.433934",
+        "song": "Sly & The Family Stone - Hot Fun In The Summertime"
+    },
+    {
         "timestamp": "2026-04-09T23:59:13.740667",
         "song": "Heart - Magic Man"
     },
@@ -678,9 +682,5 @@
     {
         "timestamp": "2026-04-03T03:51:40.711974",
         "song": "Earth, Wind & Fire - Let's Groove"
-    },
-    {
-        "timestamp": "2026-04-03T01:03:07.015143",
-        "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
     }
 ]
