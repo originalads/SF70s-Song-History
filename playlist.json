@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-10T13:58:05.736553",
+        "song": "Queen - Another One Bites the Dust"
+    },
+    {
         "timestamp": "2026-04-10T12:32:36.547254",
         "song": "Kinks - Lola"
     },
@@ -666,13 +670,5 @@
     {
         "timestamp": "2026-04-03T14:32:45.057059",
         "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
-    },
-    {
-        "timestamp": "2026-04-03T13:49:12.015021",
-        "song": "Bay City Rollers - You Made Me Believe In Magic"
-    },
-    {
-        "timestamp": "2026-04-03T12:39:06.231512",
-        "song": "B.W. Stevenson - My Maria"
     }
 ]
