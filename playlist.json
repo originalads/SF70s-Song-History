@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-10T21:52:48.491495",
+        "song": "Sammy Johns - Chevy Van"
+    },
+    {
         "timestamp": "2026-04-10T21:06:00.780064",
         "song": "Norman Greenbaum - Spirit In The Sky"
     },
@@ -662,9 +666,5 @@
     {
         "timestamp": "2026-04-03T22:02:20.126682",
         "song": "Boz Scaggs - Lido Shuffle"
-    },
-    {
-        "timestamp": "2026-04-03T21:37:38.701019",
-        "song": "Dire Straits - Sultans Of Swing"
     }
 ]
