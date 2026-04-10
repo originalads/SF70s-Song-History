@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-10T09:54:27.203180",
+        "song": "Little River Band - Cool Change"
+    },
+    {
         "timestamp": "2026-04-10T08:46:26.065139",
         "song": "Three Dog Night - Mama Told Me Not To Come"
     },
@@ -670,9 +674,5 @@
     {
         "timestamp": "2026-04-03T10:25:26.187851",
         "song": "Electric Light Orchestra - Turn To Stone"
-    },
-    {
-        "timestamp": "2026-04-03T09:37:33.595387",
-        "song": "Doobie Brothers - Take Me In Your Arms"
     }
 ]
