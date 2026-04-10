@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-10T22:27:23.241496",
+        "song": "Edgar Winter Group - Free Ride"
+    },
+    {
         "timestamp": "2026-04-10T21:52:48.491495",
         "song": "Sammy Johns - Chevy Van"
     },
@@ -662,9 +666,5 @@
     {
         "timestamp": "2026-04-03T22:48:03.865341",
         "song": "Prince - I Wanna Be Your Lover"
-    },
-    {
-        "timestamp": "2026-04-03T22:02:20.126682",
-        "song": "Boz Scaggs - Lido Shuffle"
     }
 ]
