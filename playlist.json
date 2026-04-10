@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-10T08:46:26.065139",
+        "song": "Three Dog Night - Mama Told Me Not To Come"
+    },
+    {
         "timestamp": "2026-04-10T07:09:18.281399",
         "song": "Donna Summer - Hot Stuff"
     },
@@ -670,13 +674,5 @@
     {
         "timestamp": "2026-04-03T09:37:33.595387",
         "song": "Doobie Brothers - Take Me In Your Arms"
-    },
-    {
-        "timestamp": "2026-04-03T08:38:45.037921",
-        "song": "Jonathan Edwards - Sunshine"
-    },
-    {
-        "timestamp": "2026-04-03T07:51:21.353049",
-        "song": "Fleetwood Mac - Dreams"
     }
 ]
