@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-10T17:31:17.345282",
+        "song": "Bob Seger & The Silver Bullet Band - Night Moves"
+    },
+    {
         "timestamp": "2026-04-10T16:36:41.199294",
         "song": "Anne Murray - I Just Fall In Love Again"
     },
@@ -662,13 +666,5 @@
     {
         "timestamp": "2026-04-03T18:02:29.970511",
         "song": "Bellamy Brothers - Let Your Love Flow"
-    },
-    {
-        "timestamp": "2026-04-03T17:27:38.237429",
-        "song": "Foreigner - Cold As Ice"
-    },
-    {
-        "timestamp": "2026-04-03T16:53:10.947812",
-        "song": "ABBA - SOS"
     }
 ]
