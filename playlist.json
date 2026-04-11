@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-11T11:59:17.738544",
+        "song": "Eagles - Hotel California"
+    },
+    {
         "timestamp": "2026-04-11T11:38:37.217463",
         "song": "Doobie Brothers - Rockin' Down The Highway"
     },
@@ -658,9 +662,5 @@
     {
         "timestamp": "2026-04-04T12:23:30.974020",
         "song": "ABBA - Take A Chance On Me"
-    },
-    {
-        "timestamp": "2026-04-04T11:47:45.392877",
-        "song": "Ambrosia - How Much I Feel"
     }
 ]
