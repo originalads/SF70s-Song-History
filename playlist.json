@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-11T13:17:16.033774",
+        "song": "Dire Straits - Sultans Of Swing"
+    },
+    {
         "timestamp": "2026-04-11T11:59:17.738544",
         "song": "Eagles - Hotel California"
     },
@@ -658,9 +662,5 @@
     {
         "timestamp": "2026-04-04T13:32:22.897829",
         "song": "Tom Petty & The Heartbreakers - Don't Do Me Like That"
-    },
-    {
-        "timestamp": "2026-04-04T12:23:30.974020",
-        "song": "ABBA - Take A Chance On Me"
     }
 ]
