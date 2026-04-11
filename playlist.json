@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-11T06:16:05.262634",
+        "song": "Bad Company - Rock And Roll Fantasy"
+    },
+    {
         "timestamp": "2026-04-11T05:17:27.521489",
         "song": "Eddie Rabbitt - Suspicions"
     },
@@ -658,9 +662,5 @@
     {
         "timestamp": "2026-04-04T07:18:57.532780",
         "song": "Elton John - Lucy In The Sky With Diamonds"
-    },
-    {
-        "timestamp": "2026-04-04T06:13:50.208126",
-        "song": "Heart - Straight On"
     }
 ]
