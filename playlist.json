@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-11T07:30:03.648692",
+        "song": "Dave Edmunds - I Hear You Knocking"
+    },
+    {
         "timestamp": "2026-04-11T06:16:05.262634",
         "song": "Bad Company - Rock And Roll Fantasy"
     },
@@ -658,9 +662,5 @@
     {
         "timestamp": "2026-04-04T08:00:17.036191",
         "song": "Three Dog Night - Joy To The World"
-    },
-    {
-        "timestamp": "2026-04-04T07:18:57.532780",
-        "song": "Elton John - Lucy In The Sky With Diamonds"
     }
 ]
