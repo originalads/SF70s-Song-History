@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-11T17:42:17.509468",
+        "song": "Nazareth - Love Hurts"
+    },
+    {
         "timestamp": "2026-04-11T17:01:05.366395",
         "song": "Olivia Newton-John - If Not For You"
     },
@@ -654,9 +658,5 @@
     {
         "timestamp": "2026-04-04T17:59:54.942985",
         "song": "Edgar Winter Group - Free Ride"
-    },
-    {
-        "timestamp": "2026-04-04T17:33:55.118992",
-        "song": "Elton John - Island Girl"
     }
 ]
