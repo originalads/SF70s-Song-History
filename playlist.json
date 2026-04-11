@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-11T05:17:27.521489",
+        "song": "Eddie Rabbitt - Suspicions"
+    },
+    {
         "timestamp": "2026-04-11T03:43:50.719838",
         "song": "Creedence Clearwater Revival - Lookin' Out My Back Door"
     },
@@ -658,13 +662,5 @@
     {
         "timestamp": "2026-04-04T06:13:50.208126",
         "song": "Heart - Straight On"
-    },
-    {
-        "timestamp": "2026-04-04T05:14:13.014731",
-        "song": "Tom Petty & The Heartbreakers - Refugee"
-    },
-    {
-        "timestamp": "2026-04-04T03:45:20.633924",
-        "song": "John Denver - Calypso"
     }
 ]
