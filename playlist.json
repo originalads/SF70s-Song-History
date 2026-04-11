@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-11T22:21:07.161238",
+        "song": "ABBA - Fernando"
+    },
+    {
         "timestamp": "2026-04-11T21:52:16.444976",
         "song": "Al Green - Sha-La-La (Make Me Happy)"
     },
@@ -654,9 +658,5 @@
     {
         "timestamp": "2026-04-04T22:40:32.452939",
         "song": "Rod Stewart - Hot Legs"
-    },
-    {
-        "timestamp": "2026-04-04T22:00:12.070861",
-        "song": "Guess Who - American Woman"
     }
 ]
