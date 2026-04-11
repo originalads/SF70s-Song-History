@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-11T11:00:15.771216",
+        "song": "Captain & Tennille - Shop Around"
+    },
+    {
         "timestamp": "2026-04-11T10:22:32.389811",
         "song": "Gwen McCrae - Rockin' Chair"
     },
@@ -658,9 +662,5 @@
     {
         "timestamp": "2026-04-04T11:17:44.101169",
         "song": "Steely Dan - Hey 19"
-    },
-    {
-        "timestamp": "2026-04-04T10:49:22.867870",
-        "song": "Neil Diamond - Sweet Caroline"
     }
 ]
