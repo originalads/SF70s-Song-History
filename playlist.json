@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-11T08:58:55.911007",
+        "song": "Hot Chocolate - You Sexy Thing"
+    },
+    {
         "timestamp": "2026-04-11T08:04:35.607484",
         "song": "Cat Stevens - Wild World"
     },
@@ -658,9 +662,5 @@
     {
         "timestamp": "2026-04-04T09:33:31.190878",
         "song": "Boston - Peace Of Mind"
-    },
-    {
-        "timestamp": "2026-04-04T08:54:36.453146",
-        "song": "Gordon Lightfoot - If You Could Read My Mind"
     }
 ]
