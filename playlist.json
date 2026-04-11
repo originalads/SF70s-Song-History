@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-11T18:03:41.437090",
+        "song": "War - Cisco Kid"
+    },
+    {
         "timestamp": "2026-04-11T17:42:17.509468",
         "song": "Nazareth - Love Hurts"
     },
@@ -654,9 +658,5 @@
     {
         "timestamp": "2026-04-04T18:56:55.175013",
         "song": "Elton John - Crocodile Rock"
-    },
-    {
-        "timestamp": "2026-04-04T17:59:54.942985",
-        "song": "Edgar Winter Group - Free Ride"
     }
 ]
