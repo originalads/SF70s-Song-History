@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-12T18:26:38.391009",
+        "song": "Rocky Burnette - Tired of Toein' the Line"
+    },
+    {
         "timestamp": "2026-04-12T17:48:23.453278",
         "song": "Carole King - I Feel The Earth Move"
     },
@@ -642,9 +646,5 @@
     {
         "timestamp": "2026-04-05T18:59:41.289439",
         "song": "Andy Gibb - I Just Want To Be Your Everything"
-    },
-    {
-        "timestamp": "2026-04-05T18:01:39.436852",
-        "song": "America - A Horse With No Name"
     }
 ]
