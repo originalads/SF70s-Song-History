@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-12T00:03:02.791150",
+        "song": "Doobie Brothers - Listen To The Music"
+    },
+    {
         "timestamp": "2026-04-11T23:37:25.571967",
         "song": "The Cars - Bye Bye Love"
     },
@@ -650,13 +654,5 @@
     {
         "timestamp": "2026-04-05T03:33:20.205555",
         "song": "Queen - Another One Bites the Dust"
-    },
-    {
-        "timestamp": "2026-04-05T00:02:12.906737",
-        "song": "Olivia Newton-John - If Not For You"
-    },
-    {
-        "timestamp": "2026-04-04T23:42:30.322444",
-        "song": "John Stewart - Gold"
     }
 ]
