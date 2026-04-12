@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-12T11:51:25.094380",
+        "song": "Average White Band - Pick Up The Pieces"
+    },
+    {
         "timestamp": "2026-04-12T11:19:12.365766",
         "song": "Hamilton, Joe Frank & Reynolds - Don't Pull Your Love"
     },
@@ -646,9 +650,5 @@
     {
         "timestamp": "2026-04-05T11:59:16.671546",
         "song": "Bay City Rollers - Money Honey"
-    },
-    {
-        "timestamp": "2026-04-05T11:39:17.822680",
-        "song": "Five Man Electrical Band - Signs"
     }
 ]
