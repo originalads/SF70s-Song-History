@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-13T23:55:24.168020",
+        "song": "Dr. John - Right Place, Wrong Time"
+    },
+    {
         "timestamp": "2026-04-13T23:03:10.344782",
         "song": "Electric Light Orchestra - Shine A Little Love"
     },
@@ -618,9 +622,5 @@
     {
         "timestamp": "2026-04-06T23:55:47.987277",
         "song": "Boz Scaggs - Miss Sun"
-    },
-    {
-        "timestamp": "2026-04-06T23:22:25.265398",
-        "song": "Barbra Streisand - You Don't Bring Me Flowers (With Neil Diamond)"
     }
 ]
