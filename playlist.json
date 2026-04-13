@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-13T21:27:52.716785",
+        "song": "Little River Band - Lady"
+    },
+    {
         "timestamp": "2026-04-13T20:34:41.009202",
         "song": "Carly Simon - You're So Vain"
     },
@@ -618,13 +622,5 @@
     {
         "timestamp": "2026-04-06T21:58:51.904585",
         "song": "Captain & Tennille - Shop Around"
-    },
-    {
-        "timestamp": "2026-04-06T21:25:28.418976",
-        "song": "Donna Summer - Love To Love You Baby"
-    },
-    {
-        "timestamp": "2026-04-06T20:50:26.510791",
-        "song": "Andy Kim - Rock Me Gently"
     }
 ]
