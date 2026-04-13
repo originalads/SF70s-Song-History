@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-13T06:32:03.171973",
+        "song": "Orleans - Dance With Me"
+    },
+    {
         "timestamp": "2026-04-13T04:29:14.411070",
         "song": "Gordon Lightfoot - Carefree Highway"
     },
@@ -638,9 +642,5 @@
     {
         "timestamp": "2026-04-06T07:11:29.184894",
         "song": "Bachman-Turner Overdrive - You Ain't Seen Nothing Yet"
-    },
-    {
-        "timestamp": "2026-04-06T05:39:10.429607",
-        "song": "Ozark Mountain Daredevils - Jackie Blue"
     }
 ]
