@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-13T15:53:46.998533",
+        "song": "Hamilton, Joe Frank & Reynolds - Don't Pull Your Love"
+    },
+    {
         "timestamp": "2026-04-13T14:23:40.447260",
         "song": "Gladys Knight & The Pips - I've Got To Use My Imagination"
     },
@@ -626,13 +630,5 @@
     {
         "timestamp": "2026-04-06T16:27:14.480930",
         "song": "Oliver  - Good Morning Starshine"
-    },
-    {
-        "timestamp": "2026-04-06T15:33:39.629841",
-        "song": "George Harrison - My Sweet Lord"
-    },
-    {
-        "timestamp": "2026-04-06T14:45:17.634002",
-        "song": "Curtis Mayfield - Freddie's Dead"
     }
 ]
