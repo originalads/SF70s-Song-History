@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-13T19:36:28.538946",
+        "song": "Joe Walsh - Rocky Mountain Way"
+    },
+    {
         "timestamp": "2026-04-13T18:05:58.178304",
         "song": "Spinners - Working My Way Back to You/Forgive Me, Girl"
     },
@@ -622,13 +626,5 @@
     {
         "timestamp": "2026-04-06T20:01:39.096436",
         "song": "Journey - Lovin' Touchin' Squeezin'"
-    },
-    {
-        "timestamp": "2026-04-06T19:19:39.666709",
-        "song": "Stephen Bishop - On And On"
-    },
-    {
-        "timestamp": "2026-04-06T18:10:46.440651",
-        "song": "Bay City Rollers - I Only Want To Be With You"
     }
 ]
