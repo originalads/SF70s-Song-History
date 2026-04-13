@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-13T11:45:59.539432",
+        "song": "Carly Simon - That's The Way I've Always Heard It Should Be"
+    },
+    {
         "timestamp": "2026-04-13T10:18:46.479483",
         "song": "Carly Simon - Nobody Does It Better"
     },
@@ -630,13 +634,5 @@
     {
         "timestamp": "2026-04-06T12:36:41.297716",
         "song": "John Denver - Fly Away"
-    },
-    {
-        "timestamp": "2026-04-06T11:40:32.757604",
-        "song": "Gerry Rafferty - Right Down The Line"
-    },
-    {
-        "timestamp": "2026-04-06T10:52:12.336028",
-        "song": "Amii Stewart - Knock On Wood"
     }
 ]
