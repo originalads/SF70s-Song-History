@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-13T04:29:14.411070",
+        "song": "Gordon Lightfoot - Carefree Highway"
+    },
+    {
         "timestamp": "2026-04-13T01:09:17.511605",
         "song": "Ozark Mountain Daredevils - Jackie Blue"
     },
@@ -638,9 +642,5 @@
     {
         "timestamp": "2026-04-06T05:39:10.429607",
         "song": "Ozark Mountain Daredevils - Jackie Blue"
-    },
-    {
-        "timestamp": "2026-04-06T03:31:18.891326",
-        "song": "Boz Scaggs - Lido Shuffle"
     }
 ]
