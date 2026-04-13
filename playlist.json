@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-13T23:03:10.344782",
+        "song": "Electric Light Orchestra - Shine A Little Love"
+    },
+    {
         "timestamp": "2026-04-13T22:10:07.559292",
         "song": "Spinners - I'll Be Around"
     },
@@ -618,9 +622,5 @@
     {
         "timestamp": "2026-04-06T23:22:25.265398",
         "song": "Barbra Streisand - You Don't Bring Me Flowers (With Neil Diamond)"
-    },
-    {
-        "timestamp": "2026-04-06T22:46:49.332311",
-        "song": "Barry Manilow - Weekend In New England"
     }
 ]
