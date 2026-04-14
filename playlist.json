@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-14T20:11:36.903080",
+        "song": "Van Halen - Dance The Night Away"
+    },
+    {
         "timestamp": "2026-04-14T18:59:19.063966",
         "song": "America - Tin Man"
     },
@@ -606,9 +610,5 @@
     {
         "timestamp": "2026-04-07T20:26:49.867103",
         "song": "Lynn Anderson - Rose Garden"
-    },
-    {
-        "timestamp": "2026-04-07T19:42:57.712417",
-        "song": "Al Green - Here I Am"
     }
 ]
