@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-14T22:59:11.717645",
+        "song": "Steely Dan - Rikki Don't Lose That Number"
+    },
+    {
         "timestamp": "2026-04-14T22:03:17.597549",
         "song": "Lynyrd Skynyrd - Free Bird"
     },
@@ -602,9 +606,5 @@
     {
         "timestamp": "2026-04-07T23:25:37.242647",
         "song": "Bee Gees - Night Fever"
-    },
-    {
-        "timestamp": "2026-04-07T22:49:13.875031",
-        "song": "Rick James - Mary Jane"
     }
 ]
