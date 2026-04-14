@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-14T21:07:41.885485",
+        "song": "Sylvers - Boogie Fever"
+    },
+    {
         "timestamp": "2026-04-14T20:11:36.903080",
         "song": "Van Halen - Dance The Night Away"
     },
@@ -606,9 +610,5 @@
     {
         "timestamp": "2026-04-07T21:11:31.587283",
         "song": "Evelyn 'Champagne' King  - Love Come Down"
-    },
-    {
-        "timestamp": "2026-04-07T20:26:49.867103",
-        "song": "Lynn Anderson - Rose Garden"
     }
 ]
