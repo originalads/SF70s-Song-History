@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-14T22:03:17.597549",
+        "song": "Lynyrd Skynyrd - Free Bird"
+    },
+    {
         "timestamp": "2026-04-14T21:07:41.885485",
         "song": "Sylvers - Boogie Fever"
     },
@@ -602,13 +606,5 @@
     {
         "timestamp": "2026-04-07T22:49:13.875031",
         "song": "Rick James - Mary Jane"
-    },
-    {
-        "timestamp": "2026-04-07T21:58:47.545671",
-        "song": "Supertramp - Take The Long Way Home"
-    },
-    {
-        "timestamp": "2026-04-07T21:11:31.587283",
-        "song": "Evelyn 'Champagne' King  - Love Come Down"
     }
 ]
