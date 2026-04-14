@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-14T16:45:19.015727",
+        "song": "Joan Baez - The Night They Drove Old Dixie Down"
+    },
+    {
         "timestamp": "2026-04-14T15:39:37.230110",
         "song": "Marshall Tucker Band - Heard It In A Love Song"
     },
@@ -606,13 +610,5 @@
     {
         "timestamp": "2026-04-07T17:42:05.980852",
         "song": "Three Dog Night - An Old Fashioned Love Song"
-    },
-    {
-        "timestamp": "2026-04-07T16:42:16.480774",
-        "song": "Bay City Rollers - Money Honey"
-    },
-    {
-        "timestamp": "2026-04-07T15:48:53.175369",
-        "song": "Little River Band - Help Is On It's Way"
     }
 ]
