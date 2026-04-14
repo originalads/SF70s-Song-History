@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-14T23:52:23.530430",
+        "song": "Kenny Loggins - Whenever I Call You Friend"
+    },
+    {
         "timestamp": "2026-04-14T22:59:11.717645",
         "song": "Steely Dan - Rikki Don't Lose That Number"
     },
@@ -602,9 +606,5 @@
     {
         "timestamp": "2026-04-08T00:02:15.199511",
         "song": "Stephen Stills - Love The One You're With"
-    },
-    {
-        "timestamp": "2026-04-07T23:25:37.242647",
-        "song": "Bee Gees - Night Fever"
     }
 ]
