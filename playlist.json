@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-14T07:00:40.901131",
+        "song": "Simon & Garfunkel - Bridge Over Troubled Water"
+    },
+    {
         "timestamp": "2026-04-14T05:09:56.554396",
         "song": "Ohio Players - Skin Tight"
     },
@@ -614,9 +618,5 @@
     {
         "timestamp": "2026-04-07T07:49:29.082556",
         "song": "Paul Simon - Kodachrome"
-    },
-    {
-        "timestamp": "2026-04-07T06:09:48.470483",
-        "song": "Yvonne Elliman - If I Can't Have You"
     }
 ]
