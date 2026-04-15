@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-15T21:02:11.255631",
+        "song": "Jim Croce - Bad Bad Leroy Brown"
+    },
+    {
         "timestamp": "2026-04-15T20:00:23.897221",
         "song": "Elton John - Saturday Night's Alright For Fighting"
     },
@@ -598,13 +602,5 @@
     {
         "timestamp": "2026-04-08T21:43:04.022088",
         "song": "Stylistics - Betcha By Golly Wow"
-    },
-    {
-        "timestamp": "2026-04-08T20:57:03.466320",
-        "song": "Walter Egan - Magnet And Steel"
-    },
-    {
-        "timestamp": "2026-04-08T20:01:24.835796",
-        "song": "Queen - Somebody To Love"
     }
 ]
