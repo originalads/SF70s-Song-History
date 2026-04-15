@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-15T20:00:23.897221",
+        "song": "Elton John - Saturday Night's Alright For Fighting"
+    },
+    {
         "timestamp": "2026-04-15T18:54:28.635811",
         "song": "Roberta Flack - Killing Me Softly With His Song"
     },
@@ -602,9 +606,5 @@
     {
         "timestamp": "2026-04-08T20:01:24.835796",
         "song": "Queen - Somebody To Love"
-    },
-    {
-        "timestamp": "2026-04-08T19:00:46.451436",
-        "song": "Three Dog Night - Joy To The World"
     }
 ]
