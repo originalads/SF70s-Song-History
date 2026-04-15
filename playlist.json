@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-15T22:00:08.493450",
+        "song": "Electric Light Orchestra - Evil Woman"
+    },
+    {
         "timestamp": "2026-04-15T21:02:11.255631",
         "song": "Jim Croce - Bad Bad Leroy Brown"
     },
@@ -598,9 +602,5 @@
     {
         "timestamp": "2026-04-08T22:24:48.069169",
         "song": "John Denver - Sunshine On My Shoulder"
-    },
-    {
-        "timestamp": "2026-04-08T21:43:04.022088",
-        "song": "Stylistics - Betcha By Golly Wow"
     }
 ]
