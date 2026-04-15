@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-15T14:19:17.915094",
+        "song": "Gladys Knight & The Pips - Midnight Train to Georgia"
+    },
+    {
         "timestamp": "2026-04-15T12:47:06.069260",
         "song": "Olivia Newton-John - Deeper Than The Night"
     },
@@ -598,9 +602,5 @@
     {
         "timestamp": "2026-04-08T15:49:10.928055",
         "song": "Cheap Trick - I Want You To Want Me"
-    },
-    {
-        "timestamp": "2026-04-08T14:15:40.204100",
-        "song": "Elton John - Lucy In The Sky With Diamonds"
     }
 ]
