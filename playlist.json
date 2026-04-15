@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-15T12:47:06.069260",
+        "song": "Olivia Newton-John - Deeper Than The Night"
+    },
+    {
         "timestamp": "2026-04-15T11:43:00.259983",
         "song": "Shaun Cassidy - Hey Deanie"
     },
@@ -598,9 +602,5 @@
     {
         "timestamp": "2026-04-08T14:15:40.204100",
         "song": "Elton John - Lucy In The Sky With Diamonds"
-    },
-    {
-        "timestamp": "2026-04-08T12:39:11.277400",
-        "song": "Sammy Johns - Chevy Van"
     }
 ]
