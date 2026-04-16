@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-16T17:44:33.528851",
+        "song": "Alan Parsons Project - Games People Play"
+    },
+    {
         "timestamp": "2026-04-16T16:12:24.149737",
         "song": "Bruce Springsteen - Hungry Heart"
     },
@@ -594,9 +598,5 @@
     {
         "timestamp": "2026-04-09T18:00:04.645822",
         "song": "Electric Light Orchestra - Evil Woman"
-    },
-    {
-        "timestamp": "2026-04-09T16:56:48.388893",
-        "song": "Rick Nelson - Garden Party"
     }
 ]
