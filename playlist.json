@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-17T19:16:45.777521",
+        "song": "Robert Palmer - Bad Case Of Loving You"
+    },
+    {
         "timestamp": "2026-04-17T18:04:19.700989",
         "song": "Emotions - Best of My Love"
     },
@@ -586,13 +590,5 @@
     {
         "timestamp": "2026-04-10T19:54:53.865352",
         "song": "Foreigner - Double Vision"
-    },
-    {
-        "timestamp": "2026-04-10T19:12:00.890663",
-        "song": "Tom Petty & The Heartbreakers - Breakdown"
-    },
-    {
-        "timestamp": "2026-04-10T18:10:53.901860",
-        "song": "Stephanie Mills - Never Knew Love Like This Before"
     }
 ]
