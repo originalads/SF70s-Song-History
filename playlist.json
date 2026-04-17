@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-17T11:37:51.847140",
+        "song": "James Taylor - Your Smiling Face"
+    },
+    {
         "timestamp": "2026-04-17T10:43:40.502603",
         "song": "Charlie Rich - Behind Closed Doors"
     },
@@ -590,13 +594,5 @@
     {
         "timestamp": "2026-04-10T12:32:36.547254",
         "song": "Kinks - Lola"
-    },
-    {
-        "timestamp": "2026-04-10T11:37:04.048698",
-        "song": "Rolling Stones - Tumbling Dice"
-    },
-    {
-        "timestamp": "2026-04-10T10:49:03.605688",
-        "song": "Brothers Johnson - I'll Be Good To You"
     }
 ]
