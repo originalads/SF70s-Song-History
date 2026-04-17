@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-17T15:14:13.207004",
+        "song": "Bad Company - Can't Get Enough"
+    },
+    {
         "timestamp": "2026-04-17T14:08:11.457556",
         "song": "Van McCoy - The Hustle"
     },
@@ -590,9 +594,5 @@
     {
         "timestamp": "2026-04-10T15:44:23.795429",
         "song": "Ronnie Milsap - It Was Almost Like a Song"
-    },
-    {
-        "timestamp": "2026-04-10T14:53:56.897954",
-        "song": "Eagles - Take It To The Limit"
     }
 ]
