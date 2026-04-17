@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-17T22:35:28.511566",
+        "song": "Elton John - Sorry Seems To Be The Hardest Word"
+    },
+    {
         "timestamp": "2026-04-17T21:54:56.316009",
         "song": "Bee Gees - Fanny (Be Tender With My Love)"
     },
@@ -582,9 +586,5 @@
     {
         "timestamp": "2026-04-10T23:04:09.901362",
         "song": "Jim Croce - You Don't Mess Around With Jim"
-    },
-    {
-        "timestamp": "2026-04-10T22:27:23.241496",
-        "song": "Edgar Winter Group - Free Ride"
     }
 ]
