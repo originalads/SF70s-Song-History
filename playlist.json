@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-17T06:24:54.721876",
+        "song": "Carl Carlton - Everlasting Love"
+    },
+    {
         "timestamp": "2026-04-17T04:42:54.315150",
         "song": "Sly & The Family Stone - Everyday People"
     },
@@ -594,9 +598,5 @@
     {
         "timestamp": "2026-04-10T07:09:18.281399",
         "song": "Donna Summer - Hot Stuff"
-    },
-    {
-        "timestamp": "2026-04-10T05:39:10.303645",
-        "song": "Eagles - Tequila Sunrise"
     }
 ]
