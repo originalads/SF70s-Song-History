@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-17T21:00:15.204507",
+        "song": "War - Why Can't We Be Friends"
+    },
+    {
         "timestamp": "2026-04-17T20:05:00.261461",
         "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
     },
@@ -586,9 +590,5 @@
     {
         "timestamp": "2026-04-10T21:06:00.780064",
         "song": "Norman Greenbaum - Spirit In The Sky"
-    },
-    {
-        "timestamp": "2026-04-10T20:32:16.260767",
-        "song": "Eagles - Life In The Fast Lane"
     }
 ]
