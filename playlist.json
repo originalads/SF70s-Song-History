@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-17T21:54:56.316009",
+        "song": "Bee Gees - Fanny (Be Tender With My Love)"
+    },
+    {
         "timestamp": "2026-04-17T21:00:15.204507",
         "song": "War - Why Can't We Be Friends"
     },
@@ -582,13 +586,5 @@
     {
         "timestamp": "2026-04-10T22:27:23.241496",
         "song": "Edgar Winter Group - Free Ride"
-    },
-    {
-        "timestamp": "2026-04-10T21:52:48.491495",
-        "song": "Sammy Johns - Chevy Van"
-    },
-    {
-        "timestamp": "2026-04-10T21:06:00.780064",
-        "song": "Norman Greenbaum - Spirit In The Sky"
     }
 ]
