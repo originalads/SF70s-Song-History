@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-17T20:05:00.261461",
+        "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
+    },
+    {
         "timestamp": "2026-04-17T19:16:45.777521",
         "song": "Robert Palmer - Bad Case Of Loving You"
     },
@@ -586,9 +590,5 @@
     {
         "timestamp": "2026-04-10T20:32:16.260767",
         "song": "Eagles - Life In The Fast Lane"
-    },
-    {
-        "timestamp": "2026-04-10T19:54:53.865352",
-        "song": "Foreigner - Double Vision"
     }
 ]
