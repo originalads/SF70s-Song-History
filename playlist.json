@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-17T10:43:40.502603",
+        "song": "Charlie Rich - Behind Closed Doors"
+    },
+    {
         "timestamp": "2026-04-17T09:47:13.606366",
         "song": "Five Man Electrical Band - Signs"
     },
@@ -594,9 +598,5 @@
     {
         "timestamp": "2026-04-10T10:49:03.605688",
         "song": "Brothers Johnson - I'll Be Good To You"
-    },
-    {
-        "timestamp": "2026-04-10T09:54:27.203180",
-        "song": "Little River Band - Cool Change"
     }
 ]
