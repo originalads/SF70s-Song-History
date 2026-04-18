@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T03:24:00.992214",
+        "song": "Curtis Mayfield - Freddie's Dead"
+    },
+    {
         "timestamp": "2026-04-18T00:00:06.377852",
         "song": "Seals & Crofts - Diamond Girl"
     },
@@ -582,9 +586,5 @@
     {
         "timestamp": "2026-04-11T03:43:50.719838",
         "song": "Creedence Clearwater Revival - Lookin' Out My Back Door"
-    },
-    {
-        "timestamp": "2026-04-11T01:02:50.112309",
-        "song": "Marvin Gaye - Mercy Mercy Me"
     }
 ]
