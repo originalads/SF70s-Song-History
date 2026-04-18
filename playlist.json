@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T10:59:31.735260",
+        "song": "America - Daisy Jane"
+    },
+    {
         "timestamp": "2026-04-18T10:09:30.021117",
         "song": "Walter Murphy & The Big Apple Band - A Fifth Of Beethoven"
     },
@@ -578,9 +582,5 @@
     {
         "timestamp": "2026-04-11T11:00:15.771216",
         "song": "Captain & Tennille - Shop Around"
-    },
-    {
-        "timestamp": "2026-04-11T10:22:32.389811",
-        "song": "Gwen McCrae - Rockin' Chair"
     }
 ]
