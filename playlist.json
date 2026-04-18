@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T19:57:14.272356",
+        "song": "Shocking Blue - Venus"
+    },
+    {
         "timestamp": "2026-04-18T19:23:48.354580",
         "song": "Stephanie Mills - What Cha Gonna Do With My Lovin'"
     },
@@ -570,9 +574,5 @@
     {
         "timestamp": "2026-04-11T20:02:36.256369",
         "song": "Three Dog Night - Shambala"
-    },
-    {
-        "timestamp": "2026-04-11T19:44:07.177101",
-        "song": "Carpenters - Only Yesterday"
     }
 ]
