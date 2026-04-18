@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T05:20:34.500276",
+        "song": "Barry White - Can't Get Enough Of Your Love Babe"
+    },
+    {
         "timestamp": "2026-04-18T03:24:00.992214",
         "song": "Curtis Mayfield - Freddie's Dead"
     },
@@ -578,13 +582,5 @@
     {
         "timestamp": "2026-04-11T06:16:05.262634",
         "song": "Bad Company - Rock And Roll Fantasy"
-    },
-    {
-        "timestamp": "2026-04-11T05:17:27.521489",
-        "song": "Eddie Rabbitt - Suspicions"
-    },
-    {
-        "timestamp": "2026-04-11T03:43:50.719838",
-        "song": "Creedence Clearwater Revival - Lookin' Out My Back Door"
     }
 ]
