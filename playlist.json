@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T15:39:46.565831",
+        "song": "Vanity Fair - Hitchin' A Ride"
+    },
+    {
         "timestamp": "2026-04-18T14:57:11.089653",
         "song": "War - Slippin' Into Darkness"
     },
@@ -574,9 +578,5 @@
     {
         "timestamp": "2026-04-11T15:51:34.209524",
         "song": "Elvis Presley - Burning Love"
-    },
-    {
-        "timestamp": "2026-04-11T15:20:20.809755",
-        "song": "Commodores - Sail On"
     }
 ]
