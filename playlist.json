@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T21:18:29.683699",
+        "song": "Dr. Hook - Cover Of The Rolling Stone"
+    },
+    {
         "timestamp": "2026-04-18T20:40:49.376807",
         "song": "Kansas - Dust In The Wind"
     },
@@ -570,9 +574,5 @@
     {
         "timestamp": "2026-04-11T21:19:09.719132",
         "song": "Stylistics - You Are Everything"
-    },
-    {
-        "timestamp": "2026-04-11T20:48:51.626003",
-        "song": "Sister Sledge - He's The Greatest Dancer"
     }
 ]
