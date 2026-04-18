@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T00:00:06.377852",
+        "song": "Seals & Crofts - Diamond Girl"
+    },
+    {
         "timestamp": "2026-04-17T23:22:16.189858",
         "song": "George Benson - On Broadway"
     },
@@ -582,9 +586,5 @@
     {
         "timestamp": "2026-04-11T01:02:50.112309",
         "song": "Marvin Gaye - Mercy Mercy Me"
-    },
-    {
-        "timestamp": "2026-04-10T23:49:29.692061",
-        "song": "Elton John - The Bitch Is Back"
     }
 ]
