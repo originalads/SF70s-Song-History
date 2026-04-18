@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T17:01:35.171716",
+        "song": "Boston - More Than A Feeling"
+    },
+    {
         "timestamp": "2026-04-18T16:20:16.076447",
         "song": "Linda Ronstadt - Tracks Of My Tears"
     },
@@ -570,13 +574,5 @@
     {
         "timestamp": "2026-04-11T17:42:17.509468",
         "song": "Nazareth - Love Hurts"
-    },
-    {
-        "timestamp": "2026-04-11T17:01:05.366395",
-        "song": "Olivia Newton-John - If Not For You"
-    },
-    {
-        "timestamp": "2026-04-11T16:22:00.239411",
-        "song": "Joe Jackson - Is She Really Going Out With Him"
     }
 ]
