@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T20:40:49.376807",
+        "song": "Kansas - Dust In The Wind"
+    },
+    {
         "timestamp": "2026-04-18T19:57:14.272356",
         "song": "Shocking Blue - Venus"
     },
@@ -570,9 +574,5 @@
     {
         "timestamp": "2026-04-11T20:48:51.626003",
         "song": "Sister Sledge - He's The Greatest Dancer"
-    },
-    {
-        "timestamp": "2026-04-11T20:02:36.256369",
-        "song": "Three Dog Night - Shambala"
     }
 ]
