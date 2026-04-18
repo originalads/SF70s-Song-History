@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T22:26:57.024648",
+        "song": "Sly & The Family Stone - Thank You"
+    },
+    {
         "timestamp": "2026-04-18T21:53:30.910116",
         "song": "Ozark Mountain Daredevils - Jackie Blue"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-11T22:56:53.221806",
         "song": "Anne Murray - You Needed Me"
-    },
-    {
-        "timestamp": "2026-04-11T22:21:07.161238",
-        "song": "ABBA - Fernando"
     }
 ]
