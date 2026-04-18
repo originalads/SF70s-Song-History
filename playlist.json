@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T21:53:30.910116",
+        "song": "Ozark Mountain Daredevils - Jackie Blue"
+    },
+    {
         "timestamp": "2026-04-18T21:18:29.683699",
         "song": "Dr. Hook - Cover Of The Rolling Stone"
     },
@@ -566,13 +570,5 @@
     {
         "timestamp": "2026-04-11T22:21:07.161238",
         "song": "ABBA - Fernando"
-    },
-    {
-        "timestamp": "2026-04-11T21:52:16.444976",
-        "song": "Al Green - Sha-La-La (Make Me Happy)"
-    },
-    {
-        "timestamp": "2026-04-11T21:19:09.719132",
-        "song": "Stylistics - You Are Everything"
     }
 ]
