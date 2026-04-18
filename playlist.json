@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-18T16:20:16.076447",
+        "song": "Linda Ronstadt - Tracks Of My Tears"
+    },
+    {
         "timestamp": "2026-04-18T15:39:46.565831",
         "song": "Vanity Fair - Hitchin' A Ride"
     },
@@ -574,9 +578,5 @@
     {
         "timestamp": "2026-04-11T16:22:00.239411",
         "song": "Joe Jackson - Is She Really Going Out With Him"
-    },
-    {
-        "timestamp": "2026-04-11T15:51:34.209524",
-        "song": "Elvis Presley - Burning Love"
     }
 ]
