@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T19:24:07.166669",
+        "song": "Silver Convention - Get Up And Boogie"
+    },
+    {
         "timestamp": "2026-04-19T18:27:50.507144",
         "song": "Elvis Presley - Suspicious Minds"
     },
@@ -562,9 +566,5 @@
     {
         "timestamp": "2026-04-12T19:56:21.236101",
         "song": "Redbone - Come And Get Your Love"
-    },
-    {
-        "timestamp": "2026-04-12T19:21:46.242111",
-        "song": "Sylvia - Pillow Talk"
     }
 ]
