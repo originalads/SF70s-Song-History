@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T11:42:54.318630",
+        "song": "Doobie Brothers - Minute By Minute"
+    },
+    {
         "timestamp": "2026-04-19T10:59:15.033609",
         "song": "Helen Reddy - Delta Dawn"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-12T11:51:25.094380",
         "song": "Average White Band - Pick Up The Pieces"
-    },
-    {
-        "timestamp": "2026-04-12T11:19:12.365766",
-        "song": "Hamilton, Joe Frank & Reynolds - Don't Pull Your Love"
     }
 ]
