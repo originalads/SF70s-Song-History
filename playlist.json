@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T22:32:47.592551",
+        "song": "Bruce Springsteen - Hungry Heart"
+    },
+    {
         "timestamp": "2026-04-19T21:55:07.670446",
         "song": "Firefall - Just Remember I Love You"
     },
@@ -562,9 +566,5 @@
     {
         "timestamp": "2026-04-12T22:58:08.169858",
         "song": "George Baker Selection - Una Paloma Blanca"
-    },
-    {
-        "timestamp": "2026-04-12T22:18:09.560348",
-        "song": "Elton John - Honky Cat"
     }
 ]
