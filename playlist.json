@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T17:47:39.561078",
+        "song": "Anita Ward - Ring My Bell"
+    },
+    {
         "timestamp": "2026-04-19T17:00:36.492280",
         "song": "Paul McCartney - Listen To What The Man Said"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-12T17:48:23.453278",
         "song": "Carole King - I Feel The Earth Move"
-    },
-    {
-        "timestamp": "2026-04-12T17:02:42.102229",
-        "song": "Barbra Streisand - Stoney End"
     }
 ]
