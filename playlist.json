@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T18:27:50.507144",
+        "song": "Elvis Presley - Suspicious Minds"
+    },
+    {
         "timestamp": "2026-04-19T17:47:39.561078",
         "song": "Anita Ward - Ring My Bell"
     },
@@ -562,13 +566,5 @@
     {
         "timestamp": "2026-04-12T19:21:46.242111",
         "song": "Sylvia - Pillow Talk"
-    },
-    {
-        "timestamp": "2026-04-12T18:26:38.391009",
-        "song": "Rocky Burnette - Tired of Toein' the Line"
-    },
-    {
-        "timestamp": "2026-04-12T17:48:23.453278",
-        "song": "Carole King - I Feel The Earth Move"
     }
 ]
