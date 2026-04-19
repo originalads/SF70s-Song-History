@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T08:37:33.304555",
+        "song": "J.D. Souther - You're Only Lonely"
+    },
+    {
         "timestamp": "2026-04-19T07:46:23.271941",
         "song": "Rex Smith - You Take My Breath Away"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-12T09:01:59.014486",
         "song": "Manfred Mann's Earth Band - Blinded By The Light"
-    },
-    {
-        "timestamp": "2026-04-12T08:05:40.449463",
-        "song": "Elton John - Philadelphia Freedom"
     }
 ]
