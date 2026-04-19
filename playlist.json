@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T12:04:00.592129",
+        "song": "Evelyn 'Champagne' King - Shame"
+    },
+    {
         "timestamp": "2026-04-19T11:42:54.318630",
         "song": "Doobie Brothers - Minute By Minute"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-12T12:31:40.388080",
         "song": "Steve Miller Band - Rock N Me"
-    },
-    {
-        "timestamp": "2026-04-12T11:51:25.094380",
-        "song": "Average White Band - Pick Up The Pieces"
     }
 ]
