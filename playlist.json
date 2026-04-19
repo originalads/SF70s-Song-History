@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T07:46:23.271941",
+        "song": "Rex Smith - You Take My Breath Away"
+    },
+    {
         "timestamp": "2026-04-19T06:12:28.132901",
         "song": "Steve Miller Band - Take The Money And Run"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-12T08:05:40.449463",
         "song": "Elton John - Philadelphia Freedom"
-    },
-    {
-        "timestamp": "2026-04-12T06:58:47.992697",
-        "song": "Creedence Clearwater Revival - Proud Mary"
     }
 ]
