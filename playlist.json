@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T23:06:56.397059",
+        "song": "Santa Esmeralda - Don't Let Me Be Misunderstood"
+    },
+    {
         "timestamp": "2026-04-19T22:32:47.592551",
         "song": "Bruce Springsteen - Hungry Heart"
     },
@@ -562,9 +566,5 @@
     {
         "timestamp": "2026-04-12T23:41:36.296537",
         "song": "Steely Dan - Time Out Of Mind"
-    },
-    {
-        "timestamp": "2026-04-12T22:58:08.169858",
-        "song": "George Baker Selection - Una Paloma Blanca"
     }
 ]
