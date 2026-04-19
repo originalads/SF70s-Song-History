@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T19:57:59.067774",
+        "song": "Gordon Lightfoot - Sundown"
+    },
+    {
         "timestamp": "2026-04-19T19:24:07.166669",
         "song": "Silver Convention - Get Up And Boogie"
     },
@@ -562,9 +566,5 @@
     {
         "timestamp": "2026-04-12T20:37:48.558526",
         "song": "Barbra Streisand - Evergreen (Theme From A Star Is Born)"
-    },
-    {
-        "timestamp": "2026-04-12T19:56:21.236101",
-        "song": "Redbone - Come And Get Your Love"
     }
 ]
