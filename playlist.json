@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T01:12:02.988714",
+        "song": "Elton John - Saturday Night's Alright For Fighting"
+    },
+    {
         "timestamp": "2026-04-18T23:48:18.510102",
         "song": "Lou Rawls - You'll Never Find Another Love Like Mine"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-12T03:40:55.291890",
         "song": "Bonnie Tyler - It's A Heartache"
-    },
-    {
-        "timestamp": "2026-04-12T00:03:02.791150",
-        "song": "Doobie Brothers - Listen To The Music"
     }
 ]
