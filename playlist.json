@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-19T04:23:27.504546",
+        "song": "Bob Seger & The Silver Bullet Band - We've Got Tonight"
+    },
+    {
         "timestamp": "2026-04-19T01:12:02.988714",
         "song": "Elton John - Saturday Night's Alright For Fighting"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-12T05:45:10.776030",
         "song": "ABBA - Super Trouper"
-    },
-    {
-        "timestamp": "2026-04-12T03:40:55.291890",
-        "song": "Bonnie Tyler - It's A Heartache"
     }
 ]
