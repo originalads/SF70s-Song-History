@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-20T15:59:09.559756",
+        "song": "The Who - Who Are You"
+    },
+    {
         "timestamp": "2026-04-20T14:50:31.088096",
         "song": "Rufus - Tell Me Something Good"
     },
@@ -562,9 +566,5 @@
     {
         "timestamp": "2026-04-13T16:57:29.561387",
         "song": "Joe Tex - I Gotcha"
-    },
-    {
-        "timestamp": "2026-04-13T15:53:46.998533",
-        "song": "Hamilton, Joe Frank & Reynolds - Don't Pull Your Love"
     }
 ]
