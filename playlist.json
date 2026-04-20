@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-20T14:50:31.088096",
+        "song": "Rufus - Tell Me Something Good"
+    },
+    {
         "timestamp": "2026-04-20T12:56:02.830389",
         "song": "Linda Ronstadt - It's So Easy"
     },
@@ -562,9 +566,5 @@
     {
         "timestamp": "2026-04-13T15:53:46.998533",
         "song": "Hamilton, Joe Frank & Reynolds - Don't Pull Your Love"
-    },
-    {
-        "timestamp": "2026-04-13T14:23:40.447260",
-        "song": "Gladys Knight & The Pips - I've Got To Use My Imagination"
     }
 ]
