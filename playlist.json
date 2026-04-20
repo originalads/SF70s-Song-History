@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-20T06:34:11.166322",
+        "song": "Robert Palmer - Bad Case Of Loving You"
+    },
+    {
         "timestamp": "2026-04-20T04:31:51.609659",
         "song": "Hollies - Long Cool Woman"
     },
@@ -562,9 +566,5 @@
     {
         "timestamp": "2026-04-13T08:32:25.306133",
         "song": "Boz Scaggs - What Can I Say"
-    },
-    {
-        "timestamp": "2026-04-13T06:32:03.171973",
-        "song": "Orleans - Dance With Me"
     }
 ]
