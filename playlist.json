@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-20T08:37:47.227296",
+        "song": "Eagles - Life In The Fast Lane"
+    },
+    {
         "timestamp": "2026-04-20T06:34:11.166322",
         "song": "Robert Palmer - Bad Case Of Loving You"
     },
@@ -562,9 +566,5 @@
     {
         "timestamp": "2026-04-13T10:18:46.479483",
         "song": "Carly Simon - Nobody Does It Better"
-    },
-    {
-        "timestamp": "2026-04-13T08:32:25.306133",
-        "song": "Boz Scaggs - What Can I Say"
     }
 ]
