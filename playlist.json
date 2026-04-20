@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-20T22:55:58.591455",
+        "song": "Boz Scaggs - JoJo"
+    },
+    {
         "timestamp": "2026-04-20T21:59:52.351060",
         "song": "Van Morrison - Wild Night"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-13T23:03:10.344782",
         "song": "Electric Light Orchestra - Shine A Little Love"
-    },
-    {
-        "timestamp": "2026-04-13T22:10:07.559292",
-        "song": "Spinners - I'll Be Around"
     }
 ]
