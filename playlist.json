@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-21T15:39:53.183628",
+        "song": "Atlanta Rhythm Section - So Into You"
+    },
+    {
         "timestamp": "2026-04-21T14:05:47.685223",
         "song": "Electric Light Orchestra - Turn To Stone"
     },
@@ -562,13 +566,5 @@
     {
         "timestamp": "2026-04-14T16:45:19.015727",
         "song": "Joan Baez - The Night They Drove Old Dixie Down"
-    },
-    {
-        "timestamp": "2026-04-14T15:39:37.230110",
-        "song": "Marshall Tucker Band - Heard It In A Love Song"
-    },
-    {
-        "timestamp": "2026-04-14T14:11:11.215897",
-        "song": "Hot Chocolate - Every 1's A Winner"
     }
 ]
