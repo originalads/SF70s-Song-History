@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-21T22:22:57.130822",
+        "song": "Dazz Band - Let It Whip"
+    },
+    {
         "timestamp": "2026-04-21T21:30:26.229369",
         "song": "Exile - Kiss You All Over"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-14T22:59:11.717645",
         "song": "Steely Dan - Rikki Don't Lose That Number"
-    },
-    {
-        "timestamp": "2026-04-14T22:03:17.597549",
-        "song": "Lynyrd Skynyrd - Free Bird"
     }
 ]
