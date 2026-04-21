@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-21T08:12:12.230626",
+        "song": "Rolling Stones - Tumbling Dice"
+    },
+    {
         "timestamp": "2026-04-21T06:16:45.563177",
         "song": "Ambrosia - Biggest Part Of Me"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-14T08:49:17.969867",
         "song": "Kool & The Gang - Jungle Boogie"
-    },
-    {
-        "timestamp": "2026-04-14T07:00:40.901131",
-        "song": "Simon & Garfunkel - Bridge Over Troubled Water"
     }
 ]
