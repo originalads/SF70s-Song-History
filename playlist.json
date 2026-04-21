@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-21T12:05:09.816900",
+        "song": "Billy Joel - My Life"
+    },
+    {
         "timestamp": "2026-04-21T10:59:32.525923",
         "song": "Cornelius Brothers & Sister Rose - Treat Her Like A Lady"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-14T12:09:29.711719",
         "song": "Rolling Stones - Miss You"
-    },
-    {
-        "timestamp": "2026-04-14T11:14:46.018998",
-        "song": "Jay Ferguson - Thunder Island"
     }
 ]
