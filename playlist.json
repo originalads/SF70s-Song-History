@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-21T23:03:11.448307",
+        "song": "Harold Melvin & The Blue Notes - Bad Luck"
+    },
+    {
         "timestamp": "2026-04-21T22:22:57.130822",
         "song": "Dazz Band - Let It Whip"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-14T23:52:23.530430",
         "song": "Kenny Loggins - Whenever I Call You Friend"
-    },
-    {
-        "timestamp": "2026-04-14T22:59:11.717645",
-        "song": "Steely Dan - Rikki Don't Lose That Number"
     }
 ]
