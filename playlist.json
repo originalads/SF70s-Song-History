@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-22T18:15:53.137501",
+        "song": "Golden Earring - Radar Love"
+    },
+    {
         "timestamp": "2026-04-22T17:17:32.212322",
         "song": "Dr. Hook - Sexy Eyes"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-15T18:54:28.635811",
         "song": "Roberta Flack - Killing Me Softly With His Song"
-    },
-    {
-        "timestamp": "2026-04-15T17:48:28.027354",
-        "song": "Linda Ronstadt - Poor Poor Pitiful Me"
     }
 ]
