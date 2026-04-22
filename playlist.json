@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-22T06:13:18.518074",
+        "song": "Eric Clapton - Promises"
+    },
+    {
         "timestamp": "2026-04-22T04:15:54.505266",
         "song": "Pure Prairie League - Let Me Love You Tonight"
     },
@@ -570,9 +574,5 @@
     {
         "timestamp": "2026-04-15T06:15:47.677698",
         "song": "Argent - Hold Your Head Up"
-    },
-    {
-        "timestamp": "2026-04-15T04:23:38.866618",
-        "song": "John Paul Young - Love Is In The Air"
     }
 ]
