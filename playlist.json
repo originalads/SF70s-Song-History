@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-22T08:07:12.761728",
+        "song": "L.T.D. - (Every Time I Turn Around) Back in Love Again"
+    },
+    {
         "timestamp": "2026-04-22T06:13:18.518074",
         "song": "Eric Clapton - Promises"
     },
@@ -570,9 +574,5 @@
     {
         "timestamp": "2026-04-15T08:07:41.942082",
         "song": "Paul Simon - Late In The Evening"
-    },
-    {
-        "timestamp": "2026-04-15T06:15:47.677698",
-        "song": "Argent - Hold Your Head Up"
     }
 ]
