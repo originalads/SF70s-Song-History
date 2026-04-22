@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-22T09:48:54.478243",
+        "song": "Walter Egan - Magnet And Steel"
+    },
+    {
         "timestamp": "2026-04-22T08:07:12.761728",
         "song": "L.T.D. - (Every Time I Turn Around) Back in Love Again"
     },
@@ -566,13 +570,5 @@
     {
         "timestamp": "2026-04-15T10:48:08.959765",
         "song": "Bay City Rollers - You Made Me Believe In Magic"
-    },
-    {
-        "timestamp": "2026-04-15T09:48:43.322368",
-        "song": "George Benson - On Broadway"
-    },
-    {
-        "timestamp": "2026-04-15T08:07:41.942082",
-        "song": "Paul Simon - Late In The Evening"
     }
 ]
