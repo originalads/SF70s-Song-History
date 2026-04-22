@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-22T17:17:32.212322",
+        "song": "Dr. Hook - Sexy Eyes"
+    },
+    {
         "timestamp": "2026-04-22T16:17:33.529977",
         "song": "Ringo Starr - You're Sixteen"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-15T17:48:28.027354",
         "song": "Linda Ronstadt - Poor Poor Pitiful Me"
-    },
-    {
-        "timestamp": "2026-04-15T16:43:04.692361",
-        "song": "Tower of Power - You're Still A Young Man"
     }
 ]
