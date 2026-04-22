@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-22T01:07:40.045144",
+        "song": "Van Morrison - Domino"
+    },
+    {
         "timestamp": "2026-04-21T23:48:32.423101",
         "song": "Climax - Precious And Few"
     },
@@ -570,9 +574,5 @@
     {
         "timestamp": "2026-04-15T01:23:50.490773",
         "song": "King Floyd - Groove Me"
-    },
-    {
-        "timestamp": "2026-04-14T23:52:23.530430",
-        "song": "Kenny Loggins - Whenever I Call You Friend"
     }
 ]
