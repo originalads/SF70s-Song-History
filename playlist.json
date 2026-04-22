@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-22T22:25:38.905258",
+        "song": "Crosby, Stills, Nash & Young - Our House"
+    },
+    {
         "timestamp": "2026-04-22T21:32:25.660812",
         "song": "Edgar Winter Group - Frankenstein"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-15T22:52:21.520847",
         "song": "Chaka Kahn - I'm Every Woman"
-    },
-    {
-        "timestamp": "2026-04-15T22:00:08.493450",
-        "song": "Electric Light Orchestra - Evil Woman"
     }
 ]
