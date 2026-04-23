@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-23T03:44:59.588620",
+        "song": "England Dan & John Ford Coley - Love Is The Answer"
+    },
+    {
         "timestamp": "2026-04-23T00:08:19.160221",
         "song": "Brothers Johnson - Stomp"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-16T04:24:08.076994",
         "song": "Kool & The Gang - Jungle Boogie"
-    },
-    {
-        "timestamp": "2026-04-16T01:10:08.556607",
-        "song": "Andy Gibb - Shadow Dancing"
     }
 ]
