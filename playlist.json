@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-23T07:49:57.902378",
+        "song": "Earth, Wind & Fire - Getaway"
+    },
+    {
         "timestamp": "2026-04-23T05:55:33.696885",
         "song": "Andrew Gold - Thank You For Being A Friend"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-16T08:07:41.314178",
         "song": "Paul Nicholas - Heaven On The Seventh Floor"
-    },
-    {
-        "timestamp": "2026-04-16T06:17:50.784581",
-        "song": "Van Morrison - Wild Night"
     }
 ]
