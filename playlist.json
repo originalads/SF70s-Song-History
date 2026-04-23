@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-23T22:07:44.059038",
+        "song": "Bob Seger & The Silver Bullet Band - Mainstreet"
+    },
+    {
         "timestamp": "2026-04-23T21:25:56.593585",
         "song": "Marshall Tucker Band - Heard It In A Love Song"
     },
@@ -562,9 +566,5 @@
     {
         "timestamp": "2026-04-16T22:08:25.791707",
         "song": "Elton John - Bennie And The Jets"
-    },
-    {
-        "timestamp": "2026-04-16T21:27:42.500962",
-        "song": "Paul McCartney - Jet"
     }
 ]
