@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-23T00:08:19.160221",
+        "song": "Brothers Johnson - Stomp"
+    },
+    {
         "timestamp": "2026-04-22T23:24:41.661708",
         "song": "Meat Loaf - Two Out Of Three Ain't Bad"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-16T01:10:08.556607",
         "song": "Andy Gibb - Shadow Dancing"
-    },
-    {
-        "timestamp": "2026-04-15T23:33:17.627931",
-        "song": "Four Seasons - Who Loves You"
     }
 ]
