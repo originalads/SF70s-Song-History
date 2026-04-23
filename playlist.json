@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-23T10:50:00.974765",
+        "song": "Toto - Hold The Line"
+    },
+    {
         "timestamp": "2026-04-23T09:15:26.857063",
         "song": "Kiss - I Was Made For Lovin' You"
     },
@@ -566,9 +570,5 @@
     {
         "timestamp": "2026-04-16T10:50:27.650632",
         "song": "Brothers Johnson - I'll Be Good To You"
-    },
-    {
-        "timestamp": "2026-04-16T09:46:28.297394",
-        "song": "Deniece Williams - Free"
     }
 ]
