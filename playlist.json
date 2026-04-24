@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-24T03:33:24.523681",
+        "song": "Foreigner - Feels Like The First Time"
+    },
+    {
         "timestamp": "2026-04-23T23:58:38.445800",
         "song": "Jennifer Warnes - Right Time Of The Night"
     },
@@ -558,9 +562,5 @@
     {
         "timestamp": "2026-04-17T04:42:54.315150",
         "song": "Sly & The Family Stone - Everyday People"
-    },
-    {
-        "timestamp": "2026-04-17T01:52:58.608541",
-        "song": "Chicago - Searchin' So Long"
     }
 ]
