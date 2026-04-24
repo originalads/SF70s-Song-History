@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-24T20:58:45.890939",
+        "song": "Raspberries - Go All The Way"
+    },
+    {
         "timestamp": "2026-04-24T19:58:52.131007",
         "song": "Bob Seger & The Silver Bullet Band - Hollywood Nights"
     },
@@ -554,9 +558,5 @@
     {
         "timestamp": "2026-04-17T21:00:15.204507",
         "song": "War - Why Can't We Be Friends"
-    },
-    {
-        "timestamp": "2026-04-17T20:05:00.261461",
-        "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
     }
 ]
