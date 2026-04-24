@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-24T05:56:30.271028",
+        "song": "Ambrosia  - You're The Only Woman"
+    },
+    {
         "timestamp": "2026-04-24T03:33:24.523681",
         "song": "Foreigner - Feels Like The First Time"
     },
@@ -558,9 +562,5 @@
     {
         "timestamp": "2026-04-17T06:24:54.721876",
         "song": "Carl Carlton - Everlasting Love"
-    },
-    {
-        "timestamp": "2026-04-17T04:42:54.315150",
-        "song": "Sly & The Family Stone - Everyday People"
     }
 ]
