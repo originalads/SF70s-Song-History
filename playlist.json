@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-24T19:58:52.131007",
+        "song": "Bob Seger & The Silver Bullet Band - Hollywood Nights"
+    },
+    {
         "timestamp": "2026-04-24T19:07:35.697561",
         "song": "Fleetwood Mac - Dreams"
     },
@@ -554,9 +558,5 @@
     {
         "timestamp": "2026-04-17T20:05:00.261461",
         "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
-    },
-    {
-        "timestamp": "2026-04-17T19:16:45.777521",
-        "song": "Robert Palmer - Bad Case Of Loving You"
     }
 ]
