@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-24T09:53:44.715985",
+        "song": "Whispers - It's A Love Thing"
+    },
+    {
         "timestamp": "2026-04-24T08:05:23.876222",
         "song": "Sly & The Family Stone - Thank You"
     },
@@ -554,13 +558,5 @@
     {
         "timestamp": "2026-04-17T10:43:40.502603",
         "song": "Charlie Rich - Behind Closed Doors"
-    },
-    {
-        "timestamp": "2026-04-17T09:47:13.606366",
-        "song": "Five Man Electrical Band - Signs"
-    },
-    {
-        "timestamp": "2026-04-17T08:10:49.885206",
-        "song": "Carol Douglas - Doctor's Orders"
     }
 ]
