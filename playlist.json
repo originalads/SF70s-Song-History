@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-24T15:17:35.841482",
+        "song": "Simon & Garfunkel - Cecilia"
+    },
+    {
         "timestamp": "2026-04-24T14:01:20.446494",
         "song": "Tavares - It Only Takes A Minute"
     },
@@ -550,13 +554,5 @@
     {
         "timestamp": "2026-04-17T16:14:53.556039",
         "song": "Blondie - One Way Or Another"
-    },
-    {
-        "timestamp": "2026-04-17T15:14:13.207004",
-        "song": "Bad Company - Can't Get Enough"
-    },
-    {
-        "timestamp": "2026-04-17T14:08:11.457556",
-        "song": "Van McCoy - The Hustle"
     }
 ]
