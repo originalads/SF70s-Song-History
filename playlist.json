@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-24T21:53:47.978818",
+        "song": "Queen - Another One Bites the Dust"
+    },
+    {
         "timestamp": "2026-04-24T20:58:45.890939",
         "song": "Raspberries - Go All The Way"
     },
@@ -554,9 +558,5 @@
     {
         "timestamp": "2026-04-17T21:54:56.316009",
         "song": "Bee Gees - Fanny (Be Tender With My Love)"
-    },
-    {
-        "timestamp": "2026-04-17T21:00:15.204507",
-        "song": "War - Why Can't We Be Friends"
     }
 ]
