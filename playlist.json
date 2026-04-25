@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T05:26:38.804195",
+        "song": "Rose Royce - Car Wash"
+    },
+    {
         "timestamp": "2026-04-25T03:26:28.284282",
         "song": "Patrick Hernandez - Born To Be Alive"
     },
@@ -550,9 +554,5 @@
     {
         "timestamp": "2026-04-18T06:41:38.641129",
         "song": "Diana Ross - Touch Me In The Morning"
-    },
-    {
-        "timestamp": "2026-04-18T05:20:34.500276",
-        "song": "Barry White - Can't Get Enough Of Your Love Babe"
     }
 ]
