@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T06:50:18.008556",
+        "song": "America - Ventura Highway"
+    },
+    {
         "timestamp": "2026-04-25T05:26:38.804195",
         "song": "Rose Royce - Car Wash"
     },
@@ -550,9 +554,5 @@
     {
         "timestamp": "2026-04-18T07:46:12.001224",
         "song": "Helen Reddy - Angie Baby"
-    },
-    {
-        "timestamp": "2026-04-18T06:41:38.641129",
-        "song": "Diana Ross - Touch Me In The Morning"
     }
 ]
