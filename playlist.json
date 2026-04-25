@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T10:36:03.368940",
+        "song": "Joe Walsh - Life's Been Good"
+    },
+    {
         "timestamp": "2026-04-25T09:52:51.448891",
         "song": "Rupert Holmes - Escape"
     },
@@ -550,9 +554,5 @@
     {
         "timestamp": "2026-04-18T10:59:31.735260",
         "song": "America - Daisy Jane"
-    },
-    {
-        "timestamp": "2026-04-18T10:09:30.021117",
-        "song": "Walter Murphy & The Big Apple Band - A Fifth Of Beethoven"
     }
 ]
