@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T17:10:09.439550",
+        "song": "Lipps, Inc. - Funkytown"
+    },
+    {
         "timestamp": "2026-04-25T16:27:36.078277",
         "song": "Steve Miller Band - Fly Like An Eagle"
     },
@@ -546,9 +550,5 @@
     {
         "timestamp": "2026-04-18T17:48:37.820117",
         "song": "Shirley & Company - Shame Shame Shame"
-    },
-    {
-        "timestamp": "2026-04-18T17:01:35.171716",
-        "song": "Boston - More Than A Feeling"
     }
 ]
