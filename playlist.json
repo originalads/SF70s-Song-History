@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T07:56:55.436752",
+        "song": "Elvis Presley - Burning Love"
+    },
+    {
         "timestamp": "2026-04-25T06:50:18.008556",
         "song": "America - Ventura Highway"
     },
@@ -550,9 +554,5 @@
     {
         "timestamp": "2026-04-18T08:31:40.330770",
         "song": "Carly Simon - You're So Vain"
-    },
-    {
-        "timestamp": "2026-04-18T07:46:12.001224",
-        "song": "Helen Reddy - Angie Baby"
     }
 ]
