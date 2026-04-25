@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T21:48:58.608413",
+        "song": "Chic - Le Freak"
+    },
+    {
         "timestamp": "2026-04-25T21:00:58.679065",
         "song": "Jefferson Starship - Jane"
     },
@@ -546,9 +550,5 @@
     {
         "timestamp": "2026-04-18T21:53:30.910116",
         "song": "Ozark Mountain Daredevils - Jackie Blue"
-    },
-    {
-        "timestamp": "2026-04-18T21:18:29.683699",
-        "song": "Dr. Hook - Cover Of The Rolling Stone"
     }
 ]
