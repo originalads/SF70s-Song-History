@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T20:21:50.066513",
+        "song": "Nick Gilder - Hot Child In The City"
+    },
+    {
         "timestamp": "2026-04-25T19:42:36.201899",
         "song": "Elton John - Honky Cat"
     },
@@ -546,9 +550,5 @@
     {
         "timestamp": "2026-04-18T20:40:49.376807",
         "song": "Kansas - Dust In The Wind"
-    },
-    {
-        "timestamp": "2026-04-18T19:57:14.272356",
-        "song": "Shocking Blue - Venus"
     }
 ]
