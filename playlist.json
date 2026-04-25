@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T19:42:36.201899",
+        "song": "Elton John - Honky Cat"
+    },
+    {
         "timestamp": "2026-04-25T18:55:36.535714",
         "song": "Dr. Hook - Only Sixteen"
     },
@@ -546,9 +550,5 @@
     {
         "timestamp": "2026-04-18T19:57:14.272356",
         "song": "Shocking Blue - Venus"
-    },
-    {
-        "timestamp": "2026-04-18T19:23:48.354580",
-        "song": "Stephanie Mills - What Cha Gonna Do With My Lovin'"
     }
 ]
