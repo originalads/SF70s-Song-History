@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T08:56:01.952088",
+        "song": "Mark Lindsay - Arizona"
+    },
+    {
         "timestamp": "2026-04-25T07:56:55.436752",
         "song": "Elvis Presley - Burning Love"
     },
@@ -550,9 +554,5 @@
     {
         "timestamp": "2026-04-18T09:28:47.118087",
         "song": "Hues Corporation - Rock the Boat"
-    },
-    {
-        "timestamp": "2026-04-18T08:31:40.330770",
-        "song": "Carly Simon - You're So Vain"
     }
 ]
