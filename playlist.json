@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T23:49:44.929947",
+        "song": "Vicki Lawrence - The Night The Lights Went Out In Georgia"
+    },
+    {
         "timestamp": "2026-04-25T23:00:55.616456",
         "song": "Fleetwood Mac - Go Your Own Way"
     },
@@ -542,13 +546,5 @@
     {
         "timestamp": "2026-04-19T01:12:02.988714",
         "song": "Elton John - Saturday Night's Alright For Fighting"
-    },
-    {
-        "timestamp": "2026-04-18T23:48:18.510102",
-        "song": "Lou Rawls - You'll Never Find Another Love Like Mine"
-    },
-    {
-        "timestamp": "2026-04-18T23:03:26.343463",
-        "song": "Paul Simon - Mother And Child Reunion"
     }
 ]
