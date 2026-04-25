@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T15:51:29.364492",
+        "song": "Herb Alpert - Rise"
+    },
+    {
         "timestamp": "2026-04-25T15:01:30.381050",
         "song": "Hot Chocolate - You Sexy Thing"
     },
@@ -546,9 +550,5 @@
     {
         "timestamp": "2026-04-18T16:20:16.076447",
         "song": "Linda Ronstadt - Tracks Of My Tears"
-    },
-    {
-        "timestamp": "2026-04-18T15:39:46.565831",
-        "song": "Vanity Fair - Hitchin' A Ride"
     }
 ]
