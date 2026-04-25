@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T15:01:30.381050",
+        "song": "Hot Chocolate - You Sexy Thing"
+    },
+    {
         "timestamp": "2026-04-25T14:11:55.960488",
         "song": "Barry White - I'm Gonna Love You Just A Little Bit More Baby"
     },
@@ -546,9 +550,5 @@
     {
         "timestamp": "2026-04-18T15:39:46.565831",
         "song": "Vanity Fair - Hitchin' A Ride"
-    },
-    {
-        "timestamp": "2026-04-18T14:57:11.089653",
-        "song": "War - Slippin' Into Darkness"
     }
 ]
