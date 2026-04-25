@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-25T03:26:28.284282",
+        "song": "Patrick Hernandez - Born To Be Alive"
+    },
+    {
         "timestamp": "2026-04-25T00:00:46.666539",
         "song": "Eagles - One Of These Nights"
     },
@@ -550,9 +554,5 @@
     {
         "timestamp": "2026-04-18T05:20:34.500276",
         "song": "Barry White - Can't Get Enough Of Your Love Babe"
-    },
-    {
-        "timestamp": "2026-04-18T03:24:00.992214",
-        "song": "Curtis Mayfield - Freddie's Dead"
     }
 ]
