@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-26T20:05:00.497060",
+        "song": "Carole King - Sweet Seasons"
+    },
+    {
         "timestamp": "2026-04-26T19:30:38.247424",
         "song": "George Harrison - My Sweet Lord"
     },
@@ -534,9 +538,5 @@
     {
         "timestamp": "2026-04-19T20:45:02.715274",
         "song": "Kiki Dee - I've Got The Music In Me"
-    },
-    {
-        "timestamp": "2026-04-19T19:57:59.067774",
-        "song": "Gordon Lightfoot - Sundown"
     }
 ]
