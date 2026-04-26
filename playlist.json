@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-26T19:30:38.247424",
+        "song": "George Harrison - My Sweet Lord"
+    },
+    {
         "timestamp": "2026-04-26T18:31:04.193063",
         "song": "Sly & The Family Stone - Hot Fun In The Summertime"
     },
@@ -534,9 +538,5 @@
     {
         "timestamp": "2026-04-19T19:57:59.067774",
         "song": "Gordon Lightfoot - Sundown"
-    },
-    {
-        "timestamp": "2026-04-19T19:24:07.166669",
-        "song": "Silver Convention - Get Up And Boogie"
     }
 ]
