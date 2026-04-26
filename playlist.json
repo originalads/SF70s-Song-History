@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-26T12:33:16.417486",
+        "song": "Eddie Holman - Hey There Lonely Girl"
+    },
+    {
         "timestamp": "2026-04-26T11:48:44.263541",
         "song": "Love & Kisses - Thank God It's Friday"
     },
@@ -538,9 +542,5 @@
     {
         "timestamp": "2026-04-19T13:23:15.531204",
         "song": "Commodores - Still"
-    },
-    {
-        "timestamp": "2026-04-19T12:04:00.592129",
-        "song": "Evelyn 'Champagne' King - Shame"
     }
 ]
