@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-26T04:33:04.707187",
+        "song": "O'Jays - I Love Music"
+    },
+    {
         "timestamp": "2026-04-26T01:15:46.364302",
         "song": "Steely Dan - Rikki Don't Lose That Number"
     },
@@ -542,9 +546,5 @@
     {
         "timestamp": "2026-04-19T06:12:28.132901",
         "song": "Steve Miller Band - Take The Money And Run"
-    },
-    {
-        "timestamp": "2026-04-19T04:23:27.504546",
-        "song": "Bob Seger & The Silver Bullet Band - We've Got Tonight"
     }
 ]
