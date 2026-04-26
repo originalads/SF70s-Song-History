@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-26T21:34:08.108673",
+        "song": "Electric Light Orchestra - Livin' Thing"
+    },
+    {
         "timestamp": "2026-04-26T20:54:38.544810",
         "song": "Orleans - Love Takes Time"
     },
@@ -534,9 +538,5 @@
     {
         "timestamp": "2026-04-19T21:55:07.670446",
         "song": "Firefall - Just Remember I Love You"
-    },
-    {
-        "timestamp": "2026-04-19T21:20:59.249046",
-        "song": "Gladys Knight & The Pips - Best Thing That Ever Happened To Me"
     }
 ]
