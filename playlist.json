@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-26T23:40:31.735416",
+        "song": "Sweet - Ballroom Blitz"
+    },
+    {
         "timestamp": "2026-04-26T22:56:46.391567",
         "song": "Gordon Lightfoot - Wreck Of The Edmund Fitzgerald"
     },
@@ -534,9 +538,5 @@
     {
         "timestamp": "2026-04-19T23:51:20.449387",
         "song": "Tony Orlando & Dawn - Tie A Yellow Ribbon Round The Ole Oak Tree"
-    },
-    {
-        "timestamp": "2026-04-19T23:06:56.397059",
-        "song": "Santa Esmeralda - Don't Let Me Be Misunderstood"
     }
 ]
