@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-26T22:06:41.024263",
+        "song": "Simon & Garfunkel - My Little Town"
+    },
+    {
         "timestamp": "2026-04-26T21:34:08.108673",
         "song": "Electric Light Orchestra - Livin' Thing"
     },
@@ -534,9 +538,5 @@
     {
         "timestamp": "2026-04-19T22:32:47.592551",
         "song": "Bruce Springsteen - Hungry Heart"
-    },
-    {
-        "timestamp": "2026-04-19T21:55:07.670446",
-        "song": "Firefall - Just Remember I Love You"
     }
 ]
