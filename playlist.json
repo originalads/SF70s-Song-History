@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-26T11:48:44.263541",
+        "song": "Love & Kisses - Thank God It's Friday"
+    },
+    {
         "timestamp": "2026-04-26T11:00:32.899853",
         "song": "Bob Welch - Ebony Eyes"
     },
@@ -538,9 +542,5 @@
     {
         "timestamp": "2026-04-19T12:04:00.592129",
         "song": "Evelyn 'Champagne' King - Shame"
-    },
-    {
-        "timestamp": "2026-04-19T11:42:54.318630",
-        "song": "Doobie Brothers - Minute By Minute"
     }
 ]
