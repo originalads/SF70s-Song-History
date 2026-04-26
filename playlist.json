@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-26T14:34:03.433699",
+        "song": "Eagles - Already Gone"
+    },
+    {
         "timestamp": "2026-04-26T13:49:49.834427",
         "song": "Sylvia - Pillow Talk"
     },
@@ -538,9 +542,5 @@
     {
         "timestamp": "2026-04-19T14:56:52.782260",
         "song": "Looking Glass - Brandy"
-    },
-    {
-        "timestamp": "2026-04-19T14:08:04.397853",
-        "song": "Tower Of Power - So Very Hard To Go"
     }
 ]
