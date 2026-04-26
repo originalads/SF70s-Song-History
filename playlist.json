@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-26T11:00:32.899853",
+        "song": "Bob Welch - Ebony Eyes"
+    },
+    {
         "timestamp": "2026-04-26T10:06:28.433607",
         "song": "Michael Jackson - Rock With You"
     },
@@ -538,13 +542,5 @@
     {
         "timestamp": "2026-04-19T11:42:54.318630",
         "song": "Doobie Brothers - Minute By Minute"
-    },
-    {
-        "timestamp": "2026-04-19T10:59:15.033609",
-        "song": "Helen Reddy - Delta Dawn"
-    },
-    {
-        "timestamp": "2026-04-19T10:09:15.834955",
-        "song": "O'Jays - For The Love Of Money"
     }
 ]
