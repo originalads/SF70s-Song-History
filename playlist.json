@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-27T13:01:05.174316",
+        "song": "War - Cisco Kid"
+    },
+    {
         "timestamp": "2026-04-27T11:25:01.188055",
         "song": "Isley Brothers - That Lady"
     },
@@ -526,13 +530,5 @@
     {
         "timestamp": "2026-04-20T14:50:31.088096",
         "song": "Rufus - Tell Me Something Good"
-    },
-    {
-        "timestamp": "2026-04-20T12:56:02.830389",
-        "song": "Linda Ronstadt - It's So Easy"
-    },
-    {
-        "timestamp": "2026-04-20T11:48:59.927018",
-        "song": "Marvin Gaye - What's Going On"
     }
 ]
