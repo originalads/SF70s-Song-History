@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-27T01:14:52.377921",
+        "song": "Dire Straits - Sultans Of Swing"
+    },
+    {
         "timestamp": "2026-04-26T23:40:31.735416",
         "song": "Sweet - Ballroom Blitz"
     },
@@ -534,9 +538,5 @@
     {
         "timestamp": "2026-04-20T01:16:18.087987",
         "song": "Tom Petty & The Heartbreakers - Refugee"
-    },
-    {
-        "timestamp": "2026-04-19T23:51:20.449387",
-        "song": "Tony Orlando & Dawn - Tie A Yellow Ribbon Round The Ole Oak Tree"
     }
 ]
