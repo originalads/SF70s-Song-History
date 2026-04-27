@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-27T07:24:36.202093",
+        "song": "Ringo Starr - You're Sixteen"
+    },
+    {
         "timestamp": "2026-04-27T04:42:29.916822",
         "song": "Eric Clapton - Lay Down Sally"
     },
@@ -530,9 +534,5 @@
     {
         "timestamp": "2026-04-20T08:37:47.227296",
         "song": "Eagles - Life In The Fast Lane"
-    },
-    {
-        "timestamp": "2026-04-20T06:34:11.166322",
-        "song": "Robert Palmer - Bad Case Of Loving You"
     }
 ]
