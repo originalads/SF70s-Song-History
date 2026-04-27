@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-27T15:12:25.464088",
+        "song": "David Naughton - Makin' It"
+    },
+    {
         "timestamp": "2026-04-27T13:01:05.174316",
         "song": "War - Cisco Kid"
     },
@@ -526,9 +530,5 @@
     {
         "timestamp": "2026-04-20T15:59:09.559756",
         "song": "The Who - Who Are You"
-    },
-    {
-        "timestamp": "2026-04-20T14:50:31.088096",
-        "song": "Rufus - Tell Me Something Good"
     }
 ]
