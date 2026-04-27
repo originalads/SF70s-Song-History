@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-27T21:40:05.862581",
+        "song": "Toto - Hold The Line"
+    },
+    {
         "timestamp": "2026-04-27T20:44:17.673684",
         "song": "Harold Melvin & The Blue Notes - Wake Up Everybody"
     },
@@ -522,9 +526,5 @@
     {
         "timestamp": "2026-04-20T21:59:52.351060",
         "song": "Van Morrison - Wild Night"
-    },
-    {
-        "timestamp": "2026-04-20T21:06:44.925045",
-        "song": "Boz Scaggs - Miss Sun"
     }
 ]
