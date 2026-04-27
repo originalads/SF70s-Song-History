@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-27T23:32:03.781683",
+        "song": "Dave Edmunds - I Hear You Knocking"
+    },
+    {
         "timestamp": "2026-04-27T22:33:24.260329",
         "song": "Glen Campbell - Southern Nights"
     },
@@ -522,9 +526,5 @@
     {
         "timestamp": "2026-04-20T23:43:02.641096",
         "song": "Van Morrison - Moondance"
-    },
-    {
-        "timestamp": "2026-04-20T22:55:58.591455",
-        "song": "Boz Scaggs - JoJo"
     }
 ]
