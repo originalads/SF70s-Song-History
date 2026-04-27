@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-27T04:42:29.916822",
+        "song": "Eric Clapton - Lay Down Sally"
+    },
+    {
         "timestamp": "2026-04-27T01:14:52.377921",
         "song": "Dire Straits - Sultans Of Swing"
     },
@@ -530,13 +534,5 @@
     {
         "timestamp": "2026-04-20T06:34:11.166322",
         "song": "Robert Palmer - Bad Case Of Loving You"
-    },
-    {
-        "timestamp": "2026-04-20T04:31:51.609659",
-        "song": "Hollies - Long Cool Woman"
-    },
-    {
-        "timestamp": "2026-04-20T01:16:18.087987",
-        "song": "Tom Petty & The Heartbreakers - Refugee"
     }
 ]
