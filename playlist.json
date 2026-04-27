@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-27T20:44:17.673684",
+        "song": "Harold Melvin & The Blue Notes - Wake Up Everybody"
+    },
+    {
         "timestamp": "2026-04-27T19:45:15.986430",
         "song": "Smokey Robinson - Cruisin'"
     },
@@ -522,9 +526,5 @@
     {
         "timestamp": "2026-04-20T21:06:44.925045",
         "song": "Boz Scaggs - Miss Sun"
-    },
-    {
-        "timestamp": "2026-04-20T20:23:20.877948",
-        "song": "Cher - Dark Lady"
     }
 ]
