@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-27T18:03:55.804051",
+        "song": "Aretha Franklin - Rock Steady"
+    },
+    {
         "timestamp": "2026-04-27T16:56:13.721118",
         "song": "Chicago - Alive Again"
     },
@@ -526,9 +530,5 @@
     {
         "timestamp": "2026-04-20T18:10:58.588979",
         "song": "Doobie Brothers - Rockin' Down The Highway"
-    },
-    {
-        "timestamp": "2026-04-20T17:15:32.883391",
-        "song": "Loggins & Messina - Your Mama Don't Dance"
     }
 ]
