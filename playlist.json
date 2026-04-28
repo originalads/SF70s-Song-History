@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-28T20:16:45.454966",
+        "song": "Michael Johnson - This Night Won't Last Forever"
+    },
+    {
         "timestamp": "2026-04-28T18:56:22.324603",
         "song": "Dolly Parton - Here You Come Again"
     },
@@ -506,9 +510,5 @@
     {
         "timestamp": "2026-04-21T20:40:07.927789",
         "song": "Rose Royce - I Wanna Get Next To You"
-    },
-    {
-        "timestamp": "2026-04-21T19:52:50.051449",
-        "song": "Crosby, Stills & Nash - Just A Song Before I Go"
     }
 ]
