@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-28T18:56:22.324603",
+        "song": "Dolly Parton - Here You Come Again"
+    },
+    {
         "timestamp": "2026-04-28T17:17:38.060202",
         "song": "Helen Reddy - I Am Woman"
     },
@@ -506,13 +510,5 @@
     {
         "timestamp": "2026-04-21T19:52:50.051449",
         "song": "Crosby, Stills & Nash - Just A Song Before I Go"
-    },
-    {
-        "timestamp": "2026-04-21T18:44:45.685584",
-        "song": "S.O.S. Band - Take Your Time (Do It Right)"
-    },
-    {
-        "timestamp": "2026-04-21T17:41:03.678519",
-        "song": "Peter Frampton - I'm In You"
     }
 ]
