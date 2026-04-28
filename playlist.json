@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-28T21:32:27.378200",
+        "song": "Badfinger - Come And Get It"
+    },
+    {
         "timestamp": "2026-04-28T20:16:45.454966",
         "song": "Michael Johnson - This Night Won't Last Forever"
     },
@@ -502,13 +506,5 @@
     {
         "timestamp": "2026-04-21T22:22:57.130822",
         "song": "Dazz Band - Let It Whip"
-    },
-    {
-        "timestamp": "2026-04-21T21:30:26.229369",
-        "song": "Exile - Kiss You All Over"
-    },
-    {
-        "timestamp": "2026-04-21T20:40:07.927789",
-        "song": "Rose Royce - I Wanna Get Next To You"
     }
 ]
