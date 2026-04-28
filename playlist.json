@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-28T17:17:38.060202",
+        "song": "Helen Reddy - I Am Woman"
+    },
+    {
         "timestamp": "2026-04-28T15:37:16.859155",
         "song": "Rolling Stones - Tumbling Dice"
     },
@@ -510,13 +514,5 @@
     {
         "timestamp": "2026-04-21T17:41:03.678519",
         "song": "Peter Frampton - I'm In You"
-    },
-    {
-        "timestamp": "2026-04-21T16:39:35.501742",
-        "song": "Stylistics - I'm Stone In Love With You"
-    },
-    {
-        "timestamp": "2026-04-21T15:39:53.183628",
-        "song": "Atlanta Rhythm Section - So Into You"
     }
 ]
