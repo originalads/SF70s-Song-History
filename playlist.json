@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-28T13:10:22.739876",
+        "song": "Chic - Dance Dance Dance"
+    },
+    {
         "timestamp": "2026-04-28T11:24:50.175845",
         "song": "Brothers Johnson - I'll Be Good To You"
     },
@@ -514,9 +518,5 @@
     {
         "timestamp": "2026-04-21T14:05:47.685223",
         "song": "Electric Light Orchestra - Turn To Stone"
-    },
-    {
-        "timestamp": "2026-04-21T12:05:09.816900",
-        "song": "Billy Joel - My Life"
     }
 ]
