@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-28T04:45:42.152817",
+        "song": "ABBA - Take A Chance On Me"
+    },
+    {
         "timestamp": "2026-04-28T01:16:46.111272",
         "song": "The Who - Who Are You"
     },
@@ -518,9 +522,5 @@
     {
         "timestamp": "2026-04-21T06:16:45.563177",
         "song": "Ambrosia - Biggest Part Of Me"
-    },
-    {
-        "timestamp": "2026-04-21T04:20:57.186226",
-        "song": "Tower of Power - You're Still A Young Man"
     }
 ]
