@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-28T01:16:46.111272",
+        "song": "The Who - Who Are You"
+    },
+    {
         "timestamp": "2026-04-27T23:32:03.781683",
         "song": "Dave Edmunds - I Hear You Knocking"
     },
@@ -518,13 +522,5 @@
     {
         "timestamp": "2026-04-21T04:20:57.186226",
         "song": "Tower of Power - You're Still A Young Man"
-    },
-    {
-        "timestamp": "2026-04-21T01:09:54.913524",
-        "song": "Elton John - Mama Can't Buy You Love"
-    },
-    {
-        "timestamp": "2026-04-20T23:43:02.641096",
-        "song": "Van Morrison - Moondance"
     }
 ]
