@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-28T11:24:50.175845",
+        "song": "Brothers Johnson - I'll Be Good To You"
+    },
+    {
         "timestamp": "2026-04-28T09:36:57.847482",
         "song": "Partridge Family - I Think I Love You"
     },
@@ -514,13 +518,5 @@
     {
         "timestamp": "2026-04-21T12:05:09.816900",
         "song": "Billy Joel - My Life"
-    },
-    {
-        "timestamp": "2026-04-21T10:59:32.525923",
-        "song": "Cornelius Brothers & Sister Rose - Treat Her Like A Lady"
-    },
-    {
-        "timestamp": "2026-04-21T09:53:11.945861",
-        "song": "Cars - Let's Go"
     }
 ]
