@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-29T18:07:35.067901",
+        "song": "Bee Gees - Fanny (Be Tender With My Love)"
+    },
+    {
         "timestamp": "2026-04-29T16:52:44.417458",
         "song": "Stephanie Mills - Never Knew Love Like This Before"
     },
@@ -490,9 +494,5 @@
     {
         "timestamp": "2026-04-22T18:15:53.137501",
         "song": "Golden Earring - Radar Love"
-    },
-    {
-        "timestamp": "2026-04-22T17:17:32.212322",
-        "song": "Dr. Hook - Sexy Eyes"
     }
 ]
