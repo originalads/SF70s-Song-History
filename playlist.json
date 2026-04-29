@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-29T15:09:13.060447",
+        "song": "Stevie Wonder - Superstition"
+    },
+    {
         "timestamp": "2026-04-29T12:54:37.213016",
         "song": "Billy Paul - Me And Mrs. Jones"
     },
@@ -490,13 +494,5 @@
     {
         "timestamp": "2026-04-22T16:17:33.529977",
         "song": "Ringo Starr - You're Sixteen"
-    },
-    {
-        "timestamp": "2026-04-22T15:02:47.747849",
-        "song": "Boston - More Than A Feeling"
-    },
-    {
-        "timestamp": "2026-04-22T13:49:51.697731",
-        "song": "Earth, Wind & Fire - September"
     }
 ]
