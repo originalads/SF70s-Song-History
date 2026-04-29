@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-29T09:23:42.509339",
+        "song": "Miracles - Love Machine"
+    },
+    {
         "timestamp": "2026-04-29T07:10:32.054801",
         "song": "Wild Cherry - Play That Funky Music"
     },
@@ -498,9 +502,5 @@
     {
         "timestamp": "2026-04-22T09:48:54.478243",
         "song": "Walter Egan - Magnet And Steel"
-    },
-    {
-        "timestamp": "2026-04-22T08:07:12.761728",
-        "song": "L.T.D. - (Every Time I Turn Around) Back in Love Again"
     }
 ]
