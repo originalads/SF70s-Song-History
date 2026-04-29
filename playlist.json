@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-29T04:42:11.149853",
+        "song": "Carly Simon - The Right Thing To Do"
+    },
+    {
         "timestamp": "2026-04-29T01:18:11.530602",
         "song": "Nitty Gritty Dirt Band - Mr. Bojangles"
     },
@@ -498,9 +502,5 @@
     {
         "timestamp": "2026-04-22T06:13:18.518074",
         "song": "Eric Clapton - Promises"
-    },
-    {
-        "timestamp": "2026-04-22T04:15:54.505266",
-        "song": "Pure Prairie League - Let Me Love You Tonight"
     }
 ]
