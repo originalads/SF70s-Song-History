@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-29T07:10:32.054801",
+        "song": "Wild Cherry - Play That Funky Music"
+    },
+    {
         "timestamp": "2026-04-29T04:42:11.149853",
         "song": "Carly Simon - The Right Thing To Do"
     },
@@ -498,9 +502,5 @@
     {
         "timestamp": "2026-04-22T08:07:12.761728",
         "song": "L.T.D. - (Every Time I Turn Around) Back in Love Again"
-    },
-    {
-        "timestamp": "2026-04-22T06:13:18.518074",
-        "song": "Eric Clapton - Promises"
     }
 ]
