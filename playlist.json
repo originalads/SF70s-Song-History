@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-30T15:12:17.082584",
+        "song": "Chicago - Make Me Smile"
+    },
+    {
         "timestamp": "2026-04-30T12:57:22.143367",
         "song": "Neil Sedaka - Bad Blood"
     },
@@ -478,9 +482,5 @@
     {
         "timestamp": "2026-04-23T16:50:39.528868",
         "song": "Stampeders - Sweet City Woman"
-    },
-    {
-        "timestamp": "2026-04-23T15:03:43.887890",
-        "song": "Commodores - Brick House"
     }
 ]
