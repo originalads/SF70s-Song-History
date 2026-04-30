@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-30T19:45:09.866226",
+        "song": "Neil Diamond - Sweet Caroline"
+    },
+    {
         "timestamp": "2026-04-30T17:59:55.979431",
         "song": "Electric Light Orchestra - Shine A Little Love"
     },
@@ -478,13 +482,5 @@
     {
         "timestamp": "2026-04-23T20:31:40.228359",
         "song": "Steve Miller Band - Swingtown"
-    },
-    {
-        "timestamp": "2026-04-23T19:26:21.887772",
-        "song": "Spinners - Rubberband Man"
-    },
-    {
-        "timestamp": "2026-04-23T18:00:40.465822",
-        "song": "Eddie Money - Two Tickets To Paradise"
     }
 ]
