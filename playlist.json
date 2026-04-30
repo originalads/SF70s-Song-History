@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-30T17:59:55.979431",
+        "song": "Electric Light Orchestra - Shine A Little Love"
+    },
+    {
         "timestamp": "2026-04-30T16:48:11.136016",
         "song": "O'Jays - For The Love Of Money"
     },
@@ -482,9 +486,5 @@
     {
         "timestamp": "2026-04-23T18:00:40.465822",
         "song": "Eddie Money - Two Tickets To Paradise"
-    },
-    {
-        "timestamp": "2026-04-23T16:50:39.528868",
-        "song": "Stampeders - Sweet City Woman"
     }
 ]
