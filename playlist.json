@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-30T20:44:15.007258",
+        "song": "Stevie Wonder - You Are The Sunshine Of My Life"
+    },
+    {
         "timestamp": "2026-04-30T19:45:09.866226",
         "song": "Neil Diamond - Sweet Caroline"
     },
@@ -478,9 +482,5 @@
     {
         "timestamp": "2026-04-23T21:25:56.593585",
         "song": "Marshall Tucker Band - Heard It In A Love Song"
-    },
-    {
-        "timestamp": "2026-04-23T20:31:40.228359",
-        "song": "Steve Miller Band - Swingtown"
     }
 ]
