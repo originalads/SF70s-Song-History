@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-04-30T12:57:22.143367",
+        "song": "Neil Sedaka - Bad Blood"
+    },
+    {
         "timestamp": "2026-04-30T11:15:55.661696",
         "song": "Stevie Nicks - Edge of Seventeen"
     },
@@ -478,13 +482,5 @@
     {
         "timestamp": "2026-04-23T15:03:43.887890",
         "song": "Commodores - Brick House"
-    },
-    {
-        "timestamp": "2026-04-23T12:50:56.149443",
-        "song": "Linda Ronstadt - That'll Be The Day"
-    },
-    {
-        "timestamp": "2026-04-23T11:49:20.796363",
-        "song": "Cheryl Lynn - Got To Be Real"
     }
 ]
