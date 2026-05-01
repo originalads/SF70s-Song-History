@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-01T16:11:38.426942",
+        "song": "Doobie Brothers - Jesus Is Just Alright With Me"
+    },
+    {
         "timestamp": "2026-05-01T15:13:48.955575",
         "song": "Bay City Rollers - You Made Me Believe In Magic"
     },
@@ -482,9 +486,5 @@
     {
         "timestamp": "2026-04-24T16:14:11.705473",
         "song": "Badfinger - No Matter What"
-    },
-    {
-        "timestamp": "2026-04-24T15:17:35.841482",
-        "song": "Simon & Garfunkel - Cecilia"
     }
 ]
