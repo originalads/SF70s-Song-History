@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-01T20:32:36.427817",
+        "song": "Jackson 5 - I'll Be There"
+    },
+    {
         "timestamp": "2026-05-01T19:39:16.365730",
         "song": "Four Seasons - Who Loves You"
     },
@@ -478,9 +482,5 @@
     {
         "timestamp": "2026-04-24T20:58:45.890939",
         "song": "Raspberries - Go All The Way"
-    },
-    {
-        "timestamp": "2026-04-24T19:58:52.131007",
-        "song": "Bob Seger & The Silver Bullet Band - Hollywood Nights"
     }
 ]
