@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-01T23:27:30.928302",
+        "song": "Commodores - Too Hot Ta Trot"
+    },
+    {
         "timestamp": "2026-05-01T22:27:00.704014",
         "song": "Tony Orlando & Dawn - He Don't Love You"
     },
@@ -474,13 +478,5 @@
     {
         "timestamp": "2026-04-25T00:00:46.666539",
         "song": "Eagles - One Of These Nights"
-    },
-    {
-        "timestamp": "2026-04-24T23:22:48.522402",
-        "song": "Donna Summer - On the Radio"
-    },
-    {
-        "timestamp": "2026-04-24T22:34:13.376509",
-        "song": "Billy Paul - Me And Mrs. Jones"
     }
 ]
