@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-02T04:27:32.092945",
+        "song": "Dramatics - Whatcha See Is Whatcha Get"
+    },
+    {
         "timestamp": "2026-05-02T01:11:48.878722",
         "song": "Creedence Clearwater Revival - Travellin' Band"
     },
@@ -474,9 +478,5 @@
     {
         "timestamp": "2026-04-25T05:26:38.804195",
         "song": "Rose Royce - Car Wash"
-    },
-    {
-        "timestamp": "2026-04-25T03:26:28.284282",
-        "song": "Patrick Hernandez - Born To Be Alive"
     }
 ]
