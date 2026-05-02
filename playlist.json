@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-02T01:11:48.878722",
+        "song": "Creedence Clearwater Revival - Travellin' Band"
+    },
+    {
         "timestamp": "2026-05-01T23:27:30.928302",
         "song": "Commodores - Too Hot Ta Trot"
     },
@@ -474,9 +478,5 @@
     {
         "timestamp": "2026-04-25T03:26:28.284282",
         "song": "Patrick Hernandez - Born To Be Alive"
-    },
-    {
-        "timestamp": "2026-04-25T00:00:46.666539",
-        "song": "Eagles - One Of These Nights"
     }
 ]
