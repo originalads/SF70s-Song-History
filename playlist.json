@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-02T19:41:44.691222",
+        "song": "Queen - We Will Rock You...We Are The Champions"
+    },
+    {
         "timestamp": "2026-05-02T18:39:50.699705",
         "song": "Cher - Dark Lady"
     },
@@ -466,9 +470,5 @@
     {
         "timestamp": "2026-04-25T19:42:36.201899",
         "song": "Elton John - Honky Cat"
-    },
-    {
-        "timestamp": "2026-04-25T18:55:36.535714",
-        "song": "Dr. Hook - Only Sixteen"
     }
 ]
