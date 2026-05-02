@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-02T17:51:43.304816",
+        "song": "Paul McCartney - Uncle Albert"
+    },
+    {
         "timestamp": "2026-05-02T16:58:39.205708",
         "song": "Olivia Newton-John - Let Me Be There"
     },
@@ -466,9 +470,5 @@
     {
         "timestamp": "2026-04-25T17:56:33.258748",
         "song": "John Stewart - Gold"
-    },
-    {
-        "timestamp": "2026-04-25T17:10:09.439550",
-        "song": "Lipps, Inc. - Funkytown"
     }
 ]
