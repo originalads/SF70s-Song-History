@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-02T09:19:09.334580",
+        "song": "Joe Jackson - Is She Really Going Out With Him"
+    },
+    {
         "timestamp": "2026-05-02T08:07:02.764714",
         "song": "Steely Dan - Hey 19"
     },
@@ -470,9 +474,5 @@
     {
         "timestamp": "2026-04-25T09:52:51.448891",
         "song": "Rupert Holmes - Escape"
-    },
-    {
-        "timestamp": "2026-04-25T08:56:01.952088",
-        "song": "Mark Lindsay - Arizona"
     }
 ]
