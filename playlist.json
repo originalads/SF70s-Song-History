@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-02T06:25:40.489496",
+        "song": "Rare Earth - I Just Want To Celebrate"
+    },
+    {
         "timestamp": "2026-05-02T04:27:32.092945",
         "song": "Dramatics - Whatcha See Is Whatcha Get"
     },
@@ -474,9 +478,5 @@
     {
         "timestamp": "2026-04-25T06:50:18.008556",
         "song": "America - Ventura Highway"
-    },
-    {
-        "timestamp": "2026-04-25T05:26:38.804195",
-        "song": "Rose Royce - Car Wash"
     }
 ]
