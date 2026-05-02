@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-02T11:07:52.691054",
+        "song": "Bob Seger & The Silver Bullet Band - Night Moves"
+    },
+    {
         "timestamp": "2026-05-02T10:13:39.944308",
         "song": "Al Green - Sha-La-La (Make Me Happy)"
     },
@@ -470,9 +474,5 @@
     {
         "timestamp": "2026-04-25T11:24:41.250589",
         "song": "King Floyd - Groove Me"
-    },
-    {
-        "timestamp": "2026-04-25T10:36:03.368940",
-        "song": "Joe Walsh - Life's Been Good"
     }
 ]
