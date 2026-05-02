@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-02T23:26:48.469847",
+        "song": "Bob Seger & The Silver Bullet Band - Mainstreet"
+    },
+    {
         "timestamp": "2026-05-02T22:40:59.098178",
         "song": "Herb Alpert - Rise"
     },
@@ -462,9 +466,5 @@
     {
         "timestamp": "2026-04-25T23:49:44.929947",
         "song": "Vicki Lawrence - The Night The Lights Went Out In Georgia"
-    },
-    {
-        "timestamp": "2026-04-25T23:00:55.616456",
-        "song": "Fleetwood Mac - Go Your Own Way"
     }
 ]
