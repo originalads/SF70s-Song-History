@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-02T20:24:16.684185",
+        "song": "Bee Gees - Stayin' Alive"
+    },
+    {
         "timestamp": "2026-05-02T19:41:44.691222",
         "song": "Queen - We Will Rock You...We Are The Champions"
     },
@@ -462,13 +466,5 @@
     {
         "timestamp": "2026-04-25T21:00:58.679065",
         "song": "Jefferson Starship - Jane"
-    },
-    {
-        "timestamp": "2026-04-25T20:21:50.066513",
-        "song": "Nick Gilder - Hot Child In The City"
-    },
-    {
-        "timestamp": "2026-04-25T19:42:36.201899",
-        "song": "Elton John - Honky Cat"
     }
 ]
