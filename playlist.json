@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-03T04:08:58.812925",
+        "song": "Earth, Wind & Fire - Let's Groove"
+    },
+    {
         "timestamp": "2026-05-03T00:08:10.267535",
         "song": "Earth, Wind & Fire - September"
     },
@@ -462,9 +466,5 @@
     {
         "timestamp": "2026-04-26T04:33:04.707187",
         "song": "O'Jays - I Love Music"
-    },
-    {
-        "timestamp": "2026-04-26T01:15:46.364302",
-        "song": "Steely Dan - Rikki Don't Lose That Number"
     }
 ]
