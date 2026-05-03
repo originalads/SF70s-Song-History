@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-03T15:26:57.242027",
+        "song": "Frankie Valli - My Eyes Adored You"
+    },
+    {
         "timestamp": "2026-05-03T14:36:09.750223",
         "song": "First Class - Beach Baby"
     },
@@ -454,9 +458,5 @@
     {
         "timestamp": "2026-04-26T16:04:55.671750",
         "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
-    },
-    {
-        "timestamp": "2026-04-26T15:25:06.023488",
-        "song": "Whispers - It's A Love Thing"
     }
 ]
