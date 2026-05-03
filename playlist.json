@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-03T21:41:44.597018",
+        "song": "James Taylor - You've Got A Friend"
+    },
+    {
         "timestamp": "2026-05-03T20:56:14.102621",
         "song": "Elton John - Mama Can't Buy You Love"
     },
@@ -450,9 +454,5 @@
     {
         "timestamp": "2026-04-26T22:06:41.024263",
         "song": "Simon & Garfunkel - My Little Town"
-    },
-    {
-        "timestamp": "2026-04-26T21:34:08.108673",
-        "song": "Electric Light Orchestra - Livin' Thing"
     }
 ]
