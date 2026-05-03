@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-03T19:12:30.066672",
+        "song": "Grand Funk - We're An American Band"
+    },
+    {
         "timestamp": "2026-05-03T18:00:10.383041",
         "song": "George Harrison - My Sweet Lord"
     },
@@ -454,9 +458,5 @@
     {
         "timestamp": "2026-04-26T19:30:38.247424",
         "song": "George Harrison - My Sweet Lord"
-    },
-    {
-        "timestamp": "2026-04-26T18:31:04.193063",
-        "song": "Sly & The Family Stone - Hot Fun In The Summertime"
     }
 ]
