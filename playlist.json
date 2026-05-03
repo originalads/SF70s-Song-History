@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-03T00:08:10.267535",
+        "song": "Earth, Wind & Fire - September"
+    },
+    {
         "timestamp": "2026-05-02T23:26:48.469847",
         "song": "Bob Seger & The Silver Bullet Band - Mainstreet"
     },
@@ -462,9 +466,5 @@
     {
         "timestamp": "2026-04-26T01:15:46.364302",
         "song": "Steely Dan - Rikki Don't Lose That Number"
-    },
-    {
-        "timestamp": "2026-04-25T23:49:44.929947",
-        "song": "Vicki Lawrence - The Night The Lights Went Out In Georgia"
     }
 ]
