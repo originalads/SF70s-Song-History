@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-03T20:00:08.034751",
+        "song": "Blue Oyster Cult - Don't Fear The Reaper"
+    },
+    {
         "timestamp": "2026-05-03T19:12:30.066672",
         "song": "Grand Funk - We're An American Band"
     },
@@ -454,9 +458,5 @@
     {
         "timestamp": "2026-04-26T20:05:00.497060",
         "song": "Carole King - Sweet Seasons"
-    },
-    {
-        "timestamp": "2026-04-26T19:30:38.247424",
-        "song": "George Harrison - My Sweet Lord"
     }
 ]
