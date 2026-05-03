@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-03T20:56:14.102621",
+        "song": "Elton John - Mama Can't Buy You Love"
+    },
+    {
         "timestamp": "2026-05-03T20:00:08.034751",
         "song": "Blue Oyster Cult - Don't Fear The Reaper"
     },
@@ -450,13 +454,5 @@
     {
         "timestamp": "2026-04-26T21:34:08.108673",
         "song": "Electric Light Orchestra - Livin' Thing"
-    },
-    {
-        "timestamp": "2026-04-26T20:54:38.544810",
-        "song": "Orleans - Love Takes Time"
-    },
-    {
-        "timestamp": "2026-04-26T20:05:00.497060",
-        "song": "Carole King - Sweet Seasons"
     }
 ]
