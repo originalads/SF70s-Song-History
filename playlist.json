@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-04T09:08:23.364775",
+        "song": "Earth, Wind & Fire - Got To Get You Into My Life"
+    },
+    {
         "timestamp": "2026-05-04T06:48:42.239765",
         "song": "Diana Ross - Upside Down"
     },
@@ -450,9 +454,5 @@
     {
         "timestamp": "2026-04-27T09:36:30.487193",
         "song": "Heart  - Barracuda"
-    },
-    {
-        "timestamp": "2026-04-27T07:24:36.202093",
-        "song": "Ringo Starr - You're Sixteen"
     }
 ]
