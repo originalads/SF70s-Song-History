@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-04T04:02:30.498092",
+        "song": "Sanford Townsend Band - Smoke From A Distant Fire"
+    },
+    {
         "timestamp": "2026-05-04T00:02:13.239870",
         "song": "Hot Chocolate - You Sexy Thing"
     },
@@ -450,9 +454,5 @@
     {
         "timestamp": "2026-04-27T04:42:29.916822",
         "song": "Eric Clapton - Lay Down Sally"
-    },
-    {
-        "timestamp": "2026-04-27T01:14:52.377921",
-        "song": "Dire Straits - Sultans Of Swing"
     }
 ]
