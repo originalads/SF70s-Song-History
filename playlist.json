@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-04T17:01:22.247525",
+        "song": "Paul McCartney - Jet"
+    },
+    {
         "timestamp": "2026-05-04T15:12:03.009833",
         "song": "Lynyrd Skynyrd - Free Bird"
     },
@@ -446,13 +450,5 @@
     {
         "timestamp": "2026-04-27T18:03:55.804051",
         "song": "Aretha Franklin - Rock Steady"
-    },
-    {
-        "timestamp": "2026-04-27T16:56:13.721118",
-        "song": "Chicago - Alive Again"
-    },
-    {
-        "timestamp": "2026-04-27T15:12:25.464088",
-        "song": "David Naughton - Makin' It"
     }
 ]
