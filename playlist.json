@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-05T16:53:34.487077",
+        "song": "Rickie Lee Jones - Chuck E's In Love"
+    },
+    {
         "timestamp": "2026-05-05T15:09:09.260642",
         "song": "Barry White - Can't Get Enough Of Your Love Babe"
     },
@@ -450,9 +454,5 @@
     {
         "timestamp": "2026-04-28T17:17:38.060202",
         "song": "Helen Reddy - I Am Woman"
-    },
-    {
-        "timestamp": "2026-04-28T15:37:16.859155",
-        "song": "Rolling Stones - Tumbling Dice"
     }
 ]
