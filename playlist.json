@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-05T15:09:09.260642",
+        "song": "Barry White - Can't Get Enough Of Your Love Babe"
+    },
+    {
         "timestamp": "2026-05-05T12:56:30.525575",
         "song": "Electric Light Orchestra - Strange Magic"
     },
@@ -450,9 +454,5 @@
     {
         "timestamp": "2026-04-28T15:37:16.859155",
         "song": "Rolling Stones - Tumbling Dice"
-    },
-    {
-        "timestamp": "2026-04-28T13:10:22.739876",
-        "song": "Chic - Dance Dance Dance"
     }
 ]
