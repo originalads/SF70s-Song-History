@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-05T10:17:13.331833",
+        "song": "Helen Reddy - Delta Dawn"
+    },
+    {
         "timestamp": "2026-05-05T08:26:25.881606",
         "song": "Janis Joplin - Me And Bobby McGee"
     },
@@ -446,9 +450,5 @@
     {
         "timestamp": "2026-04-28T11:24:50.175845",
         "song": "Brothers Johnson - I'll Be Good To You"
-    },
-    {
-        "timestamp": "2026-04-28T09:36:57.847482",
-        "song": "Partridge Family - I Think I Love You"
     }
 ]
