@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-07T04:46:37.499409",
+        "song": "Neil Sedaka - Bad Blood"
+    },
+    {
         "timestamp": "2026-05-07T01:18:43.188128",
         "song": "Bonnie Tyler - It's A Heartache"
     },
@@ -450,9 +454,5 @@
     {
         "timestamp": "2026-04-30T04:46:50.071509",
         "song": "KC & The Sunshine Band - Shake Your Booty"
-    },
-    {
-        "timestamp": "2026-04-30T01:21:13.862382",
-        "song": "Commodores - Still"
     }
 ]
