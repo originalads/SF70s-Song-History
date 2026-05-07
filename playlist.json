@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-07T14:40:30.766796",
+        "song": "David Ruffin - Walk Away From Love"
+    },
+    {
         "timestamp": "2026-05-07T12:00:05.954562",
         "song": "George Harrison - My Sweet Lord"
     },
@@ -446,9 +450,5 @@
     {
         "timestamp": "2026-04-30T15:12:17.082584",
         "song": "Chicago - Make Me Smile"
-    },
-    {
-        "timestamp": "2026-04-30T12:57:22.143367",
-        "song": "Neil Sedaka - Bad Blood"
     }
 ]
