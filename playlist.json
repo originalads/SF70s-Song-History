@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-07T07:33:20.840711",
+        "song": "Sly & The Family Stone - Family Affair"
+    },
+    {
         "timestamp": "2026-05-07T04:46:37.499409",
         "song": "Neil Sedaka - Bad Blood"
     },
@@ -446,13 +450,5 @@
     {
         "timestamp": "2026-04-30T09:30:43.240910",
         "song": "T. Rex - Bang A Gong"
-    },
-    {
-        "timestamp": "2026-04-30T07:17:04.546288",
-        "song": "Rufus & Chaka Khan  - Sweet Thing"
-    },
-    {
-        "timestamp": "2026-04-30T04:46:50.071509",
-        "song": "KC & The Sunshine Band - Shake Your Booty"
     }
 ]
