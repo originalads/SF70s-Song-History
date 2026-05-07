@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-07T10:03:03.900346",
+        "song": "Tony Orlando & Dawn - Tie A Yellow Ribbon Round The Ole Oak Tree"
+    },
+    {
         "timestamp": "2026-05-07T07:33:20.840711",
         "song": "Sly & The Family Stone - Family Affair"
     },
@@ -446,9 +450,5 @@
     {
         "timestamp": "2026-04-30T11:15:55.661696",
         "song": "Stevie Nicks - Edge of Seventeen"
-    },
-    {
-        "timestamp": "2026-04-30T09:30:43.240910",
-        "song": "T. Rex - Bang A Gong"
     }
 ]
