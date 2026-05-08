@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-08T10:10:29.447255",
+        "song": "Chic - Good Times"
+    },
+    {
         "timestamp": "2026-05-08T08:48:22.062157",
         "song": "Chi-Lites - Oh Girl"
     },
@@ -446,9 +450,5 @@
     {
         "timestamp": "2026-05-01T10:48:02.196129",
         "song": "Bread - Make It With You"
-    },
-    {
-        "timestamp": "2026-05-01T09:18:23.851471",
-        "song": "William DeVaughn - Be Thankful"
     }
 ]
