@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-08T16:21:34.766988",
+        "song": "ABBA - Fernando"
+    },
+    {
         "timestamp": "2026-05-08T14:59:12.762956",
         "song": "Friends of Distinction  - Love Or Let Me Be Lonely"
     },
@@ -438,13 +442,5 @@
     {
         "timestamp": "2026-05-01T17:13:43.087643",
         "song": "Argent - Hold Your Head Up"
-    },
-    {
-        "timestamp": "2026-05-01T16:11:38.426942",
-        "song": "Doobie Brothers - Jesus Is Just Alright With Me"
-    },
-    {
-        "timestamp": "2026-05-01T15:13:48.955575",
-        "song": "Bay City Rollers - You Made Me Believe In Magic"
     }
 ]
