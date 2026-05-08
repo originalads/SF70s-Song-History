@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-08T13:00:03.990543",
+        "song": "Climax Blues Band - Couldn't Get It Right"
+    },
+    {
         "timestamp": "2026-05-08T11:44:34.112764",
         "song": "Shocking Blue - Venus"
     },
@@ -442,13 +446,5 @@
     {
         "timestamp": "2026-05-01T14:08:24.529290",
         "song": "Heatwave - Boogie Nights"
-    },
-    {
-        "timestamp": "2026-05-01T12:43:50.422166",
-        "song": "Beatles - Let It Be"
-    },
-    {
-        "timestamp": "2026-05-01T11:46:26.108730",
-        "song": "Terry Jacks - Seasons In The Sun"
     }
 ]
