@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-08T22:13:22.663934",
+        "song": "Peter Frampton - Show Me The Way"
+    },
+    {
         "timestamp": "2026-05-08T21:15:21.987146",
         "song": "Elton John - The Bitch Is Back"
     },
@@ -438,9 +442,5 @@
     {
         "timestamp": "2026-05-01T22:27:00.704014",
         "song": "Tony Orlando & Dawn - He Don't Love You"
-    },
-    {
-        "timestamp": "2026-05-01T21:29:29.778022",
-        "song": "Main Ingredient - Everybody Plays The Fool"
     }
 ]
