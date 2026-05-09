@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-09T03:54:46.579701",
+        "song": "Atlanta Rhythm Section - Imaginary Lover"
+    },
+    {
         "timestamp": "2026-05-09T00:10:02.627459",
         "song": "Elton John - Bennie And The Jets"
     },
@@ -438,9 +442,5 @@
     {
         "timestamp": "2026-05-02T04:27:32.092945",
         "song": "Dramatics - Whatcha See Is Whatcha Get"
-    },
-    {
-        "timestamp": "2026-05-02T01:11:48.878722",
-        "song": "Creedence Clearwater Revival - Travellin' Band"
     }
 ]
