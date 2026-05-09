@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-09T08:12:00.058509",
+        "song": "Lynyrd Skynyrd - Free Bird"
+    },
+    {
         "timestamp": "2026-05-09T06:12:14.827845",
         "song": "Grand Funk - We're An American Band"
     },
@@ -434,13 +438,5 @@
     {
         "timestamp": "2026-05-02T09:19:09.334580",
         "song": "Joe Jackson - Is She Really Going Out With Him"
-    },
-    {
-        "timestamp": "2026-05-02T08:07:02.764714",
-        "song": "Steely Dan - Hey 19"
-    },
-    {
-        "timestamp": "2026-05-02T06:25:40.489496",
-        "song": "Rare Earth - I Just Want To Celebrate"
     }
 ]
