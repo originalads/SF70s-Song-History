@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-09T23:28:09.190342",
+        "song": "Tony Orlando & Dawn - Sweet Gypsy Rose"
+    },
+    {
         "timestamp": "2026-05-09T22:35:18.278666",
         "song": "Bob Seger & The Silver Bullet Band - Mainstreet"
     },
@@ -426,13 +430,5 @@
     {
         "timestamp": "2026-05-03T00:08:10.267535",
         "song": "Earth, Wind & Fire - September"
-    },
-    {
-        "timestamp": "2026-05-02T23:26:48.469847",
-        "song": "Bob Seger & The Silver Bullet Band - Mainstreet"
-    },
-    {
-        "timestamp": "2026-05-02T22:40:59.098178",
-        "song": "Herb Alpert - Rise"
     }
 ]
