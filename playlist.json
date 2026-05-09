@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-09T06:12:14.827845",
+        "song": "Grand Funk - We're An American Band"
+    },
+    {
         "timestamp": "2026-05-09T03:54:46.579701",
         "song": "Atlanta Rhythm Section - Imaginary Lover"
     },
@@ -438,9 +442,5 @@
     {
         "timestamp": "2026-05-02T06:25:40.489496",
         "song": "Rare Earth - I Just Want To Celebrate"
-    },
-    {
-        "timestamp": "2026-05-02T04:27:32.092945",
-        "song": "Dramatics - Whatcha See Is Whatcha Get"
     }
 ]
