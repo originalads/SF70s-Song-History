@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-09T21:53:35.178755",
+        "song": "Chic - Le Freak"
+    },
+    {
         "timestamp": "2026-05-09T20:58:31.340411",
         "song": "KC & the Sunshine Band - Please Don't Go"
     },
@@ -430,9 +434,5 @@
     {
         "timestamp": "2026-05-02T21:55:59.204156",
         "song": "Cars - Let's Go"
-    },
-    {
-        "timestamp": "2026-05-02T21:06:28.549514",
-        "song": "Barbra Streisand - Stoney End"
     }
 ]
