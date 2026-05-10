@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-10T17:34:37.123182",
+        "song": "Bob Seger & The Silver Bullet Band - Hollywood Nights"
+    },
+    {
         "timestamp": "2026-05-10T16:35:59.338655",
         "song": "Gordon Lightfoot - Sundown"
     },
@@ -422,9 +426,5 @@
     {
         "timestamp": "2026-05-03T18:00:10.383041",
         "song": "George Harrison - My Sweet Lord"
-    },
-    {
-        "timestamp": "2026-05-03T17:06:59.704333",
-        "song": "Bobby Sherman - Easy Come, Easy Go"
     }
 ]
