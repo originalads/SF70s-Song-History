@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-10T04:54:56.710104",
+        "song": "Marie Osmond - Paper Roses"
+    },
+    {
         "timestamp": "2026-05-10T01:21:11.851952",
         "song": "Electric Light Orchestra - Telephone Line"
     },
@@ -426,9 +430,5 @@
     {
         "timestamp": "2026-05-03T06:39:05.230149",
         "song": "Partridge Family - I Think I Love You"
-    },
-    {
-        "timestamp": "2026-05-03T04:08:58.812925",
-        "song": "Earth, Wind & Fire - Let's Groove"
     }
 ]
