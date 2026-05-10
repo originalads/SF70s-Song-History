@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-10T11:30:38.324805",
+        "song": "Andy Gibb - I Just Want To Be Your Everything"
+    },
+    {
         "timestamp": "2026-05-10T10:37:43.291773",
         "song": "Firefall - Just Remember I Love You"
     },
@@ -422,13 +426,5 @@
     {
         "timestamp": "2026-05-03T12:05:30.309336",
         "song": "Nick Lowe - Cruel To Be Kind"
-    },
-    {
-        "timestamp": "2026-05-03T11:25:57.552427",
-        "song": "Donna Summer - Dim All The Lights"
-    },
-    {
-        "timestamp": "2026-05-03T10:39:14.538795",
-        "song": "Blues Image - Ride Captain Ride"
     }
 ]
