@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-10T16:35:59.338655",
+        "song": "Gordon Lightfoot - Sundown"
+    },
+    {
         "timestamp": "2026-05-10T15:40:36.277129",
         "song": "ABBA - The Winner Takes It All"
     },
@@ -422,9 +426,5 @@
     {
         "timestamp": "2026-05-03T17:06:59.704333",
         "song": "Bobby Sherman - Easy Come, Easy Go"
-    },
-    {
-        "timestamp": "2026-05-03T16:09:18.625739",
-        "song": "Isaac Hayes - Theme From Shaft"
     }
 ]
