@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-10T14:51:34.625271",
+        "song": "Leon Russell - Tight Rope"
+    },
+    {
         "timestamp": "2026-05-10T13:55:39.656233",
         "song": "Dobie Gray - Drift Away"
     },
@@ -422,9 +426,5 @@
     {
         "timestamp": "2026-05-03T15:26:57.242027",
         "song": "Frankie Valli - My Eyes Adored You"
-    },
-    {
-        "timestamp": "2026-05-03T14:36:09.750223",
-        "song": "First Class - Beach Baby"
     }
 ]
