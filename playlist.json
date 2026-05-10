@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-10T18:36:30.073481",
+        "song": "Elton John - Honky Cat"
+    },
+    {
         "timestamp": "2026-05-10T17:34:37.123182",
         "song": "Bob Seger & The Silver Bullet Band - Hollywood Nights"
     },
@@ -422,9 +426,5 @@
     {
         "timestamp": "2026-05-03T19:12:30.066672",
         "song": "Grand Funk - We're An American Band"
-    },
-    {
-        "timestamp": "2026-05-03T18:00:10.383041",
-        "song": "George Harrison - My Sweet Lord"
     }
 ]
