@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-10T20:31:02.132299",
+        "song": "Edgar Winter Group - Free Ride"
+    },
+    {
         "timestamp": "2026-05-10T19:43:43.232316",
         "song": "Jacksons - Shake Your Body"
     },
@@ -422,9 +426,5 @@
     {
         "timestamp": "2026-05-03T20:56:14.102621",
         "song": "Elton John - Mama Can't Buy You Love"
-    },
-    {
-        "timestamp": "2026-05-03T20:00:08.034751",
-        "song": "Blue Oyster Cult - Don't Fear The Reaper"
     }
 ]
