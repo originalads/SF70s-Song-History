@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-11T00:07:38.137806",
+        "song": "Heatwave - Boogie Nights"
+    },
+    {
         "timestamp": "2026-05-10T23:09:01.385246",
         "song": "Cheryl Lynn - Got To Be Real"
     },
@@ -418,13 +422,5 @@
     {
         "timestamp": "2026-05-04T04:02:30.498092",
         "song": "Sanford Townsend Band - Smoke From A Distant Fire"
-    },
-    {
-        "timestamp": "2026-05-04T00:02:13.239870",
-        "song": "Hot Chocolate - You Sexy Thing"
-    },
-    {
-        "timestamp": "2026-05-03T23:09:34.493212",
-        "song": "Brick - Dazz"
     }
 ]
