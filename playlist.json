@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-12T12:20:13.805741",
+        "song": "Billy Joel - Piano Man"
+    },
+    {
         "timestamp": "2026-05-12T10:15:03.456839",
         "song": "Al Stewart - Year Of The Cat"
     },
@@ -406,13 +410,5 @@
     {
         "timestamp": "2026-05-05T12:56:30.525575",
         "song": "Electric Light Orchestra - Strange Magic"
-    },
-    {
-        "timestamp": "2026-05-05T11:42:19.038566",
-        "song": "Electric Light Orchestra - Shine A Little Love"
-    },
-    {
-        "timestamp": "2026-05-05T10:17:13.331833",
-        "song": "Helen Reddy - Delta Dawn"
     }
 ]
