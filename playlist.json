@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-12T23:12:42.680089",
+        "song": "ABBA - Take A Chance On Me"
+    },
+    {
         "timestamp": "2026-05-12T22:02:28.912097",
         "song": "Bee Gees - You Should Be Dancing"
     },
@@ -398,9 +402,5 @@
     {
         "timestamp": "2026-05-05T23:32:42.711698",
         "song": "Jackson 5 - I Want You Back"
-    },
-    {
-        "timestamp": "2026-05-05T22:39:59.138305",
-        "song": "Elton John - Daniel"
     }
 ]
