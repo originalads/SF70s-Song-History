@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-12T07:42:31.936128",
+        "song": "Billy Joel - Only The Good Die Young"
+    },
+    {
         "timestamp": "2026-05-12T04:56:49.371375",
         "song": "Cars - Let's Go"
     },
@@ -410,9 +414,5 @@
     {
         "timestamp": "2026-05-05T08:26:25.881606",
         "song": "Janis Joplin - Me And Bobby McGee"
-    },
-    {
-        "timestamp": "2026-05-05T06:07:26.303679",
-        "song": "Andrea True Connection - More More More"
     }
 ]
