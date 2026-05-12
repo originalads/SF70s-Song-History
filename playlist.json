@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-12T10:15:03.456839",
+        "song": "Al Stewart - Year Of The Cat"
+    },
+    {
         "timestamp": "2026-05-12T07:42:31.936128",
         "song": "Billy Joel - Only The Good Die Young"
     },
@@ -410,9 +414,5 @@
     {
         "timestamp": "2026-05-05T10:17:13.331833",
         "song": "Helen Reddy - Delta Dawn"
-    },
-    {
-        "timestamp": "2026-05-05T08:26:25.881606",
-        "song": "Janis Joplin - Me And Bobby McGee"
     }
 ]
