@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-13T12:21:08.486785",
+        "song": "Carpenters - Superstar"
+    },
+    {
         "timestamp": "2026-05-13T10:05:15.346379",
         "song": "Leon Russell - Tight Rope"
     },
@@ -394,9 +398,5 @@
     {
         "timestamp": "2026-05-06T13:17:06.500522",
         "song": "Knack - My Sharona"
-    },
-    {
-        "timestamp": "2026-05-06T11:30:13.844995",
-        "song": "Manfred Mann's Earth Band - Blinded By The Light"
     }
 ]
