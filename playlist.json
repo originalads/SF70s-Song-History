@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-13T17:27:52.057064",
+        "song": "Carole King - Jazzman"
+    },
+    {
         "timestamp": "2026-05-13T15:19:37.199690",
         "song": "War - Why Can't We Be Friends"
     },
@@ -390,13 +394,5 @@
     {
         "timestamp": "2026-05-06T18:59:00.626064",
         "song": "Captain & Tennille - The Way I Want To Touch You"
-    },
-    {
-        "timestamp": "2026-05-06T17:11:33.154432",
-        "song": "Yarbrough & Peoples - Don't Stop The Music"
-    },
-    {
-        "timestamp": "2026-05-06T15:38:07.431486",
-        "song": "Barry Manilow - Weekend In New England"
     }
 ]
