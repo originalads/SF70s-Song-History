@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-15T16:54:51.505154",
+        "song": "Spinners & Dionne Warwick - Then Came You"
+    },
+    {
         "timestamp": "2026-05-15T14:58:47.718396",
         "song": "Sylvester - You Make Me Feel Mighty Real"
     },
@@ -374,13 +378,5 @@
     {
         "timestamp": "2026-05-08T17:49:15.736976",
         "song": "Whispers - And The Beat Goes On"
-    },
-    {
-        "timestamp": "2026-05-08T16:21:34.766988",
-        "song": "ABBA - Fernando"
-    },
-    {
-        "timestamp": "2026-05-08T14:59:12.762956",
-        "song": "Friends of Distinction  - Love Or Let Me Be Lonely"
     }
 ]
