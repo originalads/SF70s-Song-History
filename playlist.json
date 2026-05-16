@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-16T16:35:01.592545",
+        "song": "David Ruffin - Walk Away From Love"
+    },
+    {
         "timestamp": "2026-05-16T15:38:27.446229",
         "song": "Neil Diamond - Sweet Caroline"
     },
@@ -370,9 +374,5 @@
     {
         "timestamp": "2026-05-09T17:08:04.417428",
         "song": "O'Jays - For The Love Of Money"
-    },
-    {
-        "timestamp": "2026-05-09T16:04:38.741578",
-        "song": "Terry Jacks - Seasons In The Sun"
     }
 ]
