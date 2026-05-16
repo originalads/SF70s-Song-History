@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-16T03:57:22.344142",
+        "song": "Steve Miller Band - Take The Money And Run"
+    },
+    {
         "timestamp": "2026-05-16T00:06:02.287582",
         "song": "Loggins & Messina - Your Mama Don't Dance"
     },
@@ -370,13 +374,5 @@
     {
         "timestamp": "2026-05-09T06:12:14.827845",
         "song": "Grand Funk - We're An American Band"
-    },
-    {
-        "timestamp": "2026-05-09T03:54:46.579701",
-        "song": "Atlanta Rhythm Section - Imaginary Lover"
-    },
-    {
-        "timestamp": "2026-05-09T00:10:02.627459",
-        "song": "Elton John - Bennie And The Jets"
     }
 ]
