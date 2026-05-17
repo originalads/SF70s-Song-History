@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-17T00:09:04.781870",
+        "song": "Yvonne Elliman - If I Can't Have You"
+    },
+    {
         "timestamp": "2026-05-16T23:12:41.203654",
         "song": "Peter Brown - Do You Wanna Get Funky With Me"
     },
@@ -370,9 +374,5 @@
     {
         "timestamp": "2026-05-10T01:21:11.851952",
         "song": "Electric Light Orchestra - Telephone Line"
-    },
-    {
-        "timestamp": "2026-05-09T23:28:09.190342",
-        "song": "Tony Orlando & Dawn - Sweet Gypsy Rose"
     }
 ]
