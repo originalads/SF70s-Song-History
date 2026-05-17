@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-17T07:17:58.440586",
+        "song": "Lynn Anderson - Rose Garden"
+    },
+    {
         "timestamp": "2026-05-17T04:20:30.586561",
         "song": "Rose Royce - I Wanna Get Next To You"
     },
@@ -370,9 +374,5 @@
     {
         "timestamp": "2026-05-10T07:23:32.120485",
         "song": "Paul McCartney - Uncle Albert"
-    },
-    {
-        "timestamp": "2026-05-10T04:54:56.710104",
-        "song": "Marie Osmond - Paper Roses"
     }
 ]
