@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-17T17:18:03.832556",
+        "song": "Boz Scaggs - JoJo"
+    },
+    {
         "timestamp": "2026-05-17T16:15:27.465607",
         "song": "Chicago - Just You N Me"
     },
@@ -366,9 +370,5 @@
     {
         "timestamp": "2026-05-10T17:34:37.123182",
         "song": "Bob Seger & The Silver Bullet Band - Hollywood Nights"
-    },
-    {
-        "timestamp": "2026-05-10T16:35:59.338655",
-        "song": "Gordon Lightfoot - Sundown"
     }
 ]
