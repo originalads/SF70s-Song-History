@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-18T23:38:58.712552",
+        "song": "Boston - Peace Of Mind"
+    },
+    {
         "timestamp": "2026-05-18T22:29:49.440795",
         "song": "Andy Gibb - I Just Want To Be Your Everything"
     },
@@ -358,9 +362,5 @@
     {
         "timestamp": "2026-05-11T23:39:57.024268",
         "song": "Morris Albert - Feelings"
-    },
-    {
-        "timestamp": "2026-05-11T22:40:12.132479",
-        "song": "Olivia Newton-John - Please Mr. Please"
     }
 ]
