@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-18T12:43:37.806885",
+        "song": "Blue Magic - Sideshow"
+    },
+    {
         "timestamp": "2026-05-18T09:01:08.155323",
         "song": "Three Dog Night - Joy To The World"
     },
@@ -358,9 +362,5 @@
     {
         "timestamp": "2026-05-11T14:03:55.016784",
         "song": "Daddy Dewdrop - Chick A Boom"
-    },
-    {
-        "timestamp": "2026-05-11T11:31:29.595809",
-        "song": "Peter Frampton - Show Me The Way"
     }
 ]
