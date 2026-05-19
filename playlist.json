@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-19T23:35:11.202970",
+        "song": "Grand Funk - Some Kind Of Wonderful"
+    },
+    {
         "timestamp": "2026-05-19T22:18:40.183098",
         "song": "James Taylor - You've Got A Friend"
     },
@@ -350,9 +354,5 @@
     {
         "timestamp": "2026-05-13T00:13:43.561581",
         "song": "Eric Clapton - Promises"
-    },
-    {
-        "timestamp": "2026-05-12T23:12:42.680089",
-        "song": "ABBA - Take A Chance On Me"
     }
 ]
