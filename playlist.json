@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-19T01:33:24.158632",
+        "song": "Kenny Rogers - Ruby (Don't Take Your Love to Town)"
+    },
+    {
         "timestamp": "2026-05-18T23:38:58.712552",
         "song": "Boston - Peace Of Mind"
     },
@@ -354,13 +358,5 @@
     {
         "timestamp": "2026-05-12T04:56:49.371375",
         "song": "Cars - Let's Go"
-    },
-    {
-        "timestamp": "2026-05-12T01:23:33.019136",
-        "song": "Ohio Players - Skin Tight"
-    },
-    {
-        "timestamp": "2026-05-11T23:39:57.024268",
-        "song": "Morris Albert - Feelings"
     }
 ]
