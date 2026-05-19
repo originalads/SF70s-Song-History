@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-19T05:47:27.000580",
+        "song": "Glen Campbell - Southern Nights"
+    },
+    {
         "timestamp": "2026-05-19T01:33:24.158632",
         "song": "Kenny Rogers - Ruby (Don't Take Your Love to Town)"
     },
@@ -354,9 +358,5 @@
     {
         "timestamp": "2026-05-12T07:42:31.936128",
         "song": "Billy Joel - Only The Good Die Young"
-    },
-    {
-        "timestamp": "2026-05-12T04:56:49.371375",
-        "song": "Cars - Let's Go"
     }
 ]
