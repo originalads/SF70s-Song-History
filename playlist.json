@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-19T08:49:37.511609",
+        "song": "Atlanta Rhythm Section - So Into You"
+    },
+    {
         "timestamp": "2026-05-19T05:47:27.000580",
         "song": "Glen Campbell - Southern Nights"
     },
@@ -354,9 +358,5 @@
     {
         "timestamp": "2026-05-12T10:15:03.456839",
         "song": "Al Stewart - Year Of The Cat"
-    },
-    {
-        "timestamp": "2026-05-12T07:42:31.936128",
-        "song": "Billy Joel - Only The Good Die Young"
     }
 ]
