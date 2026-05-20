@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-20T14:14:15.536820",
+        "song": "Rick Derringer - Rock And Roll Hoochie Koo"
+    },
+    {
         "timestamp": "2026-05-20T11:37:02.083298",
         "song": "Doobie Brothers - Jesus Is Just Alright With Me"
     },
@@ -350,9 +354,5 @@
     {
         "timestamp": "2026-05-13T15:19:37.199690",
         "song": "War - Why Can't We Be Friends"
-    },
-    {
-        "timestamp": "2026-05-13T12:21:08.486785",
-        "song": "Carpenters - Superstar"
     }
 ]
