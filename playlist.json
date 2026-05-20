@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-20T11:37:02.083298",
+        "song": "Doobie Brothers - Jesus Is Just Alright With Me"
+    },
+    {
         "timestamp": "2026-05-20T08:46:04.167552",
         "song": "KC & The Sunshine Band - Give It Up"
     },
@@ -350,9 +354,5 @@
     {
         "timestamp": "2026-05-13T12:21:08.486785",
         "song": "Carpenters - Superstar"
-    },
-    {
-        "timestamp": "2026-05-13T10:05:15.346379",
-        "song": "Leon Russell - Tight Rope"
     }
 ]
