@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-20T22:52:43.685069",
+        "song": "Billy Joel - Only The Good Die Young"
+    },
+    {
         "timestamp": "2026-05-20T21:26:54.555319",
         "song": "Parliament - Give Up The Funk"
     },
@@ -346,9 +350,5 @@
     {
         "timestamp": "2026-05-13T23:33:13.484772",
         "song": "Queen - We Will Rock You...We Are The Champions"
-    },
-    {
-        "timestamp": "2026-05-13T22:18:27.790279",
-        "song": "Jackson Browne - Doctor My Eyes"
     }
 ]
