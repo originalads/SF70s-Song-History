@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-20T17:34:42.970257",
+        "song": "Stephen Stills - Love The One You're With"
+    },
+    {
         "timestamp": "2026-05-20T14:14:15.536820",
         "song": "Rick Derringer - Rock And Roll Hoochie Koo"
     },
@@ -346,13 +350,5 @@
     {
         "timestamp": "2026-05-13T19:17:58.829729",
         "song": "Toby Beau - My Angel Baby"
-    },
-    {
-        "timestamp": "2026-05-13T17:27:52.057064",
-        "song": "Carole King - Jazzman"
-    },
-    {
-        "timestamp": "2026-05-13T15:19:37.199690",
-        "song": "War - Why Can't We Be Friends"
     }
 ]
