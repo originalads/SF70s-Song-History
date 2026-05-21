@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-21T19:16:49.119699",
+        "song": "Eric Burdon & War - Spill The Wine"
+    },
+    {
         "timestamp": "2026-05-21T17:10:27.217993",
         "song": "Foreigner - Feels Like The First Time"
     },
@@ -338,9 +342,5 @@
     {
         "timestamp": "2026-05-14T20:09:36.244075",
         "song": "Rick James - Mary Jane"
-    },
-    {
-        "timestamp": "2026-05-14T18:19:33.661998",
-        "song": "Neil Diamond - I Am...I Said"
     }
 ]
