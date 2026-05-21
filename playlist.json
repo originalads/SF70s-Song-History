@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-21T14:23:59.653723",
+        "song": "S.O.S. Band - Take Your Time (Do It Right)"
+    },
+    {
         "timestamp": "2026-05-21T11:40:33.216519",
         "song": "Michael Martin Murphey - Wildfire"
     },
@@ -342,9 +346,5 @@
     {
         "timestamp": "2026-05-14T14:42:11.067396",
         "song": "Herb Alpert - Rise"
-    },
-    {
-        "timestamp": "2026-05-14T12:12:43.027244",
-        "song": "Kansas - Carry On Wayward Son"
     }
 ]
