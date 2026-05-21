@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-21T08:19:24.900521",
+        "song": "Paul Davis - Sweet Life"
+    },
+    {
         "timestamp": "2026-05-21T04:38:19.834589",
         "song": "Bad Company - Feel Like Makin' Love"
     },
@@ -342,13 +346,5 @@
     {
         "timestamp": "2026-05-14T10:31:54.830906",
         "song": "Beatles - The Long And Winding Road"
-    },
-    {
-        "timestamp": "2026-05-14T08:09:28.040201",
-        "song": "Sister Sledge - He's The Greatest Dancer"
-    },
-    {
-        "timestamp": "2026-05-14T05:27:38.952468",
-        "song": "George Harrison - My Sweet Lord"
     }
 ]
