@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-22T18:15:58.873543",
+        "song": "Bobby Goldsboro - Summer (The First Time)"
+    },
+    {
         "timestamp": "2026-05-22T16:27:02.461583",
         "song": "Fleetwood Mac - Rhiannon"
     },
@@ -334,9 +338,5 @@
     {
         "timestamp": "2026-05-15T18:20:15.247120",
         "song": "Fleetwood Mac - Rhiannon"
-    },
-    {
-        "timestamp": "2026-05-15T16:54:51.505154",
-        "song": "Spinners & Dionne Warwick - Then Came You"
     }
 ]
