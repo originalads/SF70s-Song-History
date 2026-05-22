@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-22T01:32:08.538968",
+        "song": "Emotions - Best of My Love"
+    },
+    {
         "timestamp": "2026-05-21T23:33:21.928449",
         "song": "Rickie Lee Jones - Chuck E's In Love"
     },
@@ -334,13 +338,5 @@
     {
         "timestamp": "2026-05-15T05:30:31.592777",
         "song": "Gallery - Nice To Be With You"
-    },
-    {
-        "timestamp": "2026-05-15T01:27:13.652707",
-        "song": "Aretha Franklin - Rock Steady"
-    },
-    {
-        "timestamp": "2026-05-14T23:35:50.205232",
-        "song": "Kiki Dee - I've Got The Music In Me"
     }
 ]
