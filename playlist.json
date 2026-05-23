@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-23T19:53:09.431092",
+        "song": "Elton John - Crocodile Rock"
+    },
+    {
         "timestamp": "2026-05-23T18:44:02.780723",
         "song": "Dramatics - Whatcha See Is Whatcha Get"
     },
@@ -326,9 +330,5 @@
     {
         "timestamp": "2026-05-16T20:32:07.075050",
         "song": "Jefferson Starship - Miracles"
-    },
-    {
-        "timestamp": "2026-05-16T19:45:02.928995",
-        "song": "Luther Ingram - If Loving You Is Wrong I Don't Want To Be Right"
     }
 ]
