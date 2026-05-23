@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-23T11:52:34.926653",
+        "song": "Rocky Burnette - Tired of Toein' the Line"
+    },
+    {
         "timestamp": "2026-05-23T10:51:52.603974",
         "song": "Olivia Newton-John - If You Love Me Let Me Know"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-05-16T11:54:28.714308",
         "song": "Donna Summer - MacArthur Park"
-    },
-    {
-        "timestamp": "2026-05-16T10:57:27.224064",
-        "song": "Danny O'Keefe - Good Time Charlie's Got The Blues"
     }
 ]
