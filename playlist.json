@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-23T05:08:19.948940",
+        "song": "Lipps, Inc. - Funkytown"
+    },
+    {
         "timestamp": "2026-05-23T01:28:47.711075",
         "song": "Sister Sledge - We Are Family"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-05-16T06:24:51.709527",
         "song": "Leo Sayer - You Make Me Feel Like Dancing"
-    },
-    {
-        "timestamp": "2026-05-16T03:57:22.344142",
-        "song": "Steve Miller Band - Take The Money And Run"
     }
 ]
