@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-24T10:06:32.938703",
+        "song": "Leif Garrett - I Was Made For Dancing"
+    },
+    {
         "timestamp": "2026-05-24T08:08:03.917869",
         "song": "Rita Coolidge - Higher And Higher"
     },
@@ -326,9 +330,5 @@
     {
         "timestamp": "2026-05-17T10:40:53.588708",
         "song": "Carpenters - Rainy Days And Mondays"
-    },
-    {
-        "timestamp": "2026-05-17T09:15:07.179537",
-        "song": "Little River Band - Cool Change"
     }
 ]
