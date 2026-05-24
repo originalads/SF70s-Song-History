@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-24T17:39:58.487425",
+        "song": "Stylistics - I'm Stone In Love With You"
+    },
+    {
         "timestamp": "2026-05-24T16:39:05.700089",
         "song": "Gerry Rafferty - Right Down The Line"
     },
@@ -322,9 +326,5 @@
     {
         "timestamp": "2026-05-17T18:13:43.063394",
         "song": "Shocking Blue - Venus"
-    },
-    {
-        "timestamp": "2026-05-17T17:18:03.832556",
-        "song": "Boz Scaggs - JoJo"
     }
 ]
