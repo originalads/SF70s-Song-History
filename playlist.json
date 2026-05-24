@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-24T05:43:50.205618",
+        "song": "Commodores - Just To Be Close To You (long)"
+    },
+    {
         "timestamp": "2026-05-24T01:34:02.738190",
         "song": "Tony Orlando & Dawn - Tie A Yellow Ribbon Round The Ole Oak Tree"
     },
@@ -326,9 +330,5 @@
     {
         "timestamp": "2026-05-17T07:17:58.440586",
         "song": "Lynn Anderson - Rose Garden"
-    },
-    {
-        "timestamp": "2026-05-17T04:20:30.586561",
-        "song": "Rose Royce - I Wanna Get Next To You"
     }
 ]
