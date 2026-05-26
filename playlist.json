@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-26T05:42:05.390640",
+        "song": "Roberta Flack & Donny Hathaway - The Closer I Get to You"
+    },
+    {
         "timestamp": "2026-05-26T01:27:32.601691",
         "song": "Spiral Staircase - More Today Than Yesterday"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-05-19T05:47:27.000580",
         "song": "Glen Campbell - Southern Nights"
-    },
-    {
-        "timestamp": "2026-05-19T01:33:24.158632",
-        "song": "Kenny Rogers - Ruby (Don't Take Your Love to Town)"
     }
 ]
