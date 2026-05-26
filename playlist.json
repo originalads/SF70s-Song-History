@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-26T01:27:32.601691",
+        "song": "Spiral Staircase - More Today Than Yesterday"
+    },
+    {
         "timestamp": "2026-05-25T23:33:58.155986",
         "song": "Doobie Brothers - Jesus Is Just Alright With Me"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-05-19T01:33:24.158632",
         "song": "Kenny Rogers - Ruby (Don't Take Your Love to Town)"
-    },
-    {
-        "timestamp": "2026-05-18T23:38:58.712552",
-        "song": "Boston - Peace Of Mind"
     }
 ]
