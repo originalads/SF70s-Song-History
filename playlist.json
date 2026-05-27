@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-27T09:56:13.246195",
+        "song": "Captain & Tennille - Shop Around"
+    },
+    {
         "timestamp": "2026-05-27T05:57:01.088060",
         "song": "David Bowie - Changes"
     },
@@ -318,9 +322,5 @@
     {
         "timestamp": "2026-05-20T11:37:02.083298",
         "song": "Doobie Brothers - Jesus Is Just Alright With Me"
-    },
-    {
-        "timestamp": "2026-05-20T08:46:04.167552",
-        "song": "KC & The Sunshine Band - Give It Up"
     }
 ]
