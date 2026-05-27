@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-27T18:40:16.498140",
+        "song": "Billy Joel - Piano Man"
+    },
+    {
         "timestamp": "2026-05-27T16:29:56.766957",
         "song": "Olivia Newton-John - Deeper Than The Night"
     },
@@ -318,9 +322,5 @@
     {
         "timestamp": "2026-05-20T19:51:11.205655",
         "song": "Barry White - You're The First, The Last, My Everything"
-    },
-    {
-        "timestamp": "2026-05-20T17:34:42.970257",
-        "song": "Stephen Stills - Love The One You're With"
     }
 ]
