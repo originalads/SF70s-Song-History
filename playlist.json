@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-27T20:53:24.522034",
+        "song": "Whispers - And The Beat Goes On"
+    },
+    {
         "timestamp": "2026-05-27T18:40:16.498140",
         "song": "Billy Joel - Piano Man"
     },
@@ -318,9 +322,5 @@
     {
         "timestamp": "2026-05-20T21:26:54.555319",
         "song": "Parliament - Give Up The Funk"
-    },
-    {
-        "timestamp": "2026-05-20T19:51:11.205655",
-        "song": "Barry White - You're The First, The Last, My Everything"
     }
 ]
