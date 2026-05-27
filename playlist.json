@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-27T01:31:06.961525",
+        "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
+    },
+    {
         "timestamp": "2026-05-26T23:21:48.454232",
         "song": "George Benson - This Masquerade"
     },
@@ -322,9 +326,5 @@
     {
         "timestamp": "2026-05-20T01:33:46.577087",
         "song": "Eagles - Already Gone"
-    },
-    {
-        "timestamp": "2026-05-19T23:35:11.202970",
-        "song": "Grand Funk - Some Kind Of Wonderful"
     }
 ]
