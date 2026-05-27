@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-27T05:57:01.088060",
+        "song": "David Bowie - Changes"
+    },
+    {
         "timestamp": "2026-05-27T01:31:06.961525",
         "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
     },
@@ -318,13 +322,5 @@
     {
         "timestamp": "2026-05-20T08:46:04.167552",
         "song": "KC & The Sunshine Band - Give It Up"
-    },
-    {
-        "timestamp": "2026-05-20T05:48:17.953659",
-        "song": "Silver Convention - Fly Robin Fly"
-    },
-    {
-        "timestamp": "2026-05-20T01:33:46.577087",
-        "song": "Eagles - Already Gone"
     }
 ]
