@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-28T09:36:17.761199",
+        "song": "Kinks - Lola"
+    },
+    {
         "timestamp": "2026-05-28T05:48:07.937967",
         "song": "Van McCoy - The Hustle"
     },
@@ -318,9 +322,5 @@
     {
         "timestamp": "2026-05-21T11:40:33.216519",
         "song": "Michael Martin Murphey - Wildfire"
-    },
-    {
-        "timestamp": "2026-05-21T08:19:24.900521",
-        "song": "Paul Davis - Sweet Life"
     }
 ]
