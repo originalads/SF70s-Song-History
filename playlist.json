@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-28T19:29:03.958981",
+        "song": "Eagles - Take It Easy"
+    },
+    {
         "timestamp": "2026-05-28T16:46:34.745818",
         "song": "Three Dog Night - Mama Told Me Not To Come"
     },
@@ -314,13 +318,5 @@
     {
         "timestamp": "2026-05-21T20:59:17.814260",
         "song": "Captain & Tennille - Do That To Me One More Time"
-    },
-    {
-        "timestamp": "2026-05-21T19:16:49.119699",
-        "song": "Eric Burdon & War - Spill The Wine"
-    },
-    {
-        "timestamp": "2026-05-21T17:10:27.217993",
-        "song": "Foreigner - Feels Like The First Time"
     }
 ]
