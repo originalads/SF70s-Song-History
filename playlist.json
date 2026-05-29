@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-29T22:00:16.359626",
+        "song": "ABBA - Take A Chance On Me"
+    },
+    {
         "timestamp": "2026-05-29T20:00:51.300523",
         "song": "Frankie Valli - Grease"
     },
@@ -306,13 +310,5 @@
     {
         "timestamp": "2026-05-22T22:38:31.540980",
         "song": "Steely Dan - Josie"
-    },
-    {
-        "timestamp": "2026-05-22T21:36:34.792364",
-        "song": "Free - All Right Now"
-    },
-    {
-        "timestamp": "2026-05-22T20:13:21.449216",
-        "song": "Rolling Stones - Beast Of Burden"
     }
 ]
