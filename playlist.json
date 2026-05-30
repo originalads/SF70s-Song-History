@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-30T18:46:10.431962",
+        "song": "KC & the Sunshine Band - Please Don't Go"
+    },
+    {
         "timestamp": "2026-05-30T17:39:15.238585",
         "song": "Aerosmith - Dream On"
     },
@@ -298,13 +302,5 @@
     {
         "timestamp": "2026-05-23T19:53:09.431092",
         "song": "Elton John - Crocodile Rock"
-    },
-    {
-        "timestamp": "2026-05-23T18:44:02.780723",
-        "song": "Dramatics - Whatcha See Is Whatcha Get"
-    },
-    {
-        "timestamp": "2026-05-23T17:44:39.037596",
-        "song": "Diana Ross - Love Hangover"
     }
 ]
