@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-30T14:06:41.527262",
+        "song": "Chic - Le Freak"
+    },
+    {
         "timestamp": "2026-05-30T12:13:53.154431",
         "song": "Kansas - Carry On Wayward Son"
     },
@@ -302,9 +306,5 @@
     {
         "timestamp": "2026-05-23T14:42:11.326435",
         "song": "Stylistics - You Make Me Feel Brand New"
-    },
-    {
-        "timestamp": "2026-05-23T12:59:33.488621",
-        "song": "Spinners - Games People Play"
     }
 ]
