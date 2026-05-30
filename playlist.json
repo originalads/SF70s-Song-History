@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-30T23:14:27.143489",
+        "song": "Kiss - I Was Made For Lovin' You"
+    },
+    {
         "timestamp": "2026-05-30T22:10:52.612438",
         "song": "Invisible Man's Band - All Night Thing"
     },
@@ -298,9 +302,5 @@
     {
         "timestamp": "2026-05-23T23:37:00.672172",
         "song": "Kenny Rogers - The Gambler"
-    },
-    {
-        "timestamp": "2026-05-23T22:34:11.329486",
-        "song": "Gary Wright - Love Is Alive"
     }
 ]
