@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-30T05:08:06.302698",
+        "song": "Johnnie Taylor - Disco Lady"
+    },
+    {
         "timestamp": "2026-05-30T01:24:45.486201",
         "song": "Jay Ferguson - Thunder Island"
     },
@@ -306,9 +310,5 @@
     {
         "timestamp": "2026-05-23T05:08:19.948940",
         "song": "Lipps, Inc. - Funkytown"
-    },
-    {
-        "timestamp": "2026-05-23T01:28:47.711075",
-        "song": "Sister Sledge - We Are Family"
     }
 ]
