@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-30T01:24:45.486201",
+        "song": "Jay Ferguson - Thunder Island"
+    },
+    {
         "timestamp": "2026-05-29T23:21:57.848065",
         "song": "Boz Scaggs - Look What You've Done To Me"
     },
@@ -306,9 +310,5 @@
     {
         "timestamp": "2026-05-23T01:28:47.711075",
         "song": "Sister Sledge - We Are Family"
-    },
-    {
-        "timestamp": "2026-05-22T23:44:52.477837",
-        "song": "Lobo - Me And You And A Dog Named Boo"
     }
 ]
