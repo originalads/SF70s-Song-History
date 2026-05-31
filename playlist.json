@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-31T00:15:51.798012",
+        "song": "Moody Blues - Tuesday Afternoon"
+    },
+    {
         "timestamp": "2026-05-30T23:14:27.143489",
         "song": "Kiss - I Was Made For Lovin' You"
     },
@@ -298,9 +302,5 @@
     {
         "timestamp": "2026-05-24T01:34:02.738190",
         "song": "Tony Orlando & Dawn - Tie A Yellow Ribbon Round The Ole Oak Tree"
-    },
-    {
-        "timestamp": "2026-05-23T23:37:00.672172",
-        "song": "Kenny Rogers - The Gambler"
     }
 ]
