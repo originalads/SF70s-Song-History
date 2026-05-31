@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-31T18:48:20.238520",
+        "song": "Chicago - Make Me Smile"
+    },
+    {
         "timestamp": "2026-05-31T17:34:08.988794",
         "song": "Sweet - Ballroom Blitz"
     },
@@ -290,13 +294,5 @@
     {
         "timestamp": "2026-05-24T19:55:30.101531",
         "song": "Nitty Gritty Dirt Band - Mr. Bojangles"
-    },
-    {
-        "timestamp": "2026-05-24T18:47:27.765346",
-        "song": "Isley Brothers - That Lady"
-    },
-    {
-        "timestamp": "2026-05-24T17:39:58.487425",
-        "song": "Stylistics - I'm Stone In Love With You"
     }
 ]
