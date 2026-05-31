@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-31T13:44:41.346748",
+        "song": "John Travolta & Olivia Newton-John - Summer Nights"
+    },
+    {
         "timestamp": "2026-05-31T11:56:07.875411",
         "song": "Paul McCartney - Band On The Run"
     },
@@ -294,9 +298,5 @@
     {
         "timestamp": "2026-05-24T14:14:13.785791",
         "song": "Eagles - Peaceful Easy Feeling"
-    },
-    {
-        "timestamp": "2026-05-24T12:46:16.046531",
-        "song": "Silver Convention - Get Up And Boogie"
     }
 ]
