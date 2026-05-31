@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-05-31T08:12:32.452343",
+        "song": "Argent - Hold Your Head Up"
+    },
+    {
         "timestamp": "2026-05-31T04:55:01.941270",
         "song": "Sly & The Family Stone - Everyday People"
     },
@@ -294,13 +298,5 @@
     {
         "timestamp": "2026-05-24T10:06:32.938703",
         "song": "Leif Garrett - I Was Made For Dancing"
-    },
-    {
-        "timestamp": "2026-05-24T08:08:03.917869",
-        "song": "Rita Coolidge - Higher And Higher"
-    },
-    {
-        "timestamp": "2026-05-24T05:43:50.205618",
-        "song": "Commodores - Just To Be Close To You (long)"
     }
 ]
