@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-01T20:42:42.036777",
+        "song": "Stevie Wonder - You Are The Sunshine Of My Life"
+    },
+    {
         "timestamp": "2026-06-01T16:25:40.898979",
         "song": "Carol Douglas - Doctor's Orders"
     },
@@ -278,13 +282,5 @@
     {
         "timestamp": "2026-05-25T21:05:15.547483",
         "song": "Carl Carlton - Everlasting Love"
-    },
-    {
-        "timestamp": "2026-05-25T19:55:53.923364",
-        "song": "Michael Jackson - Rockin' Robin"
-    },
-    {
-        "timestamp": "2026-05-25T18:04:43.497751",
-        "song": "Elton John - Bennie And The Jets"
     }
 ]
