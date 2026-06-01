@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-01T22:51:41.575747",
+        "song": "Paul Simon - Kodachrome"
+    },
+    {
         "timestamp": "2026-06-01T20:42:42.036777",
         "song": "Stevie Wonder - You Are The Sunshine Of My Life"
     },
@@ -274,13 +278,5 @@
     {
         "timestamp": "2026-05-25T23:33:58.155986",
         "song": "Doobie Brothers - Jesus Is Just Alright With Me"
-    },
-    {
-        "timestamp": "2026-05-25T22:15:31.309507",
-        "song": "Andrew Gold - Lonely Boy"
-    },
-    {
-        "timestamp": "2026-05-25T21:05:15.547483",
-        "song": "Carl Carlton - Everlasting Love"
     }
 ]
