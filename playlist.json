@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-01T10:34:47.487839",
+        "song": "Anne Murray - I Just Fall In Love Again"
+    },
+    {
         "timestamp": "2026-06-01T05:20:35.971865",
         "song": "LeBlanc & Carr - Falling"
     },
@@ -290,9 +294,5 @@
     {
         "timestamp": "2026-05-25T10:53:16.353219",
         "song": "Orleans - Love Takes Time"
-    },
-    {
-        "timestamp": "2026-05-25T06:22:18.762760",
-        "song": "Rick James - You And I"
     }
 ]
