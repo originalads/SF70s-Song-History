@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-02T09:07:34.963253",
+        "song": "Jimmy Buffett - Margaritaville"
+    },
+    {
         "timestamp": "2026-06-02T04:56:46.691671",
         "song": "Trammps - Disco Inferno"
     },
@@ -270,13 +274,5 @@
     {
         "timestamp": "2026-05-26T16:07:45.953524",
         "song": "Silver Convention - Fly Robin Fly"
-    },
-    {
-        "timestamp": "2026-05-26T08:55:32.323586",
-        "song": "Charlie Daniels Band - Devil Went Down To Georgia"
-    },
-    {
-        "timestamp": "2026-05-26T05:42:05.390640",
-        "song": "Roberta Flack & Donny Hathaway - The Closer I Get to You"
     }
 ]
