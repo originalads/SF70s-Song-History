@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-02T00:03:16.739147",
+        "song": "Jefferson Starship - Jane"
+    },
+    {
         "timestamp": "2026-06-01T22:51:41.575747",
         "song": "Paul Simon - Kodachrome"
     },
@@ -274,9 +278,5 @@
     {
         "timestamp": "2026-05-26T01:27:32.601691",
         "song": "Spiral Staircase - More Today Than Yesterday"
-    },
-    {
-        "timestamp": "2026-05-25T23:33:58.155986",
-        "song": "Doobie Brothers - Jesus Is Just Alright With Me"
     }
 ]
