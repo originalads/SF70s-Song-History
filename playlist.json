@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-02T04:56:46.691671",
+        "song": "Trammps - Disco Inferno"
+    },
+    {
         "timestamp": "2026-06-02T00:03:16.739147",
         "song": "Jefferson Starship - Jane"
     },
@@ -274,9 +278,5 @@
     {
         "timestamp": "2026-05-26T05:42:05.390640",
         "song": "Roberta Flack & Donny Hathaway - The Closer I Get to You"
-    },
-    {
-        "timestamp": "2026-05-26T01:27:32.601691",
-        "song": "Spiral Staircase - More Today Than Yesterday"
     }
 ]
