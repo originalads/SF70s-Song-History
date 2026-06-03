@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-03T21:47:01.344979",
+        "song": "Gladys Knight & The Pips - Midnight Train to Georgia"
+    },
+    {
         "timestamp": "2026-06-03T18:55:26.298559",
         "song": "Emotions - Best of My Love"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-27T22:30:53.983439",
         "song": "Doobie Brothers - What A Fool Believes"
-    },
-    {
-        "timestamp": "2026-05-27T20:53:24.522034",
-        "song": "Whispers - And The Beat Goes On"
     }
 ]
