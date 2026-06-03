@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-03T23:23:44.178951",
+        "song": "Marvin Gaye - What's Going On"
+    },
+    {
         "timestamp": "2026-06-03T21:47:01.344979",
         "song": "Gladys Knight & The Pips - Midnight Train to Georgia"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-27T23:44:37.416893",
         "song": "Joni Mitchell - Help Me"
-    },
-    {
-        "timestamp": "2026-05-27T22:30:53.983439",
-        "song": "Doobie Brothers - What A Fool Believes"
     }
 ]
