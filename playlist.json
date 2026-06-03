@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-03T18:55:26.298559",
+        "song": "Emotions - Best of My Love"
+    },
+    {
         "timestamp": "2026-06-03T15:04:19.804100",
         "song": "Al Green - Here I Am"
     },
@@ -262,13 +266,5 @@
     {
         "timestamp": "2026-05-27T20:53:24.522034",
         "song": "Whispers - And The Beat Goes On"
-    },
-    {
-        "timestamp": "2026-05-27T18:40:16.498140",
-        "song": "Billy Joel - Piano Man"
-    },
-    {
-        "timestamp": "2026-05-27T16:29:56.766957",
-        "song": "Olivia Newton-John - Deeper Than The Night"
     }
 ]
