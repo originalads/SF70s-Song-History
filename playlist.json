@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-03T10:12:15.855124",
+        "song": "Foreigner - Double Vision"
+    },
+    {
         "timestamp": "2026-06-03T05:18:45.425544",
         "song": "Crosby, Stills, Nash & Young - Teach Your Children"
     },
@@ -266,13 +270,5 @@
     {
         "timestamp": "2026-05-27T12:52:06.863817",
         "song": "Ambrosia - Biggest Part Of Me"
-    },
-    {
-        "timestamp": "2026-05-27T09:56:13.246195",
-        "song": "Captain & Tennille - Shop Around"
-    },
-    {
-        "timestamp": "2026-05-27T05:57:01.088060",
-        "song": "David Bowie - Changes"
     }
 ]
