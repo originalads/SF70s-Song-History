@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-03T05:18:45.425544",
+        "song": "Crosby, Stills, Nash & Young - Teach Your Children"
+    },
+    {
         "timestamp": "2026-06-03T00:13:33.852544",
         "song": "Dr. Hook - Sharing The Night Together"
     },
@@ -270,9 +274,5 @@
     {
         "timestamp": "2026-05-27T05:57:01.088060",
         "song": "David Bowie - Changes"
-    },
-    {
-        "timestamp": "2026-05-27T01:31:06.961525",
-        "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
     }
 ]
