@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-04T22:39:58.950018",
+        "song": "Chicago - Beginnings"
+    },
+    {
         "timestamp": "2026-06-04T21:00:51.782207",
         "song": "Art Garfunkel - All I Know"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-28T22:55:34.414515",
         "song": "Bob Seger & The Silver Bullet Band - Still The Same"
-    },
-    {
-        "timestamp": "2026-05-28T21:32:10.837027",
-        "song": "Steely Dan - Reeling In The Years"
     }
 ]
