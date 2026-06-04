@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-04T21:00:51.782207",
+        "song": "Art Garfunkel - All I Know"
+    },
+    {
         "timestamp": "2026-06-04T19:03:37.108768",
         "song": "Chic - I Want Your Love"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-28T21:32:10.837027",
         "song": "Steely Dan - Reeling In The Years"
-    },
-    {
-        "timestamp": "2026-05-28T19:29:03.958981",
-        "song": "Eagles - Take It Easy"
     }
 ]
