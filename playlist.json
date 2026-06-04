@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-04T19:03:37.108768",
+        "song": "Chic - I Want Your Love"
+    },
+    {
         "timestamp": "2026-06-04T16:37:41.624713",
         "song": "Three Dog Night - An Old Fashioned Love Song"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-28T19:29:03.958981",
         "song": "Eagles - Take It Easy"
-    },
-    {
-        "timestamp": "2026-05-28T16:46:34.745818",
-        "song": "Three Dog Night - Mama Told Me Not To Come"
     }
 ]
