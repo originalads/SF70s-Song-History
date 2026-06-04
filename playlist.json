@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-04T23:49:46.804675",
+        "song": "Dr. Hook - Cover Of The Rolling Stone"
+    },
+    {
         "timestamp": "2026-06-04T22:39:58.950018",
         "song": "Chicago - Beginnings"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-29T00:09:57.844333",
         "song": "Commodores - Too Hot Ta Trot"
-    },
-    {
-        "timestamp": "2026-05-28T22:55:34.414515",
-        "song": "Bob Seger & The Silver Bullet Band - Still The Same"
     }
 ]
