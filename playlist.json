@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-04T06:52:57.240450",
+        "song": "Sister Sledge - He's The Greatest Dancer"
+    },
+    {
         "timestamp": "2026-06-04T02:03:18.351256",
         "song": "Olivia Newton-John - If You Love Me Let Me Know"
     },
@@ -258,9 +262,5 @@
     {
         "timestamp": "2026-05-28T09:36:17.761199",
         "song": "Kinks - Lola"
-    },
-    {
-        "timestamp": "2026-05-28T05:48:07.937967",
-        "song": "Van McCoy - The Hustle"
     }
 ]
