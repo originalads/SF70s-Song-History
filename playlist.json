@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-04T10:33:41.375989",
+        "song": "War - Cisco Kid"
+    },
+    {
         "timestamp": "2026-06-04T06:52:57.240450",
         "song": "Sister Sledge - He's The Greatest Dancer"
     },
@@ -258,9 +262,5 @@
     {
         "timestamp": "2026-05-28T12:52:33.139444",
         "song": "Diana Ross - Love Hangover"
-    },
-    {
-        "timestamp": "2026-05-28T09:36:17.761199",
-        "song": "Kinks - Lola"
     }
 ]
