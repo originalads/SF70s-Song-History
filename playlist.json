@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-05T20:15:38.000598",
+        "song": "Seals & Crofts - Diamond Girl"
+    },
+    {
         "timestamp": "2026-06-05T18:15:19.603319",
         "song": "David Bowie - Fame"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-29T22:00:16.359626",
         "song": "ABBA - Take A Chance On Me"
-    },
-    {
-        "timestamp": "2026-05-29T20:00:51.300523",
-        "song": "Frankie Valli - Grease"
     }
 ]
