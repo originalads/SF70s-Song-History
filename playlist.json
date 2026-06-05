@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-05T01:56:06.316277",
+        "song": "Carpenters - Superstar"
+    },
+    {
         "timestamp": "2026-06-04T23:49:46.804675",
         "song": "Dr. Hook - Cover Of The Rolling Stone"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-29T04:42:06.782343",
         "song": "Paul McCartney - Band On The Run"
-    },
-    {
-        "timestamp": "2026-05-29T00:09:57.844333",
-        "song": "Commodores - Too Hot Ta Trot"
     }
 ]
