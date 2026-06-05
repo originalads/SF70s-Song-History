@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-05T22:49:44.006873",
+        "song": "Harry Chapin - Cat's In The Cradle"
+    },
+    {
         "timestamp": "2026-06-05T21:47:38.713696",
         "song": "Fortunes - Here Comes That Rainy Day Feeling Again"
     },
@@ -266,9 +270,5 @@
     {
         "timestamp": "2026-05-29T23:21:57.848065",
         "song": "Boz Scaggs - Look What You've Done To Me"
-    },
-    {
-        "timestamp": "2026-05-29T22:00:16.359626",
-        "song": "ABBA - Take A Chance On Me"
     }
 ]
