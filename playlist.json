@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-06T15:37:16.754656",
+        "song": "Aretha Franklin - Rock Steady"
+    },
+    {
         "timestamp": "2026-06-06T14:06:29.044041",
         "song": "Carole King - I Feel The Earth Move"
     },
@@ -262,13 +266,5 @@
     {
         "timestamp": "2026-05-30T16:32:02.164126",
         "song": "Poco - Heart Of The Night"
-    },
-    {
-        "timestamp": "2026-05-30T15:21:56.511077",
-        "song": "Maxine Nightingale - Lead Me On"
-    },
-    {
-        "timestamp": "2026-05-30T14:06:41.527262",
-        "song": "Chic - Le Freak"
     }
 ]
