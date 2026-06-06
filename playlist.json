@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-06T09:04:25.583792",
+        "song": "Barry White - What Am I Gonna Do With You"
+    },
+    {
         "timestamp": "2026-06-06T06:16:54.940865",
         "song": "Doobie Brothers - Black Water"
     },
@@ -266,9 +270,5 @@
     {
         "timestamp": "2026-05-30T09:46:40.111956",
         "song": "Three Dog Night - Never Been To Spain"
-    },
-    {
-        "timestamp": "2026-05-30T07:50:02.255227",
-        "song": "Al Stewart - Time Passages"
     }
 ]
