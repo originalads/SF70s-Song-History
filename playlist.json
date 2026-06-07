@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-07T01:56:28.468981",
+        "song": "Ambrosia - Biggest Part Of Me"
+    },
+    {
         "timestamp": "2026-06-06T23:42:56.727646",
         "song": "Chicago - Alive Again"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-31T04:55:01.941270",
         "song": "Sly & The Family Stone - Everyday People"
-    },
-    {
-        "timestamp": "2026-05-31T00:15:51.798012",
-        "song": "Moody Blues - Tuesday Afternoon"
     }
 ]
