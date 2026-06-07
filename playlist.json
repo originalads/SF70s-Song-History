@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-07T22:45:35.120897",
+        "song": "Earth, Wind & Fire - September"
+    },
+    {
         "timestamp": "2026-06-07T21:39:40.208035",
         "song": "War - Slippin' Into Darkness"
     },
@@ -258,9 +262,5 @@
     {
         "timestamp": "2026-05-31T23:17:06.702717",
         "song": "Spinners - I'll Be Around"
-    },
-    {
-        "timestamp": "2026-05-31T22:10:19.776041",
-        "song": "Paul Nicholas - Heaven On The Seventh Floor"
     }
 ]
