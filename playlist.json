@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-07T09:45:24.789929",
+        "song": "John Lennon - Imagine"
+    },
+    {
         "timestamp": "2026-06-07T06:25:14.962807",
         "song": "Steely Dan - Peg"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-31T10:24:52.939006",
         "song": "Andrea True Connection - More More More"
-    },
-    {
-        "timestamp": "2026-05-31T08:12:32.452343",
-        "song": "Argent - Hold Your Head Up"
     }
 ]
