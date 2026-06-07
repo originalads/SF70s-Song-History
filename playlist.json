@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-07T23:48:49.390609",
+        "song": "Crosby, Stills, Nash & Young - Our House"
+    },
+    {
         "timestamp": "2026-06-07T22:45:35.120897",
         "song": "Earth, Wind & Fire - September"
     },
@@ -258,9 +262,5 @@
     {
         "timestamp": "2026-06-01T00:17:23.709977",
         "song": "Linda Ronstadt - Tracks Of My Tears"
-    },
-    {
-        "timestamp": "2026-05-31T23:17:06.702717",
-        "song": "Spinners - I'll Be Around"
     }
 ]
