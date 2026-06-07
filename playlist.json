@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-07T14:58:34.185125",
+        "song": "Paul McCartney - Silly Love Songs"
+    },
+    {
         "timestamp": "2026-06-07T13:05:52.572604",
         "song": "Herb Alpert - Rise"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-31T15:06:07.260294",
         "song": "Steve Miller Band - The Joker"
-    },
-    {
-        "timestamp": "2026-05-31T13:44:41.346748",
-        "song": "John Travolta & Olivia Newton-John - Summer Nights"
     }
 ]
