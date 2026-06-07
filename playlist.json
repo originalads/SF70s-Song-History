@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-07T06:25:14.962807",
+        "song": "Steely Dan - Peg"
+    },
+    {
         "timestamp": "2026-06-07T01:56:28.468981",
         "song": "Ambrosia - Biggest Part Of Me"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-05-31T08:12:32.452343",
         "song": "Argent - Hold Your Head Up"
-    },
-    {
-        "timestamp": "2026-05-31T04:55:01.941270",
-        "song": "Sly & The Family Stone - Everyday People"
     }
 ]
