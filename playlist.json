@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-08T23:51:29.315958",
+        "song": "Babys - Every Time I Think Of You"
+    },
+    {
         "timestamp": "2026-06-08T22:44:21.722678",
         "song": "John Denver - Rocky Mountain High"
     },
@@ -266,9 +270,5 @@
     {
         "timestamp": "2026-06-02T00:03:16.739147",
         "song": "Jefferson Starship - Jane"
-    },
-    {
-        "timestamp": "2026-06-01T22:51:41.575747",
-        "song": "Paul Simon - Kodachrome"
     }
 ]
