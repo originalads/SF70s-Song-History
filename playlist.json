@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-08T06:59:38.540273",
+        "song": "B.J. Thomas - Rock and Roll Lullaby"
+    },
+    {
         "timestamp": "2026-06-08T02:05:07.646994",
         "song": "Bob Seger & The Silver Bullet Band - Against The Wind"
     },
@@ -258,9 +262,5 @@
     {
         "timestamp": "2026-06-01T10:34:47.487839",
         "song": "Anne Murray - I Just Fall In Love Again"
-    },
-    {
-        "timestamp": "2026-06-01T05:20:35.971865",
-        "song": "LeBlanc & Carr - Falling"
     }
 ]
