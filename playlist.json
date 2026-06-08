@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-08T18:36:36.483580",
+        "song": "Barry Manilow - Somewhere In The Night"
+    },
+    {
         "timestamp": "2026-06-08T16:14:07.160236",
         "song": "Leon Russell - Tight Rope"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-06-01T20:42:42.036777",
         "song": "Stevie Wonder - You Are The Sunshine Of My Life"
-    },
-    {
-        "timestamp": "2026-06-01T16:25:40.898979",
-        "song": "Carol Douglas - Doctor's Orders"
     }
 ]
