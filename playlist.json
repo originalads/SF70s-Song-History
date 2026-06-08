@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-08T02:05:07.646994",
+        "song": "Bob Seger & The Silver Bullet Band - Against The Wind"
+    },
+    {
         "timestamp": "2026-06-07T23:48:49.390609",
         "song": "Crosby, Stills, Nash & Young - Our House"
     },
@@ -258,9 +262,5 @@
     {
         "timestamp": "2026-06-01T05:20:35.971865",
         "song": "LeBlanc & Carr - Falling"
-    },
-    {
-        "timestamp": "2026-06-01T00:17:23.709977",
-        "song": "Linda Ronstadt - Tracks Of My Tears"
     }
 ]
