@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-08T21:03:46.137964",
+        "song": "Little River Band - Lady"
+    },
+    {
         "timestamp": "2026-06-08T18:36:36.483580",
         "song": "Barry Manilow - Somewhere In The Night"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-06-01T22:51:41.575747",
         "song": "Paul Simon - Kodachrome"
-    },
-    {
-        "timestamp": "2026-06-01T20:42:42.036777",
-        "song": "Stevie Wonder - You Are The Sunshine Of My Life"
     }
 ]
