@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-09T05:55:02.881437",
+        "song": "Wet Willie - Keep on Smilin'"
+    },
+    {
         "timestamp": "2026-06-09T01:49:39.185692",
         "song": "Gilbert O'Sullivan - Get Down"
     },
@@ -266,9 +270,5 @@
     {
         "timestamp": "2026-06-02T09:07:34.963253",
         "song": "Jimmy Buffett - Margaritaville"
-    },
-    {
-        "timestamp": "2026-06-02T04:56:46.691671",
-        "song": "Trammps - Disco Inferno"
     }
 ]
