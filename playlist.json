@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-09T15:36:44.787994",
+        "song": "Steely Dan - Hey 19"
+    },
+    {
         "timestamp": "2026-06-09T12:24:41.623591",
         "song": "Sly & The Family Stone - Family Affair"
     },
@@ -270,9 +274,5 @@
     {
         "timestamp": "2026-06-02T17:11:21.066996",
         "song": "Miracles - Love Machine"
-    },
-    {
-        "timestamp": "2026-06-02T12:50:16.069210",
-        "song": "Vanity Fair - Hitchin' A Ride"
     }
 ]
