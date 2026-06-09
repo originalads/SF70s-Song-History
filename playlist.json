@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-09T09:37:03.956066",
+        "song": "Aerosmith - Walk This Way"
+    },
+    {
         "timestamp": "2026-06-09T05:55:02.881437",
         "song": "Wet Willie - Keep on Smilin'"
     },
@@ -266,9 +270,5 @@
     {
         "timestamp": "2026-06-02T12:50:16.069210",
         "song": "Vanity Fair - Hitchin' A Ride"
-    },
-    {
-        "timestamp": "2026-06-02T09:07:34.963253",
-        "song": "Jimmy Buffett - Margaritaville"
     }
 ]
