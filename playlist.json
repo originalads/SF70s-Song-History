@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-09T21:22:30.581113",
+        "song": "Olivia Newton-John & Electric Light Orchestra - Xanadu"
+    },
+    {
         "timestamp": "2026-06-09T19:35:57.095691",
         "song": "Frankie Valli - Grease"
     },
@@ -274,9 +278,5 @@
     {
         "timestamp": "2026-06-02T22:30:56.261876",
         "song": "George Harrison - What Is Life"
-    },
-    {
-        "timestamp": "2026-06-02T20:19:04.945305",
-        "song": "Linda Ronstadt - That'll Be The Day"
     }
 ]
