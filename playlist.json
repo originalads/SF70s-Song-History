@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-10T11:58:22.750214",
+        "song": "New Seekers - I'd Like To Teach The World To Sing"
+    },
+    {
         "timestamp": "2026-06-10T08:39:30.296492",
         "song": "Beatles - The Long And Winding Road"
     },
@@ -278,9 +282,5 @@
     {
         "timestamp": "2026-06-03T15:04:19.804100",
         "song": "Al Green - Here I Am"
-    },
-    {
-        "timestamp": "2026-06-03T10:12:15.855124",
-        "song": "Foreigner - Double Vision"
     }
 ]
