@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-10T15:51:28.682668",
+        "song": "Tower Of Power - So Very Hard To Go"
+    },
+    {
         "timestamp": "2026-06-10T11:58:22.750214",
         "song": "New Seekers - I'd Like To Teach The World To Sing"
     },
@@ -278,9 +282,5 @@
     {
         "timestamp": "2026-06-03T18:55:26.298559",
         "song": "Emotions - Best of My Love"
-    },
-    {
-        "timestamp": "2026-06-03T15:04:19.804100",
-        "song": "Al Green - Here I Am"
     }
 ]
