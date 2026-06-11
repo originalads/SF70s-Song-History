@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-11T16:53:49.149203",
+        "song": "Rose Royce - Love Don't Live Here Anymore"
+    },
+    {
         "timestamp": "2026-06-11T12:55:43.156514",
         "song": "Paul McCartney - Maybe I'm Amazed (live)"
     },
@@ -278,13 +282,5 @@
     {
         "timestamp": "2026-06-04T19:03:37.108768",
         "song": "Chic - I Want Your Love"
-    },
-    {
-        "timestamp": "2026-06-04T16:37:41.624713",
-        "song": "Three Dog Night - An Old Fashioned Love Song"
-    },
-    {
-        "timestamp": "2026-06-04T13:44:38.560982",
-        "song": "Dr. Hook - Sylvia's Mother"
     }
 ]
