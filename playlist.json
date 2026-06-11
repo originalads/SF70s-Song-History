@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-11T23:08:49.379489",
+        "song": "Prince - I Wanna Be Your Lover"
+    },
+    {
         "timestamp": "2026-06-11T21:35:26.477079",
         "song": "Chicago - Call On Me"
     },
@@ -278,9 +282,5 @@
     {
         "timestamp": "2026-06-04T23:49:46.804675",
         "song": "Dr. Hook - Cover Of The Rolling Stone"
-    },
-    {
-        "timestamp": "2026-06-04T22:39:58.950018",
-        "song": "Chicago - Beginnings"
     }
 ]
