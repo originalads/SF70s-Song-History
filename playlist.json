@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-11T04:59:32.345774",
+        "song": "Ambrosia - Holdin' On To Yesterday"
+    },
+    {
         "timestamp": "2026-06-11T00:12:50.237143",
         "song": "The Who - Won't Get Fooled Again"
     },
@@ -282,9 +286,5 @@
     {
         "timestamp": "2026-06-04T06:52:57.240450",
         "song": "Sister Sledge - He's The Greatest Dancer"
-    },
-    {
-        "timestamp": "2026-06-04T02:03:18.351256",
-        "song": "Olivia Newton-John - If You Love Me Let Me Know"
     }
 ]
