@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-11T09:17:52.979396",
+        "song": "Dazz Band - Let It Whip"
+    },
+    {
         "timestamp": "2026-06-11T04:59:32.345774",
         "song": "Ambrosia - Holdin' On To Yesterday"
     },
@@ -282,9 +286,5 @@
     {
         "timestamp": "2026-06-04T10:33:41.375989",
         "song": "War - Cisco Kid"
-    },
-    {
-        "timestamp": "2026-06-04T06:52:57.240450",
-        "song": "Sister Sledge - He's The Greatest Dancer"
     }
 ]
