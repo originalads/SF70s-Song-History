@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-11T12:55:43.156514",
+        "song": "Paul McCartney - Maybe I'm Amazed (live)"
+    },
+    {
         "timestamp": "2026-06-11T09:17:52.979396",
         "song": "Dazz Band - Let It Whip"
     },
@@ -282,9 +286,5 @@
     {
         "timestamp": "2026-06-04T13:44:38.560982",
         "song": "Dr. Hook - Sylvia's Mother"
-    },
-    {
-        "timestamp": "2026-06-04T10:33:41.375989",
-        "song": "War - Cisco Kid"
     }
 ]
