@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-11T19:29:34.139272",
+        "song": "Donna Summer - Bad Girls"
+    },
+    {
         "timestamp": "2026-06-11T16:53:49.149203",
         "song": "Rose Royce - Love Don't Live Here Anymore"
     },
@@ -278,9 +282,5 @@
     {
         "timestamp": "2026-06-04T21:00:51.782207",
         "song": "Art Garfunkel - All I Know"
-    },
-    {
-        "timestamp": "2026-06-04T19:03:37.108768",
-        "song": "Chic - I Want Your Love"
     }
 ]
