@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-12T06:17:27.210449",
+        "song": "Al Stewart - Year Of The Cat"
+    },
+    {
         "timestamp": "2026-06-12T01:38:09.630961",
         "song": "Boz Scaggs - Look What You've Done To Me"
     },
@@ -278,9 +282,5 @@
     {
         "timestamp": "2026-06-05T06:22:44.409237",
         "song": "Rose Royce - Car Wash"
-    },
-    {
-        "timestamp": "2026-06-05T01:56:06.316277",
-        "song": "Carpenters - Superstar"
     }
 ]
