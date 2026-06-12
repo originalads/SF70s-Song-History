@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-12T16:35:30.663650",
+        "song": "Ambrosia - Biggest Part Of Me"
+    },
+    {
         "timestamp": "2026-06-12T13:51:02.619467",
         "song": "Spinners - Working My Way Back to You/Forgive Me, Girl"
     },
@@ -274,9 +278,5 @@
     {
         "timestamp": "2026-06-05T18:15:19.603319",
         "song": "David Bowie - Fame"
-    },
-    {
-        "timestamp": "2026-06-05T16:15:53.036609",
-        "song": "Tommy James - Draggin' The Line"
     }
 ]
