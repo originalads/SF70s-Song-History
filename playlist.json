@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-12T22:12:16.701547",
+        "song": "Foreigner - Hot Blooded"
+    },
+    {
         "timestamp": "2026-06-12T20:35:53.792945",
         "song": "Tower Of Power - So Very Hard To Go"
     },
@@ -274,9 +278,5 @@
     {
         "timestamp": "2026-06-05T22:49:44.006873",
         "song": "Harry Chapin - Cat's In The Cradle"
-    },
-    {
-        "timestamp": "2026-06-05T21:47:38.713696",
-        "song": "Fortunes - Here Comes That Rainy Day Feeling Again"
     }
 ]
