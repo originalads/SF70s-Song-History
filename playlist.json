@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-12T01:38:09.630961",
+        "song": "Boz Scaggs - Look What You've Done To Me"
+    },
+    {
         "timestamp": "2026-06-11T23:08:49.379489",
         "song": "Prince - I Wanna Be Your Lover"
     },
@@ -278,9 +282,5 @@
     {
         "timestamp": "2026-06-05T01:56:06.316277",
         "song": "Carpenters - Superstar"
-    },
-    {
-        "timestamp": "2026-06-04T23:49:46.804675",
-        "song": "Dr. Hook - Cover Of The Rolling Stone"
     }
 ]
