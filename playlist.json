@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-13T06:31:38.432082",
+        "song": "Doobie Brothers - Listen To The Music"
+    },
+    {
         "timestamp": "2026-06-13T02:09:06.064203",
         "song": "Earth, Wind & Fire - Got To Get You Into My Life"
     },
@@ -270,13 +274,5 @@
     {
         "timestamp": "2026-06-06T09:04:25.583792",
         "song": "Barry White - What Am I Gonna Do With You"
-    },
-    {
-        "timestamp": "2026-06-06T06:16:54.940865",
-        "song": "Doobie Brothers - Black Water"
-    },
-    {
-        "timestamp": "2026-06-06T02:44:39.368149",
-        "song": "Gwen McCrae - Rockin' Chair"
     }
 ]
