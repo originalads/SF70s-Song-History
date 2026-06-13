@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-13T17:58:24.244332",
+        "song": "Atlanta Rhythm Section - So Into You"
+    },
+    {
         "timestamp": "2026-06-13T16:44:01.911050",
         "song": "Average White Band - Pick Up The Pieces"
     },
@@ -266,13 +270,5 @@
     {
         "timestamp": "2026-06-06T18:59:00.477836",
         "song": "Doobie Brothers - Dependin' On You"
-    },
-    {
-        "timestamp": "2026-06-06T17:51:15.131332",
-        "song": "Whispers - And The Beat Goes On"
-    },
-    {
-        "timestamp": "2026-06-06T16:44:09.904074",
-        "song": "Peter Brown - Do You Wanna Get Funky With Me"
     }
 ]
