@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-13T09:43:48.359256",
+        "song": "Carpenters - Close To You"
+    },
+    {
         "timestamp": "2026-06-13T06:31:38.432082",
         "song": "Doobie Brothers - Listen To The Music"
     },
@@ -270,9 +274,5 @@
     {
         "timestamp": "2026-06-06T10:58:08.233991",
         "song": "Olivia Newton-John - Deeper Than The Night"
-    },
-    {
-        "timestamp": "2026-06-06T09:04:25.583792",
-        "song": "Barry White - What Am I Gonna Do With You"
     }
 ]
