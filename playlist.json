@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-13T19:44:38.813586",
+        "song": "Dr. Hook  - A Little Bit More"
+    },
+    {
         "timestamp": "2026-06-13T17:58:24.244332",
         "song": "Atlanta Rhythm Section - So Into You"
     },
@@ -266,9 +270,5 @@
     {
         "timestamp": "2026-06-06T20:16:05.813000",
         "song": "Paul McCartney - Live And Let Die"
-    },
-    {
-        "timestamp": "2026-06-06T18:59:00.477836",
-        "song": "Doobie Brothers - Dependin' On You"
     }
 ]
