@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-13T21:59:45.125572",
+        "song": "Hues Corporation - Rock the Boat"
+    },
+    {
         "timestamp": "2026-06-13T20:54:41.815515",
         "song": "Wet Willie - Keep on Smilin'"
     },
@@ -266,9 +270,5 @@
     {
         "timestamp": "2026-06-06T22:39:03.511568",
         "song": "Cat Stevens - Peace Train"
-    },
-    {
-        "timestamp": "2026-06-06T21:31:17.091928",
-        "song": "Foreigner - Head Games"
     }
 ]
