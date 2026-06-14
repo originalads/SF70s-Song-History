@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-14T18:57:25.646640",
+        "song": "Simon & Garfunkel - Bridge Over Troubled Water"
+    },
+    {
         "timestamp": "2026-06-14T17:40:40.556134",
         "song": "Partridge Family - I Think I Love You"
     },
@@ -262,9 +266,5 @@
     {
         "timestamp": "2026-06-07T18:58:42.543082",
         "song": "Paul McCartney - Jet"
-    },
-    {
-        "timestamp": "2026-06-07T17:44:55.672325",
-        "song": "Diana Ross - Upside Down"
     }
 ]
