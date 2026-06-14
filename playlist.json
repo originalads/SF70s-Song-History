@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-14T06:19:24.420954",
+        "song": "Rod Stewart - Hot Legs"
+    },
+    {
         "timestamp": "2026-06-14T01:38:14.205762",
         "song": "James Taylor - You've Got A Friend"
     },
@@ -266,9 +270,5 @@
     {
         "timestamp": "2026-06-07T06:25:14.962807",
         "song": "Steely Dan - Peg"
-    },
-    {
-        "timestamp": "2026-06-07T01:56:28.468981",
-        "song": "Ambrosia - Biggest Part Of Me"
     }
 ]
