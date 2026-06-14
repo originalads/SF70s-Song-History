@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-14T20:20:36.030985",
+        "song": "Chaka Kahn - I'm Every Woman"
+    },
+    {
         "timestamp": "2026-06-14T18:57:25.646640",
         "song": "Simon & Garfunkel - Bridge Over Troubled Water"
     },
@@ -258,13 +262,5 @@
     {
         "timestamp": "2026-06-07T21:39:40.208035",
         "song": "War - Slippin' Into Darkness"
-    },
-    {
-        "timestamp": "2026-06-07T20:18:51.231783",
-        "song": "Partridge Family - I Think I Love You"
-    },
-    {
-        "timestamp": "2026-06-07T18:58:42.543082",
-        "song": "Paul McCartney - Jet"
     }
 ]
