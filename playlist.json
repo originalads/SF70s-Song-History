@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-14T21:46:17.094215",
+        "song": "King Floyd - Groove Me"
+    },
+    {
         "timestamp": "2026-06-14T20:20:36.030985",
         "song": "Chaka Kahn - I'm Every Woman"
     },
@@ -258,9 +262,5 @@
     {
         "timestamp": "2026-06-07T22:45:35.120897",
         "song": "Earth, Wind & Fire - September"
-    },
-    {
-        "timestamp": "2026-06-07T21:39:40.208035",
-        "song": "War - Slippin' Into Darkness"
     }
 ]
