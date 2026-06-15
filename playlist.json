@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-15T11:26:59.922518",
+        "song": "Rupert Holmes - Escape"
+    },
+    {
         "timestamp": "2026-06-15T05:23:25.653164",
         "song": "Lipps, Inc. - Funkytown"
     },
@@ -258,9 +262,5 @@
     {
         "timestamp": "2026-06-08T12:04:45.189073",
         "song": "ABBA - Waterloo"
-    },
-    {
-        "timestamp": "2026-06-08T06:59:38.540273",
-        "song": "B.J. Thomas - Rock and Roll Lullaby"
     }
 ]
