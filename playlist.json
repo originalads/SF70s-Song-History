@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-15T20:01:29.703081",
+        "song": "Chicago - Beginnings"
+    },
+    {
         "timestamp": "2026-06-15T16:26:33.900270",
         "song": "Peter Brown - Do You Wanna Get Funky With Me"
     },
@@ -254,9 +258,5 @@
     {
         "timestamp": "2026-06-08T21:03:46.137964",
         "song": "Little River Band - Lady"
-    },
-    {
-        "timestamp": "2026-06-08T18:36:36.483580",
-        "song": "Barry Manilow - Somewhere In The Night"
     }
 ]
