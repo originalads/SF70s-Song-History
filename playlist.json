@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-15T05:23:25.653164",
+        "song": "Lipps, Inc. - Funkytown"
+    },
+    {
         "timestamp": "2026-06-15T00:04:53.569325",
         "song": "Al Green - Here I Am"
     },
@@ -258,9 +262,5 @@
     {
         "timestamp": "2026-06-08T06:59:38.540273",
         "song": "B.J. Thomas - Rock and Roll Lullaby"
-    },
-    {
-        "timestamp": "2026-06-08T02:05:07.646994",
-        "song": "Bob Seger & The Silver Bullet Band - Against The Wind"
     }
 ]
