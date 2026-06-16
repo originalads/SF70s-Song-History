@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-16T19:02:41.050264",
+        "song": "Fleetwood Mac - Go Your Own Way"
+    },
+    {
         "timestamp": "2026-06-16T15:27:13.028009",
         "song": "Steve Miller Band - Fly Like An Eagle"
     },
@@ -242,13 +246,5 @@
     {
         "timestamp": "2026-06-09T19:35:57.095691",
         "song": "Frankie Valli - Grease"
-    },
-    {
-        "timestamp": "2026-06-09T17:35:28.103014",
-        "song": "Gladys Knight & The Pips - I've Got To Use My Imagination"
-    },
-    {
-        "timestamp": "2026-06-09T15:36:44.787994",
-        "song": "Steely Dan - Hey 19"
     }
 ]
