@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-16T10:27:13.066002",
+        "song": "Commodores - Brick House"
+    },
+    {
         "timestamp": "2026-06-16T05:30:23.349595",
         "song": "Steve Miller Band - Rock N Me"
     },
@@ -246,13 +250,5 @@
     {
         "timestamp": "2026-06-09T12:24:41.623591",
         "song": "Sly & The Family Stone - Family Affair"
-    },
-    {
-        "timestamp": "2026-06-09T09:37:03.956066",
-        "song": "Aerosmith - Walk This Way"
-    },
-    {
-        "timestamp": "2026-06-09T05:55:02.881437",
-        "song": "Wet Willie - Keep on Smilin'"
     }
 ]
