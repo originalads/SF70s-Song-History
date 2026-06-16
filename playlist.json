@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-16T21:44:27.191224",
+        "song": "Paul Davis - Sweet Life"
+    },
+    {
         "timestamp": "2026-06-16T19:02:41.050264",
         "song": "Fleetwood Mac - Go Your Own Way"
     },
@@ -238,13 +242,5 @@
     {
         "timestamp": "2026-06-09T22:55:12.463734",
         "song": "Stories - Brother Louie"
-    },
-    {
-        "timestamp": "2026-06-09T21:22:30.581113",
-        "song": "Olivia Newton-John & Electric Light Orchestra - Xanadu"
-    },
-    {
-        "timestamp": "2026-06-09T19:35:57.095691",
-        "song": "Frankie Valli - Grease"
     }
 ]
