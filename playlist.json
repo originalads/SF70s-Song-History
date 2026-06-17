@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-17T06:50:28.164354",
+        "song": "Hall & Oates - Rich Girl"
+    },
+    {
         "timestamp": "2026-06-17T01:41:14.434316",
         "song": "Crosby, Stills, Nash & Young - Teach Your Children"
     },
@@ -238,9 +242,5 @@
     {
         "timestamp": "2026-06-10T08:39:30.296492",
         "song": "Beatles - The Long And Winding Road"
-    },
-    {
-        "timestamp": "2026-06-10T04:47:49.059631",
-        "song": "Stevie Wonder - I Wish"
     }
 ]
