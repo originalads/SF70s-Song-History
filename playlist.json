@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-17T14:35:10.494333",
+        "song": "Fleetwood Mac - You Make Lovin' Fun"
+    },
+    {
         "timestamp": "2026-06-17T11:24:36.045437",
         "song": "Earth, Wind & Fire - Got To Get You Into My Life"
     },
@@ -238,9 +242,5 @@
     {
         "timestamp": "2026-06-10T15:51:28.682668",
         "song": "Tower Of Power - So Very Hard To Go"
-    },
-    {
-        "timestamp": "2026-06-10T11:58:22.750214",
-        "song": "New Seekers - I'd Like To Teach The World To Sing"
     }
 ]
