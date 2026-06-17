@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-17T23:09:48.640431",
+        "song": "Van McCoy - The Hustle"
+    },
+    {
         "timestamp": "2026-06-17T21:46:27.015087",
         "song": "John Denver - Fly Away"
     },
@@ -238,9 +242,5 @@
     {
         "timestamp": "2026-06-11T00:12:50.237143",
         "song": "The Who - Won't Get Fooled Again"
-    },
-    {
-        "timestamp": "2026-06-10T22:55:18.665371",
-        "song": "Supertramp - Take The Long Way Home"
     }
 ]
