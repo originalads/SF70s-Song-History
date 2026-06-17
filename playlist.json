@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-17T19:47:06.772123",
+        "song": "Dr. Hook - Sylvia's Mother"
+    },
+    {
         "timestamp": "2026-06-17T17:35:15.428343",
         "song": "Allman Brothers - Ramblin' Man"
     },
@@ -238,9 +242,5 @@
     {
         "timestamp": "2026-06-10T21:04:32.164779",
         "song": "Stevie Wonder - Sir Duke"
-    },
-    {
-        "timestamp": "2026-06-10T18:22:05.836060",
-        "song": "Friends of Distinction - Going In Circles"
     }
 ]
