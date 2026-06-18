@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-18T23:22:34.262151",
+        "song": "Steely Dan - Hey 19"
+    },
+    {
         "timestamp": "2026-06-18T21:35:52.907404",
         "song": "Persuaders - Thin Line Between Love And Hate"
     },
@@ -238,9 +242,5 @@
     {
         "timestamp": "2026-06-12T01:38:09.630961",
         "song": "Boz Scaggs - Look What You've Done To Me"
-    },
-    {
-        "timestamp": "2026-06-11T23:08:49.379489",
-        "song": "Prince - I Wanna Be Your Lover"
     }
 ]
