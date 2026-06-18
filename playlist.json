@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-18T13:58:15.866590",
+        "song": "Robert Palmer - Every Kinda People"
+    },
+    {
         "timestamp": "2026-06-18T10:53:26.333394",
         "song": "Baby's - Isn't It Time"
     },
@@ -238,9 +242,5 @@
     {
         "timestamp": "2026-06-11T16:53:49.149203",
         "song": "Rose Royce - Love Don't Live Here Anymore"
-    },
-    {
-        "timestamp": "2026-06-11T12:55:43.156514",
-        "song": "Paul McCartney - Maybe I'm Amazed (live)"
     }
 ]
