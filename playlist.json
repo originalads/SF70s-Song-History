@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-18T01:40:08.743877",
+        "song": "England Dan & John Ford Coley - I'd Really Love To See You Tonight"
+    },
+    {
         "timestamp": "2026-06-17T23:09:48.640431",
         "song": "Van McCoy - The Hustle"
     },
@@ -238,9 +242,5 @@
     {
         "timestamp": "2026-06-11T04:59:32.345774",
         "song": "Ambrosia - Holdin' On To Yesterday"
-    },
-    {
-        "timestamp": "2026-06-11T00:12:50.237143",
-        "song": "The Who - Won't Get Fooled Again"
     }
 ]
