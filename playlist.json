@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-19T02:11:25.256838",
+        "song": "Amii Stewart - Knock On Wood"
+    },
+    {
         "timestamp": "2026-06-18T23:22:34.262151",
         "song": "Steely Dan - Hey 19"
     },
@@ -238,9 +242,5 @@
     {
         "timestamp": "2026-06-12T06:17:27.210449",
         "song": "Al Stewart - Year Of The Cat"
-    },
-    {
-        "timestamp": "2026-06-12T01:38:09.630961",
-        "song": "Boz Scaggs - Look What You've Done To Me"
     }
 ]
