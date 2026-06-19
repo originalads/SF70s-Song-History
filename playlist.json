@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-19T14:31:35.394368",
+        "song": "Bob Seger & The Silver Bullet Band - Still The Same"
+    },
+    {
         "timestamp": "2026-06-19T11:48:48.758014",
         "song": "Peter Frampton - I'm In You"
     },
@@ -238,9 +242,5 @@
     {
         "timestamp": "2026-06-12T16:35:30.663650",
         "song": "Ambrosia - Biggest Part Of Me"
-    },
-    {
-        "timestamp": "2026-06-12T13:51:02.619467",
-        "song": "Spinners - Working My Way Back to You/Forgive Me, Girl"
     }
 ]
