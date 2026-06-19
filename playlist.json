@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-19T17:00:35.470722",
+        "song": "Earth, Wind & Fire - Shining Star"
+    },
+    {
         "timestamp": "2026-06-19T14:31:35.394368",
         "song": "Bob Seger & The Silver Bullet Band - Still The Same"
     },
@@ -238,9 +242,5 @@
     {
         "timestamp": "2026-06-12T18:27:36.322699",
         "song": "War - Cisco Kid"
-    },
-    {
-        "timestamp": "2026-06-12T16:35:30.663650",
-        "song": "Ambrosia - Biggest Part Of Me"
     }
 ]
