@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-20T23:39:11.260923",
+        "song": "Neil Diamond - Longfellow Serenade"
+    },
+    {
         "timestamp": "2026-06-20T22:20:42.921163",
         "song": "Ambrosia  - You're The Only Woman"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-14T01:38:14.205762",
         "song": "James Taylor - You've Got A Friend"
-    },
-    {
-        "timestamp": "2026-06-13T23:15:46.784194",
-        "song": "Osmonds - One Bad Apple"
     }
 ]
