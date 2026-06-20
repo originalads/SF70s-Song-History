@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-20T01:54:37.151228",
+        "song": "Andy Kim - Rock Me Gently"
+    },
+    {
         "timestamp": "2026-06-19T23:47:34.091670",
         "song": "Earth, Wind & Fire - Got To Get You Into My Life"
     },
@@ -246,9 +250,5 @@
     {
         "timestamp": "2026-06-13T02:09:06.064203",
         "song": "Earth, Wind & Fire - Got To Get You Into My Life"
-    },
-    {
-        "timestamp": "2026-06-12T23:52:08.824066",
-        "song": "Al Stewart - Time Passages"
     }
 ]
