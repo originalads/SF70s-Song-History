@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-20T21:07:08.672207",
+        "song": "Chic - I Want Your Love"
+    },
+    {
         "timestamp": "2026-06-20T19:53:26.005218",
         "song": "Olivia Newton-John - Let Me Be There"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-13T21:59:45.125572",
         "song": "Hues Corporation - Rock the Boat"
-    },
-    {
-        "timestamp": "2026-06-13T20:54:41.815515",
-        "song": "Wet Willie - Keep on Smilin'"
     }
 ]
