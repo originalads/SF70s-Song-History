@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-21T23:57:23.496211",
+        "song": "Van Morrison - Domino"
+    },
+    {
         "timestamp": "2026-06-21T22:41:10.024400",
         "song": "Spinners - It's A Shame"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-15T00:04:53.569325",
         "song": "Al Green - Here I Am"
-    },
-    {
-        "timestamp": "2026-06-14T22:54:31.157314",
-        "song": "Cliff Richard - We Don't Talk Anymore"
     }
 ]
