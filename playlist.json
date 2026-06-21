@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-21T18:10:45.061483",
+        "song": "Stevie Wonder - I Wish"
+    },
+    {
         "timestamp": "2026-06-21T16:46:35.920103",
         "song": "Pointer Sisters - Fire"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-14T18:57:25.646640",
         "song": "Simon & Garfunkel - Bridge Over Troubled Water"
-    },
-    {
-        "timestamp": "2026-06-14T17:40:40.556134",
-        "song": "Partridge Family - I Think I Love You"
     }
 ]
