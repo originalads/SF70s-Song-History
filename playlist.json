@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-21T02:04:11.061493",
+        "song": "Sly & The Family Stone - Family Affair"
+    },
+    {
         "timestamp": "2026-06-20T23:39:11.260923",
         "song": "Neil Diamond - Longfellow Serenade"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-14T06:19:24.420954",
         "song": "Rod Stewart - Hot Legs"
-    },
-    {
-        "timestamp": "2026-06-14T01:38:14.205762",
-        "song": "James Taylor - You've Got A Friend"
     }
 ]
