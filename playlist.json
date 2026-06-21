@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-21T10:39:29.857767",
+        "song": "Janis Ian - At Seventeen"
+    },
+    {
         "timestamp": "2026-06-21T07:02:49.262479",
         "song": "Creedence Clearwater Revival - Who'll Stop The Rain"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-14T12:06:01.347932",
         "song": "America - Ventura Highway"
-    },
-    {
-        "timestamp": "2026-06-14T09:59:41.538655",
-        "song": "Paul McCartney - Jet"
     }
 ]
