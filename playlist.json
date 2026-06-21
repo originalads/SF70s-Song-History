@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-21T22:41:10.024400",
+        "song": "Spinners - It's A Shame"
+    },
+    {
         "timestamp": "2026-06-21T21:24:37.643795",
         "song": "Diana Ross - Theme From Mahogany"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-14T22:54:31.157314",
         "song": "Cliff Richard - We Don't Talk Anymore"
-    },
-    {
-        "timestamp": "2026-06-14T21:46:17.094215",
-        "song": "King Floyd - Groove Me"
     }
 ]
