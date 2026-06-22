@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-22T23:04:15.569598",
+        "song": "Chicago - Saturday In The Park"
+    },
+    {
         "timestamp": "2026-06-22T21:32:55.275724",
         "song": "Robert Palmer - Bad Case Of Loving You"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-16T00:09:10.366987",
         "song": "Candi Staton - Young Hearts Run Free"
-    },
-    {
-        "timestamp": "2026-06-15T22:24:43.147210",
-        "song": "Emotions - I Don't Wanna Lose Your Love"
     }
 ]
