@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-22T04:47:46.551530",
+        "song": "Earth, Wind & Fire - Serpentine Fire"
+    },
+    {
         "timestamp": "2026-06-21T23:57:23.496211",
         "song": "Van Morrison - Domino"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-15T05:23:25.653164",
         "song": "Lipps, Inc. - Funkytown"
-    },
-    {
-        "timestamp": "2026-06-15T00:04:53.569325",
-        "song": "Al Green - Here I Am"
     }
 ]
