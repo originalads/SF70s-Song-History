@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-22T10:29:42.860799",
+        "song": "Fleetwood Mac - Say You Love Me"
+    },
+    {
         "timestamp": "2026-06-22T04:47:46.551530",
         "song": "Earth, Wind & Fire - Serpentine Fire"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-15T11:26:59.922518",
         "song": "Rupert Holmes - Escape"
-    },
-    {
-        "timestamp": "2026-06-15T05:23:25.653164",
-        "song": "Lipps, Inc. - Funkytown"
     }
 ]
