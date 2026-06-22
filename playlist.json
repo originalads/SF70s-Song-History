@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-22T18:58:15.282874",
+        "song": "Glen Campbell - Wichita Lineman"
+    },
+    {
         "timestamp": "2026-06-22T15:35:59.592662",
         "song": "Brewer & Shipley - One Toke Over The Line"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-15T20:01:29.703081",
         "song": "Chicago - Beginnings"
-    },
-    {
-        "timestamp": "2026-06-15T16:26:33.900270",
-        "song": "Peter Brown - Do You Wanna Get Funky With Me"
     }
 ]
