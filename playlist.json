@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-22T21:32:55.275724",
+        "song": "Robert Palmer - Bad Case Of Loving You"
+    },
+    {
         "timestamp": "2026-06-22T18:58:15.282874",
         "song": "Glen Campbell - Wichita Lineman"
     },
@@ -242,9 +246,5 @@
     {
         "timestamp": "2026-06-15T22:24:43.147210",
         "song": "Emotions - I Don't Wanna Lose Your Love"
-    },
-    {
-        "timestamp": "2026-06-15T20:01:29.703081",
-        "song": "Chicago - Beginnings"
     }
 ]
