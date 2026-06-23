@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-23T16:30:27.262444",
+        "song": "Lou Reed - Walk On The Wild Side"
+    },
+    {
         "timestamp": "2026-06-23T13:59:18.945751",
         "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
     },
@@ -250,9 +254,5 @@
     {
         "timestamp": "2026-06-16T19:02:41.050264",
         "song": "Fleetwood Mac - Go Your Own Way"
-    },
-    {
-        "timestamp": "2026-06-16T15:27:13.028009",
-        "song": "Steve Miller Band - Fly Like An Eagle"
     }
 ]
