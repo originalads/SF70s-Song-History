@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-23T20:30:17.944151",
+        "song": "Fleetwood Mac - You Make Lovin' Fun"
+    },
+    {
         "timestamp": "2026-06-23T18:23:54.222902",
         "song": "Ohio Players - Fire"
     },
@@ -254,9 +258,5 @@
     {
         "timestamp": "2026-06-16T21:44:27.191224",
         "song": "Paul Davis - Sweet Life"
-    },
-    {
-        "timestamp": "2026-06-16T19:02:41.050264",
-        "song": "Fleetwood Mac - Go Your Own Way"
     }
 ]
