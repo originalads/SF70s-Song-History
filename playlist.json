@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-23T08:06:08.807294",
+        "song": "Bobby Goldsboro - Summer (The First Time)"
+    },
+    {
         "timestamp": "2026-06-23T04:33:43.043463",
         "song": "Main Ingredient - Everybody Plays The Fool"
     },
@@ -246,9 +250,5 @@
     {
         "timestamp": "2026-06-16T10:27:13.066002",
         "song": "Commodores - Brick House"
-    },
-    {
-        "timestamp": "2026-06-16T05:30:23.349595",
-        "song": "Steve Miller Band - Rock N Me"
     }
 ]
