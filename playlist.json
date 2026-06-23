@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-23T23:14:31.253960",
+        "song": "Earth, Wind & Fire - Serpentine Fire"
+    },
+    {
         "timestamp": "2026-06-23T21:59:20.907841",
         "song": "Tyrone Davis - Turn Back The Hands Of Time"
     },
@@ -254,9 +258,5 @@
     {
         "timestamp": "2026-06-17T01:41:14.434316",
         "song": "Crosby, Stills, Nash & Young - Teach Your Children"
-    },
-    {
-        "timestamp": "2026-06-16T23:11:38.499353",
-        "song": "Donna Summer - Dim All The Lights"
     }
 ]
