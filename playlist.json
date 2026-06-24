@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-24T04:36:58.148831",
+        "song": "Badfinger - Day After Day"
+    },
+    {
         "timestamp": "2026-06-24T00:12:33.650930",
         "song": "Rolling Stones - Angie"
     },
@@ -258,9 +262,5 @@
     {
         "timestamp": "2026-06-17T06:50:28.164354",
         "song": "Hall & Oates - Rich Girl"
-    },
-    {
-        "timestamp": "2026-06-17T01:41:14.434316",
-        "song": "Crosby, Stills, Nash & Young - Teach Your Children"
     }
 ]
