@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-24T23:40:21.105801",
+        "song": "Dr. Hook - Sharing The Night Together"
+    },
+    {
         "timestamp": "2026-06-24T22:24:25.299410",
         "song": "Carpenters - I Won't Last A Day Without You"
     },
@@ -266,9 +270,5 @@
     {
         "timestamp": "2026-06-18T01:40:08.743877",
         "song": "England Dan & John Ford Coley - I'd Really Love To See You Tonight"
-    },
-    {
-        "timestamp": "2026-06-17T23:09:48.640431",
-        "song": "Van McCoy - The Hustle"
     }
 ]
