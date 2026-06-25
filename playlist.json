@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-25T11:27:43.110385",
+        "song": "Rare Earth - Get Ready"
+    },
+    {
         "timestamp": "2026-06-25T08:46:09.136587",
         "song": "Donna Summer - I Feel Love"
     },
@@ -270,9 +274,5 @@
     {
         "timestamp": "2026-06-18T13:58:15.866590",
         "song": "Robert Palmer - Every Kinda People"
-    },
-    {
-        "timestamp": "2026-06-18T10:53:26.333394",
-        "song": "Baby's - Isn't It Time"
     }
 ]
