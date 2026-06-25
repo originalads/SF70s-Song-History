@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-25T18:23:32.307549",
+        "song": "Commodores - Too Hot Ta Trot"
+    },
+    {
         "timestamp": "2026-06-25T16:07:33.855246",
         "song": "Cheryl Lynn - Got To Be Real"
     },
@@ -274,9 +278,5 @@
     {
         "timestamp": "2026-06-18T19:36:36.747819",
         "song": "Lynyrd Skynyrd - Free Bird"
-    },
-    {
-        "timestamp": "2026-06-18T17:17:58.145438",
-        "song": "Paul McCartney - Maybe I'm Amazed (live)"
     }
 ]
