@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-26T21:41:30.383045",
+        "song": "Temptations - Papa Was a Rolling Stone"
+    },
+    {
         "timestamp": "2026-06-26T20:13:48.650468",
         "song": "Ringo Starr - It Don't Come Easy"
     },
@@ -282,9 +286,5 @@
     {
         "timestamp": "2026-06-19T21:49:51.127452",
         "song": "KC & The Sunshine Band - Shake Your Booty"
-    },
-    {
-        "timestamp": "2026-06-19T20:42:26.910036",
-        "song": "America - Daisy Jane"
     }
 ]
