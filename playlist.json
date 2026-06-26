@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-26T22:49:54.031840",
+        "song": "El Chicano - Tell Her She's Lovely"
+    },
+    {
         "timestamp": "2026-06-26T21:41:30.383045",
         "song": "Temptations - Papa Was a Rolling Stone"
     },
@@ -278,13 +282,5 @@
     {
         "timestamp": "2026-06-19T23:47:34.091670",
         "song": "Earth, Wind & Fire - Got To Get You Into My Life"
-    },
-    {
-        "timestamp": "2026-06-19T22:40:35.955394",
-        "song": "Gladys Knight & The Pips - Neither One Of Us"
-    },
-    {
-        "timestamp": "2026-06-19T21:49:51.127452",
-        "song": "KC & The Sunshine Band - Shake Your Booty"
     }
 ]
