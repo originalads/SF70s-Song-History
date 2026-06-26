@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-26T14:42:14.281006",
+        "song": "Cliff Richard - We Don't Talk Anymore"
+    },
+    {
         "timestamp": "2026-06-26T12:02:47.470158",
         "song": "O'Jays - Love Train"
     },
@@ -278,9 +282,5 @@
     {
         "timestamp": "2026-06-19T17:00:35.470722",
         "song": "Earth, Wind & Fire - Shining Star"
-    },
-    {
-        "timestamp": "2026-06-19T14:31:35.394368",
-        "song": "Bob Seger & The Silver Bullet Band - Still The Same"
     }
 ]
