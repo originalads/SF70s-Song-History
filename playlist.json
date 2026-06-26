@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-26T05:59:11.223436",
+        "song": "Pointer Sisters - Fire"
+    },
+    {
         "timestamp": "2026-06-26T01:51:53.449772",
         "song": "Anita Ward - Ring My Bell"
     },
@@ -278,9 +282,5 @@
     {
         "timestamp": "2026-06-19T07:27:58.682810",
         "song": "Osmonds - Down By The Lazy River"
-    },
-    {
-        "timestamp": "2026-06-19T02:11:25.256838",
-        "song": "Amii Stewart - Knock On Wood"
     }
 ]
