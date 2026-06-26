@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-26T23:50:21.522163",
+        "song": "Bee Gees - Night Fever"
+    },
+    {
         "timestamp": "2026-06-26T22:49:54.031840",
         "song": "El Chicano - Tell Her She's Lovely"
     },
@@ -278,9 +282,5 @@
     {
         "timestamp": "2026-06-20T01:54:37.151228",
         "song": "Andy Kim - Rock Me Gently"
-    },
-    {
-        "timestamp": "2026-06-19T23:47:34.091670",
-        "song": "Earth, Wind & Fire - Got To Get You Into My Life"
     }
 ]
