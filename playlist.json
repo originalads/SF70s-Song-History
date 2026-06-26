@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-26T20:13:48.650468",
+        "song": "Ringo Starr - It Don't Come Easy"
+    },
+    {
         "timestamp": "2026-06-26T18:18:38.914016",
         "song": "Seals & Crofts - We May Never Pass This Way Again"
     },
@@ -282,9 +286,5 @@
     {
         "timestamp": "2026-06-19T20:42:26.910036",
         "song": "America - Daisy Jane"
-    },
-    {
-        "timestamp": "2026-06-19T19:02:56.271458",
-        "song": "Three Dog Night - Shambala"
     }
 ]
