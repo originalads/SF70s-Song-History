@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-27T19:59:27.604021",
+        "song": "Neil Sedaka - Bad Blood"
+    },
+    {
         "timestamp": "2026-06-27T18:47:17.768535",
         "song": "Rickie Lee Jones - Chuck E's In Love"
     },
@@ -286,9 +290,5 @@
     {
         "timestamp": "2026-06-20T21:07:08.672207",
         "song": "Chic - I Want Your Love"
-    },
-    {
-        "timestamp": "2026-06-20T19:53:26.005218",
-        "song": "Olivia Newton-John - Let Me Be There"
     }
 ]
