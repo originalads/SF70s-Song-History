@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-27T08:16:59.649779",
+        "song": "Elton John - Candle In The Wind"
+    },
+    {
         "timestamp": "2026-06-27T05:40:30.329563",
         "song": "Dionne Warwick - Deja Vu"
     },
@@ -282,9 +286,5 @@
     {
         "timestamp": "2026-06-20T09:45:26.729241",
         "song": "David Dundas - Jeans On"
-    },
-    {
-        "timestamp": "2026-06-20T06:17:16.933804",
-        "song": "5th Dimension - One Less Bell To Answer"
     }
 ]
