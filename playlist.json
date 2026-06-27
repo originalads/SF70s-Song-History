@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-27T13:26:36.810519",
+        "song": "Ray Parker Jr. & Raydio - Jack and Jill"
+    },
+    {
         "timestamp": "2026-06-27T11:55:04.679441",
         "song": "Michael Jackson - Don't Stop 'Til You Get Enough"
     },
@@ -282,9 +286,5 @@
     {
         "timestamp": "2026-06-20T15:15:55.701094",
         "song": "Blues Image - Ride Captain Ride"
-    },
-    {
-        "timestamp": "2026-06-20T13:14:05.210502",
-        "song": "Free - All Right Now"
     }
 ]
