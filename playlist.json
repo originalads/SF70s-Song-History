@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-27T10:27:08.763952",
+        "song": "Three Dog Night - Never Been To Spain"
+    },
+    {
         "timestamp": "2026-06-27T08:16:59.649779",
         "song": "Elton John - Candle In The Wind"
     },
@@ -282,9 +286,5 @@
     {
         "timestamp": "2026-06-20T11:44:53.424423",
         "song": "Kenny Loggins - Whenever I Call You Friend"
-    },
-    {
-        "timestamp": "2026-06-20T09:45:26.729241",
-        "song": "David Dundas - Jeans On"
     }
 ]
