@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-27T21:13:20.438307",
+        "song": "Sylvia - Pillow Talk"
+    },
+    {
         "timestamp": "2026-06-27T19:59:27.604021",
         "song": "Neil Sedaka - Bad Blood"
     },
@@ -286,9 +290,5 @@
     {
         "timestamp": "2026-06-20T22:20:42.921163",
         "song": "Ambrosia  - You're The Only Woman"
-    },
-    {
-        "timestamp": "2026-06-20T21:07:08.672207",
-        "song": "Chic - I Want Your Love"
     }
 ]
