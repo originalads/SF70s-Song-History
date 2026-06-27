@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-27T18:47:17.768535",
+        "song": "Rickie Lee Jones - Chuck E's In Love"
+    },
+    {
         "timestamp": "2026-06-27T17:32:29.054361",
         "song": "Elton John - Saturday Night's Alright For Fighting"
     },
@@ -286,9 +290,5 @@
     {
         "timestamp": "2026-06-20T19:53:26.005218",
         "song": "Olivia Newton-John - Let Me Be There"
-    },
-    {
-        "timestamp": "2026-06-20T18:07:11.128210",
-        "song": "America - Tin Man"
     }
 ]
