@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-28T12:48:27.379637",
+        "song": "Earth, Wind & Fire - Let's Groove"
+    },
+    {
         "timestamp": "2026-06-28T11:19:21.007880",
         "song": "Sonny & Cher - All I Ever Need Is You"
     },
@@ -290,9 +294,5 @@
     {
         "timestamp": "2026-06-21T14:57:23.983105",
         "song": "Rolling Stones - Angie"
-    },
-    {
-        "timestamp": "2026-06-21T12:29:15.500718",
-        "song": "Bay City Rollers - Money Honey"
     }
 ]
