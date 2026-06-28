@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-28T19:41:48.713414",
+        "song": "Olivia Newton-John - Magic"
+    },
+    {
         "timestamp": "2026-06-28T18:02:24.675124",
         "song": "Elton John - Philadelphia Freedom"
     },
@@ -298,9 +302,5 @@
     {
         "timestamp": "2026-06-21T20:01:44.837520",
         "song": "Boston - Long Time"
-    },
-    {
-        "timestamp": "2026-06-21T18:10:45.061483",
-        "song": "Stevie Wonder - I Wish"
     }
 ]
