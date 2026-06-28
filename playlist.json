@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-28T05:59:48.933198",
+        "song": "Santana - Evil Ways"
+    },
+    {
         "timestamp": "2026-06-28T01:35:43.664033",
         "song": "Doobie Brothers - Takin' It To The Streets"
     },
@@ -290,9 +294,5 @@
     {
         "timestamp": "2026-06-21T07:02:49.262479",
         "song": "Creedence Clearwater Revival - Who'll Stop The Rain"
-    },
-    {
-        "timestamp": "2026-06-21T02:04:11.061493",
-        "song": "Sly & The Family Stone - Family Affair"
     }
 ]
