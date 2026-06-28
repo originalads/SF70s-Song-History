@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-28T11:19:21.007880",
+        "song": "Sonny & Cher - All I Ever Need Is You"
+    },
+    {
         "timestamp": "2026-06-28T09:25:27.977775",
         "song": "Silver Convention - Fly Robin Fly"
     },
@@ -290,9 +294,5 @@
     {
         "timestamp": "2026-06-21T12:29:15.500718",
         "song": "Bay City Rollers - Money Honey"
-    },
-    {
-        "timestamp": "2026-06-21T10:39:29.857767",
-        "song": "Janis Ian - At Seventeen"
     }
 ]
