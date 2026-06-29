@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-29T12:04:44.241684",
+        "song": "Steely Dan - Josie"
+    },
+    {
         "timestamp": "2026-06-29T06:59:46.971128",
         "song": "Marshall Tucker Band - Heard It In A Love Song"
     },
@@ -302,9 +306,5 @@
     {
         "timestamp": "2026-06-22T15:35:59.592662",
         "song": "Brewer & Shipley - One Toke Over The Line"
-    },
-    {
-        "timestamp": "2026-06-22T10:29:42.860799",
-        "song": "Fleetwood Mac - Say You Love Me"
     }
 ]
