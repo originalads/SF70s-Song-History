@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-29T20:18:41.985181",
+        "song": "Bay City Rollers - Saturday Night"
+    },
+    {
         "timestamp": "2026-06-29T18:19:17.305836",
         "song": "John Stewart - Gold"
     },
@@ -306,9 +310,5 @@
     {
         "timestamp": "2026-06-22T21:32:55.275724",
         "song": "Robert Palmer - Bad Case Of Loving You"
-    },
-    {
-        "timestamp": "2026-06-22T18:58:15.282874",
-        "song": "Glen Campbell - Wichita Lineman"
     }
 ]
