@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-29T23:42:26.861169",
+        "song": "Barry Manilow - Can't Smile Without You"
+    },
+    {
         "timestamp": "2026-06-29T22:42:33.655500",
         "song": "Manhattans - Shining Star"
     },
@@ -310,9 +314,5 @@
     {
         "timestamp": "2026-06-23T00:17:55.910986",
         "song": "Skylark - Wildflower"
-    },
-    {
-        "timestamp": "2026-06-22T23:04:15.569598",
-        "song": "Chicago - Saturday In The Park"
     }
 ]
