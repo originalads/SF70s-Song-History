@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-30T14:37:21.702582",
+        "song": "Steely Dan - Time Out Of Mind"
+    },
+    {
         "timestamp": "2026-06-30T12:01:30.256804",
         "song": "ABBA - SOS"
     },
@@ -310,9 +314,5 @@
     {
         "timestamp": "2026-06-23T16:30:27.262444",
         "song": "Lou Reed - Walk On The Wild Side"
-    },
-    {
-        "timestamp": "2026-06-23T13:59:18.945751",
-        "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
     }
 ]
