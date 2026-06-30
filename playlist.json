@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-30T20:54:59.487336",
+        "song": "Cher - Dark Lady"
+    },
+    {
         "timestamp": "2026-06-30T18:54:18.331114",
         "song": "Olivia Newton-John - I Honestly Love You"
     },
@@ -310,9 +314,5 @@
     {
         "timestamp": "2026-06-23T21:59:20.907841",
         "song": "Tyrone Davis - Turn Back The Hands Of Time"
-    },
-    {
-        "timestamp": "2026-06-23T20:30:17.944151",
-        "song": "Fleetwood Mac - You Make Lovin' Fun"
     }
 ]
