@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-06-30T22:13:18.023081",
+        "song": "Brothers Johnson - Stomp"
+    },
+    {
         "timestamp": "2026-06-30T20:54:59.487336",
         "song": "Cher - Dark Lady"
     },
@@ -310,9 +314,5 @@
     {
         "timestamp": "2026-06-23T23:14:31.253960",
         "song": "Earth, Wind & Fire - Serpentine Fire"
-    },
-    {
-        "timestamp": "2026-06-23T21:59:20.907841",
-        "song": "Tyrone Davis - Turn Back The Hands Of Time"
     }
 ]
