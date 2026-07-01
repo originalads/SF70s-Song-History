@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-01T06:25:08.341601",
+        "song": "Chic - I Want Your Love"
+    },
+    {
         "timestamp": "2026-07-01T01:55:35.140675",
         "song": "Bruce Springsteen - Hungry Heart"
     },
@@ -310,9 +314,5 @@
     {
         "timestamp": "2026-06-24T08:01:37.237930",
         "song": "Chic - I Want Your Love"
-    },
-    {
-        "timestamp": "2026-06-24T04:36:58.148831",
-        "song": "Badfinger - Day After Day"
     }
 ]
