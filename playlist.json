@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-01T20:07:08.154779",
+        "song": "Carole King - Jazzman"
+    },
+    {
         "timestamp": "2026-07-01T18:04:02.811312",
         "song": "Bob Seger & The Silver Bullet Band - Against The Wind"
     },
@@ -306,9 +310,5 @@
     {
         "timestamp": "2026-06-24T21:01:15.694617",
         "song": "Hot Chocolate - You Sexy Thing"
-    },
-    {
-        "timestamp": "2026-06-24T19:19:31.449395",
-        "song": "Carly Simon - The Right Thing To Do"
     }
 ]
