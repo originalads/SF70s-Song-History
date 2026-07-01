@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-01T22:55:00.684588",
+        "song": "Neil Young - Heart Of Gold"
+    },
+    {
         "timestamp": "2026-07-01T21:44:42.117543",
         "song": "Carpenters - Superstar"
     },
@@ -306,9 +310,5 @@
     {
         "timestamp": "2026-06-24T23:40:21.105801",
         "song": "Dr. Hook - Sharing The Night Together"
-    },
-    {
-        "timestamp": "2026-06-24T22:24:25.299410",
-        "song": "Carpenters - I Won't Last A Day Without You"
     }
 ]
