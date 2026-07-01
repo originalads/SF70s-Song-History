@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-01T15:58:43.854229",
+        "song": "Commodores - Brick House"
+    },
+    {
         "timestamp": "2026-07-01T13:17:56.175807",
         "song": "Doobie Brothers - Rockin' Down The Highway"
     },
@@ -306,13 +310,5 @@
     {
         "timestamp": "2026-06-24T17:47:08.052201",
         "song": "Fleetwood Mac - Over My Head"
-    },
-    {
-        "timestamp": "2026-06-24T15:52:48.159180",
-        "song": "Gerry Rafferty - Right Down The Line"
-    },
-    {
-        "timestamp": "2026-06-24T13:28:37.525069",
-        "song": "Bellamy Brothers - Let Your Love Flow"
     }
 ]
