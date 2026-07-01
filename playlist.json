@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-01T01:55:35.140675",
+        "song": "Bruce Springsteen - Hungry Heart"
+    },
+    {
         "timestamp": "2026-06-30T23:37:45.553893",
         "song": "Kenny Rogers - She Believes In Me"
     },
@@ -310,9 +314,5 @@
     {
         "timestamp": "2026-06-24T04:36:58.148831",
         "song": "Badfinger - Day After Day"
-    },
-    {
-        "timestamp": "2026-06-24T00:12:33.650930",
-        "song": "Rolling Stones - Angie"
     }
 ]
