@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-02T10:23:09.864090",
+        "song": "Parliament - Give Up The Funk"
+    },
+    {
         "timestamp": "2026-07-02T07:46:12.913747",
         "song": "Marvin Gaye - I Want You"
     },
@@ -306,9 +310,5 @@
     {
         "timestamp": "2026-06-25T11:27:43.110385",
         "song": "Rare Earth - Get Ready"
-    },
-    {
-        "timestamp": "2026-06-25T08:46:09.136587",
-        "song": "Donna Summer - I Feel Love"
     }
 ]
