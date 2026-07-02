@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-02T00:03:59.917723",
+        "song": "Gordon Lightfoot - Sundown"
+    },
+    {
         "timestamp": "2026-07-01T22:55:00.684588",
         "song": "Neil Young - Heart Of Gold"
     },
@@ -306,9 +310,5 @@
     {
         "timestamp": "2026-06-25T01:49:07.681973",
         "song": "Stephanie Mills - What Cha Gonna Do With My Lovin'"
-    },
-    {
-        "timestamp": "2026-06-24T23:40:21.105801",
-        "song": "Dr. Hook - Sharing The Night Together"
     }
 ]
