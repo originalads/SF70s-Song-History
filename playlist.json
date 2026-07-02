@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-02T12:25:20.743307",
+        "song": "John Lennon - Imagine"
+    },
+    {
         "timestamp": "2026-07-02T10:23:09.864090",
         "song": "Parliament - Give Up The Funk"
     },
@@ -306,9 +310,5 @@
     {
         "timestamp": "2026-06-25T13:37:02.839359",
         "song": "Billy Swan - I Can Help"
-    },
-    {
-        "timestamp": "2026-06-25T11:27:43.110385",
-        "song": "Rare Earth - Get Ready"
     }
 ]
