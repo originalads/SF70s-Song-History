@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-02T20:52:47.780248",
+        "song": "Steely Dan - Rikki Don't Lose That Number"
+    },
+    {
         "timestamp": "2026-07-02T19:52:30.174695",
         "song": "Paul McCartney - Band On The Run"
     },
@@ -310,9 +314,5 @@
     {
         "timestamp": "2026-06-25T22:05:10.451631",
         "song": "Sly & The Family Stone - Family Affair"
-    },
-    {
-        "timestamp": "2026-06-25T20:28:09.110854",
-        "song": "Doobie Brothers - Dependin' On You"
     }
 ]
