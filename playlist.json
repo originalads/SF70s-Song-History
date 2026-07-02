@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-02T23:16:47.435134",
+        "song": "Doobie Brothers - Jesus Is Just Alright With Me"
+    },
+    {
         "timestamp": "2026-07-02T21:59:23.196458",
         "song": "John Denver - Thank God I'm A Country Boy"
     },
@@ -314,9 +318,5 @@
     {
         "timestamp": "2026-06-25T23:41:25.062266",
         "song": "Floaters - Float On"
-    },
-    {
-        "timestamp": "2026-06-25T22:05:10.451631",
-        "song": "Sly & The Family Stone - Family Affair"
     }
 ]
