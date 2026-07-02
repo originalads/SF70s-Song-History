@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-02T16:25:34.319779",
+        "song": "Rhythm Heritage - Theme From S.W.A.T."
+    },
+    {
         "timestamp": "2026-07-02T14:37:48.867253",
         "song": "Main Ingredient - Just Don't Want To Be Lonely"
     },
@@ -306,9 +310,5 @@
     {
         "timestamp": "2026-06-25T18:23:32.307549",
         "song": "Commodores - Too Hot Ta Trot"
-    },
-    {
-        "timestamp": "2026-06-25T16:07:33.855246",
-        "song": "Cheryl Lynn - Got To Be Real"
     }
 ]
