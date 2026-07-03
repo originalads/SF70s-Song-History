@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-03T01:05:11.722034",
+        "song": "Tony Orlando & Dawn - Sweet Gypsy Rose"
+    },
+    {
         "timestamp": "2026-07-02T23:16:47.435134",
         "song": "Doobie Brothers - Jesus Is Just Alright With Me"
     },
@@ -314,9 +318,5 @@
     {
         "timestamp": "2026-06-26T01:51:53.449772",
         "song": "Anita Ward - Ring My Bell"
-    },
-    {
-        "timestamp": "2026-06-25T23:41:25.062266",
-        "song": "Floaters - Float On"
     }
 ]
