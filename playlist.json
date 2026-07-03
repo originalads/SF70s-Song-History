@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-03T22:39:00.720530",
+        "song": "America - I Need You"
+    },
+    {
         "timestamp": "2026-07-03T21:35:59.512283",
         "song": "Bob Seger & The Silver Bullet Band - Night Moves"
     },
@@ -322,9 +326,5 @@
     {
         "timestamp": "2026-06-26T22:49:54.031840",
         "song": "El Chicano - Tell Her She's Lovely"
-    },
-    {
-        "timestamp": "2026-06-26T21:41:30.383045",
-        "song": "Temptations - Papa Was a Rolling Stone"
     }
 ]
