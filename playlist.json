@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-03T14:53:22.864054",
+        "song": "Elvis Presley - Burning Love"
+    },
+    {
         "timestamp": "2026-07-03T12:29:11.309761",
         "song": "Electric Light Orchestra - Shine A Little Love"
     },
@@ -314,9 +318,5 @@
     {
         "timestamp": "2026-06-26T16:50:30.765709",
         "song": "Loggins & Messina - Danny's Song"
-    },
-    {
-        "timestamp": "2026-06-26T14:42:14.281006",
-        "song": "Cliff Richard - We Don't Talk Anymore"
     }
 ]
