@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-03T12:29:11.309761",
+        "song": "Electric Light Orchestra - Shine A Little Love"
+    },
+    {
         "timestamp": "2026-07-03T10:37:36.636005",
         "song": "Commodores - Sail On"
     },
@@ -314,9 +318,5 @@
     {
         "timestamp": "2026-06-26T14:42:14.281006",
         "song": "Cliff Richard - We Don't Talk Anymore"
-    },
-    {
-        "timestamp": "2026-06-26T12:02:47.470158",
-        "song": "O'Jays - Love Train"
     }
 ]
