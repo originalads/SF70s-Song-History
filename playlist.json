@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-04T07:44:27.189119",
+        "song": "Al Stewart - Year Of The Cat"
+    },
+    {
         "timestamp": "2026-07-04T04:55:23.720999",
         "song": "Olivia Newton-John & Electric Light Orchestra - Xanadu"
     },
@@ -322,9 +326,5 @@
     {
         "timestamp": "2026-06-27T08:16:59.649779",
         "song": "Elton John - Candle In The Wind"
-    },
-    {
-        "timestamp": "2026-06-27T05:40:30.329563",
-        "song": "Dionne Warwick - Deja Vu"
     }
 ]
