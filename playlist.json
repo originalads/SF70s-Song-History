@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-04T09:53:08.576735",
+        "song": "Stevie Wonder - Isn't She Lovely"
+    },
+    {
         "timestamp": "2026-07-04T07:44:27.189119",
         "song": "Al Stewart - Year Of The Cat"
     },
@@ -322,9 +326,5 @@
     {
         "timestamp": "2026-06-27T10:27:08.763952",
         "song": "Three Dog Night - Never Been To Spain"
-    },
-    {
-        "timestamp": "2026-06-27T08:16:59.649779",
-        "song": "Elton John - Candle In The Wind"
     }
 ]
