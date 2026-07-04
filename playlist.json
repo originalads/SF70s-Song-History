@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-04T19:52:56.686091",
+        "song": "Stevie Wonder - Master Blaster (Jammin')"
+    },
+    {
         "timestamp": "2026-07-04T18:39:55.539550",
         "song": "Captain & Tennille - Love Will Keep Us Together"
     },
@@ -326,9 +330,5 @@
     {
         "timestamp": "2026-06-27T19:59:27.604021",
         "song": "Neil Sedaka - Bad Blood"
-    },
-    {
-        "timestamp": "2026-06-27T18:47:17.768535",
-        "song": "Rickie Lee Jones - Chuck E's In Love"
     }
 ]
