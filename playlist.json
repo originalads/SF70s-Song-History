@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-04T14:12:56.437979",
+        "song": "The Who - Who Are You"
+    },
+    {
         "timestamp": "2026-07-04T12:37:59.961755",
         "song": "Eagles - I Can't Tell You Why"
     },
@@ -322,9 +326,5 @@
     {
         "timestamp": "2026-06-27T15:01:30.712677",
         "song": "Chic - I Want Your Love"
-    },
-    {
-        "timestamp": "2026-06-27T13:26:36.810519",
-        "song": "Ray Parker Jr. & Raydio - Jack and Jill"
     }
 ]
