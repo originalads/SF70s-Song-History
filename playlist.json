@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-05T21:12:48.605581",
+        "song": "Bad Company - Can't Get Enough"
+    },
+    {
         "timestamp": "2026-07-05T20:00:40.343174",
         "song": "Steve Miller Band - Rock N Me"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-06-28T21:46:03.800760",
         "song": "LaBelle - Lady Marmalade"
-    },
-    {
-        "timestamp": "2026-06-28T20:44:46.364611",
-        "song": "Eagles - Peaceful Easy Feeling"
     }
 ]
