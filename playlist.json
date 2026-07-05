@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-05T20:00:40.343174",
+        "song": "Steve Miller Band - Rock N Me"
+    },
+    {
         "timestamp": "2026-07-05T18:43:56.539683",
         "song": "Stevie Wonder - Higher Ground"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-06-28T20:44:46.364611",
         "song": "Eagles - Peaceful Easy Feeling"
-    },
-    {
-        "timestamp": "2026-06-28T19:41:48.713414",
-        "song": "Olivia Newton-John - Magic"
     }
 ]
