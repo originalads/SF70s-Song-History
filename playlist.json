@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-05T18:43:56.539683",
+        "song": "Stevie Wonder - Higher Ground"
+    },
+    {
         "timestamp": "2026-07-05T17:39:25.396300",
         "song": "Vicki Lawrence - The Night The Lights Went Out In Georgia"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-06-28T19:41:48.713414",
         "song": "Olivia Newton-John - Magic"
-    },
-    {
-        "timestamp": "2026-06-28T18:02:24.675124",
-        "song": "Elton John - Philadelphia Freedom"
     }
 ]
