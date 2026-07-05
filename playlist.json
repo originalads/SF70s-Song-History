@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-05T14:03:06.302991",
+        "song": "Osmonds - Down By The Lazy River"
+    },
+    {
         "timestamp": "2026-07-05T12:04:14.686305",
         "song": "Jackson Browne - Running On Empty"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-06-28T14:28:36.779303",
         "song": "Supertramp - Take The Long Way Home"
-    },
-    {
-        "timestamp": "2026-06-28T12:48:27.379637",
-        "song": "Earth, Wind & Fire - Let's Groove"
     }
 ]
