@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-06T21:55:47.262462",
+        "song": "Supertramp - The Logical Song"
+    },
+    {
         "timestamp": "2026-07-06T20:28:03.025968",
         "song": "Hues Corporation - Rock the Boat"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-06-29T22:42:33.655500",
         "song": "Manhattans - Shining Star"
-    },
-    {
-        "timestamp": "2026-06-29T21:46:48.325108",
-        "song": "Billy Swan - I Can Help"
     }
 ]
