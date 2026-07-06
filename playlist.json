@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-06T23:05:40.998229",
+        "song": "Andy Gibb - Shadow Dancing"
+    },
+    {
         "timestamp": "2026-07-06T21:55:47.262462",
         "song": "Supertramp - The Logical Song"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-06-29T23:42:26.861169",
         "song": "Barry Manilow - Can't Smile Without You"
-    },
-    {
-        "timestamp": "2026-06-29T22:42:33.655500",
-        "song": "Manhattans - Shining Star"
     }
 ]
