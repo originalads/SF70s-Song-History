@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-06T18:30:11.067664",
+        "song": "Elvis Presley - Suspicious Minds"
+    },
+    {
         "timestamp": "2026-07-06T16:39:41.551509",
         "song": "Moments - Love On A Two Way Street"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-06-29T20:18:41.985181",
         "song": "Bay City Rollers - Saturday Night"
-    },
-    {
-        "timestamp": "2026-06-29T18:19:17.305836",
-        "song": "John Stewart - Gold"
     }
 ]
