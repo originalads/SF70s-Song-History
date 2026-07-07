@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-07T07:59:01.353633",
+        "song": "War - Cisco Kid"
+    },
+    {
         "timestamp": "2026-07-07T04:27:53.431553",
         "song": "Loggins & Messina - Your Mama Don't Dance"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-06-30T09:46:55.983724",
         "song": "Cat Stevens - Wild World"
-    },
-    {
-        "timestamp": "2026-06-30T05:57:45.908642",
-        "song": "Rolling Stones - Tumbling Dice"
     }
 ]
