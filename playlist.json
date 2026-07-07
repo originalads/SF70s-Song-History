@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-07T16:02:44.536263",
+        "song": "Barry White - You're The First, The Last, My Everything"
+    },
+    {
         "timestamp": "2026-07-07T13:27:34.411221",
         "song": "Stevie Wonder - Master Blaster (Jammin')"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-06-30T16:55:15.420353",
         "song": "Gordon Lightfoot - Wreck Of The Edmund Fitzgerald"
-    },
-    {
-        "timestamp": "2026-06-30T14:37:21.702582",
-        "song": "Steely Dan - Time Out Of Mind"
     }
 ]
