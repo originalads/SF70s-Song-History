@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-07T18:10:30.708034",
+        "song": "Isley Brothers - That Lady"
+    },
+    {
         "timestamp": "2026-07-07T16:02:44.536263",
         "song": "Barry White - You're The First, The Last, My Everything"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-06-30T18:54:18.331114",
         "song": "Olivia Newton-John - I Honestly Love You"
-    },
-    {
-        "timestamp": "2026-06-30T16:55:15.420353",
-        "song": "Gordon Lightfoot - Wreck Of The Edmund Fitzgerald"
     }
 ]
