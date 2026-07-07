@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-07T23:38:42.367680",
+        "song": "Rolling Stones - You Can't Always Get What You Want"
+    },
+    {
         "timestamp": "2026-07-07T22:43:55.153036",
         "song": "Carole King - It's Too Late"
     },
@@ -330,9 +334,5 @@
     {
         "timestamp": "2026-07-01T01:55:35.140675",
         "song": "Bruce Springsteen - Hungry Heart"
-    },
-    {
-        "timestamp": "2026-06-30T23:37:45.553893",
-        "song": "Kenny Rogers - She Believes In Me"
     }
 ]
