@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-08T04:30:44.847195",
+        "song": "Bee Gees - You Should Be Dancing"
+    },
+    {
         "timestamp": "2026-07-08T01:09:45.870624",
         "song": "Manfred Mann's Earth Band - Blinded By The Light"
     },
@@ -334,9 +338,5 @@
     {
         "timestamp": "2026-07-01T06:25:08.341601",
         "song": "Chic - I Want Your Love"
-    },
-    {
-        "timestamp": "2026-07-01T01:55:35.140675",
-        "song": "Bruce Springsteen - Hungry Heart"
     }
 ]
