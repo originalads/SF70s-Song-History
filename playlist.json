@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-09T05:07:30.518456",
+        "song": "Dr. Hook - When You're In Love With A Beautiful Woman"
+    },
+    {
         "timestamp": "2026-07-09T01:13:33.143556",
         "song": "Rolling Stones - Miss You"
     },
@@ -346,9 +350,5 @@
     {
         "timestamp": "2026-07-02T07:46:12.913747",
         "song": "Marvin Gaye - I Want You"
-    },
-    {
-        "timestamp": "2026-07-02T04:17:01.562870",
-        "song": "Grand Funk Railroad - Bad Time"
     }
 ]
