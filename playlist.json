@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-09T21:52:10.662047",
+        "song": "O'Jays - Back Stabbers"
+    },
+    {
         "timestamp": "2026-07-09T20:19:20.639075",
         "song": "Jim Croce - I'll Have To Say I Love You In A Song"
     },
@@ -338,9 +342,5 @@
     {
         "timestamp": "2026-07-02T21:59:23.196458",
         "song": "John Denver - Thank God I'm A Country Boy"
-    },
-    {
-        "timestamp": "2026-07-02T20:52:47.780248",
-        "song": "Steely Dan - Rikki Don't Lose That Number"
     }
 ]
