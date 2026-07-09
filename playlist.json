@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-09T20:19:20.639075",
+        "song": "Jim Croce - I'll Have To Say I Love You In A Song"
+    },
+    {
         "timestamp": "2026-07-09T18:26:31.228126",
         "song": "Helen Reddy - Leave Me Alone"
     },
@@ -338,9 +342,5 @@
     {
         "timestamp": "2026-07-02T20:52:47.780248",
         "song": "Steely Dan - Rikki Don't Lose That Number"
-    },
-    {
-        "timestamp": "2026-07-02T19:52:30.174695",
-        "song": "Paul McCartney - Band On The Run"
     }
 ]
