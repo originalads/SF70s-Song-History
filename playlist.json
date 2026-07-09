@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-09T18:26:31.228126",
+        "song": "Helen Reddy - Leave Me Alone"
+    },
+    {
         "timestamp": "2026-07-09T16:40:55.901735",
         "song": "Gilbert O'Sullivan - Clair"
     },
@@ -338,9 +342,5 @@
     {
         "timestamp": "2026-07-02T19:52:30.174695",
         "song": "Paul McCartney - Band On The Run"
-    },
-    {
-        "timestamp": "2026-07-02T18:12:36.926241",
-        "song": "Anita Ward - Ring My Bell"
     }
 ]
