@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-10T17:24:42.271988",
+        "song": "Sylvia - Pillow Talk"
+    },
+    {
         "timestamp": "2026-07-10T15:37:14.619136",
         "song": "Paul Simon - Kodachrome"
     },
@@ -334,9 +338,5 @@
     {
         "timestamp": "2026-07-03T17:53:12.279142",
         "song": "Paul Simon - Kodachrome"
-    },
-    {
-        "timestamp": "2026-07-03T16:19:51.932016",
-        "song": "Three Dog Night - The Show Must Go On"
     }
 ]
