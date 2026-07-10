@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-10T07:54:38.621126",
+        "song": "Boz Scaggs - It's Over"
+    },
+    {
         "timestamp": "2026-07-10T04:16:26.407443",
         "song": "Eagles - Life In The Fast Lane"
     },
@@ -338,9 +342,5 @@
     {
         "timestamp": "2026-07-03T07:56:51.045370",
         "song": "Jim Croce - I Got A Name"
-    },
-    {
-        "timestamp": "2026-07-03T04:53:54.477436",
-        "song": "Sylvester - Dance (Disco Heat)"
     }
 ]
