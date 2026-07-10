@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-10T13:00:50.882509",
+        "song": "Gerry Rafferty - Baker Street"
+    },
+    {
         "timestamp": "2026-07-10T10:48:42.413271",
         "song": "Donna Summer - On the Radio"
     },
@@ -334,9 +338,5 @@
     {
         "timestamp": "2026-07-03T14:53:22.864054",
         "song": "Elvis Presley - Burning Love"
-    },
-    {
-        "timestamp": "2026-07-03T12:29:11.309761",
-        "song": "Electric Light Orchestra - Shine A Little Love"
     }
 ]
