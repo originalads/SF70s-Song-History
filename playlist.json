@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-10T00:13:45.121644",
+        "song": "Patti Smith - Because The Night"
+    },
+    {
         "timestamp": "2026-07-09T23:01:01.546257",
         "song": "Bob Welch - Ebony Eyes"
     },
@@ -338,9 +342,5 @@
     {
         "timestamp": "2026-07-03T01:05:11.722034",
         "song": "Tony Orlando & Dawn - Sweet Gypsy Rose"
-    },
-    {
-        "timestamp": "2026-07-02T23:16:47.435134",
-        "song": "Doobie Brothers - Jesus Is Just Alright With Me"
     }
 ]
