@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-11T20:30:49.495639",
+        "song": "Seals & Crofts - Get Closer"
+    },
+    {
         "timestamp": "2026-07-11T19:44:13.197385",
         "song": "Rupert Holmes - Escape"
     },
@@ -342,9 +346,5 @@
     {
         "timestamp": "2026-07-04T20:43:17.688111",
         "song": "Cat Stevens - Wild World"
-    },
-    {
-        "timestamp": "2026-07-04T19:52:56.686091",
-        "song": "Stevie Wonder - Master Blaster (Jammin')"
     }
 ]
