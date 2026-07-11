@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-11T06:31:58.309704",
+        "song": "Golden Earring - Radar Love"
+    },
+    {
         "timestamp": "2026-07-11T04:22:55.614901",
         "song": "Commodores - Sweet Love"
     },
@@ -334,9 +338,5 @@
     {
         "timestamp": "2026-07-04T07:44:27.189119",
         "song": "Al Stewart - Year Of The Cat"
-    },
-    {
-        "timestamp": "2026-07-04T04:55:23.720999",
-        "song": "Olivia Newton-John & Electric Light Orchestra - Xanadu"
     }
 ]
