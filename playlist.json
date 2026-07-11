@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-11T23:14:07.957503",
+        "song": "Alice Cooper - I'm Eighteen"
+    },
+    {
         "timestamp": "2026-07-11T22:21:28.873234",
         "song": "Bee Gees - How Can You Mend A Broken Heart"
     },
@@ -342,9 +346,5 @@
     {
         "timestamp": "2026-07-04T23:42:57.503800",
         "song": "Commodores - Easy"
-    },
-    {
-        "timestamp": "2026-07-04T22:39:58.323953",
-        "song": "Boz Scaggs - Look What You've Done To Me"
     }
 ]
