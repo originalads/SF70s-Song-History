@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-12T12:32:03.970052",
+        "song": "Albert Hammond - It Never Rains In Southern California"
+    },
+    {
         "timestamp": "2026-07-12T11:34:01.252155",
         "song": "Commodores - Brick House"
     },
@@ -346,9 +350,5 @@
     {
         "timestamp": "2026-07-05T14:03:06.302991",
         "song": "Osmonds - Down By The Lazy River"
-    },
-    {
-        "timestamp": "2026-07-05T12:04:14.686305",
-        "song": "Jackson Browne - Running On Empty"
     }
 ]
