@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-12T06:37:38.253620",
+        "song": "Dan Hill - Sometimes When We Touch"
+    },
+    {
         "timestamp": "2026-07-12T03:57:44.014785",
         "song": "Jackson Browne - Running On Empty"
     },
@@ -342,9 +346,5 @@
     {
         "timestamp": "2026-07-05T08:29:10.090615",
         "song": "Main Ingredient - Everybody Plays The Fool"
-    },
-    {
-        "timestamp": "2026-07-05T05:35:56.781660",
-        "song": "Helen Reddy - Delta Dawn"
     }
 ]
