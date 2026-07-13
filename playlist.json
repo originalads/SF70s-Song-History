@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-13T06:51:40.175118",
+        "song": "Marvin Gaye - Mercy Mercy Me"
+    },
+    {
         "timestamp": "2026-07-13T03:55:53.976524",
         "song": "John Travolta & Olivia Newton-John - Summer Nights"
     },
@@ -354,9 +358,5 @@
     {
         "timestamp": "2026-07-06T09:41:12.057081",
         "song": "Guess Who - American Woman"
-    },
-    {
-        "timestamp": "2026-07-06T05:39:04.490435",
-        "song": "Supertramp - Give A Little Bit"
     }
 ]
