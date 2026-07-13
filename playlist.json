@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-13T03:55:53.976524",
+        "song": "John Travolta & Olivia Newton-John - Summer Nights"
+    },
+    {
         "timestamp": "2026-07-13T00:07:33.170682",
         "song": "Friends of Distinction  - Grazing In The Grass"
     },
@@ -354,9 +358,5 @@
     {
         "timestamp": "2026-07-06T05:39:04.490435",
         "song": "Supertramp - Give A Little Bit"
-    },
-    {
-        "timestamp": "2026-07-06T01:16:36.166671",
-        "song": "Heatwave - The Groove Line"
     }
 ]
