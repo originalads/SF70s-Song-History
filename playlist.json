@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-14T20:51:42.092301",
+        "song": "Alan Parsons Project - Games People Play"
+    },
+    {
         "timestamp": "2026-07-14T19:53:20.468602",
         "song": "Crosby, Stills, Nash & Young - Our House"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-07T21:41:52.886799",
         "song": "Malo - Suavecito"
-    },
-    {
-        "timestamp": "2026-07-07T20:13:01.135267",
-        "song": "Peter Frampton - Show Me The Way"
     }
 ]
