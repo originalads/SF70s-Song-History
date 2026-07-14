@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-14T08:22:37.995866",
+        "song": "Friends of Distinction - Going In Circles"
+    },
+    {
         "timestamp": "2026-07-14T06:00:17.833603",
         "song": "Bee Gees - You Should Be Dancing"
     },
@@ -366,9 +370,5 @@
     {
         "timestamp": "2026-07-07T11:15:40.460651",
         "song": "Paul McCartney - Live And Let Die"
-    },
-    {
-        "timestamp": "2026-07-07T07:59:01.353633",
-        "song": "War - Cisco Kid"
     }
 ]
