@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-14T23:33:48.220386",
+        "song": "Edison Lighthouse - Love Grows"
+    },
+    {
         "timestamp": "2026-07-14T22:40:41.043188",
         "song": "Skylark - Wildflower"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-07T23:38:42.367680",
         "song": "Rolling Stones - You Can't Always Get What You Want"
-    },
-    {
-        "timestamp": "2026-07-07T22:43:55.153036",
-        "song": "Carole King - It's Too Late"
     }
 ]
