@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-15T17:58:35.138539",
+        "song": "Bachman-Turner Overdrive - You Ain't Seen Nothing Yet"
+    },
+    {
         "timestamp": "2026-07-15T16:48:20.772193",
         "song": "Cheryl Lynn - Got To Be Real"
     },
@@ -390,9 +394,5 @@
     {
         "timestamp": "2026-07-08T18:24:14.410147",
         "song": "Van McCoy - The Hustle"
-    },
-    {
-        "timestamp": "2026-07-08T17:00:16.236923",
-        "song": "Commodores - Sail On"
     }
 ]
