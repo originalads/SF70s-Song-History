@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-15T20:29:04.299925",
+        "song": "Lobo - Me And You And A Dog Named Boo"
+    },
+    {
         "timestamp": "2026-07-15T19:21:03.058919",
         "song": "B.J. Thomas - Raindrops Keep Fallin' On My Head"
     },
@@ -390,9 +394,5 @@
     {
         "timestamp": "2026-07-08T21:18:50.573751",
         "song": "Elton John - Goodbye Yellow Brick Road"
-    },
-    {
-        "timestamp": "2026-07-08T20:01:01.717041",
-        "song": "Rick Derringer - Rock And Roll Hoochie Koo"
     }
 ]
