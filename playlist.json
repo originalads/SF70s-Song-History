@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-15T13:53:44.244997",
+        "song": "Pointer Sisters - Fire"
+    },
+    {
         "timestamp": "2026-07-15T11:58:16.104601",
         "song": "Marvin Hamlisch - The Entertainer"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-08T15:29:37.519816",
         "song": "Stevie Wonder - If You Really Love Me"
-    },
-    {
-        "timestamp": "2026-07-08T13:02:29.026899",
-        "song": "Three Dog Night - Shambala"
     }
 ]
