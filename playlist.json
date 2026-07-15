@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-15T06:13:39.039692",
+        "song": "Kinks - Lola"
+    },
+    {
         "timestamp": "2026-07-15T03:56:12.998494",
         "song": "GQ - I Do Love You"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-08T07:07:07.696134",
         "song": "Gordon Lightfoot - Wreck Of The Edmund Fitzgerald"
-    },
-    {
-        "timestamp": "2026-07-08T04:30:44.847195",
-        "song": "Bee Gees - You Should Be Dancing"
     }
 ]
