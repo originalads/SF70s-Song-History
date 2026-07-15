@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-15T03:56:12.998494",
+        "song": "GQ - I Do Love You"
+    },
+    {
         "timestamp": "2026-07-15T00:55:24.893820",
         "song": "Gallery - Nice To Be With You"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-08T04:30:44.847195",
         "song": "Bee Gees - You Should Be Dancing"
-    },
-    {
-        "timestamp": "2026-07-08T01:09:45.870624",
-        "song": "Manfred Mann's Earth Band - Blinded By The Light"
     }
 ]
