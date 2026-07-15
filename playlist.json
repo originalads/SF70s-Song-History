@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-15T21:30:57.467985",
+        "song": "Police - Roxanne"
+    },
+    {
         "timestamp": "2026-07-15T20:29:04.299925",
         "song": "Lobo - Me And You And A Dog Named Boo"
     },
@@ -390,9 +394,5 @@
     {
         "timestamp": "2026-07-08T22:28:00.325173",
         "song": "Ringo Starr - Photograph"
-    },
-    {
-        "timestamp": "2026-07-08T21:18:50.573751",
-        "song": "Elton John - Goodbye Yellow Brick Road"
     }
 ]
