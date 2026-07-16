@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-16T06:36:23.288098",
+        "song": "Heart - Straight On"
+    },
+    {
         "timestamp": "2026-07-16T04:19:04.472668",
         "song": "Barry Manilow - Mandy"
     },
@@ -394,9 +398,5 @@
     {
         "timestamp": "2026-07-09T08:41:06.326055",
         "song": ""
-    },
-    {
-        "timestamp": "2026-07-09T05:07:30.518456",
-        "song": "Dr. Hook - When You're In Love With A Beautiful Woman"
     }
 ]
