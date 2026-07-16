@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-16T23:36:52.865985",
+        "song": "Lou Reed - Walk On The Wild Side"
+    },
+    {
         "timestamp": "2026-07-16T22:38:48.785185",
         "song": "Toto - Hold The Line"
     },
@@ -414,9 +418,5 @@
     {
         "timestamp": "2026-07-10T00:13:45.121644",
         "song": "Patti Smith - Because The Night"
-    },
-    {
-        "timestamp": "2026-07-09T23:01:01.546257",
-        "song": "Bob Welch - Ebony Eyes"
     }
 ]
