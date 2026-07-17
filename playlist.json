@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-17T01:08:50.635715",
+        "song": "Steve Miller Band - Jungle Love"
+    },
+    {
         "timestamp": "2026-07-16T23:36:52.865985",
         "song": "Lou Reed - Walk On The Wild Side"
     },
@@ -414,9 +418,5 @@
     {
         "timestamp": "2026-07-10T04:16:26.407443",
         "song": "Eagles - Life In The Fast Lane"
-    },
-    {
-        "timestamp": "2026-07-10T00:13:45.121644",
-        "song": "Patti Smith - Because The Night"
     }
 ]
