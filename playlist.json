@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-17T18:15:27.769602",
+        "song": "Little River Band - Help Is On It's Way"
+    },
+    {
         "timestamp": "2026-07-17T17:05:32.631109",
         "song": "Barry White - You're The First, The Last, My Everything"
     },
@@ -430,9 +434,5 @@
     {
         "timestamp": "2026-07-10T18:57:39.981187",
         "song": "Eagles - I Can't Tell You Why"
-    },
-    {
-        "timestamp": "2026-07-10T17:24:42.271988",
-        "song": "Sylvia - Pillow Talk"
     }
 ]
