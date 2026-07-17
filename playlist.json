@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-17T15:53:58.933877",
+        "song": "Vanity Fair - Hitchin' A Ride"
+    },
+    {
         "timestamp": "2026-07-17T14:24:54.823203",
         "song": "Electric Light Orchestra - Strange Magic"
     },
@@ -426,9 +430,5 @@
     {
         "timestamp": "2026-07-10T17:24:42.271988",
         "song": "Sylvia - Pillow Talk"
-    },
-    {
-        "timestamp": "2026-07-10T15:37:14.619136",
-        "song": "Paul Simon - Kodachrome"
     }
 ]
