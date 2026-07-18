@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-18T16:06:05.214624",
+        "song": "Cher - Take Me Home"
+    },
+    {
         "timestamp": "2026-07-18T15:04:17.504595",
         "song": "Four Seasons - December 1963"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-11T16:30:35.428243",
         "song": "Cars - Just What I Needed"
-    },
-    {
-        "timestamp": "2026-07-11T15:36:39.435646",
-        "song": "White Plains - My Baby Loves Lovin'"
     }
 ]
