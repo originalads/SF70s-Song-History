@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-18T17:09:43.749842",
+        "song": "Alice Cooper - You and Me"
+    },
+    {
         "timestamp": "2026-07-18T16:06:05.214624",
         "song": "Cher - Take Me Home"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-11T17:33:02.051684",
         "song": "Grand Funk - The Loco-Motion"
-    },
-    {
-        "timestamp": "2026-07-11T16:30:35.428243",
-        "song": "Cars - Just What I Needed"
     }
 ]
