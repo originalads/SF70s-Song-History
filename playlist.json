@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-18T18:06:19.022712",
+        "song": "Heatwave - Boogie Nights"
+    },
+    {
         "timestamp": "2026-07-18T17:09:43.749842",
         "song": "Alice Cooper - You and Me"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-11T18:29:50.845071",
         "song": "Jefferson Starship - Miracles"
-    },
-    {
-        "timestamp": "2026-07-11T17:33:02.051684",
-        "song": "Grand Funk - The Loco-Motion"
     }
 ]
