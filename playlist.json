@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-18T03:26:47.205200",
+        "song": "Bob Seger & The Silver Bullet Band - Mainstreet"
+    },
+    {
         "timestamp": "2026-07-18T00:06:49.070610",
         "song": "Foxy - Get Off"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-11T04:22:55.614901",
         "song": "Commodores - Sweet Love"
-    },
-    {
-        "timestamp": "2026-07-11T01:04:17.974670",
-        "song": "Styx - Lady"
     }
 ]
