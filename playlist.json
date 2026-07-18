@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-18T15:04:17.504595",
+        "song": "Four Seasons - December 1963"
+    },
+    {
         "timestamp": "2026-07-18T14:00:29.304656",
         "song": "Frank Mills - Music Box Dancer"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-11T15:36:39.435646",
         "song": "White Plains - My Baby Loves Lovin'"
-    },
-    {
-        "timestamp": "2026-07-11T14:40:01.517693",
-        "song": "John Mellencamp - I Need A Lover"
     }
 ]
