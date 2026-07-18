@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-18T09:03:20.355102",
+        "song": "Gerry Rafferty - Right Down The Line"
+    },
+    {
         "timestamp": "2026-07-18T07:19:05.170101",
         "song": "Billy Joel - Honesty"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-11T09:55:01.841250",
         "song": "Cher - Take Me Home"
-    },
-    {
-        "timestamp": "2026-07-11T08:23:11.043334",
-        "song": "Fleetwood Mac - Dreams"
     }
 ]
