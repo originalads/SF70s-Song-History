@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-18T05:42:16.668794",
+        "song": "Michael Johnson - Bluer Than Blue"
+    },
+    {
         "timestamp": "2026-07-18T03:26:47.205200",
         "song": "Bob Seger & The Silver Bullet Band - Mainstreet"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-11T06:31:58.309704",
         "song": "Golden Earring - Radar Love"
-    },
-    {
-        "timestamp": "2026-07-11T04:22:55.614901",
-        "song": "Commodores - Sweet Love"
     }
 ]
