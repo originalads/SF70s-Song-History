@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-18T22:02:18.697029",
+        "song": "Stevie Wonder - Sir Duke"
+    },
+    {
         "timestamp": "2026-07-18T21:05:17.953885",
         "song": "R B Greaves - Take A Letter Maria"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-11T22:21:28.873234",
         "song": "Bee Gees - How Can You Mend A Broken Heart"
-    },
-    {
-        "timestamp": "2026-07-11T21:26:06.225475",
-        "song": "MFSB - TSOP"
     }
 ]
