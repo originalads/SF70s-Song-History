@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-18T11:32:38.175423",
+        "song": "Patti Smith - Because The Night"
+    },
+    {
         "timestamp": "2026-07-18T10:35:16.888595",
         "song": "Sweet - Ballroom Blitz"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-11T11:59:35.835828",
         "song": "George Harrison - My Sweet Lord"
-    },
-    {
-        "timestamp": "2026-07-11T11:01:21.825017",
-        "song": "Chicago - Beginnings"
     }
 ]
