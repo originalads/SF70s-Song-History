@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-19T23:12:02.302935",
+        "song": "Queen - Killer Queen"
+    },
+    {
         "timestamp": "2026-07-19T22:12:27.871638",
         "song": "Stevie Nicks - Edge of Seventeen"
     },
@@ -430,9 +434,5 @@
     {
         "timestamp": "2026-07-13T00:07:33.170682",
         "song": "Friends of Distinction  - Grazing In The Grass"
-    },
-    {
-        "timestamp": "2026-07-12T23:06:48.365799",
-        "song": "Carl Carlton - Everlasting Love"
     }
 ]
