@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-19T00:01:25.025531",
+        "song": "Gerry Rafferty - Baker Street"
+    },
+    {
         "timestamp": "2026-07-18T23:01:24.174527",
         "song": "Styx - Babe"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-12T00:12:11.538414",
         "song": "Kool & The Gang - Ladies Night"
-    },
-    {
-        "timestamp": "2026-07-11T23:14:07.957503",
-        "song": "Alice Cooper - I'm Eighteen"
     }
 ]
