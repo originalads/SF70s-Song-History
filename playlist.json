@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-19T20:24:32.851638",
+        "song": "Commodores - Lady (You Bring Me Up)"
+    },
+    {
         "timestamp": "2026-07-19T19:30:16.260765",
         "song": "Linda Ronstadt - When Will I Be Loved"
     },
@@ -430,13 +434,5 @@
     {
         "timestamp": "2026-07-12T21:12:08.091828",
         "song": "Queen - Another One Bites the Dust"
-    },
-    {
-        "timestamp": "2026-07-12T20:23:14.682579",
-        "song": "The Marmalade  - Reflections Of My Life"
-    },
-    {
-        "timestamp": "2026-07-12T19:31:59.108833",
-        "song": "Gerry Rafferty - Baker Street"
     }
 ]
