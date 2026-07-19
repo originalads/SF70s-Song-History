@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-19T22:12:27.871638",
+        "song": "Stevie Nicks - Edge of Seventeen"
+    },
+    {
         "timestamp": "2026-07-19T21:21:29.160180",
         "song": "Chicago - Just You N Me"
     },
@@ -430,9 +434,5 @@
     {
         "timestamp": "2026-07-12T23:06:48.365799",
         "song": "Carl Carlton - Everlasting Love"
-    },
-    {
-        "timestamp": "2026-07-12T22:07:34.395379",
-        "song": "Bobby Sherman - Easy Come, Easy Go"
     }
 ]
