@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-19T17:13:28.037142",
+        "song": "Blue Oyster Cult - Don't Fear The Reaper"
+    },
+    {
         "timestamp": "2026-07-19T16:08:36.698802",
         "song": "Average White Band - Pick Up The Pieces"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-12T17:18:50.527170",
         "song": "Little River Band - Help Is On It's Way"
-    },
-    {
-        "timestamp": "2026-07-12T16:13:05.387746",
-        "song": "Police - Roxanne"
     }
 ]
