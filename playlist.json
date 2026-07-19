@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-19T16:08:36.698802",
+        "song": "Average White Band - Pick Up The Pieces"
+    },
+    {
         "timestamp": "2026-07-19T15:09:14.118802",
         "song": "Van McCoy - The Hustle"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-12T16:13:05.387746",
         "song": "Police - Roxanne"
-    },
-    {
-        "timestamp": "2026-07-12T15:13:03.294217",
-        "song": "Manfred Mann's Earth Band - Blinded By The Light"
     }
 ]
