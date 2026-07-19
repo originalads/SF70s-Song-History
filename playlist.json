@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-19T03:41:12.972375",
+        "song": "Rick Nelson - Garden Party"
+    },
+    {
         "timestamp": "2026-07-19T00:01:25.025531",
         "song": "Gerry Rafferty - Baker Street"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-12T03:57:44.014785",
         "song": "Jackson Browne - Running On Empty"
-    },
-    {
-        "timestamp": "2026-07-12T00:12:11.538414",
-        "song": "Kool & The Gang - Ladies Night"
     }
 ]
