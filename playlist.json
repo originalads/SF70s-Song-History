@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-19T12:28:57.157578",
+        "song": "Staple Singers - Respect Yourself"
+    },
+    {
         "timestamp": "2026-07-19T11:29:10.776161",
         "song": "Sammy Johns - Chevy Van"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-12T12:32:03.970052",
         "song": "Albert Hammond - It Never Rains In Southern California"
-    },
-    {
-        "timestamp": "2026-07-12T11:34:01.252155",
-        "song": "Commodores - Brick House"
     }
 ]
