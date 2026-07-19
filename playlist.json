@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-19T18:09:14.193219",
+        "song": "Chic - Le Freak"
+    },
+    {
         "timestamp": "2026-07-19T17:13:28.037142",
         "song": "Blue Oyster Cult - Don't Fear The Reaper"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-12T18:12:44.475177",
         "song": "Blondie - Call Me"
-    },
-    {
-        "timestamp": "2026-07-12T17:18:50.527170",
-        "song": "Little River Band - Help Is On It's Way"
     }
 ]
