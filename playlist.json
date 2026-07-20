@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-20T21:18:29.236592",
+        "song": "Rolling Stones - You Can't Always Get What You Want"
+    },
+    {
         "timestamp": "2026-07-20T20:00:55.450452",
         "song": "Steely Dan - Time Out Of Mind"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-13T21:25:20.587159",
         "song": "KC & The Sunshine Band - I'm Your Boogie Man"
-    },
-    {
-        "timestamp": "2026-07-13T20:21:14.995799",
-        "song": "Wild Cherry - Play That Funky Music"
     }
 ]
