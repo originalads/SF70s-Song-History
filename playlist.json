@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-20T00:12:34.155335",
+        "song": "Shirley & Company - Shame Shame Shame"
+    },
+    {
         "timestamp": "2026-07-19T23:12:02.302935",
         "song": "Queen - Killer Queen"
     },
@@ -430,9 +434,5 @@
     {
         "timestamp": "2026-07-13T03:55:53.976524",
         "song": "John Travolta & Olivia Newton-John - Summer Nights"
-    },
-    {
-        "timestamp": "2026-07-13T00:07:33.170682",
-        "song": "Friends of Distinction  - Grazing In The Grass"
     }
 ]
