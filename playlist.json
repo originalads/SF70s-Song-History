@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-20T20:00:55.450452",
+        "song": "Steely Dan - Time Out Of Mind"
+    },
+    {
         "timestamp": "2026-07-20T18:21:12.106453",
         "song": "Gladys Knight & The Pips - Neither One Of Us"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-13T20:21:14.995799",
         "song": "Wild Cherry - Play That Funky Music"
-    },
-    {
-        "timestamp": "2026-07-13T19:01:26.195591",
-        "song": "Jefferson Starship - Jane"
     }
 ]
