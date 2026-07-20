@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-20T04:05:18.673478",
+        "song": "Steely Dan - Peg"
+    },
+    {
         "timestamp": "2026-07-20T00:12:34.155335",
         "song": "Shirley & Company - Shame Shame Shame"
     },
@@ -430,9 +434,5 @@
     {
         "timestamp": "2026-07-13T06:51:40.175118",
         "song": "Marvin Gaye - Mercy Mercy Me"
-    },
-    {
-        "timestamp": "2026-07-13T03:55:53.976524",
-        "song": "John Travolta & Olivia Newton-John - Summer Nights"
     }
 ]
