@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-21T14:49:59.058010",
+        "song": "Heatwave - The Groove Line"
+    },
+    {
         "timestamp": "2026-07-21T12:46:56.037742",
         "song": "Gladys Knight & The Pips - Midnight Train to Georgia"
     },
@@ -426,13 +430,5 @@
     {
         "timestamp": "2026-07-14T16:03:22.234269",
         "song": "Jefferson Starship - With Your Love"
-    },
-    {
-        "timestamp": "2026-07-14T14:43:54.345104",
-        "song": "Spinners - One Of A Kind"
-    },
-    {
-        "timestamp": "2026-07-14T12:53:47.159042",
-        "song": "Staple Singers - If You're Ready (Come Go with Me)"
     }
 ]
