@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-21T11:16:42.938917",
+        "song": "Marilyn McCoo & Billy Davis Jr. - You Don't Have To Be A Star"
+    },
+    {
         "timestamp": "2026-07-21T09:05:47.432752",
         "song": "Little River Band - Lonesome Loser"
     },
@@ -430,9 +434,5 @@
     {
         "timestamp": "2026-07-14T11:45:48.357657",
         "song": "Chicago - Alive Again"
-    },
-    {
-        "timestamp": "2026-07-14T10:13:51.186743",
-        "song": "Aerosmith - Walk This Way"
     }
 ]
