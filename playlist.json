@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-21T21:35:55.040175",
+        "song": "Grand Funk - The Loco-Motion"
+    },
+    {
         "timestamp": "2026-07-21T20:18:41.351146",
         "song": "Rufus & Chaka Khan  - Sweet Thing"
     },
@@ -426,9 +430,5 @@
     {
         "timestamp": "2026-07-14T21:43:31.206212",
         "song": "Five Man Electrical Band - Signs"
-    },
-    {
-        "timestamp": "2026-07-14T20:51:42.092301",
-        "song": "Alan Parsons Project - Games People Play"
     }
 ]
