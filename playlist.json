@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-21T18:56:41.770597",
+        "song": "Dionne Warwick - Deja Vu"
+    },
+    {
         "timestamp": "2026-07-21T17:43:37.913121",
         "song": "Elton John - Tiny Dancer"
     },
@@ -426,9 +430,5 @@
     {
         "timestamp": "2026-07-14T19:53:20.468602",
         "song": "Crosby, Stills, Nash & Young - Our House"
-    },
-    {
-        "timestamp": "2026-07-14T18:35:38.620985",
-        "song": "Billy Joel - Only The Good Die Young"
     }
 ]
