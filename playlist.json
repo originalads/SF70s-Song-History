@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-21T03:49:19.295604",
+        "song": "Cher - Gypsys Tramps & Thieves"
+    },
+    {
         "timestamp": "2026-07-21T00:14:46.634074",
         "song": "Spinners - Working My Way Back to You/Forgive Me, Girl"
     },
@@ -434,9 +438,5 @@
     {
         "timestamp": "2026-07-14T03:50:09.554493",
         "song": "Dorothy Moore - Misty Blue"
-    },
-    {
-        "timestamp": "2026-07-14T00:51:59.364675",
-        "song": "Orleans - Still The One"
     }
 ]
