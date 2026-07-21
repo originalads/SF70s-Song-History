@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-21T20:18:41.351146",
+        "song": "Rufus & Chaka Khan  - Sweet Thing"
+    },
+    {
         "timestamp": "2026-07-21T18:56:41.770597",
         "song": "Dionne Warwick - Deja Vu"
     },
@@ -426,9 +430,5 @@
     {
         "timestamp": "2026-07-14T20:51:42.092301",
         "song": "Alan Parsons Project - Games People Play"
-    },
-    {
-        "timestamp": "2026-07-14T19:53:20.468602",
-        "song": "Crosby, Stills, Nash & Young - Our House"
     }
 ]
