@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-21T06:18:55.610298",
+        "song": "Chicago - Call On Me"
+    },
+    {
         "timestamp": "2026-07-21T03:49:19.295604",
         "song": "Cher - Gypsys Tramps & Thieves"
     },
@@ -430,13 +434,5 @@
     {
         "timestamp": "2026-07-14T08:22:37.995866",
         "song": "Friends of Distinction - Going In Circles"
-    },
-    {
-        "timestamp": "2026-07-14T06:00:17.833603",
-        "song": "Bee Gees - You Should Be Dancing"
-    },
-    {
-        "timestamp": "2026-07-14T03:50:09.554493",
-        "song": "Dorothy Moore - Misty Blue"
     }
 ]
