@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-22T20:33:00.349973",
+        "song": "Brothers Johnson - Strawberry Letter 23"
+    },
+    {
         "timestamp": "2026-07-22T19:14:59.363144",
         "song": "Boston - Don't Look Back"
     },
@@ -418,13 +422,5 @@
     {
         "timestamp": "2026-07-15T21:30:57.467985",
         "song": "Police - Roxanne"
-    },
-    {
-        "timestamp": "2026-07-15T20:29:04.299925",
-        "song": "Lobo - Me And You And A Dog Named Boo"
-    },
-    {
-        "timestamp": "2026-07-15T19:21:03.058919",
-        "song": "B.J. Thomas - Raindrops Keep Fallin' On My Head"
     }
 ]
