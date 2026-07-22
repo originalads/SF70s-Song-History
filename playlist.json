@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-22T21:39:48.403783",
+        "song": "Eric Carmen - All By Myself"
+    },
+    {
         "timestamp": "2026-07-22T20:33:00.349973",
         "song": "Brothers Johnson - Strawberry Letter 23"
     },
@@ -418,9 +422,5 @@
     {
         "timestamp": "2026-07-15T22:32:42.862407",
         "song": "Marvin Gaye - I Want You"
-    },
-    {
-        "timestamp": "2026-07-15T21:30:57.467985",
-        "song": "Police - Roxanne"
     }
 ]
