@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-22T17:55:41.600391",
+        "song": "Rocky Burnette - Tired of Toein' the Line"
+    },
+    {
         "timestamp": "2026-07-22T16:44:49.317762",
         "song": "Shirley & Company - Shame Shame Shame"
     },
@@ -422,9 +426,5 @@
     {
         "timestamp": "2026-07-15T17:58:35.138539",
         "song": "Bachman-Turner Overdrive - You Ain't Seen Nothing Yet"
-    },
-    {
-        "timestamp": "2026-07-15T16:48:20.772193",
-        "song": "Cheryl Lynn - Got To Be Real"
     }
 ]
