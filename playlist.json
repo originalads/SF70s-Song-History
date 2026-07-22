@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-22T07:11:29.043814",
+        "song": "Rhythm Heritage - Theme From S.W.A.T."
+    },
+    {
         "timestamp": "2026-07-22T04:26:49.439350",
         "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
     },
@@ -422,9 +426,5 @@
     {
         "timestamp": "2026-07-15T08:36:14.414522",
         "song": "Blondie - Call Me"
-    },
-    {
-        "timestamp": "2026-07-15T06:13:39.039692",
-        "song": "Kinks - Lola"
     }
 ]
