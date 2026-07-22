@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-22T23:40:00.256898",
+        "song": "Lynyrd Skynyrd - Free Bird"
+    },
+    {
         "timestamp": "2026-07-22T22:40:07.384020",
         "song": "Andy Gibb - Thicker Than Water"
     },
@@ -418,9 +422,5 @@
     {
         "timestamp": "2026-07-16T01:03:42.481756",
         "song": "Billy Preston - Will It Go Round In Circles"
-    },
-    {
-        "timestamp": "2026-07-15T23:34:44.385459",
-        "song": "Barry White - You're The First, The Last, My Everything"
     }
 ]
