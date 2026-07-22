@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-22T01:02:11.684534",
+        "song": "Pure Prairie League - Amie"
+    },
+    {
         "timestamp": "2026-07-21T23:33:33.301631",
         "song": "Grand Funk - Some Kind Of Wonderful"
     },
@@ -422,13 +426,5 @@
     {
         "timestamp": "2026-07-15T03:56:12.998494",
         "song": "GQ - I Do Love You"
-    },
-    {
-        "timestamp": "2026-07-15T00:55:24.893820",
-        "song": "Gallery - Nice To Be With You"
-    },
-    {
-        "timestamp": "2026-07-14T23:33:48.220386",
-        "song": "Edison Lighthouse - Love Grows"
     }
 ]
