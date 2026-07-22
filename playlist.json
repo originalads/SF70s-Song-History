@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-22T04:26:49.439350",
+        "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
+    },
+    {
         "timestamp": "2026-07-22T01:02:11.684534",
         "song": "Pure Prairie League - Amie"
     },
@@ -422,9 +426,5 @@
     {
         "timestamp": "2026-07-15T06:13:39.039692",
         "song": "Kinks - Lola"
-    },
-    {
-        "timestamp": "2026-07-15T03:56:12.998494",
-        "song": "GQ - I Do Love You"
     }
 ]
