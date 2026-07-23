@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-23T20:42:06.805697",
+        "song": "Todd Rundgren - Hello It's Me"
+    },
+    {
         "timestamp": "2026-07-23T19:41:15.058240",
         "song": "Journey - Lights"
     },
@@ -414,13 +418,5 @@
     {
         "timestamp": "2026-07-16T21:42:32.926205",
         "song": "Cat Stevens - Moonshadow"
-    },
-    {
-        "timestamp": "2026-07-16T20:37:02.569855",
-        "song": "Poco - Heart Of The Night"
-    },
-    {
-        "timestamp": "2026-07-16T19:47:21.831298",
-        "song": "Abba - Dancing Queen"
     }
 ]
