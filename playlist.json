@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-23T19:41:15.058240",
+        "song": "Journey - Lights"
+    },
+    {
         "timestamp": "2026-07-23T18:05:21.454695",
         "song": "George Harrison - My Sweet Lord"
     },
@@ -418,9 +422,5 @@
     {
         "timestamp": "2026-07-16T19:47:21.831298",
         "song": "Abba - Dancing Queen"
-    },
-    {
-        "timestamp": "2026-07-16T18:44:29.619779",
-        "song": "Ambrosia - Biggest Part Of Me"
     }
 ]
