@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-23T22:39:02.011010",
+        "song": "Al Green - Love and Happiness"
+    },
+    {
         "timestamp": "2026-07-23T21:43:19.303822",
         "song": "Cliff Richard - We Don't Talk Anymore"
     },
@@ -414,9 +418,5 @@
     {
         "timestamp": "2026-07-16T23:36:52.865985",
         "song": "Lou Reed - Walk On The Wild Side"
-    },
-    {
-        "timestamp": "2026-07-16T22:38:48.785185",
-        "song": "Toto - Hold The Line"
     }
 ]
