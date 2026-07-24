@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-24T14:28:42.409341",
+        "song": "Jacksons - Enjoy Yourself"
+    },
+    {
         "timestamp": "2026-07-24T12:49:40.527595",
         "song": "Barry White - You're The First, The Last, My Everything"
     },
@@ -410,13 +414,5 @@
     {
         "timestamp": "2026-07-17T15:53:58.933877",
         "song": "Vanity Fair - Hitchin' A Ride"
-    },
-    {
-        "timestamp": "2026-07-17T14:24:54.823203",
-        "song": "Electric Light Orchestra - Strange Magic"
-    },
-    {
-        "timestamp": "2026-07-17T12:52:53.916193",
-        "song": "Tommy James - Draggin' The Line"
     }
 ]
