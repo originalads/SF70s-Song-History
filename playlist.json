@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-24T19:03:15.058946",
+        "song": "America - Ventura Highway"
+    },
+    {
         "timestamp": "2026-07-24T17:37:45.901201",
         "song": "Heart - Magic Man"
     },
@@ -410,9 +414,5 @@
     {
         "timestamp": "2026-07-17T19:35:05.031417",
         "song": "Kinks - Lola"
-    },
-    {
-        "timestamp": "2026-07-17T18:15:27.769602",
-        "song": "Little River Band - Help Is On It's Way"
     }
 ]
