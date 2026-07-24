@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-24T17:37:45.901201",
+        "song": "Heart - Magic Man"
+    },
+    {
         "timestamp": "2026-07-24T15:56:24.239046",
         "song": "Journey - Wheel In The Sky"
     },
@@ -410,9 +414,5 @@
     {
         "timestamp": "2026-07-17T18:15:27.769602",
         "song": "Little River Band - Help Is On It's Way"
-    },
-    {
-        "timestamp": "2026-07-17T17:05:32.631109",
-        "song": "Barry White - You're The First, The Last, My Everything"
     }
 ]
