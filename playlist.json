@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-24T12:49:40.527595",
+        "song": "Barry White - You're The First, The Last, My Everything"
+    },
+    {
         "timestamp": "2026-07-24T11:19:18.472035",
         "song": "Commodores - Sweet Love"
     },
@@ -414,9 +418,5 @@
     {
         "timestamp": "2026-07-17T12:52:53.916193",
         "song": "Tommy James - Draggin' The Line"
-    },
-    {
-        "timestamp": "2026-07-17T11:50:40.671139",
-        "song": "Steely Dan - Rikki Don't Lose That Number"
     }
 ]
