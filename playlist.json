@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-24T04:26:42.208396",
+        "song": "Three Dog Night - Joy To The World"
+    },
+    {
         "timestamp": "2026-07-24T01:04:28.017679",
         "song": "ABBA - Waterloo"
     },
@@ -414,13 +418,5 @@
     {
         "timestamp": "2026-07-17T06:34:19.437892",
         "song": "Heart - Crazy On You"
-    },
-    {
-        "timestamp": "2026-07-17T04:23:08.493383",
-        "song": "Spinners - One Of A Kind"
-    },
-    {
-        "timestamp": "2026-07-17T01:08:50.635715",
-        "song": "Steve Miller Band - Jungle Love"
     }
 ]
