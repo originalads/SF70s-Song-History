@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-24T01:04:28.017679",
+        "song": "ABBA - Waterloo"
+    },
+    {
         "timestamp": "2026-07-23T23:36:46.134370",
         "song": "Doobie Brothers - Black Water"
     },
@@ -418,9 +422,5 @@
     {
         "timestamp": "2026-07-17T01:08:50.635715",
         "song": "Steve Miller Band - Jungle Love"
-    },
-    {
-        "timestamp": "2026-07-16T23:36:52.865985",
-        "song": "Lou Reed - Walk On The Wild Side"
     }
 ]
