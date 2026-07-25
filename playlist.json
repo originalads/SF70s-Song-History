@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-25T22:31:54.780324",
+        "song": "Main Ingredient - Just Don't Want To Be Lonely"
+    },
+    {
         "timestamp": "2026-07-25T21:31:17.439715",
         "song": "Carly Simon & James Taylor - Mockingbird"
     },
@@ -402,9 +406,5 @@
     {
         "timestamp": "2026-07-18T23:01:24.174527",
         "song": "Styx - Babe"
-    },
-    {
-        "timestamp": "2026-07-18T22:02:18.697029",
-        "song": "Stevie Wonder - Sir Duke"
     }
 ]
