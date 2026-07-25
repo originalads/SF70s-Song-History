@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-25T17:31:57.242080",
+        "song": "Fleetwood Mac - You Make Lovin' Fun"
+    },
+    {
         "timestamp": "2026-07-25T16:28:08.578853",
         "song": "Tommy James - Draggin' The Line"
     },
@@ -402,9 +406,5 @@
     {
         "timestamp": "2026-07-18T18:06:19.022712",
         "song": "Heatwave - Boogie Nights"
-    },
-    {
-        "timestamp": "2026-07-18T17:09:43.749842",
-        "song": "Alice Cooper - You and Me"
     }
 ]
