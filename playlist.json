@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-25T01:12:33.098425",
+        "song": "Dave Edmunds - I Hear You Knocking"
+    },
+    {
         "timestamp": "2026-07-24T23:44:24.840052",
         "song": "Atlanta Rhythm Section - Imaginary Lover"
     },
@@ -406,9 +410,5 @@
     {
         "timestamp": "2026-07-18T03:26:47.205200",
         "song": "Bob Seger & The Silver Bullet Band - Mainstreet"
-    },
-    {
-        "timestamp": "2026-07-18T00:06:49.070610",
-        "song": "Foxy - Get Off"
     }
 ]
