@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-25T16:28:08.578853",
+        "song": "Tommy James - Draggin' The Line"
+    },
+    {
         "timestamp": "2026-07-25T15:32:45.496212",
         "song": "Pink Floyd - Another Brick In The Wall"
     },
@@ -402,9 +406,5 @@
     {
         "timestamp": "2026-07-18T17:09:43.749842",
         "song": "Alice Cooper - You and Me"
-    },
-    {
-        "timestamp": "2026-07-18T16:06:05.214624",
-        "song": "Cher - Take Me Home"
     }
 ]
