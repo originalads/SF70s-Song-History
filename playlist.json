@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-25T18:32:02.756496",
+        "song": "ABBA - Super Trouper"
+    },
+    {
         "timestamp": "2026-07-25T17:31:57.242080",
         "song": "Fleetwood Mac - You Make Lovin' Fun"
     },
@@ -402,9 +406,5 @@
     {
         "timestamp": "2026-07-18T19:20:28.104030",
         "song": "Donna Summer - Last Dance"
-    },
-    {
-        "timestamp": "2026-07-18T18:06:19.022712",
-        "song": "Heatwave - Boogie Nights"
     }
 ]
