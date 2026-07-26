@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-26T04:40:45.057851",
+        "song": "Three Dog Night - Never Been To Spain"
+    },
+    {
         "timestamp": "2026-07-26T01:10:15.042537",
         "song": "Cher - Take Me Home"
     },
@@ -402,9 +406,5 @@
     {
         "timestamp": "2026-07-19T06:15:29.315570",
         "song": "Brothers Johnson - Stomp"
-    },
-    {
-        "timestamp": "2026-07-19T03:41:12.972375",
-        "song": "Rick Nelson - Garden Party"
     }
 ]
