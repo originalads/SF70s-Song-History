@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-26T22:33:58.903082",
+        "song": "Heart - Crazy On You"
+    },
+    {
         "timestamp": "2026-07-26T21:31:41.476294",
         "song": "Commodores - Lady (You Bring Me Up)"
     },
@@ -398,9 +402,5 @@
     {
         "timestamp": "2026-07-19T23:12:02.302935",
         "song": "Queen - Killer Queen"
-    },
-    {
-        "timestamp": "2026-07-19T22:12:27.871638",
-        "song": "Stevie Nicks - Edge of Seventeen"
     }
 ]
