@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-26T23:35:13.323806",
+        "song": "Staple Singers - Respect Yourself"
+    },
+    {
         "timestamp": "2026-07-26T22:33:58.903082",
         "song": "Heart - Crazy On You"
     },
@@ -398,9 +402,5 @@
     {
         "timestamp": "2026-07-20T00:12:34.155335",
         "song": "Shirley & Company - Shame Shame Shame"
-    },
-    {
-        "timestamp": "2026-07-19T23:12:02.302935",
-        "song": "Queen - Killer Queen"
     }
 ]
