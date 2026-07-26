@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-26T12:11:23.667794",
+        "song": "Gloria Gaynor - Never Can Say Goodbye"
+    },
+    {
         "timestamp": "2026-07-26T11:02:39.385841",
         "song": "Eagles - Life In The Fast Lane"
     },
@@ -402,9 +406,5 @@
     {
         "timestamp": "2026-07-19T12:28:57.157578",
         "song": "Staple Singers - Respect Yourself"
-    },
-    {
-        "timestamp": "2026-07-19T11:29:10.776161",
-        "song": "Sammy Johns - Chevy Van"
     }
 ]
