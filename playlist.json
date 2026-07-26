@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-26T15:03:58.241225",
+        "song": "B.J. Thomas - Hooked On A Feeling"
+    },
+    {
         "timestamp": "2026-07-26T13:56:00.389161",
         "song": "Joan Baez - The Night They Drove Old Dixie Down"
     },
@@ -402,9 +406,5 @@
     {
         "timestamp": "2026-07-19T15:09:14.118802",
         "song": "Van McCoy - The Hustle"
-    },
-    {
-        "timestamp": "2026-07-19T14:04:09.818089",
-        "song": "Chic - I Want Your Love"
     }
 ]
