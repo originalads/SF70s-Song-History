@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-26T13:56:00.389161",
+        "song": "Joan Baez - The Night They Drove Old Dixie Down"
+    },
+    {
         "timestamp": "2026-07-26T12:11:23.667794",
         "song": "Gloria Gaynor - Never Can Say Goodbye"
     },
@@ -402,9 +406,5 @@
     {
         "timestamp": "2026-07-19T14:04:09.818089",
         "song": "Chic - I Want Your Love"
-    },
-    {
-        "timestamp": "2026-07-19T12:28:57.157578",
-        "song": "Staple Singers - Respect Yourself"
     }
 ]
