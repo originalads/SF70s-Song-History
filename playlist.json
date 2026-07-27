@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-27T01:14:17.650010",
+        "song": "Eagles - Heartache Tonight"
+    },
+    {
         "timestamp": "2026-07-26T23:35:13.323806",
         "song": "Staple Singers - Respect Yourself"
     },
@@ -398,9 +402,5 @@
     {
         "timestamp": "2026-07-20T04:05:18.673478",
         "song": "Steely Dan - Peg"
-    },
-    {
-        "timestamp": "2026-07-20T00:12:34.155335",
-        "song": "Shirley & Company - Shame Shame Shame"
     }
 ]
