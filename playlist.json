@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-27T11:50:10.109834",
+        "song": "Paul Simon - Slip Slidin' Away"
+    },
+    {
         "timestamp": "2026-07-27T08:25:24.602957",
         "song": "Bay City Rollers - I Only Want To Be With You"
     },
@@ -398,9 +402,5 @@
     {
         "timestamp": "2026-07-20T12:29:13.186830",
         "song": "Chicago - Saturday In The Park"
-    },
-    {
-        "timestamp": "2026-07-20T10:23:17.833316",
-        "song": "GQ - Disco Nights"
     }
 ]
