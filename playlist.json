@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-27T23:18:53.582810",
+        "song": "Al Green - Here I Am"
+    },
+    {
         "timestamp": "2026-07-27T22:09:43.267520",
         "song": "Wild Cherry - Play That Funky Music"
     },
@@ -394,13 +398,5 @@
     {
         "timestamp": "2026-07-21T00:14:46.634074",
         "song": "Spinners - Working My Way Back to You/Forgive Me, Girl"
-    },
-    {
-        "timestamp": "2026-07-20T23:17:49.187318",
-        "song": "LeBlanc & Carr - Falling"
-    },
-    {
-        "timestamp": "2026-07-20T22:16:20.831949",
-        "song": "Chicago - Does Anybody Really Know What Time It Is"
     }
 ]
