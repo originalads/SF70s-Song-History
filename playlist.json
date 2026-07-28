@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-28T21:15:27.639172",
+        "song": "Rod Stewart - Maggie May"
+    },
+    {
         "timestamp": "2026-07-28T19:59:06.667473",
         "song": "Robert Palmer - Bad Case Of Loving You"
     },
@@ -394,9 +398,5 @@
     {
         "timestamp": "2026-07-21T21:35:55.040175",
         "song": "Grand Funk - The Loco-Motion"
-    },
-    {
-        "timestamp": "2026-07-21T20:18:41.351146",
-        "song": "Rufus & Chaka Khan  - Sweet Thing"
     }
 ]
