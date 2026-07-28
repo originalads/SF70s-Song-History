@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-28T13:09:06.854251",
+        "song": "Elton John - The Bitch Is Back"
+    },
+    {
         "timestamp": "2026-07-28T11:25:47.045468",
         "song": "Cher - Take Me Home"
     },
@@ -394,9 +398,5 @@
     {
         "timestamp": "2026-07-21T14:49:59.058010",
         "song": "Heatwave - The Groove Line"
-    },
-    {
-        "timestamp": "2026-07-21T12:46:56.037742",
-        "song": "Gladys Knight & The Pips - Midnight Train to Georgia"
     }
 ]
