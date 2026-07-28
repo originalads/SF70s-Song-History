@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-28T19:59:06.667473",
+        "song": "Robert Palmer - Bad Case Of Loving You"
+    },
+    {
         "timestamp": "2026-07-28T18:24:22.443875",
         "song": "Bee Gees - Jive Talkin'"
     },
@@ -394,9 +398,5 @@
     {
         "timestamp": "2026-07-21T20:18:41.351146",
         "song": "Rufus & Chaka Khan  - Sweet Thing"
-    },
-    {
-        "timestamp": "2026-07-21T18:56:41.770597",
-        "song": "Dionne Warwick - Deja Vu"
     }
 ]
