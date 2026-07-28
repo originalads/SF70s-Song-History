@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-28T11:25:47.045468",
+        "song": "Cher - Take Me Home"
+    },
+    {
         "timestamp": "2026-07-28T09:06:13.129573",
         "song": "Cher - Gypsys Tramps & Thieves"
     },
@@ -394,9 +398,5 @@
     {
         "timestamp": "2026-07-21T12:46:56.037742",
         "song": "Gladys Knight & The Pips - Midnight Train to Georgia"
-    },
-    {
-        "timestamp": "2026-07-21T11:16:42.938917",
-        "song": "Marilyn McCoo & Billy Davis Jr. - You Don't Have To Be A Star"
     }
 ]
