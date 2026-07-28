@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-28T06:13:32.819214",
+        "song": "Blue Oyster Cult - Don't Fear The Reaper"
+    },
+    {
         "timestamp": "2026-07-28T03:38:58.736484",
         "song": "James Taylor - Shower The People"
     },
@@ -398,9 +402,5 @@
     {
         "timestamp": "2026-07-21T06:18:55.610298",
         "song": "Chicago - Call On Me"
-    },
-    {
-        "timestamp": "2026-07-21T03:49:19.295604",
-        "song": "Cher - Gypsys Tramps & Thieves"
     }
 ]
