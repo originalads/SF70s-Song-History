@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-28T03:38:58.736484",
+        "song": "James Taylor - Shower The People"
+    },
+    {
         "timestamp": "2026-07-28T00:13:49.721041",
         "song": "Bay City Rollers - Saturday Night"
     },
@@ -398,9 +402,5 @@
     {
         "timestamp": "2026-07-21T03:49:19.295604",
         "song": "Cher - Gypsys Tramps & Thieves"
-    },
-    {
-        "timestamp": "2026-07-21T00:14:46.634074",
-        "song": "Spinners - Working My Way Back to You/Forgive Me, Girl"
     }
 ]
