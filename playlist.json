@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-28T22:26:30.746601",
+        "song": "Gladys Knight & The Pips - I've Got To Use My Imagination"
+    },
+    {
         "timestamp": "2026-07-28T21:15:27.639172",
         "song": "Rod Stewart - Maggie May"
     },
@@ -394,9 +398,5 @@
     {
         "timestamp": "2026-07-21T22:32:17.867774",
         "song": "Paul McCartney - With A Little Luck"
-    },
-    {
-        "timestamp": "2026-07-21T21:35:55.040175",
-        "song": "Grand Funk - The Loco-Motion"
     }
 ]
