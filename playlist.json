@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-29T17:59:46.350620",
+        "song": "Rolling Stones - It's Only Rock & Roll"
+    },
+    {
         "timestamp": "2026-07-29T16:51:25.994041",
         "song": "KC & The Sunshine Band - Give It Up"
     },
@@ -390,9 +394,5 @@
     {
         "timestamp": "2026-07-22T19:14:59.363144",
         "song": "Boston - Don't Look Back"
-    },
-    {
-        "timestamp": "2026-07-22T17:55:41.600391",
-        "song": "Rocky Burnette - Tired of Toein' the Line"
     }
 ]
