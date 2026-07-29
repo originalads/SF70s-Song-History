@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-29T15:29:58.658640",
+        "song": "Cheap Trick - Surrender"
+    },
+    {
         "timestamp": "2026-07-29T13:27:12.659086",
         "song": "Aretha Franklin - Rock Steady"
     },
@@ -390,9 +394,5 @@
     {
         "timestamp": "2026-07-22T16:44:49.317762",
         "song": "Shirley & Company - Shame Shame Shame"
-    },
-    {
-        "timestamp": "2026-07-22T15:10:35.763437",
-        "song": "Kool & The Gang - Jungle Boogie"
     }
 ]
