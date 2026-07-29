@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-29T09:47:54.805097",
+        "song": "Electric Light Orchestra - Shine A Little Love"
+    },
+    {
         "timestamp": "2026-07-29T07:09:27.097921",
         "song": "Meat Loaf - Two Out Of Three Ain't Bad"
     },
@@ -390,13 +394,5 @@
     {
         "timestamp": "2026-07-22T11:28:31.430342",
         "song": "Eagles - Life In The Fast Lane"
-    },
-    {
-        "timestamp": "2026-07-22T09:38:15.888143",
-        "song": "Carpenters - Superstar"
-    },
-    {
-        "timestamp": "2026-07-22T07:11:29.043814",
-        "song": "Rhythm Heritage - Theme From S.W.A.T."
     }
 ]
