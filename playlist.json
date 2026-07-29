@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-29T04:20:48.062663",
+        "song": "Barry Manilow - Mandy"
+    },
+    {
         "timestamp": "2026-07-29T01:01:16.948935",
         "song": "Knack - My Sharona"
     },
@@ -394,9 +398,5 @@
     {
         "timestamp": "2026-07-22T04:26:49.439350",
         "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
-    },
-    {
-        "timestamp": "2026-07-22T01:02:11.684534",
-        "song": "Pure Prairie League - Amie"
     }
 ]
