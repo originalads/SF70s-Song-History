@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-30T19:51:28.738005",
+        "song": "Lynn Anderson - Rose Garden"
+    },
+    {
         "timestamp": "2026-07-30T18:11:02.497201",
         "song": "Gerry Rafferty - Right Down The Line"
     },
@@ -390,9 +394,5 @@
     {
         "timestamp": "2026-07-23T20:42:06.805697",
         "song": "Todd Rundgren - Hello It's Me"
-    },
-    {
-        "timestamp": "2026-07-23T19:41:15.058240",
-        "song": "Journey - Lights"
     }
 ]
