@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-30T04:12:01.372993",
+        "song": "Commodores - Too Hot Ta Trot"
+    },
+    {
         "timestamp": "2026-07-30T00:59:25.264954",
         "song": "Paul Simon - Late In The Evening"
     },
@@ -394,9 +398,5 @@
     {
         "timestamp": "2026-07-23T04:34:20.620128",
         "song": "Foghat - Slow Ride"
-    },
-    {
-        "timestamp": "2026-07-23T01:12:02.170407",
-        "song": "Whispers - It's A Love Thing"
     }
 ]
