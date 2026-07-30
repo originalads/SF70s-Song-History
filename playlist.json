@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-30T21:56:55.505457",
+        "song": "Steely Dan - Peg"
+    },
+    {
         "timestamp": "2026-07-30T20:52:00.528873",
         "song": "Player - This Time I'm In It For Love"
     },
@@ -390,9 +394,5 @@
     {
         "timestamp": "2026-07-23T22:39:02.011010",
         "song": "Al Green - Love and Happiness"
-    },
-    {
-        "timestamp": "2026-07-23T21:43:19.303822",
-        "song": "Cliff Richard - We Don't Talk Anymore"
     }
 ]
