@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-07-31T20:09:00.403385",
+        "song": "Bee Gees - More Than A Woman"
+    },
+    {
         "timestamp": "2026-07-31T18:42:57.822482",
         "song": "Kenny Rogers - She Believes In Me"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-24T20:37:33.779021",
         "song": "Harry Chapin - Cat's In The Cradle"
-    },
-    {
-        "timestamp": "2026-07-24T19:03:15.058946",
-        "song": "America - Ventura Highway"
     }
 ]
