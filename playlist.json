@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-01T07:05:50.834525",
+        "song": "Brewer & Shipley - One Toke Over The Line"
+    },
+    {
         "timestamp": "2026-08-01T04:32:31.483589",
         "song": "Thin Lizzy - The Boys Are Back In Town"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-25T08:49:40.634893",
         "song": "Supertramp - Goodbye Stranger"
-    },
-    {
-        "timestamp": "2026-07-25T06:40:08.314410",
-        "song": "Diana Ross - Touch Me In The Morning"
     }
 ]
