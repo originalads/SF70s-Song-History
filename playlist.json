@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-01T15:42:07.532749",
+        "song": "Eagles - Tequila Sunrise"
+    },
+    {
         "timestamp": "2026-08-01T14:38:20.446411",
         "song": "Kansas - Carry On Wayward Son"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-25T16:28:08.578853",
         "song": "Tommy James - Draggin' The Line"
-    },
-    {
-        "timestamp": "2026-07-25T15:32:45.496212",
-        "song": "Pink Floyd - Another Brick In The Wall"
     }
 ]
