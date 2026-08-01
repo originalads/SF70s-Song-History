@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-01T18:40:12.305297",
+        "song": "Captain & Tennille - Love Will Keep Us Together"
+    },
+    {
         "timestamp": "2026-08-01T17:41:48.488646",
         "song": "Dolly Parton - Here You Come Again"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-25T19:48:04.655426",
         "song": "David Dundas - Jeans On"
-    },
-    {
-        "timestamp": "2026-07-25T18:32:02.756496",
-        "song": "ABBA - Super Trouper"
     }
 ]
