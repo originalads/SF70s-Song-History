@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-01T14:38:20.446411",
+        "song": "Kansas - Carry On Wayward Son"
+    },
+    {
         "timestamp": "2026-08-01T13:02:18.241488",
         "song": "KC & The Sunshine Band - Get Down Tonight"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-25T15:32:45.496212",
         "song": "Pink Floyd - Another Brick In The Wall"
-    },
-    {
-        "timestamp": "2026-07-25T14:19:03.247493",
-        "song": "Kenny Loggins - This Is It"
     }
 ]
