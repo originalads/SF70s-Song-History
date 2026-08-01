@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-01T23:35:47.912775",
+        "song": "Jefferson Starship - Miracles"
+    },
+    {
         "timestamp": "2026-08-01T22:35:48.531314",
         "song": "America - Ventura Highway"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-26T01:10:15.042537",
         "song": "Cher - Take Me Home"
-    },
-    {
-        "timestamp": "2026-07-25T23:33:47.514774",
-        "song": "Andy Gibb - I Just Want To Be Your Everything"
     }
 ]
