@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-01T13:02:18.241488",
+        "song": "KC & The Sunshine Band - Get Down Tonight"
+    },
+    {
         "timestamp": "2026-08-01T11:53:18.860521",
         "song": "Foundations - Build Me Up Buttercup"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-25T14:19:03.247493",
         "song": "Kenny Loggins - This Is It"
-    },
-    {
-        "timestamp": "2026-07-25T12:42:36.808916",
-        "song": "Barbra Streisand - My Heart Belongs To Me"
     }
 ]
