@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-01T09:16:51.084220",
+        "song": "Barry Manilow - Could It Be Magic"
+    },
+    {
         "timestamp": "2026-08-01T07:05:50.834525",
         "song": "Brewer & Shipley - One Toke Over The Line"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-25T10:17:20.852701",
         "song": "Boz Scaggs - Miss Sun"
-    },
-    {
-        "timestamp": "2026-07-25T08:49:40.634893",
-        "song": "Supertramp - Goodbye Stranger"
     }
 ]
