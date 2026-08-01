@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-01T20:42:22.534150",
+        "song": "Journey - Lights"
+    },
+    {
         "timestamp": "2026-08-01T19:54:00.630344",
         "song": "Fortunes - Here Comes That Rainy Day Feeling Again"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-25T21:31:17.439715",
         "song": "Carly Simon & James Taylor - Mockingbird"
-    },
-    {
-        "timestamp": "2026-07-25T20:35:58.935813",
-        "song": "Joe Walsh - Life's Been Good"
     }
 ]
