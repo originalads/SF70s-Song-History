@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-01T10:51:51.262318",
+        "song": "Nick Gilder - Hot Child In The City"
+    },
+    {
         "timestamp": "2026-08-01T09:16:51.084220",
         "song": "Barry Manilow - Could It Be Magic"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-25T11:37:57.893850",
         "song": "Baby's - Isn't It Time"
-    },
-    {
-        "timestamp": "2026-07-25T10:17:20.852701",
-        "song": "Boz Scaggs - Miss Sun"
     }
 ]
