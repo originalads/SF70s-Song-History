@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-02T16:40:45.744412",
+        "song": "Linda Ronstadt - Blue Bayou"
+    },
+    {
         "timestamp": "2026-08-02T15:48:22.117092",
         "song": "Lou Rawls - You'll Never Find Another Love Like Mine"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-26T17:14:51.984146",
         "song": "Led Zeppelin - Stairway To Heaven"
-    },
-    {
-        "timestamp": "2026-07-26T16:11:16.442227",
-        "song": "Tony Orlando & Dawn - Sweet Gypsy Rose"
     }
 ]
