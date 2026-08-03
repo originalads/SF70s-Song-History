@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-03T17:59:28.730277",
+        "song": "T. Rex - Bang A Gong"
+    },
+    {
         "timestamp": "2026-08-03T16:00:37.014950",
         "song": "Stevie Wonder - If You Really Love Me"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-27T18:07:34.956471",
         "song": "Ohio Players - Fire"
-    },
-    {
-        "timestamp": "2026-07-27T16:29:35.092576",
-        "song": "Electric Light Orchestra - Livin' Thing"
     }
 ]
