@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-03T06:48:11.117940",
+        "song": "Harry Chapin - Cat's In The Cradle"
+    },
+    {
         "timestamp": "2026-08-03T03:48:23.440789",
         "song": "Bee Gees - Stayin' Alive"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-27T08:25:24.602957",
         "song": "Bay City Rollers - I Only Want To Be With You"
-    },
-    {
-        "timestamp": "2026-07-27T04:54:20.985161",
-        "song": "Raiders - Indian Reservation"
     }
 ]
