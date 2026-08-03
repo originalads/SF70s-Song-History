@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-03T03:48:23.440789",
+        "song": "Bee Gees - Stayin' Alive"
+    },
+    {
         "timestamp": "2026-08-03T00:04:44.356241",
         "song": "Fleetwood Mac - You Make Lovin' Fun"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-27T04:54:20.985161",
         "song": "Raiders - Indian Reservation"
-    },
-    {
-        "timestamp": "2026-07-27T01:14:17.650010",
-        "song": "Eagles - Heartache Tonight"
     }
 ]
