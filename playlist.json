@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-03T22:51:46.646950",
+        "song": "Sammy Johns - Chevy Van"
+    },
+    {
         "timestamp": "2026-08-03T21:52:35.211449",
         "song": "Steely Dan - Hey 19"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-27T23:18:53.582810",
         "song": "Al Green - Here I Am"
-    },
-    {
-        "timestamp": "2026-07-27T22:09:43.267520",
-        "song": "Wild Cherry - Play That Funky Music"
     }
 ]
