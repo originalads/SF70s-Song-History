@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-04T20:12:55.033011",
+        "song": "Joe Walsh - Rocky Mountain Way"
+    },
+    {
         "timestamp": "2026-08-04T18:43:31.936906",
         "song": "Chicago - Call On Me"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-28T21:15:27.639172",
         "song": "Rod Stewart - Maggie May"
-    },
-    {
-        "timestamp": "2026-07-28T19:59:06.667473",
-        "song": "Robert Palmer - Bad Case Of Loving You"
     }
 ]
