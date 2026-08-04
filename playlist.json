@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-04T23:42:58.574445",
+        "song": "Tower of Power - You're Still A Young Man"
+    },
+    {
         "timestamp": "2026-08-04T22:41:37.856197",
         "song": "Gordon Lightfoot - If You Could Read My Mind"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-29T01:01:16.948935",
         "song": "Knack - My Sharona"
-    },
-    {
-        "timestamp": "2026-07-28T23:29:54.716360",
-        "song": "Jefferson Starship - Miracles"
     }
 ]
