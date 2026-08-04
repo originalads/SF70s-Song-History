@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-04T12:30:45.196357",
+        "song": "Jackson Browne - Running On Empty"
+    },
+    {
         "timestamp": "2026-08-04T10:47:16.160006",
         "song": "Earth, Wind & Fire - Got To Get You Into My Life"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-28T13:09:06.854251",
         "song": "Elton John - The Bitch Is Back"
-    },
-    {
-        "timestamp": "2026-07-28T11:25:47.045468",
-        "song": "Cher - Take Me Home"
     }
 ]
