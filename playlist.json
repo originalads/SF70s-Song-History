@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-04T15:04:59.098276",
+        "song": "Paul McCartney - Listen To What The Man Said"
+    },
+    {
         "timestamp": "2026-08-04T12:30:45.196357",
         "song": "Jackson Browne - Running On Empty"
     },
@@ -386,9 +390,5 @@
     {
         "timestamp": "2026-07-28T15:31:53.279676",
         "song": "Supertramp - Take The Long Way Home"
-    },
-    {
-        "timestamp": "2026-07-28T13:09:06.854251",
-        "song": "Elton John - The Bitch Is Back"
     }
 ]
