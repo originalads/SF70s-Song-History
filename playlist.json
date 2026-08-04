@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-04T22:41:37.856197",
+        "song": "Gordon Lightfoot - If You Could Read My Mind"
+    },
+    {
         "timestamp": "2026-08-04T21:36:52.047646",
         "song": "Eagles - Heartache Tonight"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-28T23:29:54.716360",
         "song": "Jefferson Starship - Miracles"
-    },
-    {
-        "timestamp": "2026-07-28T22:26:30.746601",
-        "song": "Gladys Knight & The Pips - I've Got To Use My Imagination"
     }
 ]
