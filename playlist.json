@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-04T18:43:31.936906",
+        "song": "Chicago - Call On Me"
+    },
+    {
         "timestamp": "2026-08-04T17:00:07.320684",
         "song": "Loggins & Messina - Your Mama Don't Dance"
     },
@@ -382,13 +386,5 @@
     {
         "timestamp": "2026-07-28T19:59:06.667473",
         "song": "Robert Palmer - Bad Case Of Loving You"
-    },
-    {
-        "timestamp": "2026-07-28T18:24:22.443875",
-        "song": "Bee Gees - Jive Talkin'"
-    },
-    {
-        "timestamp": "2026-07-28T17:03:58.512195",
-        "song": "Elton John - Bennie And The Jets"
     }
 ]
