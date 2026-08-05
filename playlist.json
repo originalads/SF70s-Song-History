@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-05T11:59:58.394155",
+        "song": "Supertramp - Take The Long Way Home"
+    },
+    {
         "timestamp": "2026-08-05T09:56:49.488963",
         "song": "Edgar Winter Group - Frankenstein"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-29T13:27:12.659086",
         "song": "Aretha Franklin - Rock Steady"
-    },
-    {
-        "timestamp": "2026-07-29T11:50:21.030510",
-        "song": "Prince - I Wanna Be Your Lover"
     }
 ]
