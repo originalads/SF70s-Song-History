@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-05T07:12:48.402293",
+        "song": "Raspberries - Go All The Way"
+    },
+    {
         "timestamp": "2026-08-05T04:25:35.345172",
         "song": "Sylvers - Boogie Fever"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-29T09:47:54.805097",
         "song": "Electric Light Orchestra - Shine A Little Love"
-    },
-    {
-        "timestamp": "2026-07-29T07:09:27.097921",
-        "song": "Meat Loaf - Two Out Of Three Ain't Bad"
     }
 ]
