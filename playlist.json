@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-05T04:25:35.345172",
+        "song": "Sylvers - Boogie Fever"
+    },
+    {
         "timestamp": "2026-08-05T01:06:38.191827",
         "song": "Van Morrison - Wild Night"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-29T07:09:27.097921",
         "song": "Meat Loaf - Two Out Of Three Ain't Bad"
-    },
-    {
-        "timestamp": "2026-07-29T04:20:48.062663",
-        "song": "Barry Manilow - Mandy"
     }
 ]
