@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-05T16:14:51.222363",
+        "song": "Alan O'Day - Undercover Angel"
+    },
+    {
         "timestamp": "2026-08-05T14:26:47.557305",
         "song": "Stevie Wonder - Boogie On Reggae Woman"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-29T16:51:25.994041",
         "song": "KC & The Sunshine Band - Give It Up"
-    },
-    {
-        "timestamp": "2026-07-29T15:29:58.658640",
-        "song": "Cheap Trick - Surrender"
     }
 ]
