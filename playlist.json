@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-05T22:59:21.491542",
+        "song": "Ian Matthews - Shake It"
+    },
+    {
         "timestamp": "2026-08-05T21:56:41.657442",
         "song": "James Taylor - Your Smiling Face"
     },
@@ -378,9 +382,5 @@
     {
         "timestamp": "2026-07-29T23:34:56.826376",
         "song": "The Who - Who Are You"
-    },
-    {
-        "timestamp": "2026-07-29T22:31:50.028343",
-        "song": "Barry White - You're The First, The Last, My Everything"
     }
 ]
