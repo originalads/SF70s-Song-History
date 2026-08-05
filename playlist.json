@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-05T09:56:49.488963",
+        "song": "Edgar Winter Group - Frankenstein"
+    },
+    {
         "timestamp": "2026-08-05T07:12:48.402293",
         "song": "Raspberries - Go All The Way"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-29T11:50:21.030510",
         "song": "Prince - I Wanna Be Your Lover"
-    },
-    {
-        "timestamp": "2026-07-29T09:47:54.805097",
-        "song": "Electric Light Orchestra - Shine A Little Love"
     }
 ]
