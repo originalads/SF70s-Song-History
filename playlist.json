@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-06T09:06:10.554535",
+        "song": "ABBA - Take A Chance On Me"
+    },
+    {
         "timestamp": "2026-08-06T06:12:01.158770",
         "song": "Heart - Magic Man"
     },
@@ -378,9 +382,5 @@
     {
         "timestamp": "2026-07-30T09:18:09.296566",
         "song": "Paul Simon - Loves Me Like A Rock"
-    },
-    {
-        "timestamp": "2026-07-30T06:41:37.571772",
-        "song": "ABBA - Fernando"
     }
 ]
