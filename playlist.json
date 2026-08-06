@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-06T06:12:01.158770",
+        "song": "Heart - Magic Man"
+    },
+    {
         "timestamp": "2026-08-06T03:30:34.466254",
         "song": "Al Green - Sha-La-La (Make Me Happy)"
     },
@@ -378,9 +382,5 @@
     {
         "timestamp": "2026-07-30T06:41:37.571772",
         "song": "ABBA - Fernando"
-    },
-    {
-        "timestamp": "2026-07-30T04:12:01.372993",
-        "song": "Commodores - Too Hot Ta Trot"
     }
 ]
