@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-06T03:30:34.466254",
+        "song": "Al Green - Sha-La-La (Make Me Happy)"
+    },
+    {
         "timestamp": "2026-08-06T00:05:06.620992",
         "song": "Tony Orlando & Dawn - Knock Three Times"
     },
@@ -378,9 +382,5 @@
     {
         "timestamp": "2026-07-30T04:12:01.372993",
         "song": "Commodores - Too Hot Ta Trot"
-    },
-    {
-        "timestamp": "2026-07-30T00:59:25.264954",
-        "song": "Paul Simon - Late In The Evening"
     }
 ]
