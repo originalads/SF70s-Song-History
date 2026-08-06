@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-06T11:30:20.830459",
+        "song": "Nilsson - Everybody's Talkin'"
+    },
+    {
         "timestamp": "2026-08-06T09:06:10.554535",
         "song": "ABBA - Take A Chance On Me"
     },
@@ -374,13 +378,5 @@
     {
         "timestamp": "2026-07-30T13:02:28.117495",
         "song": "KC & The Sunshine Band - Keep It Comin' Love"
-    },
-    {
-        "timestamp": "2026-07-30T11:23:52.833790",
-        "song": "George McCrae - Rock Your Baby"
-    },
-    {
-        "timestamp": "2026-07-30T09:18:09.296566",
-        "song": "Paul Simon - Loves Me Like A Rock"
     }
 ]
