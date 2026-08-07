@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-07T19:29:34.883040",
+        "song": "Rocky Burnette - Tired of Toein' the Line"
+    },
+    {
         "timestamp": "2026-08-07T18:26:59.001125",
         "song": "Bee Gees - More Than A Woman"
     },
@@ -382,9 +386,5 @@
     {
         "timestamp": "2026-07-31T20:09:00.403385",
         "song": "Bee Gees - More Than A Woman"
-    },
-    {
-        "timestamp": "2026-07-31T18:42:57.822482",
-        "song": "Kenny Rogers - She Believes In Me"
     }
 ]
