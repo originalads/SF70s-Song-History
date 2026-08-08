@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-08T13:05:40.136400",
+        "song": "El Chicano - Tell Her She's Lovely"
+    },
+    {
         "timestamp": "2026-08-08T12:01:25.903680",
         "song": "Heart - Crazy On You"
     },
@@ -426,9 +430,5 @@
     {
         "timestamp": "2026-08-01T14:38:20.446411",
         "song": "Kansas - Carry On Wayward Son"
-    },
-    {
-        "timestamp": "2026-08-01T13:02:18.241488",
-        "song": "KC & The Sunshine Band - Get Down Tonight"
     }
 ]
