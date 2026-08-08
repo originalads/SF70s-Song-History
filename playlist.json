@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-08T23:44:51.488915",
+        "song": "Rod Stewart - Hot Legs"
+    },
+    {
         "timestamp": "2026-08-08T23:12:20.440001",
         "song": "Michael Jackson - Working Day And Night"
     },
@@ -466,9 +470,5 @@
     {
         "timestamp": "2026-08-02T01:11:30.729787",
         "song": "Pink Floyd - Money"
-    },
-    {
-        "timestamp": "2026-08-01T23:35:47.912775",
-        "song": "Jefferson Starship - Miracles"
     }
 ]
