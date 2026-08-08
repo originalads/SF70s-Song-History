@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-08T15:56:18.441503",
+        "song": "Al Green - Sha-La-La (Make Me Happy)"
+    },
+    {
         "timestamp": "2026-08-08T15:27:30.211896",
         "song": "Commodores - Lady (You Bring Me Up)"
     },
@@ -438,9 +442,5 @@
     {
         "timestamp": "2026-08-01T16:37:40.608961",
         "song": "Olivia Newton-John - Deeper Than The Night"
-    },
-    {
-        "timestamp": "2026-08-01T15:42:07.532749",
-        "song": "Eagles - Tequila Sunrise"
     }
 ]
