@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-08T20:48:40.939004",
+        "song": "Rickie Lee Jones - Chuck E's In Love"
+    },
+    {
         "timestamp": "2026-08-08T20:12:29.869167",
         "song": "Police - Roxanne"
     },
@@ -454,9 +458,5 @@
     {
         "timestamp": "2026-08-01T21:37:46.499867",
         "song": "Bad Company - Feel Like Makin' Love"
-    },
-    {
-        "timestamp": "2026-08-01T20:42:22.534150",
-        "song": "Journey - Lights"
     }
 ]
