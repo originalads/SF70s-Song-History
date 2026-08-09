@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-09T18:54:39.086044",
+        "song": "Art Garfunkel - All I Know"
+    },
+    {
         "timestamp": "2026-08-09T18:02:44.386790",
         "song": "Boz Scaggs - What Can I Say"
     },
@@ -514,9 +518,5 @@
     {
         "timestamp": "2026-08-02T19:57:10.241469",
         "song": "Eagles - The Long Run"
-    },
-    {
-        "timestamp": "2026-08-02T18:43:33.222041",
-        "song": "Danny O'Keefe - Good Time Charlie's Got The Blues"
     }
 ]
