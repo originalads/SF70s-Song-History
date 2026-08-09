@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-09T14:05:12.712207",
+        "song": "Dramatics - Whatcha See Is Whatcha Get"
+    },
+    {
         "timestamp": "2026-08-09T13:25:05.392107",
         "song": "Rod Stewart - Do Ya Think I'm Sexy"
     },
@@ -502,9 +506,5 @@
     {
         "timestamp": "2026-08-02T14:51:09.834623",
         "song": "Glen Campbell - Southern Nights"
-    },
-    {
-        "timestamp": "2026-08-02T13:48:01.467157",
-        "song": "Isley Brothers - That Lady"
     }
 ]
