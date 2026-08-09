@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-09T15:15:50.035884",
+        "song": "Paper Lace - The Night Chicago Died"
+    },
+    {
         "timestamp": "2026-08-09T14:48:11.852059",
         "song": "Gladys Knight & The Pips - Best Thing That Ever Happened To Me"
     },
@@ -506,9 +510,5 @@
     {
         "timestamp": "2026-08-02T15:48:22.117092",
         "song": "Lou Rawls - You'll Never Find Another Love Like Mine"
-    },
-    {
-        "timestamp": "2026-08-02T14:51:09.834623",
-        "song": "Glen Campbell - Southern Nights"
     }
 ]
