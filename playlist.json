@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-09T22:14:26.925339",
+        "song": "John Denver - Rocky Mountain High"
+    },
+    {
         "timestamp": "2026-08-09T21:49:32.296589",
         "song": "Bee Gees - Jive Talkin'"
     },
@@ -526,9 +530,5 @@
     {
         "timestamp": "2026-08-02T22:59:13.799430",
         "song": "Cat Stevens - Another Saturday Night"
-    },
-    {
-        "timestamp": "2026-08-02T21:57:58.912151",
-        "song": "Kenny Loggins - Whenever I Call You Friend"
     }
 ]
