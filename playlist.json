@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-09T07:58:36.372031",
+        "song": "John Lennon - Instant Karma"
+    },
+    {
         "timestamp": "2026-08-09T07:07:38.340467",
         "song": "Rufus - Once You Get Started"
     },
@@ -482,9 +486,5 @@
     {
         "timestamp": "2026-08-02T09:24:13.083677",
         "song": "John Stewart - Gold"
-    },
-    {
-        "timestamp": "2026-08-02T07:14:59.009055",
-        "song": "Foreigner - Hot Blooded"
     }
 ]
