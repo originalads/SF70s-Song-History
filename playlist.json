@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-09T21:13:54.412910",
+        "song": "Eric Clapton - Promises"
+    },
+    {
         "timestamp": "2026-08-09T20:42:58.917541",
         "song": "Three Dog Night - The Show Must Go On"
     },
@@ -522,9 +526,5 @@
     {
         "timestamp": "2026-08-02T21:57:58.912151",
         "song": "Kenny Loggins - Whenever I Call You Friend"
-    },
-    {
-        "timestamp": "2026-08-02T20:57:18.152497",
-        "song": "Diana Ross - Ain't No Mountain High Enough"
     }
 ]
