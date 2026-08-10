@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-10T21:25:28.580680",
+        "song": "Kenny Rogers - Ruby (Don't Take Your Love to Town)"
+    },
+    {
         "timestamp": "2026-08-10T20:41:24.535366",
         "song": "War - Low Rider"
     },
@@ -570,9 +574,5 @@
     {
         "timestamp": "2026-08-03T21:52:35.211449",
         "song": "Steely Dan - Hey 19"
-    },
-    {
-        "timestamp": "2026-08-03T20:47:21.323524",
-        "song": "Elton John - Daniel"
     }
 ]
