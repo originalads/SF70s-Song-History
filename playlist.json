@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-10T04:47:18.401366",
+        "song": "Cher - Take Me Home"
+    },
+    {
         "timestamp": "2026-08-10T03:02:06.088515",
         "song": "Paul McCartney - Silly Love Songs"
     },
@@ -538,9 +542,5 @@
     {
         "timestamp": "2026-08-03T06:48:11.117940",
         "song": "Harry Chapin - Cat's In The Cradle"
-    },
-    {
-        "timestamp": "2026-08-03T03:48:23.440789",
-        "song": "Bee Gees - Stayin' Alive"
     }
 ]
