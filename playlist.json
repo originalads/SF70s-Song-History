@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-10T13:56:18.052856",
+        "song": "War - Why Can't We Be Friends"
+    },
+    {
         "timestamp": "2026-08-10T12:28:04.108485",
         "song": "Gordon Lightfoot - Carefree Highway"
     },
@@ -554,9 +558,5 @@
     {
         "timestamp": "2026-08-03T16:00:37.014950",
         "song": "Stevie Wonder - If You Really Love Me"
-    },
-    {
-        "timestamp": "2026-08-03T13:25:29.623402",
-        "song": "Donna Summer - On the Radio"
     }
 ]
