@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-10T22:05:46.612899",
+        "song": "El Chicano - Tell Her She's Lovely"
+    },
+    {
         "timestamp": "2026-08-10T21:25:28.580680",
         "song": "Kenny Rogers - Ruby (Don't Take Your Love to Town)"
     },
@@ -570,9 +574,5 @@
     {
         "timestamp": "2026-08-03T22:51:46.646950",
         "song": "Sammy Johns - Chevy Van"
-    },
-    {
-        "timestamp": "2026-08-03T21:52:35.211449",
-        "song": "Steely Dan - Hey 19"
     }
 ]
