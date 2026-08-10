@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-10T22:53:05.414914",
+        "song": "Starbuck - Moonlight Feels Right"
+    },
+    {
         "timestamp": "2026-08-10T22:05:46.612899",
         "song": "El Chicano - Tell Her She's Lovely"
     },
@@ -570,9 +574,5 @@
     {
         "timestamp": "2026-08-03T23:57:12.518157",
         "song": "Boston - Peace Of Mind"
-    },
-    {
-        "timestamp": "2026-08-03T22:51:46.646950",
-        "song": "Sammy Johns - Chevy Van"
     }
 ]
