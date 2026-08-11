@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-11T17:31:19.725582",
+        "song": "Climax Blues Band - Couldn't Get It Right"
+    },
+    {
         "timestamp": "2026-08-11T16:30:11.911588",
         "song": "Chicago - Feelin' Stronger Every Day"
     },
@@ -606,9 +610,5 @@
     {
         "timestamp": "2026-08-04T18:43:31.936906",
         "song": "Chicago - Call On Me"
-    },
-    {
-        "timestamp": "2026-08-04T17:00:07.320684",
-        "song": "Loggins & Messina - Your Mama Don't Dance"
     }
 ]
