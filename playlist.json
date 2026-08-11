@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-11T15:36:29.951004",
+        "song": "Knack - My Sharona"
+    },
+    {
         "timestamp": "2026-08-11T14:39:17.180627",
         "song": "Eagles - Hotel California"
     },
@@ -602,9 +606,5 @@
     {
         "timestamp": "2026-08-04T17:00:07.320684",
         "song": "Loggins & Messina - Your Mama Don't Dance"
-    },
-    {
-        "timestamp": "2026-08-04T15:04:59.098276",
-        "song": "Paul McCartney - Listen To What The Man Said"
     }
 ]
