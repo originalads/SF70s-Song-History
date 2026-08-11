@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-11T08:28:34.128412",
+        "song": "Michael Jackson - Don't Stop 'Til You Get Enough"
+    },
+    {
         "timestamp": "2026-08-11T07:22:50.713977",
         "song": "Orleans - Love Takes Time"
     },
@@ -586,9 +590,5 @@
     {
         "timestamp": "2026-08-04T10:47:16.160006",
         "song": "Earth, Wind & Fire - Got To Get You Into My Life"
-    },
-    {
-        "timestamp": "2026-08-04T08:04:35.744445",
-        "song": "Paul Simon - Me And Julio Down By The Schoolyard"
     }
 ]
