@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-12T03:10:37.666714",
+        "song": "Cheap Trick - Surrender"
+    },
+    {
         "timestamp": "2026-08-12T00:40:46.845076",
         "song": "Lynn Anderson - Rose Garden"
     },
@@ -618,9 +622,5 @@
     {
         "timestamp": "2026-08-05T04:25:35.345172",
         "song": "Sylvers - Boogie Fever"
-    },
-    {
-        "timestamp": "2026-08-05T01:06:38.191827",
-        "song": "Van Morrison - Wild Night"
     }
 ]
