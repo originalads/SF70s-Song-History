@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-12T21:09:42.258258",
+        "song": "Chic - I Want Your Love"
+    },
+    {
         "timestamp": "2026-08-12T20:22:03.016338",
         "song": "Al Green - Let's Stay Together"
     },
@@ -646,9 +650,5 @@
     {
         "timestamp": "2026-08-05T21:56:41.657442",
         "song": "James Taylor - Your Smiling Face"
-    },
-    {
-        "timestamp": "2026-08-05T20:42:57.329358",
-        "song": "Billy Joel - Just The Way You Are"
     }
 ]
