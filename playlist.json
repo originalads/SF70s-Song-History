@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-12T00:40:46.845076",
+        "song": "Lynn Anderson - Rose Garden"
+    },
+    {
         "timestamp": "2026-08-11T23:38:04.694978",
         "song": "Queen - Another One Bites the Dust"
     },
@@ -618,9 +622,5 @@
     {
         "timestamp": "2026-08-05T01:06:38.191827",
         "song": "Van Morrison - Wild Night"
-    },
-    {
-        "timestamp": "2026-08-04T23:42:58.574445",
-        "song": "Tower of Power - You're Still A Young Man"
     }
 ]
