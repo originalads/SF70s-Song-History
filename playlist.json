@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-12T22:01:09.831224",
+        "song": "Bee Gees - Nights On Broadway"
+    },
+    {
         "timestamp": "2026-08-12T21:09:42.258258",
         "song": "Chic - I Want Your Love"
     },
@@ -646,9 +650,5 @@
     {
         "timestamp": "2026-08-05T22:59:21.491542",
         "song": "Ian Matthews - Shake It"
-    },
-    {
-        "timestamp": "2026-08-05T21:56:41.657442",
-        "song": "James Taylor - Your Smiling Face"
     }
 ]
