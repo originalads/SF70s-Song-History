@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-12T07:56:38.378673",
+        "song": "Arlo Guthrie - City Of New Orleans"
+    },
+    {
         "timestamp": "2026-08-12T06:21:27.638323",
         "song": "BT Express - Do It ('Til You're Satisfied)"
     },
@@ -622,9 +626,5 @@
     {
         "timestamp": "2026-08-05T09:56:49.488963",
         "song": "Edgar Winter Group - Frankenstein"
-    },
-    {
-        "timestamp": "2026-08-05T07:12:48.402293",
-        "song": "Raspberries - Go All The Way"
     }
 ]
