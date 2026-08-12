@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-12T23:30:33.490300",
+        "song": "Brothers Johnson - Strawberry Letter 23"
+    },
+    {
         "timestamp": "2026-08-12T22:53:01.480454",
         "song": "Santana - Oye Como Va"
     },
@@ -650,9 +654,5 @@
     {
         "timestamp": "2026-08-06T00:05:06.620992",
         "song": "Tony Orlando & Dawn - Knock Three Times"
-    },
-    {
-        "timestamp": "2026-08-05T22:59:21.491542",
-        "song": "Ian Matthews - Shake It"
     }
 ]
