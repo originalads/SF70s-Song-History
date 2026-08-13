@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-13T04:31:21.875107",
+        "song": "John Lennon - Whatever Gets You Through The Night"
+    },
+    {
         "timestamp": "2026-08-13T02:45:24.462337",
         "song": "Captain & Tennille - Lonely Night (Angel Face)"
     },
@@ -654,9 +658,5 @@
     {
         "timestamp": "2026-08-06T06:12:01.158770",
         "song": "Heart - Magic Man"
-    },
-    {
-        "timestamp": "2026-08-06T03:30:34.466254",
-        "song": "Al Green - Sha-La-La (Make Me Happy)"
     }
 ]
