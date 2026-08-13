@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-13T00:09:39.752762",
+        "song": "Doobie Brothers - Take Me In Your Arms"
+    },
+    {
         "timestamp": "2026-08-12T23:30:33.490300",
         "song": "Brothers Johnson - Strawberry Letter 23"
     },
@@ -650,9 +654,5 @@
     {
         "timestamp": "2026-08-06T03:30:34.466254",
         "song": "Al Green - Sha-La-La (Make Me Happy)"
-    },
-    {
-        "timestamp": "2026-08-06T00:05:06.620992",
-        "song": "Tony Orlando & Dawn - Knock Three Times"
     }
 ]
