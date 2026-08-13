@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-13T07:46:34.555081",
+        "song": "Foxy - Get Off"
+    },
+    {
         "timestamp": "2026-08-13T06:01:30.586599",
         "song": "Boz Scaggs - Lido Shuffle"
     },
@@ -658,9 +662,5 @@
     {
         "timestamp": "2026-08-06T09:06:10.554535",
         "song": "ABBA - Take A Chance On Me"
-    },
-    {
-        "timestamp": "2026-08-06T06:12:01.158770",
-        "song": "Heart - Magic Man"
     }
 ]
