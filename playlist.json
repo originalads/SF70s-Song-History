@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-13T10:04:29.680763",
+        "song": "Bee Gees - Tragedy"
+    },
+    {
         "timestamp": "2026-08-13T08:56:01.913110",
         "song": "Billy Joel - Piano Man"
     },
@@ -662,9 +666,5 @@
     {
         "timestamp": "2026-08-06T11:30:20.830459",
         "song": "Nilsson - Everybody's Talkin'"
-    },
-    {
-        "timestamp": "2026-08-06T09:06:10.554535",
-        "song": "ABBA - Take A Chance On Me"
     }
 ]
