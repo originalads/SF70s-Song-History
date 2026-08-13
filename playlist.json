@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-13T15:33:01.864516",
+        "song": "Bruce Springsteen - Hungry Heart"
+    },
+    {
         "timestamp": "2026-08-13T14:33:04.783640",
         "song": "Sister Sledge - We Are Family"
     },
@@ -670,9 +674,5 @@
     {
         "timestamp": "2026-08-07T00:29:48.803161",
         "song": "Earth, Wind & Fire - Let's Groove"
-    },
-    {
-        "timestamp": "2026-08-06T15:28:03.379114",
-        "song": "Andrea True Connection - More More More"
     }
 ]
