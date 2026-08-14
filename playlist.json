@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-14T16:26:08.352181",
+        "song": "Vicki Lawrence - The Night The Lights Went Out In Georgia"
+    },
+    {
         "timestamp": "2026-08-14T15:30:30.441574",
         "song": "Edison Lighthouse - Love Grows"
     },
@@ -710,9 +714,5 @@
     {
         "timestamp": "2026-08-07T16:47:06.218532",
         "song": "Evelyn 'Champagne' King - I'm In Love"
-    },
-    {
-        "timestamp": "2026-08-07T15:54:16.219636",
-        "song": "Elvis Presley - Suspicious Minds"
     }
 ]
