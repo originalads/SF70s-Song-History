@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-14T17:28:01.738786",
+        "song": "Earth, Wind & Fire - Getaway"
+    },
+    {
         "timestamp": "2026-08-14T16:26:08.352181",
         "song": "Vicki Lawrence - The Night The Lights Went Out In Georgia"
     },
@@ -710,9 +714,5 @@
     {
         "timestamp": "2026-08-07T17:35:52.018661",
         "song": "Paul McCartney - Silly Love Songs"
-    },
-    {
-        "timestamp": "2026-08-07T16:47:06.218532",
-        "song": "Evelyn 'Champagne' King - I'm In Love"
     }
 ]
