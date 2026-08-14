@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-14T09:45:32.252163",
+        "song": "Olivia Newton-John - Magic"
+    },
+    {
         "timestamp": "2026-08-14T08:48:18.283708",
         "song": "Neil Diamond - Play Me"
     },
@@ -710,9 +714,5 @@
     {
         "timestamp": "2026-08-07T10:02:09.053495",
         "song": "Jefferson Starship - Miracles"
-    },
-    {
-        "timestamp": "2026-08-07T08:57:01.618762",
-        "song": "Captain & Tennille - Lonely Night (Angel Face)"
     }
 ]
