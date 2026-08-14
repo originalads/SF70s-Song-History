@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-14T20:03:52.998390",
+        "song": "Ozark Mountain Daredevils - Jackie Blue"
+    },
+    {
         "timestamp": "2026-08-14T19:28:07.747303",
         "song": "Elton John - Lucy In The Sky With Diamonds"
     },
@@ -710,9 +714,5 @@
     {
         "timestamp": "2026-08-07T20:07:55.377827",
         "song": "Stevie Wonder - Boogie On Reggae Woman"
-    },
-    {
-        "timestamp": "2026-08-07T19:29:34.883040",
-        "song": "Rocky Burnette - Tired of Toein' the Line"
     }
 ]
