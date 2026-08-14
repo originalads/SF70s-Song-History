@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-14T18:25:42.742882",
+        "song": "Peter Brown - Dance With Me"
+    },
+    {
         "timestamp": "2026-08-14T17:28:01.738786",
         "song": "Earth, Wind & Fire - Getaway"
     },
@@ -710,9 +714,5 @@
     {
         "timestamp": "2026-08-07T18:26:59.001125",
         "song": "Bee Gees - More Than A Woman"
-    },
-    {
-        "timestamp": "2026-08-07T17:35:52.018661",
-        "song": "Paul McCartney - Silly Love Songs"
     }
 ]
