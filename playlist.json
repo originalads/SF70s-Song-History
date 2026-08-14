@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-14T23:00:41.349361",
+        "song": "America - Sister Golden Hair"
+    },
+    {
         "timestamp": "2026-08-14T22:43:02.849020",
         "song": "Ambrosia - Biggest Part Of Me"
     },
@@ -718,9 +722,5 @@
     {
         "timestamp": "2026-08-07T23:35:32.055030",
         "song": "Dolly Parton - Here You Come Again"
-    },
-    {
-        "timestamp": "2026-08-07T22:57:23.104085",
-        "song": "Suzi Quatro & Chris Norman - Stumblin' In"
     }
 ]
