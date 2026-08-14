@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-14T02:44:16.555683",
+        "song": "Debby Boone - You Light Up My Life"
+    },
+    {
         "timestamp": "2026-08-14T00:09:28.177358",
         "song": "McFadden & Whitehead - Ain't No Stoppin' Us Now"
     },
@@ -710,9 +714,5 @@
     {
         "timestamp": "2026-08-07T03:32:24.471371",
         "song": "Linda Ronstadt - When Will I Be Loved"
-    },
-    {
-        "timestamp": "2026-08-07T00:29:48.803161",
-        "song": "Earth, Wind & Fire - Let's Groove"
     }
 ]
