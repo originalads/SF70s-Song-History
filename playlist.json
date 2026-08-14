@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-14T15:30:30.441574",
+        "song": "Edison Lighthouse - Love Grows"
+    },
+    {
         "timestamp": "2026-08-14T14:39:20.761197",
         "song": "Little River Band - Help Is On It's Way"
     },
@@ -710,9 +714,5 @@
     {
         "timestamp": "2026-08-07T15:54:16.219636",
         "song": "Elvis Presley - Suspicious Minds"
-    },
-    {
-        "timestamp": "2026-08-07T14:55:58.229661",
-        "song": "George Harrison - Give Me Love"
     }
 ]
