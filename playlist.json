@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-14T19:28:07.747303",
+        "song": "Elton John - Lucy In The Sky With Diamonds"
+    },
+    {
         "timestamp": "2026-08-14T18:25:42.742882",
         "song": "Peter Brown - Dance With Me"
     },
@@ -710,9 +714,5 @@
     {
         "timestamp": "2026-08-07T19:29:34.883040",
         "song": "Rocky Burnette - Tired of Toein' the Line"
-    },
-    {
-        "timestamp": "2026-08-07T18:26:59.001125",
-        "song": "Bee Gees - More Than A Woman"
     }
 ]
