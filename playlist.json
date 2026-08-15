@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T16:11:59.917682",
+        "song": "Argent - Hold Your Head Up"
+    },
+    {
         "timestamp": "2026-08-15T15:52:35.229498",
         "song": "Carole King - Jazzman"
     },
@@ -770,9 +774,5 @@
     {
         "timestamp": "2026-08-08T16:32:43.166024",
         "song": "Earth, Wind & Fire - Reasons"
-    },
-    {
-        "timestamp": "2026-08-08T15:56:18.441503",
-        "song": "Al Green - Sha-La-La (Make Me Happy)"
     }
 ]
