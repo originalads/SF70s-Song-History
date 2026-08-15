@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T21:33:39.192043",
+        "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
+    },
+    {
         "timestamp": "2026-08-15T21:10:10.936803",
         "song": "Sister Sledge - We Are Family"
     },
@@ -786,9 +790,5 @@
     {
         "timestamp": "2026-08-08T21:48:41.999110",
         "song": "10CC - The Things We Do For Love"
-    },
-    {
-        "timestamp": "2026-08-08T21:15:21.520865",
-        "song": "Knack - My Sharona"
     }
 ]
