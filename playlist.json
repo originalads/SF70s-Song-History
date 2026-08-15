@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T11:44:57.284266",
+        "song": "Simon & Garfunkel - Bridge Over Troubled Water"
+    },
+    {
         "timestamp": "2026-08-15T11:26:35.914156",
         "song": "Crosby, Stills, Nash & Young - Teach Your Children"
     },
@@ -754,9 +758,5 @@
     {
         "timestamp": "2026-08-08T12:01:25.903680",
         "song": "Heart - Crazy On You"
-    },
-    {
-        "timestamp": "2026-08-08T11:41:07.097145",
-        "song": "Elton John - Philadelphia Freedom"
     }
 ]
