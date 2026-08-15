@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T11:26:35.914156",
+        "song": "Crosby, Stills, Nash & Young - Teach Your Children"
+    },
+    {
         "timestamp": "2026-08-15T10:59:02.504318",
         "song": "Kenny Rogers - The Gambler"
     },
@@ -754,9 +758,5 @@
     {
         "timestamp": "2026-08-08T11:41:07.097145",
         "song": "Elton John - Philadelphia Freedom"
-    },
-    {
-        "timestamp": "2026-08-08T11:09:44.449108",
-        "song": "Leif Garrett - I Was Made For Dancing"
     }
 ]
