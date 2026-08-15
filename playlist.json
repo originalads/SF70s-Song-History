@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T13:19:52.552607",
+        "song": "GQ - I Do Love You"
+    },
+    {
         "timestamp": "2026-08-15T12:49:45.955753",
         "song": "Jacksons - Enjoy Yourself"
     },
@@ -758,9 +762,5 @@
     {
         "timestamp": "2026-08-08T13:53:18.796536",
         "song": "ABBA - Take A Chance On Me"
-    },
-    {
-        "timestamp": "2026-08-08T13:05:40.136400",
-        "song": "El Chicano - Tell Her She's Lovely"
     }
 ]
