@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T21:51:28.788674",
+        "song": "KC & The Sunshine Band - Give It Up"
+    },
+    {
         "timestamp": "2026-08-15T21:33:39.192043",
         "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
     },
@@ -786,9 +790,5 @@
     {
         "timestamp": "2026-08-08T22:12:00.144785",
         "song": "Badfinger - Come And Get It"
-    },
-    {
-        "timestamp": "2026-08-08T21:48:41.999110",
-        "song": "10CC - The Things We Do For Love"
     }
 ]
