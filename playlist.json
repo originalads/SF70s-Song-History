@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T14:01:56.443870",
+        "song": "Gary Wright - Love Is Alive"
+    },
+    {
         "timestamp": "2026-08-15T13:47:13.836819",
         "song": "Lipps, Inc. - Funkytown"
     },
@@ -762,9 +766,5 @@
     {
         "timestamp": "2026-08-08T14:23:34.018993",
         "song": "Ray Parker Jr. & Raydio - Jack and Jill"
-    },
-    {
-        "timestamp": "2026-08-08T13:53:18.796536",
-        "song": "ABBA - Take A Chance On Me"
     }
 ]
