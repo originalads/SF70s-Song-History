@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T15:34:37.018819",
+        "song": "Chicago - Beginnings"
+    },
+    {
         "timestamp": "2026-08-15T15:11:17.569927",
         "song": "Dave Edmunds - I Hear You Knocking"
     },
@@ -766,9 +770,5 @@
     {
         "timestamp": "2026-08-08T15:56:18.441503",
         "song": "Al Green - Sha-La-La (Make Me Happy)"
-    },
-    {
-        "timestamp": "2026-08-08T15:27:30.211896",
-        "song": "Commodores - Lady (You Bring Me Up)"
     }
 ]
