@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T19:01:38.588201",
+        "song": "Carl Carlton - Everlasting Love"
+    },
+    {
         "timestamp": "2026-08-15T18:39:30.067204",
         "song": "Marvin Gaye - Inner City Blues (Make Me Wanna Holler)"
     },
@@ -778,9 +782,5 @@
     {
         "timestamp": "2026-08-08T19:21:08.761228",
         "song": "John Denver - Sunshine On My Shoulder"
-    },
-    {
-        "timestamp": "2026-08-08T18:52:42.185633",
-        "song": "Whispers - It's A Love Thing"
     }
 ]
