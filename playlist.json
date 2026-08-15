@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T10:15:48.090262",
+        "song": "Joe Walsh - Rocky Mountain Way"
+    },
+    {
         "timestamp": "2026-08-15T09:54:02.284899",
         "song": "S.O.S. Band - Take Your Time (Do It Right)"
     },
@@ -750,9 +754,5 @@
     {
         "timestamp": "2026-08-08T10:42:28.507877",
         "song": "Neil Diamond - Play Me"
-    },
-    {
-        "timestamp": "2026-08-08T10:00:36.037918",
-        "song": "Bachman-Turner Overdrive - Takin' Care Of Business"
     }
 ]
