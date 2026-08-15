@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T23:13:35.744779",
+        "song": "Love & Kisses - Thank God It's Friday"
+    },
+    {
         "timestamp": "2026-08-15T22:53:58.162095",
         "song": "Seals & Crofts - Get Closer"
     },
@@ -790,9 +794,5 @@
     {
         "timestamp": "2026-08-08T23:44:51.488915",
         "song": "Rod Stewart - Hot Legs"
-    },
-    {
-        "timestamp": "2026-08-08T23:12:20.440001",
-        "song": "Michael Jackson - Working Day And Night"
     }
 ]
