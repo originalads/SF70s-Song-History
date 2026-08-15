@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-15T17:27:40.568777",
+        "song": "Leif Garrett - I Was Made For Dancing"
+    },
+    {
         "timestamp": "2026-08-15T17:00:17.385991",
         "song": "Tavares - More Than A Woman"
     },
@@ -774,9 +778,5 @@
     {
         "timestamp": "2026-08-08T17:42:00.327409",
         "song": "Linda Ronstadt - That'll Be The Day"
-    },
-    {
-        "timestamp": "2026-08-08T17:04:47.830533",
-        "song": "Bay City Rollers - Saturday Night"
     }
 ]
