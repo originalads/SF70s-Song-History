@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-16T20:28:03.637285",
+        "song": "Brothers Johnson - Strawberry Letter 23"
+    },
+    {
         "timestamp": "2026-08-16T19:58:11.310946",
         "song": "Rod Stewart - Reason To Believe"
     },
@@ -858,9 +862,5 @@
     {
         "timestamp": "2026-08-09T20:42:58.917541",
         "song": "Three Dog Night - The Show Must Go On"
-    },
-    {
-        "timestamp": "2026-08-09T19:59:25.103666",
-        "song": "Lynyrd Skynyrd - Free Bird"
     }
 ]
