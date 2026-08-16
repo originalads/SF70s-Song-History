@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-16T15:32:11.080529",
+        "song": "Peter Frampton - Baby I Love Your Way"
+    },
+    {
         "timestamp": "2026-08-16T15:04:56.575822",
         "song": "John Denver - Rocky Mountain High"
     },
@@ -838,9 +842,5 @@
     {
         "timestamp": "2026-08-09T15:50:09.283589",
         "song": "Carol Douglas - Doctor's Orders"
-    },
-    {
-        "timestamp": "2026-08-09T15:15:50.035884",
-        "song": "Paper Lace - The Night Chicago Died"
     }
 ]
