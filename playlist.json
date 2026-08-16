@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-16T14:49:14.644205",
+        "song": "Meat Loaf - Two Out Of Three Ain't Bad"
+    },
+    {
         "timestamp": "2026-08-16T14:26:49.483877",
         "song": "Andy Kim - Rock Me Gently"
     },
@@ -834,9 +838,5 @@
     {
         "timestamp": "2026-08-09T15:15:50.035884",
         "song": "Paper Lace - The Night Chicago Died"
-    },
-    {
-        "timestamp": "2026-08-09T14:48:11.852059",
-        "song": "Gladys Knight & The Pips - Best Thing That Ever Happened To Me"
     }
 ]
