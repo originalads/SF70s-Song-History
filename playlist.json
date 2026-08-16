@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-16T10:52:38.544689",
+        "song": "Ringo Starr - Photograph"
+    },
+    {
         "timestamp": "2026-08-16T10:31:47.693358",
         "song": "Billy Preston - Will It Go Round In Circles"
     },
@@ -822,9 +826,5 @@
     {
         "timestamp": "2026-08-09T11:15:14.225550",
         "song": "Glen Campbell - Southern Nights"
-    },
-    {
-        "timestamp": "2026-08-09T10:48:29.563512",
-        "song": "Diana Ross - Theme From Mahogany"
     }
 ]
