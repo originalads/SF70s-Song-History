@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-16T16:40:35.076684",
+        "song": "Art Garfunkel - I Only Have Eyes For You"
+    },
+    {
         "timestamp": "2026-08-16T16:09:36.669271",
         "song": "Stevie Wonder - Boogie On Reggae Woman"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-08-09T16:58:40.899898",
         "song": "Paul McCartney - Maybe I'm Amazed (live)"
-    },
-    {
-        "timestamp": "2026-08-09T16:16:34.573068",
-        "song": "Staple Singers - Respect Yourself"
     }
 ]
