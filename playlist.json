@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-16T23:01:27.029449",
+        "song": "Linda Ronstadt - When Will I Be Loved"
+    },
+    {
         "timestamp": "2026-08-16T22:49:47.491539",
         "song": "Peter Brown - Do You Wanna Get Funky With Me"
     },
@@ -870,9 +874,5 @@
     {
         "timestamp": "2026-08-09T23:18:29.360681",
         "song": "Boston - Long Time"
-    },
-    {
-        "timestamp": "2026-08-09T22:52:05.385587",
-        "song": "Raiders - Indian Reservation"
     }
 ]
