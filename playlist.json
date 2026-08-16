@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-16T17:00:14.956003",
+        "song": "Sanford Townsend Band - Smoke From A Distant Fire"
+    },
+    {
         "timestamp": "2026-08-16T16:40:35.076684",
         "song": "Art Garfunkel - I Only Have Eyes For You"
     },
@@ -842,9 +846,5 @@
     {
         "timestamp": "2026-08-09T17:37:11.496446",
         "song": "Van Morrison - Wild Night"
-    },
-    {
-        "timestamp": "2026-08-09T16:58:40.899898",
-        "song": "Paul McCartney - Maybe I'm Amazed (live)"
     }
 ]
