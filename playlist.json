@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-16T13:38:46.548194",
+        "song": "Barbra Streisand - Evergreen (Theme From A Star Is Born)"
+    },
+    {
         "timestamp": "2026-08-16T13:02:56.619203",
         "song": "Four Seasons - Who Loves You"
     },
@@ -830,9 +834,5 @@
     {
         "timestamp": "2026-08-09T14:05:12.712207",
         "song": "Dramatics - Whatcha See Is Whatcha Get"
-    },
-    {
-        "timestamp": "2026-08-09T13:25:05.392107",
-        "song": "Rod Stewart - Do Ya Think I'm Sexy"
     }
 ]
