@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-16T14:26:49.483877",
+        "song": "Andy Kim - Rock Me Gently"
+    },
+    {
         "timestamp": "2026-08-16T13:57:52.073088",
         "song": "Bad Company - Can't Get Enough"
     },
@@ -834,9 +838,5 @@
     {
         "timestamp": "2026-08-09T14:48:11.852059",
         "song": "Gladys Knight & The Pips - Best Thing That Ever Happened To Me"
-    },
-    {
-        "timestamp": "2026-08-09T14:05:12.712207",
-        "song": "Dramatics - Whatcha See Is Whatcha Get"
     }
 ]
