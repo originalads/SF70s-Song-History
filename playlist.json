@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-17T12:58:42.403678",
+        "song": "James Taylor - Shower The People"
+    },
+    {
         "timestamp": "2026-08-17T11:59:28.801850",
         "song": "Neil Young - Heart Of Gold"
     },
@@ -906,9 +910,5 @@
     {
         "timestamp": "2026-08-10T13:56:18.052856",
         "song": "War - Why Can't We Be Friends"
-    },
-    {
-        "timestamp": "2026-08-10T12:28:04.108485",
-        "song": "Gordon Lightfoot - Carefree Highway"
     }
 ]
