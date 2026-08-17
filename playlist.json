@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-17T10:50:39.799558",
+        "song": "Earth, Wind & Fire - Got To Get You Into My Life"
+    },
+    {
         "timestamp": "2026-08-17T10:16:18.935154",
         "song": "Stevie Wonder - Master Blaster (Jammin')"
     },
@@ -898,9 +902,5 @@
     {
         "timestamp": "2026-08-10T11:35:17.551719",
         "song": "Dr. Hook - Sylvia's Mother"
-    },
-    {
-        "timestamp": "2026-08-10T10:46:37.439467",
-        "song": "Rickie Lee Jones - Chuck E's In Love"
     }
 ]
