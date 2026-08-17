@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-17T23:40:22.988903",
+        "song": "Michael Johnson - Bluer Than Blue"
+    },
+    {
         "timestamp": "2026-08-17T23:14:46.363496",
         "song": "Eagles - Life In The Fast Lane"
     },
@@ -950,9 +954,5 @@
     {
         "timestamp": "2026-08-11T00:00:31.413920",
         "song": "Fleetwood Mac - Don't Stop"
-    },
-    {
-        "timestamp": "2026-08-10T23:26:09.838625",
-        "song": "Emotions - Flowers"
     }
 ]
