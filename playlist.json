@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-17T21:40:33.748343",
+        "song": "Steely Dan - Hey 19"
+    },
+    {
         "timestamp": "2026-08-17T21:11:37.845611",
         "song": "Curtis Mayfield - Freddie's Dead"
     },
@@ -942,9 +946,5 @@
     {
         "timestamp": "2026-08-10T22:05:46.612899",
         "song": "El Chicano - Tell Her She's Lovely"
-    },
-    {
-        "timestamp": "2026-08-10T21:25:28.580680",
-        "song": "Kenny Rogers - Ruby (Don't Take Your Love to Town)"
     }
 ]
