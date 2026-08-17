@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-17T22:31:32.961247",
+        "song": "Eddie Money - Two Tickets To Paradise"
+    },
+    {
         "timestamp": "2026-08-17T21:59:04.906524",
         "song": "Tony Orlando & Dawn - Knock Three Times"
     },
@@ -946,9 +950,5 @@
     {
         "timestamp": "2026-08-10T22:53:05.414914",
         "song": "Starbuck - Moonlight Feels Right"
-    },
-    {
-        "timestamp": "2026-08-10T22:05:46.612899",
-        "song": "El Chicano - Tell Her She's Lovely"
     }
 ]
