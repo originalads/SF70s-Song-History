@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-17T01:48:33.147775",
+        "song": "Whispers - It's A Love Thing"
+    },
+    {
         "timestamp": "2026-08-16T23:59:48.624140",
         "song": "Shocking Blue - Venus"
     },
@@ -874,9 +878,5 @@
     {
         "timestamp": "2026-08-10T03:02:06.088515",
         "song": "Paul McCartney - Silly Love Songs"
-    },
-    {
-        "timestamp": "2026-08-10T00:50:51.397524",
-        "song": "Patrice Rushen - Forget Me Nots"
     }
 ]
