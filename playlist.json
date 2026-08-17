@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-17T17:13:13.831041",
+        "song": "Moody Blues - Tuesday Afternoon"
+    },
+    {
         "timestamp": "2026-08-17T16:50:49.513572",
         "song": "Neil Diamond - Solitary Man"
     },
@@ -926,9 +930,5 @@
     {
         "timestamp": "2026-08-10T17:57:00.245215",
         "song": "Rolling Stones - Angie"
-    },
-    {
-        "timestamp": "2026-08-10T17:02:22.684684",
-        "song": "Edgar Winter Group - Free Ride"
     }
 ]
