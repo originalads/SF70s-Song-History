@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-17T15:03:56.385702",
+        "song": "Boz Scaggs - What Can I Say"
+    },
+    {
         "timestamp": "2026-08-17T14:44:04.307016",
         "song": "Amazing Rhythm Aces - Third Rate Romance"
     },
@@ -914,9 +918,5 @@
     {
         "timestamp": "2026-08-10T16:01:21.660260",
         "song": "Stevie Wonder - If You Really Love Me"
-    },
-    {
-        "timestamp": "2026-08-10T14:57:41.030173",
-        "song": "Commodores - Brick House"
     }
 ]
