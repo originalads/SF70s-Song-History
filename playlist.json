@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-18T10:39:16.356789",
+        "song": "Paul Simon - 50 Ways To Leave Your Lover"
+    },
+    {
         "timestamp": "2026-08-18T10:02:20.482439",
         "song": "Spinners & Dionne Warwick - Then Came You"
     },
@@ -978,9 +982,5 @@
     {
         "timestamp": "2026-08-11T11:20:49.478887",
         "song": "Little River Band - Happy Anniversary"
-    },
-    {
-        "timestamp": "2026-08-11T10:27:26.046803",
-        "song": "Rupert Holmes - Escape"
     }
 ]
