@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-18T12:39:21.181103",
+        "song": "Atlanta Rhythm Section - So Into You"
+    },
+    {
         "timestamp": "2026-08-18T11:55:17.098989",
         "song": "Barry Manilow - This One's For You"
     },
@@ -986,9 +990,5 @@
     {
         "timestamp": "2026-08-11T13:34:05.547983",
         "song": "Shocking Blue - Venus"
-    },
-    {
-        "timestamp": "2026-08-11T12:02:27.985788",
-        "song": "Hot Chocolate - You Sexy Thing"
     }
 ]
