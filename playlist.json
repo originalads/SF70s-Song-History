@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-18T05:15:07.263439",
+        "song": "The Cars - Bye Bye Love"
+    },
+    {
         "timestamp": "2026-08-18T04:47:05.090824",
         "song": "Parliament - Give Up The Funk"
     },
@@ -962,9 +966,5 @@
     {
         "timestamp": "2026-08-11T06:04:08.566478",
         "song": "Chicago - Old Days"
-    },
-    {
-        "timestamp": "2026-08-11T05:11:37.253091",
-        "song": "Emotions - I Don't Wanna Lose Your Love"
     }
 ]
