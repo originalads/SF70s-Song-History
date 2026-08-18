@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-18T14:07:12.348800",
+        "song": "Gordon Lightfoot - Sundown"
+    },
+    {
         "timestamp": "2026-08-18T13:28:17.172951",
         "song": "Seals & Crofts - Get Closer"
     },
@@ -990,9 +994,5 @@
     {
         "timestamp": "2026-08-11T14:39:17.180627",
         "song": "Eagles - Hotel California"
-    },
-    {
-        "timestamp": "2026-08-11T13:34:05.547983",
-        "song": "Shocking Blue - Venus"
     }
 ]
