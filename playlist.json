@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-18T21:26:38.572966",
+        "song": "Rod Stewart - Maggie May"
+    },
+    {
         "timestamp": "2026-08-18T20:57:13.387352",
         "song": "Emotions - Best of My Love"
     },
@@ -1018,9 +1022,5 @@
     {
         "timestamp": "2026-08-11T22:02:38.390770",
         "song": "Daniel Boone - Beautiful Sunday"
-    },
-    {
-        "timestamp": "2026-08-11T21:09:29.362560",
-        "song": "B.J. Thomas - Hooked On A Feeling"
     }
 ]
