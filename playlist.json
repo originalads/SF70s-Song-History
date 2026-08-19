@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-19T19:57:59.288493",
+        "song": "Elton John - Levon"
+    },
+    {
         "timestamp": "2026-08-19T19:39:15.281485",
         "song": "Joni Mitchell - Help Me"
     },
@@ -1102,9 +1106,5 @@
     {
         "timestamp": "2026-08-12T20:22:03.016338",
         "song": "Al Green - Let's Stay Together"
-    },
-    {
-        "timestamp": "2026-08-12T19:42:05.779061",
-        "song": "Earth, Wind & Fire - Love's Holiday"
     }
 ]
