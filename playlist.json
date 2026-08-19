@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-19T23:00:12.976960",
+        "song": "Doobie Brothers - Listen To The Music"
+    },
+    {
         "timestamp": "2026-08-19T22:40:18.805259",
         "song": "James Taylor - Handy Man"
     },
@@ -1114,9 +1118,5 @@
     {
         "timestamp": "2026-08-12T23:30:33.490300",
         "song": "Brothers Johnson - Strawberry Letter 23"
-    },
-    {
-        "timestamp": "2026-08-12T22:53:01.480454",
-        "song": "Santana - Oye Como Va"
     }
 ]
