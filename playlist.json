@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-19T14:09:03.682490",
+        "song": "Frankie Valli - Swearin' To God"
+    },
+    {
         "timestamp": "2026-08-19T13:33:30.845317",
         "song": "Lynyrd Skynyrd - Whats Your Name"
     },
@@ -1078,9 +1082,5 @@
     {
         "timestamp": "2026-08-12T14:40:00.396201",
         "song": "Johnny Rivers - Rockin' Pneumonia...Boogie Woogie Flu"
-    },
-    {
-        "timestamp": "2026-08-12T13:34:30.643986",
-        "song": "Queen - You're My Best Friend"
     }
 ]
