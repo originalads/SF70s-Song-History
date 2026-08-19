@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-19T23:50:45.080955",
+        "song": "Dazz Band - Let It Whip"
+    },
+    {
         "timestamp": "2026-08-19T23:30:09.031798",
         "song": "Foundations - Build Me Up Buttercup"
     },
@@ -1118,9 +1122,5 @@
     {
         "timestamp": "2026-08-13T00:09:39.752762",
         "song": "Doobie Brothers - Take Me In Your Arms"
-    },
-    {
-        "timestamp": "2026-08-12T23:30:33.490300",
-        "song": "Brothers Johnson - Strawberry Letter 23"
     }
 ]
