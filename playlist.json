@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-19T21:27:13.460666",
+        "song": "Steely Dan - Do It Again"
+    },
+    {
         "timestamp": "2026-08-19T20:57:24.042163",
         "song": "Al Green - You Ought To Be With Me"
     },
@@ -1106,9 +1110,5 @@
     {
         "timestamp": "2026-08-12T22:01:09.831224",
         "song": "Bee Gees - Nights On Broadway"
-    },
-    {
-        "timestamp": "2026-08-12T21:09:42.258258",
-        "song": "Chic - I Want Your Love"
     }
 ]
