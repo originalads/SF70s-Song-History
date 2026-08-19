@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-19T01:25:07.858424",
+        "song": "Don McLean - Vincent"
+    },
+    {
         "timestamp": "2026-08-18T23:57:37.789946",
         "song": "America - A Horse With No Name"
     },
@@ -1034,9 +1038,5 @@
     {
         "timestamp": "2026-08-12T03:10:37.666714",
         "song": "Cheap Trick - Surrender"
-    },
-    {
-        "timestamp": "2026-08-12T00:40:46.845076",
-        "song": "Lynn Anderson - Rose Garden"
     }
 ]
