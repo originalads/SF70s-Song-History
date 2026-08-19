@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-19T16:48:45.542077",
+        "song": "Bee Gees - Stayin' Alive"
+    },
+    {
         "timestamp": "2026-08-19T16:14:27.769052",
         "song": "Elton John - Saturday Night's Alright For Fighting"
     },
@@ -1086,9 +1090,5 @@
     {
         "timestamp": "2026-08-12T17:33:43.186395",
         "song": "Boston - Don't Look Back"
-    },
-    {
-        "timestamp": "2026-08-12T16:32:02.046894",
-        "song": "Fleetwood Mac - Don't Stop"
     }
 ]
