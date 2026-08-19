@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-19T03:27:20.829776",
+        "song": "Earth, Wind & Fire - Getaway"
+    },
+    {
         "timestamp": "2026-08-19T02:37:08.300359",
         "song": "Eagles - Peaceful Easy Feeling"
     },
@@ -1038,9 +1042,5 @@
     {
         "timestamp": "2026-08-12T05:01:11.024090",
         "song": "Jefferson Starship - Jane"
-    },
-    {
-        "timestamp": "2026-08-12T03:10:37.666714",
-        "song": "Cheap Trick - Surrender"
     }
 ]
