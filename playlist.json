@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-19T14:51:27.025636",
+        "song": "John Lennon - Whatever Gets You Through The Night"
+    },
+    {
         "timestamp": "2026-08-19T14:09:03.682490",
         "song": "Frankie Valli - Swearin' To God"
     },
@@ -1078,9 +1082,5 @@
     {
         "timestamp": "2026-08-12T15:36:43.202530",
         "song": "Sweet - Ballroom Blitz"
-    },
-    {
-        "timestamp": "2026-08-12T14:40:00.396201",
-        "song": "Johnny Rivers - Rockin' Pneumonia...Boogie Woogie Flu"
     }
 ]
