@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T20:38:47.555677",
+        "song": "Toby Beau - My Angel Baby"
+    },
+    {
         "timestamp": "2026-08-20T20:01:49.968296",
         "song": "Steve Miller Band - Fly Like An Eagle"
     },
@@ -1178,9 +1182,5 @@
     {
         "timestamp": "2026-08-13T21:07:01.617857",
         "song": "Gerry Rafferty - Right Down The Line"
-    },
-    {
-        "timestamp": "2026-08-13T20:16:53.106247",
-        "song": "Dr. Hook - When You're In Love With A Beautiful Woman"
     }
 ]
