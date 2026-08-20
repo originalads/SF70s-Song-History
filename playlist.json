@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T22:32:41.709409",
+        "song": "Rex Smith - You Take My Breath Away"
+    },
+    {
         "timestamp": "2026-08-20T21:58:16.149165",
         "song": "Three Dog Night - Never Been To Spain"
     },
@@ -1186,9 +1190,5 @@
     {
         "timestamp": "2026-08-13T22:52:01.401336",
         "song": "Dr. Hook  - A Little Bit More"
-    },
-    {
-        "timestamp": "2026-08-13T21:59:01.745980",
-        "song": "Lynyrd Skynyrd - Sweet Home Alabama"
     }
 ]
