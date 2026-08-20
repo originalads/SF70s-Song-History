@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T11:11:42.166291",
+        "song": "Foreigner - Double Vision"
+    },
+    {
         "timestamp": "2026-08-20T10:47:00.955407",
         "song": "Gordon Lightfoot - Carefree Highway"
     },
@@ -1150,9 +1154,5 @@
     {
         "timestamp": "2026-08-13T11:56:57.358363",
         "song": "Foghat - Slow Ride"
-    },
-    {
-        "timestamp": "2026-08-13T11:08:25.053539",
-        "song": "Blue Oyster Cult - Don't Fear The Reaper"
     }
 ]
