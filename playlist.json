@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T23:29:29.387508",
+        "song": "Paul McCartney - Silly Love Songs"
+    },
+    {
         "timestamp": "2026-08-20T22:58:04.595350",
         "song": "Kiki Dee - I've Got The Music In Me"
     },
@@ -1186,9 +1190,5 @@
     {
         "timestamp": "2026-08-14T00:09:28.177358",
         "song": "McFadden & Whitehead - Ain't No Stoppin' Us Now"
-    },
-    {
-        "timestamp": "2026-08-13T23:29:22.230739",
-        "song": "Main Ingredient - Everybody Plays The Fool"
     }
 ]
