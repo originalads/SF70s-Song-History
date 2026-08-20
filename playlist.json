@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T12:02:17.608133",
+        "song": "Four Seasons - Who Loves You"
+    },
+    {
         "timestamp": "2026-08-20T11:42:40.035985",
         "song": "Tower of Power - You're Still A Young Man"
     },
@@ -1154,9 +1158,5 @@
     {
         "timestamp": "2026-08-13T13:14:03.553277",
         "song": "Rod Stewart - Reason To Believe"
-    },
-    {
-        "timestamp": "2026-08-13T11:56:57.358363",
-        "song": "Foghat - Slow Ride"
     }
 ]
