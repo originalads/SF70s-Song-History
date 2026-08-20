@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T06:01:39.001876",
+        "song": "Edison Lighthouse - Love Grows"
+    },
+    {
         "timestamp": "2026-08-20T05:38:40.944336",
         "song": "Steely Dan - Rikki Don't Lose That Number"
     },
@@ -1134,9 +1138,5 @@
     {
         "timestamp": "2026-08-13T07:46:34.555081",
         "song": "Foxy - Get Off"
-    },
-    {
-        "timestamp": "2026-08-13T06:01:30.586599",
-        "song": "Boz Scaggs - Lido Shuffle"
     }
 ]
