@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T17:52:03.259642",
+        "song": "Leo Sayer - How Much Love"
+    },
+    {
         "timestamp": "2026-08-20T17:21:36.324844",
         "song": "Alicia Bridges - I Love The Nightlife"
     },
@@ -1170,9 +1174,5 @@
     {
         "timestamp": "2026-08-13T18:30:15.819073",
         "song": "Santana - Black Magic Woman"
-    },
-    {
-        "timestamp": "2026-08-13T17:31:32.251487",
-        "song": "Badfinger - Day After Day"
     }
 ]
