@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T14:33:41.330998",
+        "song": "Andy Gibb - An Everlasting Love"
+    },
+    {
         "timestamp": "2026-08-20T13:55:45.620621",
         "song": "Sly & The Family Stone - Family Affair"
     },
@@ -1158,9 +1162,5 @@
     {
         "timestamp": "2026-08-13T15:33:01.864516",
         "song": "Bruce Springsteen - Hungry Heart"
-    },
-    {
-        "timestamp": "2026-08-13T14:33:04.783640",
-        "song": "Sister Sledge - We Are Family"
     }
 ]
