@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T15:46:30.449286",
+        "song": "Curtis Mayfield - Freddie's Dead"
+    },
+    {
         "timestamp": "2026-08-20T15:07:33.504914",
         "song": "Blackbyrds - Walking In Rhythm"
     },
@@ -1162,9 +1166,5 @@
     {
         "timestamp": "2026-08-13T16:29:08.269736",
         "song": "Mouth & MacNeal - How Do You Do"
-    },
-    {
-        "timestamp": "2026-08-13T15:33:01.864516",
-        "song": "Bruce Springsteen - Hungry Heart"
     }
 ]
