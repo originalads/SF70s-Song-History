@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T00:24:32.375931",
+        "song": "B.W. Stevenson - My Maria"
+    },
+    {
         "timestamp": "2026-08-19T23:50:45.080955",
         "song": "Dazz Band - Let It Whip"
     },
@@ -1118,9 +1122,5 @@
     {
         "timestamp": "2026-08-13T02:45:24.462337",
         "song": "Captain & Tennille - Lonely Night (Angel Face)"
-    },
-    {
-        "timestamp": "2026-08-13T00:09:39.752762",
-        "song": "Doobie Brothers - Take Me In Your Arms"
     }
 ]
