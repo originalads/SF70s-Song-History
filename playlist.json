@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T07:48:36.209767",
+        "song": "Marvin Gaye - What's Going On"
+    },
+    {
         "timestamp": "2026-08-20T06:59:45.954183",
         "song": "Barbra Streisand - The Way We Were"
     },
@@ -1138,9 +1142,5 @@
     {
         "timestamp": "2026-08-13T08:56:01.913110",
         "song": "Billy Joel - Piano Man"
-    },
-    {
-        "timestamp": "2026-08-13T07:46:34.555081",
-        "song": "Foxy - Get Off"
     }
 ]
