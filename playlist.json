@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T19:06:12.216787",
+        "song": "Babys - Every Time I Think Of You"
+    },
+    {
         "timestamp": "2026-08-20T18:20:49.735125",
         "song": "Gilbert O'Sullivan - Alone Again Naturally"
     },
@@ -1174,9 +1178,5 @@
     {
         "timestamp": "2026-08-13T19:36:53.344958",
         "song": "Creedence Clearwater Revival - Have You Ever Seen The Rain"
-    },
-    {
-        "timestamp": "2026-08-13T18:30:15.819073",
-        "song": "Santana - Black Magic Woman"
     }
 ]
