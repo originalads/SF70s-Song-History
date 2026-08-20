@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T16:53:48.283799",
+        "song": "Leon Russell - Tight Rope"
+    },
+    {
         "timestamp": "2026-08-20T16:15:29.369518",
         "song": "Sweet - Little Willy"
     },
@@ -1166,9 +1170,5 @@
     {
         "timestamp": "2026-08-13T17:31:32.251487",
         "song": "Badfinger - Day After Day"
-    },
-    {
-        "timestamp": "2026-08-13T16:29:08.269736",
-        "song": "Mouth & MacNeal - How Do You Do"
     }
 ]
