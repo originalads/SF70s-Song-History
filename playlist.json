@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-20T09:00:25.632495",
+        "song": "Rocky Burnette - Tired of Toein' the Line"
+    },
+    {
         "timestamp": "2026-08-20T08:19:28.368085",
         "song": "Crosby, Stills, Nash & Young - Teach Your Children"
     },
@@ -1142,9 +1146,5 @@
     {
         "timestamp": "2026-08-13T10:04:29.680763",
         "song": "Bee Gees - Tragedy"
-    },
-    {
-        "timestamp": "2026-08-13T08:56:01.913110",
-        "song": "Billy Joel - Piano Man"
     }
 ]
