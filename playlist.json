@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T17:46:37.852211",
+        "song": "Bobby Goldsboro - Summer (The First Time)"
+    },
+    {
         "timestamp": "2026-08-21T17:13:08.534657",
         "song": "Bachman-Turner Overdrive - Takin' Care Of Business"
     },
@@ -1234,9 +1238,5 @@
     {
         "timestamp": "2026-08-14T18:25:42.742882",
         "song": "Peter Brown - Dance With Me"
-    },
-    {
-        "timestamp": "2026-08-14T17:28:01.738786",
-        "song": "Earth, Wind & Fire - Getaway"
     }
 ]
