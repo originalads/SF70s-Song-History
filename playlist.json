@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T10:01:29.333484",
+        "song": "Rick Derringer - Rock And Roll Hoochie Koo"
+    },
+    {
         "timestamp": "2026-08-21T09:28:02.827385",
         "song": "Donna Summer - Heaven Knows"
     },
@@ -1214,9 +1218,5 @@
     {
         "timestamp": "2026-08-14T10:42:09.056756",
         "song": "Stevie Wonder - Boogie On Reggae Woman"
-    },
-    {
-        "timestamp": "2026-08-14T09:45:32.252163",
-        "song": "Olivia Newton-John - Magic"
     }
 ]
