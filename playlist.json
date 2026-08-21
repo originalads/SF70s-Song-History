@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T19:30:36.761432",
+        "song": "Spiral Staircase - More Today Than Yesterday"
+    },
+    {
         "timestamp": "2026-08-21T18:59:01.118649",
         "song": "Boz Scaggs - Lido Shuffle"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-14T20:03:52.998390",
         "song": "Ozark Mountain Daredevils - Jackie Blue"
-    },
-    {
-        "timestamp": "2026-08-14T19:28:07.747303",
-        "song": "Elton John - Lucy In The Sky With Diamonds"
     }
 ]
