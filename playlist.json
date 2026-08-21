@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T06:25:32.464969",
+        "song": "Barry White - You're The First, The Last, My Everything"
+    },
+    {
         "timestamp": "2026-08-21T05:52:15.372774",
         "song": "Kenny Loggins - Whenever I Call You Friend"
     },
@@ -1206,9 +1210,5 @@
     {
         "timestamp": "2026-08-14T07:43:15.947177",
         "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
-    },
-    {
-        "timestamp": "2026-08-14T06:00:13.265769",
-        "song": "Billy Preston - Will It Go Round In Circles"
     }
 ]
