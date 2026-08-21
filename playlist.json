@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T00:35:55.109415",
+        "song": "Aerosmith - Dream On"
+    },
+    {
         "timestamp": "2026-08-20T23:52:05.483899",
         "song": "Olivia Newton-John & Electric Light Orchestra - Xanadu"
     },
@@ -1190,9 +1194,5 @@
     {
         "timestamp": "2026-08-14T02:44:16.555683",
         "song": "Debby Boone - You Light Up My Life"
-    },
-    {
-        "timestamp": "2026-08-14T00:09:28.177358",
-        "song": "McFadden & Whitehead - Ain't No Stoppin' Us Now"
     }
 ]
