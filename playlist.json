@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T18:59:01.118649",
+        "song": "Boz Scaggs - Lido Shuffle"
+    },
+    {
         "timestamp": "2026-08-21T18:15:11.585409",
         "song": "Eagles - The Long Run"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-14T19:28:07.747303",
         "song": "Elton John - Lucy In The Sky With Diamonds"
-    },
-    {
-        "timestamp": "2026-08-14T18:25:42.742882",
-        "song": "Peter Brown - Dance With Me"
     }
 ]
