@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T21:30:20.784863",
+        "song": "Police - Roxanne"
+    },
+    {
         "timestamp": "2026-08-21T20:58:42.401101",
         "song": "Elton John - Sorry Seems To Be The Hardest Word"
     },
@@ -1246,9 +1250,5 @@
     {
         "timestamp": "2026-08-14T21:34:09.019880",
         "song": "The Who - Won't Get Fooled Again"
-    },
-    {
-        "timestamp": "2026-08-14T21:01:26.587395",
-        "song": "Emotions - Best of My Love"
     }
 ]
