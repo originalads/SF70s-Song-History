@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T08:03:23.642595",
+        "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
+    },
+    {
         "timestamp": "2026-08-21T07:22:56.700705",
         "song": "Billy Joel - Honesty"
     },
@@ -1210,9 +1214,5 @@
     {
         "timestamp": "2026-08-14T08:48:18.283708",
         "song": "Neil Diamond - Play Me"
-    },
-    {
-        "timestamp": "2026-08-14T07:43:15.947177",
-        "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
     }
 ]
