@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T23:31:24.553932",
+        "song": "Barry White - What Am I Gonna Do With You"
+    },
+    {
         "timestamp": "2026-08-21T23:00:43.058966",
         "song": "KC & The Sunshine Band - Keep It Comin' Love"
     },
@@ -1242,9 +1246,5 @@
     {
         "timestamp": "2026-08-14T23:50:20.720759",
         "song": "Sylvers - Boogie Fever"
-    },
-    {
-        "timestamp": "2026-08-14T23:29:28.835042",
-        "song": "Arlo Guthrie - City Of New Orleans"
     }
 ]
