@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T22:12:16.855089",
+        "song": "S.O.S. Band - Take Your Time (Do It Right)"
+    },
+    {
         "timestamp": "2026-08-21T21:52:28.456974",
         "song": "Journey - Wheel In The Sky"
     },
@@ -1246,9 +1250,5 @@
     {
         "timestamp": "2026-08-14T22:15:50.631250",
         "song": "Skylark - Wildflower"
-    },
-    {
-        "timestamp": "2026-08-14T21:54:10.378447",
-        "song": "Bee Gees - Stayin' Alive"
     }
 ]
