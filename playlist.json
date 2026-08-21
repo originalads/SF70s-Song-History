@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T23:00:43.058966",
+        "song": "KC & The Sunshine Band - Keep It Comin' Love"
+    },
+    {
         "timestamp": "2026-08-21T22:41:58.550685",
         "song": "Dave Loggins - Please Come To Boston"
     },
@@ -1242,13 +1246,5 @@
     {
         "timestamp": "2026-08-14T23:29:28.835042",
         "song": "Arlo Guthrie - City Of New Orleans"
-    },
-    {
-        "timestamp": "2026-08-14T23:00:41.349361",
-        "song": "America - Sister Golden Hair"
-    },
-    {
-        "timestamp": "2026-08-14T22:43:02.849020",
-        "song": "Ambrosia - Biggest Part Of Me"
     }
 ]
