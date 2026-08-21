@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T23:52:19.530746",
+        "song": "O'Jays - For The Love Of Money"
+    },
+    {
         "timestamp": "2026-08-21T23:31:24.553932",
         "song": "Barry White - What Am I Gonna Do With You"
     },
@@ -1242,9 +1246,5 @@
     {
         "timestamp": "2026-08-15T00:24:26.378020",
         "song": "Gordon Lightfoot - Carefree Highway"
-    },
-    {
-        "timestamp": "2026-08-14T23:50:20.720759",
-        "song": "Sylvers - Boogie Fever"
     }
 ]
