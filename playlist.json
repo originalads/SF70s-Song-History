@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T11:34:48.667410",
+        "song": "Dire Straits - Sultans Of Swing"
+    },
+    {
         "timestamp": "2026-08-21T11:02:06.730945",
         "song": "Billy Preston - Will It Go Round In Circles"
     },
@@ -1218,9 +1222,5 @@
     {
         "timestamp": "2026-08-14T12:10:54.424700",
         "song": "Michael Jackson - Off The Wall"
-    },
-    {
-        "timestamp": "2026-08-14T11:28:41.737227",
-        "song": "Sanford Townsend Band - Smoke From A Distant Fire"
     }
 ]
