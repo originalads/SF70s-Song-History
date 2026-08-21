@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T14:56:09.459294",
+        "song": "Eagles - Peaceful Easy Feeling"
+    },
+    {
         "timestamp": "2026-08-21T14:16:44.487225",
         "song": "Brook Benton - Rainy Night In Georgia"
     },
@@ -1226,9 +1230,5 @@
     {
         "timestamp": "2026-08-14T15:30:30.441574",
         "song": "Edison Lighthouse - Love Grows"
-    },
-    {
-        "timestamp": "2026-08-14T14:39:20.761197",
-        "song": "Little River Band - Help Is On It's Way"
     }
 ]
