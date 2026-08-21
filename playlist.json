@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-21T03:15:31.623049",
+        "song": "Dramatics - Whatcha See Is Whatcha Get"
+    },
+    {
         "timestamp": "2026-08-21T02:10:50.176080",
         "song": "King Floyd - Groove Me"
     },
@@ -1194,9 +1198,5 @@
     {
         "timestamp": "2026-08-14T04:29:44.155703",
         "song": "Donna Summer - Heaven Knows"
-    },
-    {
-        "timestamp": "2026-08-14T02:44:16.555683",
-        "song": "Debby Boone - You Light Up My Life"
     }
 ]
