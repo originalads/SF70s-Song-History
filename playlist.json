@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T16:48:19.921882",
+        "song": "Temptations - Papa Was a Rolling Stone"
+    },
+    {
         "timestamp": "2026-08-22T16:25:01.090841",
         "song": "ABBA - Super Trouper"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T17:00:17.385991",
         "song": "Tavares - More Than A Woman"
-    },
-    {
-        "timestamp": "2026-08-15T16:41:39.563794",
-        "song": "Dan Hartman - Instant Replay"
     }
 ]
