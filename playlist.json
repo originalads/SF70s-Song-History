@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T00:35:59.355628",
+        "song": "Peter Frampton - Show Me The Way"
+    },
+    {
         "timestamp": "2026-08-21T23:52:19.530746",
         "song": "O'Jays - For The Love Of Money"
     },
@@ -1242,9 +1246,5 @@
     {
         "timestamp": "2026-08-15T01:55:39.650610",
         "song": "Cher - Take Me Home"
-    },
-    {
-        "timestamp": "2026-08-15T00:24:26.378020",
-        "song": "Gordon Lightfoot - Carefree Highway"
     }
 ]
