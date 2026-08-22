@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T21:59:42.576551",
+        "song": "Santana - Black Magic Woman"
+    },
+    {
         "timestamp": "2026-08-22T21:44:58.108549",
         "song": "Nick Lowe - Cruel To Be Kind"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T22:06:42.561447",
         "song": "George Harrison - Blow Away"
-    },
-    {
-        "timestamp": "2026-08-15T21:51:28.788674",
-        "song": "KC & The Sunshine Band - Give It Up"
     }
 ]
