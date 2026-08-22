@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T19:11:29.965244",
+        "song": "Lynyrd Skynyrd - Whats Your Name"
+    },
+    {
         "timestamp": "2026-08-22T18:49:38.813597",
         "song": "KC & The Sunshine Band - I'm Your Boogie Man"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T19:28:04.953758",
         "song": "John Sebastian - Welcome Back"
-    },
-    {
-        "timestamp": "2026-08-15T19:01:38.588201",
-        "song": "Carl Carlton - Everlasting Love"
     }
 ]
