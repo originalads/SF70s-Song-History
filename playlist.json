@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T16:25:01.090841",
+        "song": "ABBA - Super Trouper"
+    },
+    {
         "timestamp": "2026-08-22T15:56:42.659456",
         "song": "Baby's - Isn't It Time"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T16:41:39.563794",
         "song": "Dan Hartman - Instant Replay"
-    },
-    {
-        "timestamp": "2026-08-15T16:11:59.917682",
-        "song": "Argent - Hold Your Head Up"
     }
 ]
