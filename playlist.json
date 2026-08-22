@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T19:34:39.371120",
+        "song": "Pretenders - Brass in Pocket"
+    },
+    {
         "timestamp": "2026-08-22T19:11:29.965244",
         "song": "Lynyrd Skynyrd - Whats Your Name"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T19:46:09.400606",
         "song": "Barbra Streisand - Main Event Fight"
-    },
-    {
-        "timestamp": "2026-08-15T19:28:04.953758",
-        "song": "John Sebastian - Welcome Back"
     }
 ]
