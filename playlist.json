@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T13:27:16.187976",
+        "song": "Lee Michaels - Do You Know What I Mean"
+    },
+    {
         "timestamp": "2026-08-22T12:54:39.431959",
         "song": "Foundations - Build Me Up Buttercup"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T13:47:13.836819",
         "song": "Lipps, Inc. - Funkytown"
-    },
-    {
-        "timestamp": "2026-08-15T13:19:52.552607",
-        "song": "GQ - I Do Love You"
     }
 ]
