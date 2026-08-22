@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T09:01:50.797134",
+        "song": "Elton John - Honky Cat"
+    },
+    {
         "timestamp": "2026-08-22T08:38:14.479675",
         "song": "Eagles - Best Of My Love"
     },
@@ -1238,13 +1242,5 @@
     {
         "timestamp": "2026-08-15T09:33:49.603683",
         "song": "Lynyrd Skynyrd - Free Bird"
-    },
-    {
-        "timestamp": "2026-08-15T09:00:36.248526",
-        "song": "Creedence Clearwater Revival - Proud Mary"
-    },
-    {
-        "timestamp": "2026-08-15T08:38:52.870169",
-        "song": "George Benson - Breezin'"
     }
 ]
