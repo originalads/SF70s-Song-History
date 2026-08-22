@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T22:50:58.473906",
+        "song": "Vanity Fair - Hitchin' A Ride"
+    },
+    {
         "timestamp": "2026-08-22T22:29:53.718965",
         "song": "Barry White - You're The First, The Last, My Everything"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T22:53:58.162095",
         "song": "Seals & Crofts - Get Closer"
-    },
-    {
-        "timestamp": "2026-08-15T22:34:36.954551",
-        "song": "Delegations - Oh Honey"
     }
 ]
