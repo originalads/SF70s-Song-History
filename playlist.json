@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T11:00:41.710843",
+        "song": "Elton John - Island Girl"
+    },
+    {
         "timestamp": "2026-08-22T10:44:00.612974",
         "song": "Five Stairsteps - Ooh Child"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T11:26:35.914156",
         "song": "Crosby, Stills, Nash & Young - Teach Your Children"
-    },
-    {
-        "timestamp": "2026-08-15T10:59:02.504318",
-        "song": "Kenny Rogers - The Gambler"
     }
 ]
