@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T05:47:47.023663",
+        "song": "Atlanta Rhythm Section - Imaginary Lover"
+    },
+    {
         "timestamp": "2026-08-22T05:19:58.907577",
         "song": "Al Green - Let's Stay Together"
     },
@@ -1242,9 +1246,5 @@
     {
         "timestamp": "2026-08-15T05:55:54.161239",
         "song": "First Class - Beach Baby"
-    },
-    {
-        "timestamp": "2026-08-15T05:34:06.555869",
-        "song": "Electric Light Orchestra - Shine A Little Love"
     }
 ]
