@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T08:38:14.479675",
+        "song": "Eagles - Best Of My Love"
+    },
+    {
         "timestamp": "2026-08-22T07:58:57.539985",
         "song": "Bachman-Turner Overdrive - You Ain't Seen Nothing Yet"
     },
@@ -1242,9 +1246,5 @@
     {
         "timestamp": "2026-08-15T08:38:52.870169",
         "song": "George Benson - Breezin'"
-    },
-    {
-        "timestamp": "2026-08-15T08:01:24.938682",
-        "song": "Linda Ronstadt - You're No Good"
     }
 ]
