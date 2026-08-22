@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T07:01:09.339033",
+        "song": "Paul McCartney - Jet"
+    },
+    {
         "timestamp": "2026-08-22T06:14:03.668515",
         "song": "Grand Funk - The Loco-Motion"
     },
@@ -1242,9 +1246,5 @@
     {
         "timestamp": "2026-08-15T07:10:52.686394",
         "song": "Guess Who - American Woman"
-    },
-    {
-        "timestamp": "2026-08-15T06:35:30.782993",
-        "song": "Moody Blues - Tuesday Afternoon"
     }
 ]
