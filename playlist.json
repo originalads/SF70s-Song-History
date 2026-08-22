@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T23:51:38.103553",
+        "song": "Pablo Cruise - Love Will Find a Way"
+    },
+    {
         "timestamp": "2026-08-22T23:32:49.266458",
         "song": "Eagles - Hotel California"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T23:52:50.181619",
         "song": "Elton John - The Bitch Is Back"
-    },
-    {
-        "timestamp": "2026-08-15T23:35:45.306436",
-        "song": "Doobie Brothers - Listen To The Music"
     }
 ]
