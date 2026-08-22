@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T03:03:08.394978",
+        "song": "Foreigner - Cold As Ice"
+    },
+    {
         "timestamp": "2026-08-22T02:03:18.032408",
         "song": "Joan Baez - The Night They Drove Old Dixie Down"
     },
@@ -1242,9 +1246,5 @@
     {
         "timestamp": "2026-08-15T03:25:38.206621",
         "song": "Climax Blues Band - Couldn't Get It Right"
-    },
-    {
-        "timestamp": "2026-08-15T02:49:31.989256",
-        "song": "Stevie Wonder - Master Blaster (Jammin')"
     }
 ]
