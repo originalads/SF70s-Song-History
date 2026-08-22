@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T07:58:57.539985",
+        "song": "Bachman-Turner Overdrive - You Ain't Seen Nothing Yet"
+    },
+    {
         "timestamp": "2026-08-22T07:38:11.230055",
         "song": "Neil Diamond & Barbra Streisand - You Don't Bring Me Flowers"
     },
@@ -1242,9 +1246,5 @@
     {
         "timestamp": "2026-08-15T08:01:24.938682",
         "song": "Linda Ronstadt - You're No Good"
-    },
-    {
-        "timestamp": "2026-08-15T07:43:53.521705",
-        "song": "Rhythm Heritage - Theme From S.W.A.T."
     }
 ]
