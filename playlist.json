@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T06:14:03.668515",
+        "song": "Grand Funk - The Loco-Motion"
+    },
+    {
         "timestamp": "2026-08-22T05:47:47.023663",
         "song": "Atlanta Rhythm Section - Imaginary Lover"
     },
@@ -1242,9 +1246,5 @@
     {
         "timestamp": "2026-08-15T06:35:30.782993",
         "song": "Moody Blues - Tuesday Afternoon"
-    },
-    {
-        "timestamp": "2026-08-15T05:55:54.161239",
-        "song": "First Class - Beach Baby"
     }
 ]
