@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T20:57:55.698238",
+        "song": "Chi-Lites - Have You Seen Her"
+    },
+    {
         "timestamp": "2026-08-22T20:37:58.204466",
         "song": "Doobie Brothers - China Grove"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T21:10:10.936803",
         "song": "Sister Sledge - We Are Family"
-    },
-    {
-        "timestamp": "2026-08-15T20:52:04.769551",
-        "song": "James Taylor - How Sweet It Is"
     }
 ]
