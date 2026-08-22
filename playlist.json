@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T07:38:11.230055",
+        "song": "Neil Diamond & Barbra Streisand - You Don't Bring Me Flowers"
+    },
+    {
         "timestamp": "2026-08-22T07:01:09.339033",
         "song": "Paul McCartney - Jet"
     },
@@ -1242,9 +1246,5 @@
     {
         "timestamp": "2026-08-15T07:43:53.521705",
         "song": "Rhythm Heritage - Theme From S.W.A.T."
-    },
-    {
-        "timestamp": "2026-08-15T07:10:52.686394",
-        "song": "Guess Who - American Woman"
     }
 ]
