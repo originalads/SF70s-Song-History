@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T17:32:48.381567",
+        "song": "Boston - More Than A Feeling"
+    },
+    {
         "timestamp": "2026-08-22T17:05:57.614695",
         "song": "Candi Staton - Young Hearts Run Free"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T17:47:10.396861",
         "song": "Malo - Suavecito"
-    },
-    {
-        "timestamp": "2026-08-15T17:27:40.568777",
-        "song": "Leif Garrett - I Was Made For Dancing"
     }
 ]
