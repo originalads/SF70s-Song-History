@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T11:28:50.359861",
+        "song": "Carole King - Jazzman"
+    },
+    {
         "timestamp": "2026-08-22T11:00:41.710843",
         "song": "Elton John - Island Girl"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T11:44:57.284266",
         "song": "Simon & Garfunkel - Bridge Over Troubled Water"
-    },
-    {
-        "timestamp": "2026-08-15T11:26:35.914156",
-        "song": "Crosby, Stills, Nash & Young - Teach Your Children"
     }
 ]
