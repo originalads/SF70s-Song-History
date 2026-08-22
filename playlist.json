@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T21:44:58.108549",
+        "song": "Nick Lowe - Cruel To Be Kind"
+    },
+    {
         "timestamp": "2026-08-22T21:25:19.716501",
         "song": "Friends of Distinction  - Love Or Let Me Be Lonely"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T21:51:28.788674",
         "song": "KC & The Sunshine Band - Give It Up"
-    },
-    {
-        "timestamp": "2026-08-15T21:33:39.192043",
-        "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
     }
 ]
