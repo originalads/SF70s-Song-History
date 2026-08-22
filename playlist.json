@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T23:32:49.266458",
+        "song": "Eagles - Hotel California"
+    },
+    {
         "timestamp": "2026-08-22T23:07:24.834469",
         "song": "Leo Sayer - How Much Love"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T23:35:45.306436",
         "song": "Doobie Brothers - Listen To The Music"
-    },
-    {
-        "timestamp": "2026-08-15T23:13:35.744779",
-        "song": "Love & Kisses - Thank God It's Friday"
     }
 ]
