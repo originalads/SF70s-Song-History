@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-22T14:37:41.702721",
+        "song": "Kenny Rogers - Ruby (Don't Take Your Love to Town)"
+    },
+    {
         "timestamp": "2026-08-22T14:11:24.881784",
         "song": "Thin Lizzy - The Boys Are Back In Town"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-15T14:52:58.968877",
         "song": "Whispers - And The Beat Goes On"
-    },
-    {
-        "timestamp": "2026-08-15T14:32:04.067732",
-        "song": "Jigsaw - Sky High"
     }
 ]
