@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T20:01:08.657911",
+        "song": "Creedence Clearwater Revival - Proud Mary"
+    },
+    {
         "timestamp": "2026-08-23T19:50:02.770179",
         "song": "Andrea True Connection - More More More"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T20:28:03.637285",
         "song": "Brothers Johnson - Strawberry Letter 23"
-    },
-    {
-        "timestamp": "2026-08-16T19:58:11.310946",
-        "song": "Rod Stewart - Reason To Believe"
     }
 ]
