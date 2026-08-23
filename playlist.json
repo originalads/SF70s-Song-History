@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T20:32:54.289486",
+        "song": "Bob Seger & The Silver Bullet Band - Still The Same"
+    },
+    {
         "timestamp": "2026-08-23T20:01:08.657911",
         "song": "Creedence Clearwater Revival - Proud Mary"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T20:49:02.523694",
         "song": "O'Jays - For The Love Of Money"
-    },
-    {
-        "timestamp": "2026-08-16T20:28:03.637285",
-        "song": "Brothers Johnson - Strawberry Letter 23"
     }
 ]
