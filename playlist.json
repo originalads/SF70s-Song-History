@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T07:05:11.012188",
+        "song": "Boz Scaggs - We Were Always Sweethearts"
+    },
+    {
         "timestamp": "2026-08-23T06:16:08.277317",
         "song": "Spinners - I'll Be Around"
     },
@@ -1234,9 +1238,5 @@
     {
         "timestamp": "2026-08-16T07:25:20.361451",
         "song": "Three Dog Night - Mama Told Me Not To Come"
-    },
-    {
-        "timestamp": "2026-08-16T06:54:17.289727",
-        "song": "Atlanta Rhythm Section - So Into You"
     }
 ]
