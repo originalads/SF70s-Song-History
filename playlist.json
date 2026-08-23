@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T13:05:19.528041",
+        "song": "Ringo Starr - Photograph"
+    },
+    {
         "timestamp": "2026-08-23T12:16:42.721904",
         "song": "Aerosmith - Dream On"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T13:38:46.548194",
         "song": "Barbra Streisand - Evergreen (Theme From A Star Is Born)"
-    },
-    {
-        "timestamp": "2026-08-16T13:02:56.619203",
-        "song": "Four Seasons - Who Loves You"
     }
 ]
