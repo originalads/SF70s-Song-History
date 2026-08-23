@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T23:26:13.646436",
+        "song": "Cher - Dark Lady"
+    },
+    {
         "timestamp": "2026-08-23T22:58:32.369969",
         "song": "Eagles - The Long Run"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T23:28:31.100575",
         "song": "Paul McCartney - Silly Love Songs"
-    },
-    {
-        "timestamp": "2026-08-16T23:01:27.029449",
-        "song": "Linda Ronstadt - When Will I Be Loved"
     }
 ]
