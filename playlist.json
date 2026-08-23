@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T04:03:19.378956",
+        "song": "Orleans - Dance With Me"
+    },
+    {
         "timestamp": "2026-08-23T03:14:30.433187",
         "song": "John Travolta & Olivia Newton-John - You're The One That I Want"
     },
@@ -1234,9 +1238,5 @@
     {
         "timestamp": "2026-08-16T04:43:20.216187",
         "song": "Staple Singers - Let's Do It Again"
-    },
-    {
-        "timestamp": "2026-08-16T03:59:48.383626",
-        "song": "Chic - I Want Your Love"
     }
 ]
