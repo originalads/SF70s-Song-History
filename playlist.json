@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T21:38:10.147509",
+        "song": "Carly Simon - You're So Vain"
+    },
+    {
         "timestamp": "2026-08-23T21:14:12.897613",
         "song": "Eric Clapton - After Midnight"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T21:47:46.588964",
         "song": "Rare Earth - Get Ready"
-    },
-    {
-        "timestamp": "2026-08-16T21:29:23.714817",
-        "song": "Bee Gees - Nights On Broadway"
     }
 ]
