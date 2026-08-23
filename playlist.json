@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T17:32:43.901259",
+        "song": "Guess Who - American Woman"
+    },
+    {
         "timestamp": "2026-08-23T17:09:03.071935",
         "song": "Tavares - Heaven Must Be Missing An Angel"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T17:45:49.644891",
         "song": "Sister Sledge - He's The Greatest Dancer"
-    },
-    {
-        "timestamp": "2026-08-16T17:26:59.336637",
-        "song": "Ringo Starr - It Don't Come Easy"
     }
 ]
