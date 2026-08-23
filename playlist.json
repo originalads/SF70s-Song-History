@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T08:02:18.226165",
+        "song": "Stevie Wonder - If You Really Love Me"
+    },
+    {
         "timestamp": "2026-08-23T07:43:17.690826",
         "song": "Bee Gees - Night Fever"
     },
@@ -1234,9 +1238,5 @@
     {
         "timestamp": "2026-08-16T08:19:42.391536",
         "song": "Bachman-Turner Overdrive - You Ain't Seen Nothing Yet"
-    },
-    {
-        "timestamp": "2026-08-16T07:53:39.481684",
-        "song": "Barry White - What Am I Gonna Do With You"
     }
 ]
