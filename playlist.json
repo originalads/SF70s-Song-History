@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T19:50:02.770179",
+        "song": "Andrea True Connection - More More More"
+    },
+    {
         "timestamp": "2026-08-23T19:32:58.218360",
         "song": "Paul Simon - Mother And Child Reunion"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T19:58:11.310946",
         "song": "Rod Stewart - Reason To Believe"
-    },
-    {
-        "timestamp": "2026-08-16T19:45:17.297261",
-        "song": "Grass Roots - Temptation Eyes"
     }
 ]
