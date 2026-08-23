@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T22:18:25.977498",
+        "song": "Steely Dan - Deacon Blues"
+    },
+    {
         "timestamp": "2026-08-23T21:55:28.650564",
         "song": "Three Dog Night - Mama Told Me Not To Come"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T22:29:42.670760",
         "song": "David Bowie - Fame"
-    },
-    {
-        "timestamp": "2026-08-16T21:59:50.926658",
-        "song": "Kenny Loggins - Whenever I Call You Friend"
     }
 ]
