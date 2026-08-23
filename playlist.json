@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T23:59:45.995955",
+        "song": "Fleetwood Mac - Go Your Own Way"
+    },
+    {
         "timestamp": "2026-08-23T23:45:25.934773",
         "song": "Supertramp - Take The Long Way Home"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T23:59:48.624140",
         "song": "Shocking Blue - Venus"
-    },
-    {
-        "timestamp": "2026-08-16T23:47:09.827773",
-        "song": "Stampeders - Sweet City Woman"
     }
 ]
