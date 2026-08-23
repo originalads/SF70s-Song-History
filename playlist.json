@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T00:31:48.982607",
+        "song": "Electric Light Orchestra - Don't Bring Me Down"
+    },
+    {
         "timestamp": "2026-08-22T23:51:38.103553",
         "song": "Pablo Cruise - Love Will Find a Way"
     },
@@ -1238,9 +1242,5 @@
     {
         "timestamp": "2026-08-16T00:42:54.062560",
         "song": "Eagles - Hotel California"
-    },
-    {
-        "timestamp": "2026-08-15T23:52:50.181619",
-        "song": "Elton John - The Bitch Is Back"
     }
 ]
