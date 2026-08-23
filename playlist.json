@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T07:43:17.690826",
+        "song": "Bee Gees - Night Fever"
+    },
+    {
         "timestamp": "2026-08-23T07:05:11.012188",
         "song": "Boz Scaggs - We Were Always Sweethearts"
     },
@@ -1234,9 +1238,5 @@
     {
         "timestamp": "2026-08-16T07:53:39.481684",
         "song": "Barry White - What Am I Gonna Do With You"
-    },
-    {
-        "timestamp": "2026-08-16T07:25:20.361451",
-        "song": "Three Dog Night - Mama Told Me Not To Come"
     }
 ]
