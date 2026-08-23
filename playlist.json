@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T21:55:28.650564",
+        "song": "Three Dog Night - Mama Told Me Not To Come"
+    },
+    {
         "timestamp": "2026-08-23T21:38:10.147509",
         "song": "Carly Simon - You're So Vain"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T21:59:50.926658",
         "song": "Kenny Loggins - Whenever I Call You Friend"
-    },
-    {
-        "timestamp": "2026-08-16T21:47:46.588964",
-        "song": "Rare Earth - Get Ready"
     }
 ]
