@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T20:53:49.952639",
+        "song": "Billy Joel - Movin' Out"
+    },
+    {
         "timestamp": "2026-08-23T20:32:54.289486",
         "song": "Bob Seger & The Silver Bullet Band - Still The Same"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T21:02:01.361508",
         "song": "Cher - Dark Lady"
-    },
-    {
-        "timestamp": "2026-08-16T20:49:02.523694",
-        "song": "O'Jays - For The Love Of Money"
     }
 ]
