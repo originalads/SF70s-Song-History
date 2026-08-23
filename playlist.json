@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T15:38:06.608753",
+        "song": "Rod Stewart - Hot Legs"
+    },
+    {
         "timestamp": "2026-08-23T15:13:11.869082",
         "song": "Kool & The Gang - Hollywood Swinging"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T15:51:40.860083",
         "song": "War - All Day Music"
-    },
-    {
-        "timestamp": "2026-08-16T15:32:11.080529",
-        "song": "Peter Frampton - Baby I Love Your Way"
     }
 ]
