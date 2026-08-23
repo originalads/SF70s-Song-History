@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T11:07:45.814542",
+        "song": "McFadden & Whitehead - Ain't No Stoppin' Us Now"
+    },
+    {
         "timestamp": "2026-08-23T10:48:57.440585",
         "song": "Undisputed Truth - Smiling Faces Sometimes"
     },
@@ -1234,9 +1238,5 @@
     {
         "timestamp": "2026-08-16T11:10:55.206831",
         "song": "Van Halen - Dance The Night Away"
-    },
-    {
-        "timestamp": "2026-08-16T10:52:38.544689",
-        "song": "Ringo Starr - Photograph"
     }
 ]
