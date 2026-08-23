@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T17:09:03.071935",
+        "song": "Tavares - Heaven Must Be Missing An Angel"
+    },
+    {
         "timestamp": "2026-08-23T16:48:43.765843",
         "song": "Lou Rawls - You'll Never Find Another Love Like Mine"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T17:26:59.336637",
         "song": "Ringo Starr - It Don't Come Easy"
-    },
-    {
-        "timestamp": "2026-08-16T17:00:14.956003",
-        "song": "Sanford Townsend Band - Smoke From A Distant Fire"
     }
 ]
