@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-23T21:14:12.897613",
+        "song": "Eric Clapton - After Midnight"
+    },
+    {
         "timestamp": "2026-08-23T20:53:49.952639",
         "song": "Billy Joel - Movin' Out"
     },
@@ -1230,9 +1234,5 @@
     {
         "timestamp": "2026-08-16T21:29:23.714817",
         "song": "Bee Gees - Nights On Broadway"
-    },
-    {
-        "timestamp": "2026-08-16T21:02:01.361508",
-        "song": "Cher - Dark Lady"
     }
 ]
