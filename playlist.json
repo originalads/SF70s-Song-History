@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T11:38:21.791751",
+        "song": "Pat Benatar - Heartbreaker"
+    },
+    {
         "timestamp": "2026-08-24T11:03:26.627652",
         "song": "Earth, Wind & Fire - Shining Star"
     },
@@ -1222,9 +1226,5 @@
     {
         "timestamp": "2026-08-17T11:41:41.587052",
         "song": "Peter Frampton - I'm In You"
-    },
-    {
-        "timestamp": "2026-08-17T11:12:09.316820",
-        "song": "Doobie Brothers - Jesus Is Just Alright With Me"
     }
 ]
