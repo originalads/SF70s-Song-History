@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T19:05:49.902802",
+        "song": "America - Sister Golden Hair"
+    },
+    {
         "timestamp": "2026-08-24T18:19:44.034250",
         "song": "Bee Gees - Love So Right"
     },
@@ -1206,9 +1210,5 @@
     {
         "timestamp": "2026-08-17T19:33:58.786876",
         "song": "Guess Who - American Woman"
-    },
-    {
-        "timestamp": "2026-08-17T18:59:25.685402",
-        "song": "Bee Gees - Fanny (Be Tender With My Love)"
     }
 ]
