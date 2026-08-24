@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T11:59:52.348192",
+        "song": "Trammps - Disco Inferno"
+    },
+    {
         "timestamp": "2026-08-24T11:38:21.791751",
         "song": "Pat Benatar - Heartbreaker"
     },
@@ -1218,13 +1222,5 @@
     {
         "timestamp": "2026-08-17T12:58:42.403678",
         "song": "James Taylor - Shower The People"
-    },
-    {
-        "timestamp": "2026-08-17T11:59:28.801850",
-        "song": "Neil Young - Heart Of Gold"
-    },
-    {
-        "timestamp": "2026-08-17T11:41:41.587052",
-        "song": "Peter Frampton - I'm In You"
     }
 ]
