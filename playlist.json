@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T21:04:34.843631",
+        "song": "Baby's - Isn't It Time"
+    },
+    {
         "timestamp": "2026-08-24T20:40:30.176985",
         "song": "Manhattans - Shining Star"
     },
@@ -1206,9 +1210,5 @@
     {
         "timestamp": "2026-08-17T21:11:37.845611",
         "song": "Curtis Mayfield - Freddie's Dead"
-    },
-    {
-        "timestamp": "2026-08-17T20:48:51.880956",
-        "song": "Foxy - Get Off"
     }
 ]
