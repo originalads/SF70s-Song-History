@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T10:30:33.620472",
+        "song": "Spinners - It's A Shame"
+    },
+    {
         "timestamp": "2026-08-24T09:53:55.129983",
         "song": "Malo - Suavecito"
     },
@@ -1222,9 +1226,5 @@
     {
         "timestamp": "2026-08-17T10:50:39.799558",
         "song": "Earth, Wind & Fire - Got To Get You Into My Life"
-    },
-    {
-        "timestamp": "2026-08-17T10:16:18.935154",
-        "song": "Stevie Wonder - Master Blaster (Jammin')"
     }
 ]
