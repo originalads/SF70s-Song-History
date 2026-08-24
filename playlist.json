@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T16:02:46.791555",
+        "song": "Chicago - Saturday In The Park"
+    },
+    {
         "timestamp": "2026-08-24T15:24:04.211749",
         "song": "France Joli - Come To Me"
     },
@@ -1210,13 +1214,5 @@
     {
         "timestamp": "2026-08-17T16:21:43.410031",
         "song": "Prince - I Wanna Be Your Lover"
-    },
-    {
-        "timestamp": "2026-08-17T15:54:50.528900",
-        "song": "Tony Orlando & Dawn - Tie A Yellow Ribbon Round The Ole Oak Tree"
-    },
-    {
-        "timestamp": "2026-08-17T15:34:40.737667",
-        "song": "Free - All Right Now"
     }
 ]
