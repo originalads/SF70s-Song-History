@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T17:51:28.418628",
+        "song": "Marvin Gaye - What's Going On"
+    },
+    {
         "timestamp": "2026-08-24T17:18:43.802416",
         "song": "Tony Orlando & Dawn - Knock Three Times"
     },
@@ -1206,9 +1210,5 @@
     {
         "timestamp": "2026-08-17T18:14:08.831471",
         "song": "Led Zeppelin - Stairway To Heaven"
-    },
-    {
-        "timestamp": "2026-08-17T17:46:13.839674",
-        "song": "Lobo - Me And You And A Dog Named Boo"
     }
 ]
