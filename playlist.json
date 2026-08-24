@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T14:47:42.969545",
+        "song": "Sylvers - Boogie Fever"
+    },
+    {
         "timestamp": "2026-08-24T13:58:10.753747",
         "song": "Chicago - 25 Or 6 To 4"
     },
@@ -1214,13 +1218,5 @@
     {
         "timestamp": "2026-08-17T15:03:56.385702",
         "song": "Boz Scaggs - What Can I Say"
-    },
-    {
-        "timestamp": "2026-08-17T14:44:04.307016",
-        "song": "Amazing Rhythm Aces - Third Rate Romance"
-    },
-    {
-        "timestamp": "2026-08-17T14:10:58.789953",
-        "song": "Heart - Magic Man"
     }
 ]
