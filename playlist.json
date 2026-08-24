@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T18:19:44.034250",
+        "song": "Bee Gees - Love So Right"
+    },
+    {
         "timestamp": "2026-08-24T17:51:28.418628",
         "song": "Marvin Gaye - What's Going On"
     },
@@ -1206,9 +1210,5 @@
     {
         "timestamp": "2026-08-17T18:59:25.685402",
         "song": "Bee Gees - Fanny (Be Tender With My Love)"
-    },
-    {
-        "timestamp": "2026-08-17T18:14:08.831471",
-        "song": "Led Zeppelin - Stairway To Heaven"
     }
 ]
