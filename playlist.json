@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T08:58:25.991046",
+        "song": "George Harrison - My Sweet Lord"
+    },
+    {
         "timestamp": "2026-08-24T08:02:08.284280",
         "song": "Steely Dan - Do It Again"
     },
@@ -1222,13 +1226,5 @@
     {
         "timestamp": "2026-08-17T09:46:55.801531",
         "song": "Boz Scaggs - It's Over"
-    },
-    {
-        "timestamp": "2026-08-17T08:57:55.224027",
-        "song": "Doobie Brothers - Long Train Runnin'"
-    },
-    {
-        "timestamp": "2026-08-17T08:07:50.232170",
-        "song": "Elton John - Honky Cat"
     }
 ]
