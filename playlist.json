@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T15:24:04.211749",
+        "song": "France Joli - Come To Me"
+    },
+    {
         "timestamp": "2026-08-24T14:47:42.969545",
         "song": "Sylvers - Boogie Fever"
     },
@@ -1214,9 +1218,5 @@
     {
         "timestamp": "2026-08-17T15:34:40.737667",
         "song": "Free - All Right Now"
-    },
-    {
-        "timestamp": "2026-08-17T15:03:56.385702",
-        "song": "Boz Scaggs - What Can I Say"
     }
 ]
