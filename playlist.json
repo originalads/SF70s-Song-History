@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T23:45:37.139719",
+        "song": "Heatwave - Boogie Nights"
+    },
+    {
         "timestamp": "2026-08-24T23:25:28.912869",
         "song": "Odyssey - Native New Yorker"
     },
@@ -1202,9 +1206,5 @@
     {
         "timestamp": "2026-08-17T23:57:23.294945",
         "song": "Kansas - Carry On Wayward Son"
-    },
-    {
-        "timestamp": "2026-08-17T23:40:22.988903",
-        "song": "Michael Johnson - Bluer Than Blue"
     }
 ]
