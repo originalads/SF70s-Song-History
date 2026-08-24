@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T01:50:08.838698",
+        "song": "Marilyn McCoo & Billy Davis Jr. - You Don't Have To Be A Star"
+    },
+    {
         "timestamp": "2026-08-23T23:59:45.995955",
         "song": "Fleetwood Mac - Go Your Own Way"
     },
@@ -1226,13 +1230,5 @@
     {
         "timestamp": "2026-08-17T02:47:40.041280",
         "song": "Carol Douglas - Doctor's Orders"
-    },
-    {
-        "timestamp": "2026-08-17T01:48:33.147775",
-        "song": "Whispers - It's A Love Thing"
-    },
-    {
-        "timestamp": "2026-08-16T23:59:48.624140",
-        "song": "Shocking Blue - Venus"
     }
 ]
