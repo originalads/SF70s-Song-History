@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T20:40:30.176985",
+        "song": "Manhattans - Shining Star"
+    },
+    {
         "timestamp": "2026-08-24T20:01:25.071582",
         "song": "Eddie Money - Two Tickets To Paradise"
     },
@@ -1206,9 +1210,5 @@
     {
         "timestamp": "2026-08-17T20:48:51.880956",
         "song": "Foxy - Get Off"
-    },
-    {
-        "timestamp": "2026-08-17T20:21:46.893918",
-        "song": "Seals & Crofts - We May Never Pass This Way Again"
     }
 ]
