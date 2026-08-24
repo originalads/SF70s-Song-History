@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T05:57:50.860211",
+        "song": "Carl Carlton - Everlasting Love"
+    },
+    {
         "timestamp": "2026-08-24T05:19:53.622634",
         "song": "Bobby Sherman - Easy Come, Easy Go"
     },
@@ -1226,9 +1230,5 @@
     {
         "timestamp": "2026-08-17T06:21:32.287276",
         "song": "S.O.S. Band - Take Your Time (Do It Right)"
-    },
-    {
-        "timestamp": "2026-08-17T05:45:56.521791",
-        "song": "Chicago - Just You N Me"
     }
 ]
