@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T21:39:14.600833",
+        "song": "John Denver - Thank God I'm A Country Boy"
+    },
+    {
         "timestamp": "2026-08-24T21:04:34.843631",
         "song": "Baby's - Isn't It Time"
     },
@@ -1206,9 +1210,5 @@
     {
         "timestamp": "2026-08-17T21:40:33.748343",
         "song": "Steely Dan - Hey 19"
-    },
-    {
-        "timestamp": "2026-08-17T21:11:37.845611",
-        "song": "Curtis Mayfield - Freddie's Dead"
     }
 ]
