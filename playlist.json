@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-24T20:01:25.071582",
+        "song": "Eddie Money - Two Tickets To Paradise"
+    },
+    {
         "timestamp": "2026-08-24T19:39:21.591470",
         "song": "Hall & Oates - Sara Smile"
     },
@@ -1206,9 +1210,5 @@
     {
         "timestamp": "2026-08-17T20:21:46.893918",
         "song": "Seals & Crofts - We May Never Pass This Way Again"
-    },
-    {
-        "timestamp": "2026-08-17T19:55:06.427317",
-        "song": "Bay City Rollers - Money Honey"
     }
 ]
