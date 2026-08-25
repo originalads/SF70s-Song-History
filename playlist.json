@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T19:51:33.839894",
+        "song": "George Harrison - Blow Away"
+    },
+    {
         "timestamp": "2026-08-25T19:22:03.266805",
         "song": "Tower of Power - You're Still A Young Man"
     },
@@ -1186,13 +1190,5 @@
     {
         "timestamp": "2026-08-18T20:07:18.487439",
         "song": "Con Funk Shun - Ffun"
-    },
-    {
-        "timestamp": "2026-08-18T19:49:53.288316",
-        "song": "KC & The Sunshine Band - I'm Your Boogie Man"
-    },
-    {
-        "timestamp": "2026-08-18T19:28:41.830445",
-        "song": "Steve Miller Band - Swingtown"
     }
 ]
