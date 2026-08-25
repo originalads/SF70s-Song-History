@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T19:22:03.266805",
+        "song": "Tower of Power - You're Still A Young Man"
+    },
+    {
         "timestamp": "2026-08-25T18:52:18.145010",
         "song": "John Lennon - Instant Karma"
     },
@@ -1190,9 +1194,5 @@
     {
         "timestamp": "2026-08-18T19:28:41.830445",
         "song": "Steve Miller Band - Swingtown"
-    },
-    {
-        "timestamp": "2026-08-18T18:57:06.725044",
-        "song": "Johnny Mathis & Deniece Williams - Too Much Too Little Too Late"
     }
 ]
