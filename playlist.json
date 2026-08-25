@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T13:15:55.666473",
+        "song": "Steely Dan - Josie"
+    },
+    {
         "timestamp": "2026-08-25T12:17:34.975432",
         "song": "Supertramp - Goodbye Stranger"
     },
@@ -1198,9 +1202,5 @@
     {
         "timestamp": "2026-08-18T13:28:17.172951",
         "song": "Seals & Crofts - Get Closer"
-    },
-    {
-        "timestamp": "2026-08-18T12:39:21.181103",
-        "song": "Atlanta Rhythm Section - So Into You"
     }
 ]
