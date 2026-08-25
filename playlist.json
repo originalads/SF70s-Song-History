@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T17:39:48.388621",
+        "song": "John Stewart - Gold"
+    },
+    {
         "timestamp": "2026-08-25T17:03:46.978966",
         "song": "Andy Gibb - I Just Want To Be Your Everything"
     },
@@ -1190,9 +1194,5 @@
     {
         "timestamp": "2026-08-18T17:45:28.139958",
         "song": "Lynn Anderson - Rose Garden"
-    },
-    {
-        "timestamp": "2026-08-18T17:13:59.818199",
-        "song": "Golden Earring - Radar Love"
     }
 ]
