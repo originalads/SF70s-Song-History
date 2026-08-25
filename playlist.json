@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T08:29:57.447387",
+        "song": "War - Why Can't We Be Friends"
+    },
+    {
         "timestamp": "2026-08-25T07:52:45.265906",
         "song": "Herb Alpert - Rise"
     },
@@ -1198,9 +1202,5 @@
     {
         "timestamp": "2026-08-18T08:58:15.387186",
         "song": "Queen - Somebody To Love"
-    },
-    {
-        "timestamp": "2026-08-18T08:20:36.999756",
-        "song": "Brick - Dazz"
     }
 ]
