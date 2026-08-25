@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T23:52:48.968515",
+        "song": "Olivia Newton-John - Magic"
+    },
+    {
         "timestamp": "2026-08-25T23:31:51.791193",
         "song": "Little River Band - Cool Change"
     },
@@ -1182,9 +1186,5 @@
     {
         "timestamp": "2026-08-18T23:57:37.789946",
         "song": "America - A Horse With No Name"
-    },
-    {
-        "timestamp": "2026-08-18T23:41:12.655250",
-        "song": "B.J. Thomas - Hooked On A Feeling"
     }
 ]
