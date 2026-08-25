@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T22:37:05.142702",
+        "song": "Rita Coolidge - Higher And Higher"
+    },
+    {
         "timestamp": "2026-08-25T22:01:33.699528",
         "song": "Billy Preston - Will It Go Round In Circles"
     },
@@ -1182,9 +1186,5 @@
     {
         "timestamp": "2026-08-18T22:55:45.341267",
         "song": "Osmonds - Down By The Lazy River"
-    },
-    {
-        "timestamp": "2026-08-18T22:34:05.230297",
-        "song": "Chicago - 25 Or 6 To 4"
     }
 ]
