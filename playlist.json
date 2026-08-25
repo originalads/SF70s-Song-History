@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T06:02:33.620817",
+        "song": "Emotions - Best of My Love"
+    },
+    {
         "timestamp": "2026-08-25T05:37:21.907156",
         "song": "Captain & Tennille - Love Will Keep Us Together"
     },
@@ -1202,9 +1206,5 @@
     {
         "timestamp": "2026-08-18T06:17:07.067025",
         "song": "Eagles - Hotel California"
-    },
-    {
-        "timestamp": "2026-08-18T05:47:32.207896",
-        "song": "Kenny Loggins - This Is It"
     }
 ]
