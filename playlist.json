@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T00:01:23.983918",
+        "song": "Boston - More Than A Feeling"
+    },
+    {
         "timestamp": "2026-08-24T23:45:37.139719",
         "song": "Heatwave - Boogie Nights"
     },
@@ -1202,9 +1206,5 @@
     {
         "timestamp": "2026-08-18T01:21:36.874159",
         "song": "Sly & The Family Stone - Family Affair"
-    },
-    {
-        "timestamp": "2026-08-17T23:57:23.294945",
-        "song": "Kansas - Carry On Wayward Son"
     }
 ]
