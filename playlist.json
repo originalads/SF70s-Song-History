@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T21:11:59.999261",
+        "song": "L.T.D. - (Every Time I Turn Around) Back in Love Again"
+    },
+    {
         "timestamp": "2026-08-25T20:47:38.276680",
         "song": "John Denver - Rocky Mountain High"
     },
@@ -1186,9 +1190,5 @@
     {
         "timestamp": "2026-08-18T21:26:38.572966",
         "song": "Rod Stewart - Maggie May"
-    },
-    {
-        "timestamp": "2026-08-18T20:57:13.387352",
-        "song": "Emotions - Best of My Love"
     }
 ]
