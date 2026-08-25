@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T11:19:06.486534",
+        "song": "Doobie Brothers - China Grove"
+    },
+    {
         "timestamp": "2026-08-25T10:53:25.476956",
         "song": "Eric Burdon & War - Spill The Wine"
     },
@@ -1198,9 +1202,5 @@
     {
         "timestamp": "2026-08-18T11:33:19.543253",
         "song": "Bill Withers - Use Me"
-    },
-    {
-        "timestamp": "2026-08-18T11:00:57.156100",
-        "song": "Elton John - Island Girl"
     }
 ]
