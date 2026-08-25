@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T12:17:34.975432",
+        "song": "Supertramp - Goodbye Stranger"
+    },
+    {
         "timestamp": "2026-08-25T11:48:57.469230",
         "song": "ABBA - The Name Of The Game"
     },
@@ -1198,9 +1202,5 @@
     {
         "timestamp": "2026-08-18T12:39:21.181103",
         "song": "Atlanta Rhythm Section - So Into You"
-    },
-    {
-        "timestamp": "2026-08-18T11:55:17.098989",
-        "song": "Barry Manilow - This One's For You"
     }
 ]
