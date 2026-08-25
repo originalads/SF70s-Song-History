@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T23:31:51.791193",
+        "song": "Little River Band - Cool Change"
+    },
+    {
         "timestamp": "2026-08-25T23:00:15.443678",
         "song": "Journey - Lovin' Touchin' Squeezin'"
     },
@@ -1182,9 +1186,5 @@
     {
         "timestamp": "2026-08-18T23:41:12.655250",
         "song": "B.J. Thomas - Hooked On A Feeling"
-    },
-    {
-        "timestamp": "2026-08-18T23:20:01.561696",
-        "song": "O'Jays - Darlin' Darlin' Baby"
     }
 ]
