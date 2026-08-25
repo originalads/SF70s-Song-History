@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T03:34:11.078782",
+        "song": "Rickie Lee Jones - Chuck E's In Love"
+    },
+    {
         "timestamp": "2026-08-25T02:45:24.455257",
         "song": "Chicago - Does Anybody Really Know What Time It Is"
     },
@@ -1202,9 +1206,5 @@
     {
         "timestamp": "2026-08-18T04:04:59.847217",
         "song": "Styx - Lady"
-    },
-    {
-        "timestamp": "2026-08-18T03:24:05.065127",
-        "song": "KC & The Sunshine Band - Give It Up"
     }
 ]
