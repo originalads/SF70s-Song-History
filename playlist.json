@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T09:09:53.443099",
+        "song": "Hues Corporation - Rock the Boat"
+    },
+    {
         "timestamp": "2026-08-25T08:29:57.447387",
         "song": "War - Why Can't We Be Friends"
     },
@@ -1198,9 +1202,5 @@
     {
         "timestamp": "2026-08-18T09:38:16.462287",
         "song": "Simon & Garfunkel - Cecilia"
-    },
-    {
-        "timestamp": "2026-08-18T08:58:15.387186",
-        "song": "Queen - Somebody To Love"
     }
 ]
