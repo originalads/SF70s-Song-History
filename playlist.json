@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T21:44:15.118080",
+        "song": "The Fuzz - I Love You For All Seasons"
+    },
+    {
         "timestamp": "2026-08-25T21:11:59.999261",
         "song": "L.T.D. - (Every Time I Turn Around) Back in Love Again"
     },
@@ -1186,9 +1190,5 @@
     {
         "timestamp": "2026-08-18T21:48:21.185026",
         "song": "Paul McCartney - Band On The Run"
-    },
-    {
-        "timestamp": "2026-08-18T21:26:38.572966",
-        "song": "Rod Stewart - Maggie May"
     }
 ]
