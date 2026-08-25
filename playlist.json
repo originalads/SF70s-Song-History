@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T07:52:45.265906",
+        "song": "Herb Alpert - Rise"
+    },
+    {
         "timestamp": "2026-08-25T07:02:46.065252",
         "song": "War - Cisco Kid"
     },
@@ -1198,13 +1202,5 @@
     {
         "timestamp": "2026-08-18T08:20:36.999756",
         "song": "Brick - Dazz"
-    },
-    {
-        "timestamp": "2026-08-18T07:51:45.159743",
-        "song": "Dramatics - In The Rain"
-    },
-    {
-        "timestamp": "2026-08-18T07:08:52.923486",
-        "song": "Alicia Bridges - I Love The Nightlife"
     }
 ]
