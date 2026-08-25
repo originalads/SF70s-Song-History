@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T20:47:38.276680",
+        "song": "John Denver - Rocky Mountain High"
+    },
+    {
         "timestamp": "2026-08-25T20:13:34.210823",
         "song": "Jacksons - Shake Your Body"
     },
@@ -1186,9 +1190,5 @@
     {
         "timestamp": "2026-08-18T20:57:13.387352",
         "song": "Emotions - Best of My Love"
-    },
-    {
-        "timestamp": "2026-08-18T20:37:07.335081",
-        "song": "Friends of Distinction  - Grazing In The Grass"
     }
 ]
