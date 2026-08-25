@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-25T05:37:21.907156",
+        "song": "Captain & Tennille - Love Will Keep Us Together"
+    },
+    {
         "timestamp": "2026-08-25T04:58:58.688394",
         "song": "Commodores - Brick House"
     },
@@ -1202,9 +1206,5 @@
     {
         "timestamp": "2026-08-18T05:47:32.207896",
         "song": "Kenny Loggins - This Is It"
-    },
-    {
-        "timestamp": "2026-08-18T05:15:07.263439",
-        "song": "The Cars - Bye Bye Love"
     }
 ]
