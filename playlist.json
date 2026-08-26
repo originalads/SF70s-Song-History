@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T14:12:49.622851",
+        "song": "Journey - Any Way You Want It"
+    },
+    {
         "timestamp": "2026-08-26T13:28:16.567739",
         "song": "Jackson Browne - Running On Empty"
     },
@@ -1166,13 +1170,5 @@
     {
         "timestamp": "2026-08-19T14:51:27.025636",
         "song": "John Lennon - Whatever Gets You Through The Night"
-    },
-    {
-        "timestamp": "2026-08-19T14:09:03.682490",
-        "song": "Frankie Valli - Swearin' To God"
-    },
-    {
-        "timestamp": "2026-08-19T13:33:30.845317",
-        "song": "Lynyrd Skynyrd - Whats Your Name"
     }
 ]
