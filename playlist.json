@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T04:09:39.404160",
+        "song": "Bay City Rollers - I Only Want To Be With You"
+    },
+    {
         "timestamp": "2026-08-26T03:26:34.712641",
         "song": "Suzi Quatro & Chris Norman - Stumblin' In"
     },
@@ -1178,13 +1182,5 @@
     {
         "timestamp": "2026-08-19T04:49:12.562541",
         "song": "Commodores - Too Hot Ta Trot"
-    },
-    {
-        "timestamp": "2026-08-19T04:08:06.135225",
-        "song": "Patrick Hernandez - Born To Be Alive"
-    },
-    {
-        "timestamp": "2026-08-19T03:27:20.829776",
-        "song": "Earth, Wind & Fire - Getaway"
     }
 ]
