@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T00:42:19.494598",
+        "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
+    },
+    {
         "timestamp": "2026-08-25T23:52:48.968515",
         "song": "Olivia Newton-John - Magic"
     },
@@ -1182,9 +1186,5 @@
     {
         "timestamp": "2026-08-19T01:25:07.858424",
         "song": "Don McLean - Vincent"
-    },
-    {
-        "timestamp": "2026-08-18T23:57:37.789946",
-        "song": "America - A Horse With No Name"
     }
 ]
