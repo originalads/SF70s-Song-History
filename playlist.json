@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T15:53:16.747899",
+        "song": "Chicago - Make Me Smile"
+    },
+    {
         "timestamp": "2026-08-26T14:12:49.622851",
         "song": "Journey - Any Way You Want It"
     },
@@ -1158,17 +1162,5 @@
     {
         "timestamp": "2026-08-19T16:14:27.769052",
         "song": "Elton John - Saturday Night's Alright For Fighting"
-    },
-    {
-        "timestamp": "2026-08-19T15:50:15.133559",
-        "song": "Joe Tex - I Gotcha"
-    },
-    {
-        "timestamp": "2026-08-19T15:17:41.693468",
-        "song": "Neil Diamond - Play Me"
-    },
-    {
-        "timestamp": "2026-08-19T14:51:27.025636",
-        "song": "John Lennon - Whatever Gets You Through The Night"
     }
 ]
