@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T02:13:47.860108",
+        "song": "Guess Who - American Woman"
+    },
+    {
         "timestamp": "2026-08-26T00:42:19.494598",
         "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
     },
@@ -1182,9 +1186,5 @@
     {
         "timestamp": "2026-08-19T02:37:08.300359",
         "song": "Eagles - Peaceful Easy Feeling"
-    },
-    {
-        "timestamp": "2026-08-19T01:25:07.858424",
-        "song": "Don McLean - Vincent"
     }
 ]
