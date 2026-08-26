@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T07:53:25.008991",
+        "song": "Cher - Dark Lady"
+    },
+    {
         "timestamp": "2026-08-26T07:01:47.984972",
         "song": "Manfred Mann's Earth Band - Blinded By The Light"
     },
@@ -1174,13 +1178,5 @@
     {
         "timestamp": "2026-08-19T08:25:56.479447",
         "song": "Tyrone Davis - Turn Back The Hands Of Time"
-    },
-    {
-        "timestamp": "2026-08-19T07:53:12.753712",
-        "song": "Al Green - Love and Happiness"
-    },
-    {
-        "timestamp": "2026-08-19T07:10:29.366961",
-        "song": "Police - Roxanne"
     }
 ]
