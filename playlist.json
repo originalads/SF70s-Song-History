@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T05:28:30.321874",
+        "song": "Fleetwood Mac - Go Your Own Way"
+    },
+    {
         "timestamp": "2026-08-26T04:54:19.765791",
         "song": "Steve Miller Band - Swingtown"
     },
@@ -1178,9 +1182,5 @@
     {
         "timestamp": "2026-08-19T05:49:51.416618",
         "song": "Tower Of Power - So Very Hard To Go"
-    },
-    {
-        "timestamp": "2026-08-19T05:16:34.393334",
-        "song": "Marvin Gaye - I Want You"
     }
 ]
