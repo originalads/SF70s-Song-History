@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T07:01:47.984972",
+        "song": "Manfred Mann's Earth Band - Blinded By The Light"
+    },
+    {
         "timestamp": "2026-08-26T06:00:54.715729",
         "song": "Eagles - One Of These Nights"
     },
@@ -1178,9 +1182,5 @@
     {
         "timestamp": "2026-08-19T07:10:29.366961",
         "song": "Police - Roxanne"
-    },
-    {
-        "timestamp": "2026-08-19T06:19:01.065195",
-        "song": "Anne Murray - You Needed Me"
     }
 ]
