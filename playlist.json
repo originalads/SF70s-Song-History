@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T11:14:30.494480",
+        "song": "Rare Earth - Get Ready"
+    },
+    {
         "timestamp": "2026-08-26T10:46:47.437357",
         "song": "Simon & Garfunkel - Bridge Over Troubled Water"
     },
@@ -1170,9 +1174,5 @@
     {
         "timestamp": "2026-08-19T11:35:54.116146",
         "song": "Arlo Guthrie - City Of New Orleans"
-    },
-    {
-        "timestamp": "2026-08-19T11:06:52.925750",
-        "song": "Barry White - You're The First, The Last, My Everything"
     }
 ]
