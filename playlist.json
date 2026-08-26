@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T10:46:47.437357",
+        "song": "Simon & Garfunkel - Bridge Over Troubled Water"
+    },
+    {
         "timestamp": "2026-08-26T10:03:08.276808",
         "song": "Bee Gees - Tragedy"
     },
@@ -1170,13 +1174,5 @@
     {
         "timestamp": "2026-08-19T11:06:52.925750",
         "song": "Barry White - You're The First, The Last, My Everything"
-    },
-    {
-        "timestamp": "2026-08-19T10:45:08.965632",
-        "song": "Vicki Lawrence - The Night The Lights Went Out In Georgia"
-    },
-    {
-        "timestamp": "2026-08-19T10:10:26.075967",
-        "song": "M - Pop Muzik"
     }
 ]
