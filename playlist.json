@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T03:26:34.712641",
+        "song": "Suzi Quatro & Chris Norman - Stumblin' In"
+    },
+    {
         "timestamp": "2026-08-26T02:13:47.860108",
         "song": "Guess Who - American Woman"
     },
@@ -1182,9 +1186,5 @@
     {
         "timestamp": "2026-08-19T03:27:20.829776",
         "song": "Earth, Wind & Fire - Getaway"
-    },
-    {
-        "timestamp": "2026-08-19T02:37:08.300359",
-        "song": "Eagles - Peaceful Easy Feeling"
     }
 ]
