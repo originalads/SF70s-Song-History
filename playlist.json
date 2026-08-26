@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T16:41:52.676417",
+        "song": "Elton John - Bennie And The Jets"
+    },
+    {
         "timestamp": "2026-08-26T15:53:16.747899",
         "song": "Chicago - Make Me Smile"
     },
@@ -1158,9 +1162,5 @@
     {
         "timestamp": "2026-08-19T16:48:45.542077",
         "song": "Bee Gees - Stayin' Alive"
-    },
-    {
-        "timestamp": "2026-08-19T16:14:27.769052",
-        "song": "Elton John - Saturday Night's Alright For Fighting"
     }
 ]
