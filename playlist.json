@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-26T04:54:19.765791",
+        "song": "Steve Miller Band - Swingtown"
+    },
+    {
         "timestamp": "2026-08-26T04:09:39.404160",
         "song": "Bay City Rollers - I Only Want To Be With You"
     },
@@ -1178,9 +1182,5 @@
     {
         "timestamp": "2026-08-19T05:16:34.393334",
         "song": "Marvin Gaye - I Want You"
-    },
-    {
-        "timestamp": "2026-08-19T04:49:12.562541",
-        "song": "Commodores - Too Hot Ta Trot"
     }
 ]
