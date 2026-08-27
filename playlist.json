@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-27T19:55:23.469393",
+        "song": "Barbra Streisand - Evergreen (Theme From A Star Is Born)"
+    },
+    {
         "timestamp": "2026-08-27T09:26:14.946914",
         "song": "Dobie Gray - Drift Away"
     },
@@ -990,77 +994,5 @@
     {
         "timestamp": "2026-08-20T20:01:49.968296",
         "song": "Steve Miller Band - Fly Like An Eagle"
-    },
-    {
-        "timestamp": "2026-08-20T19:40:42.028006",
-        "song": "Isley Brothers - Voyage To Atlantis"
-    },
-    {
-        "timestamp": "2026-08-20T19:06:12.216787",
-        "song": "Babys - Every Time I Think Of You"
-    },
-    {
-        "timestamp": "2026-08-20T18:20:49.735125",
-        "song": "Gilbert O'Sullivan - Alone Again Naturally"
-    },
-    {
-        "timestamp": "2026-08-20T17:52:03.259642",
-        "song": "Leo Sayer - How Much Love"
-    },
-    {
-        "timestamp": "2026-08-20T17:21:36.324844",
-        "song": "Alicia Bridges - I Love The Nightlife"
-    },
-    {
-        "timestamp": "2026-08-20T16:53:48.283799",
-        "song": "Leon Russell - Tight Rope"
-    },
-    {
-        "timestamp": "2026-08-20T16:15:29.369518",
-        "song": "Sweet - Little Willy"
-    },
-    {
-        "timestamp": "2026-08-20T15:46:30.449286",
-        "song": "Curtis Mayfield - Freddie's Dead"
-    },
-    {
-        "timestamp": "2026-08-20T15:07:33.504914",
-        "song": "Blackbyrds - Walking In Rhythm"
-    },
-    {
-        "timestamp": "2026-08-20T14:33:41.330998",
-        "song": "Andy Gibb - An Everlasting Love"
-    },
-    {
-        "timestamp": "2026-08-20T13:55:45.620621",
-        "song": "Sly & The Family Stone - Family Affair"
-    },
-    {
-        "timestamp": "2026-08-20T13:05:11.607361",
-        "song": "Steely Dan - Reeling In The Years"
-    },
-    {
-        "timestamp": "2026-08-20T12:02:17.608133",
-        "song": "Four Seasons - Who Loves You"
-    },
-    {
-        "timestamp": "2026-08-20T11:42:40.035985",
-        "song": "Tower of Power - You're Still A Young Man"
-    },
-    {
-        "timestamp": "2026-08-20T11:11:42.166291",
-        "song": "Foreigner - Double Vision"
-    },
-    {
-        "timestamp": "2026-08-20T10:47:00.955407",
-        "song": "Gordon Lightfoot - Carefree Highway"
-    },
-    {
-        "timestamp": "2026-08-20T10:11:45.722277",
-        "song": "Kool & The Gang - Jungle Boogie"
-    },
-    {
-        "timestamp": "2026-08-20T09:42:51.004365",
-        "song": "O'Jays - Back Stabbers"
     }
 ]
