@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-27T09:26:14.946914",
+        "song": "Dobie Gray - Drift Away"
+    },
+    {
         "timestamp": "2026-08-27T00:00:51.331127",
         "song": "Santana - Oye Como Va"
     },
@@ -1058,53 +1062,5 @@
     {
         "timestamp": "2026-08-20T09:42:51.004365",
         "song": "O'Jays - Back Stabbers"
-    },
-    {
-        "timestamp": "2026-08-20T09:00:25.632495",
-        "song": "Rocky Burnette - Tired of Toein' the Line"
-    },
-    {
-        "timestamp": "2026-08-20T08:19:28.368085",
-        "song": "Crosby, Stills, Nash & Young - Teach Your Children"
-    },
-    {
-        "timestamp": "2026-08-20T07:48:36.209767",
-        "song": "Marvin Gaye - What's Going On"
-    },
-    {
-        "timestamp": "2026-08-20T06:59:45.954183",
-        "song": "Barbra Streisand - The Way We Were"
-    },
-    {
-        "timestamp": "2026-08-20T06:01:39.001876",
-        "song": "Edison Lighthouse - Love Grows"
-    },
-    {
-        "timestamp": "2026-08-20T05:38:40.944336",
-        "song": "Steely Dan - Rikki Don't Lose That Number"
-    },
-    {
-        "timestamp": "2026-08-20T05:01:03.307508",
-        "song": "O'Jays - Love Train"
-    },
-    {
-        "timestamp": "2026-08-20T04:23:11.311108",
-        "song": "Styx - Babe"
-    },
-    {
-        "timestamp": "2026-08-20T03:51:35.242507",
-        "song": "Chic - I Want Your Love"
-    },
-    {
-        "timestamp": "2026-08-20T02:58:47.247077",
-        "song": "Santana - Oye Como Va"
-    },
-    {
-        "timestamp": "2026-08-20T01:57:26.341033",
-        "song": "Heart - Magic Man"
-    },
-    {
-        "timestamp": "2026-08-20T00:24:32.375931",
-        "song": "B.W. Stevenson - My Maria"
     }
 ]
