@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-28T16:32:12.364112",
+        "song": ""
+    },
+    {
         "timestamp": "2026-08-27T19:55:23.469393",
         "song": "Barbra Streisand - Evergreen (Theme From A Star Is Born)"
     },
@@ -866,85 +870,5 @@
     {
         "timestamp": "2026-08-21T16:44:41.972161",
         "song": "Stephanie Mills - Never Knew Love Like This Before"
-    },
-    {
-        "timestamp": "2026-08-21T16:01:01.337317",
-        "song": "Bob Welch - Ebony Eyes"
-    },
-    {
-        "timestamp": "2026-08-21T15:32:00.337585",
-        "song": "Doobie Brothers - Listen To The Music"
-    },
-    {
-        "timestamp": "2026-08-21T14:56:09.459294",
-        "song": "Eagles - Peaceful Easy Feeling"
-    },
-    {
-        "timestamp": "2026-08-21T14:16:44.487225",
-        "song": "Brook Benton - Rainy Night In Georgia"
-    },
-    {
-        "timestamp": "2026-08-21T13:36:28.467654",
-        "song": "England Dan & John Ford Coley - I'd Really Love To See You Tonight"
-    },
-    {
-        "timestamp": "2026-08-21T12:52:21.000496",
-        "song": "Con Funk Shun - Ffun"
-    },
-    {
-        "timestamp": "2026-08-21T11:57:15.417863",
-        "song": "David Bowie - Fame"
-    },
-    {
-        "timestamp": "2026-08-21T11:34:48.667410",
-        "song": "Dire Straits - Sultans Of Swing"
-    },
-    {
-        "timestamp": "2026-08-21T11:02:06.730945",
-        "song": "Billy Preston - Will It Go Round In Circles"
-    },
-    {
-        "timestamp": "2026-08-21T10:38:48.877304",
-        "song": "Jackson 5 - I'll Be There"
-    },
-    {
-        "timestamp": "2026-08-21T10:01:29.333484",
-        "song": "Rick Derringer - Rock And Roll Hoochie Koo"
-    },
-    {
-        "timestamp": "2026-08-21T09:28:02.827385",
-        "song": "Donna Summer - Heaven Knows"
-    },
-    {
-        "timestamp": "2026-08-21T08:53:27.438259",
-        "song": "Love & Kisses - Thank God It's Friday"
-    },
-    {
-        "timestamp": "2026-08-21T08:03:23.642595",
-        "song": "Elton John & Kiki Dee - Don't Go Breaking My Heart"
-    },
-    {
-        "timestamp": "2026-08-21T07:22:56.700705",
-        "song": "Billy Joel - Honesty"
-    },
-    {
-        "timestamp": "2026-08-21T06:25:32.464969",
-        "song": "Barry White - You're The First, The Last, My Everything"
-    },
-    {
-        "timestamp": "2026-08-21T05:52:15.372774",
-        "song": "Kenny Loggins - Whenever I Call You Friend"
-    },
-    {
-        "timestamp": "2026-08-21T05:19:34.699222",
-        "song": "Queen - Somebody To Love"
-    },
-    {
-        "timestamp": "2026-08-21T04:50:06.817797",
-        "song": "Rod Stewart - Hot Legs"
-    },
-    {
-        "timestamp": "2026-08-21T04:04:15.041163",
-        "song": "Osmonds - Down By The Lazy River"
     }
 ]
