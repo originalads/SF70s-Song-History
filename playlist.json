@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-29T21:59:48.174535",
+        "song": "Brook Benton - Rainy Night In Georgia"
+    },
+    {
         "timestamp": "2026-08-29T19:45:09.140599",
         "song": "Aretha Franklin - Day Dreaming"
     },
@@ -618,33 +622,5 @@
     {
         "timestamp": "2026-08-22T22:29:53.718965",
         "song": "Barry White - You're The First, The Last, My Everything"
-    },
-    {
-        "timestamp": "2026-08-22T21:59:42.576551",
-        "song": "Santana - Black Magic Woman"
-    },
-    {
-        "timestamp": "2026-08-22T21:44:58.108549",
-        "song": "Nick Lowe - Cruel To Be Kind"
-    },
-    {
-        "timestamp": "2026-08-22T21:25:19.716501",
-        "song": "Friends of Distinction  - Love Or Let Me Be Lonely"
-    },
-    {
-        "timestamp": "2026-08-22T20:57:55.698238",
-        "song": "Chi-Lites - Have You Seen Her"
-    },
-    {
-        "timestamp": "2026-08-22T20:37:58.204466",
-        "song": "Doobie Brothers - China Grove"
-    },
-    {
-        "timestamp": "2026-08-22T20:09:49.455432",
-        "song": "Whispers - And The Beat Goes On"
-    },
-    {
-        "timestamp": "2026-08-22T19:51:59.331047",
-        "song": "Jaggerz - The Rapper"
     }
 ]
