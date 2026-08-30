@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-30T10:31:43.195192",
+        "song": "Con Funk Shun - Ffun"
+    },
+    {
         "timestamp": "2026-08-30T05:18:26.311494",
         "song": "Brothers Johnson - I'll Be Good To You"
     },
@@ -546,45 +550,5 @@
     {
         "timestamp": "2026-08-23T10:48:57.440585",
         "song": "Undisputed Truth - Smiling Faces Sometimes"
-    },
-    {
-        "timestamp": "2026-08-23T10:25:13.661111",
-        "song": "Abba - Dancing Queen"
-    },
-    {
-        "timestamp": "2026-08-23T09:56:57.125220",
-        "song": "Bad Company - Feel Like Makin' Love"
-    },
-    {
-        "timestamp": "2026-08-23T09:37:19.486008",
-        "song": "Steve Miller Band - Swingtown"
-    },
-    {
-        "timestamp": "2026-08-23T09:03:42.842052",
-        "song": "Linda Ronstadt - Just One Look"
-    },
-    {
-        "timestamp": "2026-08-23T08:41:49.581751",
-        "song": "Don McLean - Vincent"
-    },
-    {
-        "timestamp": "2026-08-23T08:02:18.226165",
-        "song": "Stevie Wonder - If You Really Love Me"
-    },
-    {
-        "timestamp": "2026-08-23T07:43:17.690826",
-        "song": "Bee Gees - Night Fever"
-    },
-    {
-        "timestamp": "2026-08-23T07:05:11.012188",
-        "song": "Boz Scaggs - We Were Always Sweethearts"
-    },
-    {
-        "timestamp": "2026-08-23T06:16:08.277317",
-        "song": "Spinners - I'll Be Around"
-    },
-    {
-        "timestamp": "2026-08-23T05:47:51.973575",
-        "song": "Michael Johnson - This Night Won't Last Forever"
     }
 ]
