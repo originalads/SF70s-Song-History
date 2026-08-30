@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-30T21:23:55.599177",
+        "song": "Chic - Good Times"
+    },
+    {
         "timestamp": "2026-08-30T18:27:36.335465",
         "song": "Sister Sledge - He's The Greatest Dancer"
     },
@@ -450,37 +454,5 @@
     {
         "timestamp": "2026-08-23T21:38:10.147509",
         "song": "Carly Simon - You're So Vain"
-    },
-    {
-        "timestamp": "2026-08-23T21:14:12.897613",
-        "song": "Eric Clapton - After Midnight"
-    },
-    {
-        "timestamp": "2026-08-23T20:53:49.952639",
-        "song": "Billy Joel - Movin' Out"
-    },
-    {
-        "timestamp": "2026-08-23T20:32:54.289486",
-        "song": "Bob Seger & The Silver Bullet Band - Still The Same"
-    },
-    {
-        "timestamp": "2026-08-23T20:01:08.657911",
-        "song": "Creedence Clearwater Revival - Proud Mary"
-    },
-    {
-        "timestamp": "2026-08-23T19:50:02.770179",
-        "song": "Andrea True Connection - More More More"
-    },
-    {
-        "timestamp": "2026-08-23T19:32:58.218360",
-        "song": "Paul Simon - Mother And Child Reunion"
-    },
-    {
-        "timestamp": "2026-08-23T19:09:46.443154",
-        "song": "Donna Summer - Hot Stuff"
-    },
-    {
-        "timestamp": "2026-08-23T18:47:06.723918",
-        "song": "Harry Chapin - Cat's In The Cradle"
     }
 ]
