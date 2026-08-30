@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-30T18:27:36.335465",
+        "song": "Sister Sledge - He's The Greatest Dancer"
+    },
+    {
         "timestamp": "2026-08-30T14:56:44.595454",
         "song": "Gloria Gaynor - I Will Survive"
     },
@@ -478,41 +482,5 @@
     {
         "timestamp": "2026-08-23T18:47:06.723918",
         "song": "Harry Chapin - Cat's In The Cradle"
-    },
-    {
-        "timestamp": "2026-08-23T18:09:48.585570",
-        "song": "Bee Gees - Love You Inside Out"
-    },
-    {
-        "timestamp": "2026-08-23T17:51:21.705379",
-        "song": "Paul Simon - Slip Slidin' Away"
-    },
-    {
-        "timestamp": "2026-08-23T17:32:43.901259",
-        "song": "Guess Who - American Woman"
-    },
-    {
-        "timestamp": "2026-08-23T17:09:03.071935",
-        "song": "Tavares - Heaven Must Be Missing An Angel"
-    },
-    {
-        "timestamp": "2026-08-23T16:48:43.765843",
-        "song": "Lou Rawls - You'll Never Find Another Love Like Mine"
-    },
-    {
-        "timestamp": "2026-08-23T16:23:33.226028",
-        "song": "L.T.D. - (Every Time I Turn Around) Back in Love Again"
-    },
-    {
-        "timestamp": "2026-08-23T15:55:55.859523",
-        "song": "Tom Jones - She's A Lady"
-    },
-    {
-        "timestamp": "2026-08-23T15:38:06.608753",
-        "song": "Rod Stewart - Hot Legs"
-    },
-    {
-        "timestamp": "2026-08-23T15:13:11.869082",
-        "song": "Kool & The Gang - Hollywood Swinging"
     }
 ]
