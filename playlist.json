@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-30T00:06:09.372679",
+        "song": "Donna Summer - Dim All The Lights"
+    },
+    {
         "timestamp": "2026-08-29T21:59:48.174535",
         "song": "Brook Benton - Rainy Night In Georgia"
     },
@@ -602,25 +606,5 @@
     {
         "timestamp": "2026-08-23T00:31:48.982607",
         "song": "Electric Light Orchestra - Don't Bring Me Down"
-    },
-    {
-        "timestamp": "2026-08-22T23:51:38.103553",
-        "song": "Pablo Cruise - Love Will Find a Way"
-    },
-    {
-        "timestamp": "2026-08-22T23:32:49.266458",
-        "song": "Eagles - Hotel California"
-    },
-    {
-        "timestamp": "2026-08-22T23:07:24.834469",
-        "song": "Leo Sayer - How Much Love"
-    },
-    {
-        "timestamp": "2026-08-22T22:50:58.473906",
-        "song": "Vanity Fair - Hitchin' A Ride"
-    },
-    {
-        "timestamp": "2026-08-22T22:29:53.718965",
-        "song": "Barry White - You're The First, The Last, My Everything"
     }
 ]
