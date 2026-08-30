@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-30T14:56:44.595454",
+        "song": "Gloria Gaynor - I Will Survive"
+    },
+    {
         "timestamp": "2026-08-30T10:31:43.195192",
         "song": "Con Funk Shun - Ffun"
     },
@@ -510,45 +514,5 @@
     {
         "timestamp": "2026-08-23T15:13:11.869082",
         "song": "Kool & The Gang - Hollywood Swinging"
-    },
-    {
-        "timestamp": "2026-08-23T14:53:07.651065",
-        "song": "Dolly Parton - Here You Come Again"
-    },
-    {
-        "timestamp": "2026-08-23T14:31:07.982517",
-        "song": "Boz Scaggs - Lowdown"
-    },
-    {
-        "timestamp": "2026-08-23T13:59:38.672188",
-        "song": "Spiral Staircase - More Today Than Yesterday"
-    },
-    {
-        "timestamp": "2026-08-23T13:41:19.013463",
-        "song": "Bloodstone - Natural High"
-    },
-    {
-        "timestamp": "2026-08-23T13:05:19.528041",
-        "song": "Ringo Starr - Photograph"
-    },
-    {
-        "timestamp": "2026-08-23T12:16:42.721904",
-        "song": "Aerosmith - Dream On"
-    },
-    {
-        "timestamp": "2026-08-23T11:52:08.142451",
-        "song": "Cat Stevens - Moonshadow"
-    },
-    {
-        "timestamp": "2026-08-23T11:32:56.905694",
-        "song": "Kansas - Carry On Wayward Son"
-    },
-    {
-        "timestamp": "2026-08-23T11:07:45.814542",
-        "song": "McFadden & Whitehead - Ain't No Stoppin' Us Now"
-    },
-    {
-        "timestamp": "2026-08-23T10:48:57.440585",
-        "song": "Undisputed Truth - Smiling Faces Sometimes"
     }
 ]
