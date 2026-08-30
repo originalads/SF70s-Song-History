@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-30T05:18:26.311494",
+        "song": "Brothers Johnson - I'll Be Good To You"
+    },
+    {
         "timestamp": "2026-08-30T00:06:09.372679",
         "song": "Donna Summer - Dim All The Lights"
     },
@@ -582,29 +586,5 @@
     {
         "timestamp": "2026-08-23T05:47:51.973575",
         "song": "Michael Johnson - This Night Won't Last Forever"
-    },
-    {
-        "timestamp": "2026-08-23T05:15:32.405615",
-        "song": "Chicago - Call On Me"
-    },
-    {
-        "timestamp": "2026-08-23T04:48:03.005383",
-        "song": "O'Jays - Darlin' Darlin' Baby"
-    },
-    {
-        "timestamp": "2026-08-23T04:03:19.378956",
-        "song": "Orleans - Dance With Me"
-    },
-    {
-        "timestamp": "2026-08-23T03:14:30.433187",
-        "song": "John Travolta & Olivia Newton-John - You're The One That I Want"
-    },
-    {
-        "timestamp": "2026-08-23T02:10:35.073279",
-        "song": "Eagles - Life In The Fast Lane"
-    },
-    {
-        "timestamp": "2026-08-23T00:31:48.982607",
-        "song": "Electric Light Orchestra - Don't Bring Me Down"
     }
 ]
