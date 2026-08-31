@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-31T07:37:00.027103",
+        "song": "Bobby Goldsboro - Summer (The First Time)"
+    },
+    {
         "timestamp": "2026-08-31T01:36:40.408322",
         "song": "Stephanie Mills - Never Knew Love Like This Before"
     },
@@ -402,33 +406,5 @@
     {
         "timestamp": "2026-08-24T08:02:08.284280",
         "song": "Steely Dan - Do It Again"
-    },
-    {
-        "timestamp": "2026-08-24T07:05:38.428499",
-        "song": "Partridge Family - I Think I Love You"
-    },
-    {
-        "timestamp": "2026-08-24T05:57:50.860211",
-        "song": "Carl Carlton - Everlasting Love"
-    },
-    {
-        "timestamp": "2026-08-24T05:19:53.622634",
-        "song": "Bobby Sherman - Easy Come, Easy Go"
-    },
-    {
-        "timestamp": "2026-08-24T04:29:12.425107",
-        "song": "Skylark - Wildflower"
-    },
-    {
-        "timestamp": "2026-08-24T03:42:18.658811",
-        "song": "Van Morrison - Wild Night"
-    },
-    {
-        "timestamp": "2026-08-24T02:51:55.350087",
-        "song": "Neil Sedaka - Breaking Up Is Hard To Do (1975)"
-    },
-    {
-        "timestamp": "2026-08-24T01:50:08.838698",
-        "song": "Marilyn McCoo & Billy Davis Jr. - You Don't Have To Be A Star"
     }
 ]
