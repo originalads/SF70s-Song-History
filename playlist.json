@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-31T20:56:42.222078",
+        "song": "Gloria Gaynor - Never Can Say Goodbye"
+    },
+    {
         "timestamp": "2026-08-31T15:30:02.537402",
         "song": "Allman Brothers - Ramblin' Man"
     },
@@ -330,41 +334,5 @@
     {
         "timestamp": "2026-08-24T21:04:34.843631",
         "song": "Baby's - Isn't It Time"
-    },
-    {
-        "timestamp": "2026-08-24T20:40:30.176985",
-        "song": "Manhattans - Shining Star"
-    },
-    {
-        "timestamp": "2026-08-24T20:01:25.071582",
-        "song": "Eddie Money - Two Tickets To Paradise"
-    },
-    {
-        "timestamp": "2026-08-24T19:39:21.591470",
-        "song": "Hall & Oates - Sara Smile"
-    },
-    {
-        "timestamp": "2026-08-24T19:05:49.902802",
-        "song": "America - Sister Golden Hair"
-    },
-    {
-        "timestamp": "2026-08-24T18:19:44.034250",
-        "song": "Bee Gees - Love So Right"
-    },
-    {
-        "timestamp": "2026-08-24T17:51:28.418628",
-        "song": "Marvin Gaye - What's Going On"
-    },
-    {
-        "timestamp": "2026-08-24T17:18:43.802416",
-        "song": "Tony Orlando & Dawn - Knock Three Times"
-    },
-    {
-        "timestamp": "2026-08-24T16:50:00.828006",
-        "song": "Fleetwood Mac - Over My Head"
-    },
-    {
-        "timestamp": "2026-08-24T16:02:46.791555",
-        "song": "Chicago - Saturday In The Park"
     }
 ]
