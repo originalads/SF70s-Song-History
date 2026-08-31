@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-08-31T01:36:40.408322",
+        "song": "Stephanie Mills - Never Knew Love Like This Before"
+    },
+    {
         "timestamp": "2026-08-30T23:40:02.724457",
         "song": "Billy Paul - Me And Mrs. Jones"
     },
@@ -426,13 +430,5 @@
     {
         "timestamp": "2026-08-24T01:50:08.838698",
         "song": "Marilyn McCoo & Billy Davis Jr. - You Don't Have To Be A Star"
-    },
-    {
-        "timestamp": "2026-08-23T23:59:45.995955",
-        "song": "Fleetwood Mac - Go Your Own Way"
-    },
-    {
-        "timestamp": "2026-08-23T23:45:25.934773",
-        "song": "Supertramp - Take The Long Way Home"
     }
 ]
