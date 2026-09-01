@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-01T00:25:11.934360",
+        "song": "Jacksons - Shake Your Body"
+    },
+    {
         "timestamp": "2026-08-31T20:56:42.222078",
         "song": "Gloria Gaynor - Never Can Say Goodbye"
     },
@@ -302,37 +306,5 @@
     {
         "timestamp": "2026-08-25T01:45:56.212561",
         "song": "Kool & The Gang - Ladies Night"
-    },
-    {
-        "timestamp": "2026-08-25T00:01:23.983918",
-        "song": "Boston - More Than A Feeling"
-    },
-    {
-        "timestamp": "2026-08-24T23:45:37.139719",
-        "song": "Heatwave - Boogie Nights"
-    },
-    {
-        "timestamp": "2026-08-24T23:25:28.912869",
-        "song": "Odyssey - Native New Yorker"
-    },
-    {
-        "timestamp": "2026-08-24T22:57:54.037661",
-        "song": "Sugarloaf - Green Eyed Lady"
-    },
-    {
-        "timestamp": "2026-08-24T22:35:22.590008",
-        "song": "Fleetwood Mac - Don't Stop"
-    },
-    {
-        "timestamp": "2026-08-24T21:59:46.292917",
-        "song": "Johnny Nash - Stir It Up"
-    },
-    {
-        "timestamp": "2026-08-24T21:39:14.600833",
-        "song": "John Denver - Thank God I'm A Country Boy"
-    },
-    {
-        "timestamp": "2026-08-24T21:04:34.843631",
-        "song": "Baby's - Isn't It Time"
     }
 ]
