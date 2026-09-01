@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-01T05:27:02.862272",
+        "song": "Invisible Man's Band - All Night Thing"
+    },
+    {
         "timestamp": "2026-09-01T00:25:11.934360",
         "song": "Jacksons - Shake Your Body"
     },
@@ -286,25 +290,5 @@
     {
         "timestamp": "2026-08-25T05:37:21.907156",
         "song": "Captain & Tennille - Love Will Keep Us Together"
-    },
-    {
-        "timestamp": "2026-08-25T04:58:58.688394",
-        "song": "Commodores - Brick House"
-    },
-    {
-        "timestamp": "2026-08-25T04:19:43.264400",
-        "song": "Poco - Heart Of The Night"
-    },
-    {
-        "timestamp": "2026-08-25T03:34:11.078782",
-        "song": "Rickie Lee Jones - Chuck E's In Love"
-    },
-    {
-        "timestamp": "2026-08-25T02:45:24.455257",
-        "song": "Chicago - Does Anybody Really Know What Time It Is"
-    },
-    {
-        "timestamp": "2026-08-25T01:45:56.212561",
-        "song": "Kool & The Gang - Ladies Night"
     }
 ]
