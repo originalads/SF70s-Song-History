@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-01T23:16:58.537152",
+        "song": "Three Dog Night - Celebrate"
+    },
+    {
         "timestamp": "2026-09-01T21:08:57.463827",
         "song": "Heatwave - The Groove Line"
     },
@@ -186,25 +190,5 @@
     {
         "timestamp": "2026-08-25T23:31:51.791193",
         "song": "Little River Band - Cool Change"
-    },
-    {
-        "timestamp": "2026-08-25T23:00:15.443678",
-        "song": "Journey - Lovin' Touchin' Squeezin'"
-    },
-    {
-        "timestamp": "2026-08-25T22:37:05.142702",
-        "song": "Rita Coolidge - Higher And Higher"
-    },
-    {
-        "timestamp": "2026-08-25T22:01:33.699528",
-        "song": "Billy Preston - Will It Go Round In Circles"
-    },
-    {
-        "timestamp": "2026-08-25T21:44:15.118080",
-        "song": "The Fuzz - I Love You For All Seasons"
-    },
-    {
-        "timestamp": "2026-08-25T21:11:59.999261",
-        "song": "L.T.D. - (Every Time I Turn Around) Back in Love Again"
     }
 ]
