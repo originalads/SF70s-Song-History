@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-01T18:21:00.585792",
+        "song": "Boz Scaggs - Harbor Lights"
+    },
+    {
         "timestamp": "2026-09-01T14:59:08.449125",
         "song": "Edgar Winter Group - Frankenstein"
     },
@@ -218,29 +222,5 @@
     {
         "timestamp": "2026-08-25T18:52:18.145010",
         "song": "John Lennon - Instant Karma"
-    },
-    {
-        "timestamp": "2026-08-25T18:02:46.778266",
-        "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
-    },
-    {
-        "timestamp": "2026-08-25T17:39:48.388621",
-        "song": "John Stewart - Gold"
-    },
-    {
-        "timestamp": "2026-08-25T17:03:46.978966",
-        "song": "Andy Gibb - I Just Want To Be Your Everything"
-    },
-    {
-        "timestamp": "2026-08-25T16:23:53.656555",
-        "song": "Ohio Players - Fire"
-    },
-    {
-        "timestamp": "2026-08-25T15:52:38.113714",
-        "song": "Player - This Time I'm In It For Love"
-    },
-    {
-        "timestamp": "2026-08-25T15:01:09.749632",
-        "song": "Paul McCartney - Jet"
     }
 ]
