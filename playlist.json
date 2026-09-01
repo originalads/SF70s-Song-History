@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-01T21:08:57.463827",
+        "song": "Heatwave - The Groove Line"
+    },
+    {
         "timestamp": "2026-09-01T18:21:00.585792",
         "song": "Boz Scaggs - Harbor Lights"
     },
@@ -202,25 +206,5 @@
     {
         "timestamp": "2026-08-25T21:11:59.999261",
         "song": "L.T.D. - (Every Time I Turn Around) Back in Love Again"
-    },
-    {
-        "timestamp": "2026-08-25T20:47:38.276680",
-        "song": "John Denver - Rocky Mountain High"
-    },
-    {
-        "timestamp": "2026-08-25T20:13:34.210823",
-        "song": "Jacksons - Shake Your Body"
-    },
-    {
-        "timestamp": "2026-08-25T19:51:33.839894",
-        "song": "George Harrison - Blow Away"
-    },
-    {
-        "timestamp": "2026-08-25T19:22:03.266805",
-        "song": "Tower of Power - You're Still A Young Man"
-    },
-    {
-        "timestamp": "2026-08-25T18:52:18.145010",
-        "song": "John Lennon - Instant Karma"
     }
 ]
