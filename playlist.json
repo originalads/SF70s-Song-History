@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-01T10:20:44.222625",
+        "song": "Olivia Newton-John - Hopelessly Devoted To You"
+    },
+    {
         "timestamp": "2026-09-01T05:27:02.862272",
         "song": "Invisible Man's Band - All Night Thing"
     },
@@ -258,37 +262,5 @@
     {
         "timestamp": "2026-08-25T10:53:25.476956",
         "song": "Eric Burdon & War - Spill The Wine"
-    },
-    {
-        "timestamp": "2026-08-25T10:16:42.671444",
-        "song": "Jefferson Starship - Runaway"
-    },
-    {
-        "timestamp": "2026-08-25T09:49:58.396610",
-        "song": "Bill Withers - Use Me"
-    },
-    {
-        "timestamp": "2026-08-25T09:09:53.443099",
-        "song": "Hues Corporation - Rock the Boat"
-    },
-    {
-        "timestamp": "2026-08-25T08:29:57.447387",
-        "song": "War - Why Can't We Be Friends"
-    },
-    {
-        "timestamp": "2026-08-25T07:52:45.265906",
-        "song": "Herb Alpert - Rise"
-    },
-    {
-        "timestamp": "2026-08-25T07:02:46.065252",
-        "song": "War - Cisco Kid"
-    },
-    {
-        "timestamp": "2026-08-25T06:02:33.620817",
-        "song": "Emotions - Best of My Love"
-    },
-    {
-        "timestamp": "2026-08-25T05:37:21.907156",
-        "song": "Captain & Tennille - Love Will Keep Us Together"
     }
 ]
