@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-01T14:59:08.449125",
+        "song": "Edgar Winter Group - Frankenstein"
+    },
+    {
         "timestamp": "2026-09-01T10:20:44.222625",
         "song": "Olivia Newton-John - Hopelessly Devoted To You"
     },
@@ -238,29 +242,5 @@
     {
         "timestamp": "2026-08-25T15:01:09.749632",
         "song": "Paul McCartney - Jet"
-    },
-    {
-        "timestamp": "2026-08-25T14:07:33.160396",
-        "song": "ABBA - Voulez-Vous"
-    },
-    {
-        "timestamp": "2026-08-25T13:15:55.666473",
-        "song": "Steely Dan - Josie"
-    },
-    {
-        "timestamp": "2026-08-25T12:17:34.975432",
-        "song": "Supertramp - Goodbye Stranger"
-    },
-    {
-        "timestamp": "2026-08-25T11:48:57.469230",
-        "song": "ABBA - The Name Of The Game"
-    },
-    {
-        "timestamp": "2026-08-25T11:19:06.486534",
-        "song": "Doobie Brothers - China Grove"
-    },
-    {
-        "timestamp": "2026-08-25T10:53:25.476956",
-        "song": "Eric Burdon & War - Spill The Wine"
     }
 ]
