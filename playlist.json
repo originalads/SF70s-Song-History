@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-02T14:08:01.535628",
+        "song": "M - Pop Muzik"
+    },
+    {
         "timestamp": "2026-09-02T09:56:26.554129",
         "song": "Firefall - You Are The Woman"
     },
@@ -126,29 +130,5 @@
     {
         "timestamp": "2026-08-26T14:12:49.622851",
         "song": "Journey - Any Way You Want It"
-    },
-    {
-        "timestamp": "2026-08-26T13:28:16.567739",
-        "song": "Jackson Browne - Running On Empty"
-    },
-    {
-        "timestamp": "2026-08-26T12:18:56.061895",
-        "song": "Maria Muldaur - Midnight At The Oasis"
-    },
-    {
-        "timestamp": "2026-08-26T11:47:17.277557",
-        "song": "Partridge Family - I Think I Love You"
-    },
-    {
-        "timestamp": "2026-08-26T11:14:30.494480",
-        "song": "Rare Earth - Get Ready"
-    },
-    {
-        "timestamp": "2026-08-26T10:46:47.437357",
-        "song": "Simon & Garfunkel - Bridge Over Troubled Water"
-    },
-    {
-        "timestamp": "2026-08-26T10:03:08.276808",
-        "song": "Bee Gees - Tragedy"
     }
 ]
