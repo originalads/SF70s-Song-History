@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-02T09:56:26.554129",
+        "song": "Firefall - You Are The Woman"
+    },
+    {
         "timestamp": "2026-09-02T05:44:17.582530",
         "song": "Kenny Rogers - You Decorated My Life"
     },
@@ -146,25 +150,5 @@
     {
         "timestamp": "2026-08-26T10:03:08.276808",
         "song": "Bee Gees - Tragedy"
-    },
-    {
-        "timestamp": "2026-08-26T09:22:04.584087",
-        "song": "Chic - Le Freak"
-    },
-    {
-        "timestamp": "2026-08-26T08:33:16.518344",
-        "song": "Joe Walsh - Rocky Mountain Way"
-    },
-    {
-        "timestamp": "2026-08-26T07:53:25.008991",
-        "song": "Cher - Dark Lady"
-    },
-    {
-        "timestamp": "2026-08-26T07:01:47.984972",
-        "song": "Manfred Mann's Earth Band - Blinded By The Light"
-    },
-    {
-        "timestamp": "2026-08-26T06:00:54.715729",
-        "song": "Eagles - One Of These Nights"
     }
 ]
