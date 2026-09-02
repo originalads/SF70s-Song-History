@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-02T05:44:17.582530",
+        "song": "Kenny Rogers - You Decorated My Life"
+    },
+    {
         "timestamp": "2026-09-02T01:04:33.036370",
         "song": "Paul McCartney - Uncle Albert"
     },
@@ -162,25 +166,5 @@
     {
         "timestamp": "2026-08-26T06:00:54.715729",
         "song": "Eagles - One Of These Nights"
-    },
-    {
-        "timestamp": "2026-08-26T05:28:30.321874",
-        "song": "Fleetwood Mac - Go Your Own Way"
-    },
-    {
-        "timestamp": "2026-08-26T04:54:19.765791",
-        "song": "Steve Miller Band - Swingtown"
-    },
-    {
-        "timestamp": "2026-08-26T04:09:39.404160",
-        "song": "Bay City Rollers - I Only Want To Be With You"
-    },
-    {
-        "timestamp": "2026-08-26T03:26:34.712641",
-        "song": "Suzi Quatro & Chris Norman - Stumblin' In"
-    },
-    {
-        "timestamp": "2026-08-26T02:13:47.860108",
-        "song": "Guess Who - American Woman"
     }
 ]
