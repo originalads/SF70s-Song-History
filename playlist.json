@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-02T01:04:33.036370",
+        "song": "Paul McCartney - Uncle Albert"
+    },
+    {
         "timestamp": "2026-09-01T23:16:58.537152",
         "song": "Three Dog Night - Celebrate"
     },
@@ -178,17 +182,5 @@
     {
         "timestamp": "2026-08-26T02:13:47.860108",
         "song": "Guess Who - American Woman"
-    },
-    {
-        "timestamp": "2026-08-26T00:42:19.494598",
-        "song": "Stevie Wonder - Signed Sealed Delivered I'm Yours"
-    },
-    {
-        "timestamp": "2026-08-25T23:52:48.968515",
-        "song": "Olivia Newton-John - Magic"
-    },
-    {
-        "timestamp": "2026-08-25T23:31:51.791193",
-        "song": "Little River Band - Cool Change"
     }
 ]
