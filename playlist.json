@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-03T09:43:07.677062",
+        "song": "Helen Reddy - I Am Woman"
+    },
+    {
         "timestamp": "2026-09-03T05:07:09.998857",
         "song": "Baby's - Isn't It Time"
     },
@@ -122,9 +126,5 @@
     {
         "timestamp": "2026-08-27T19:55:23.469393",
         "song": "Barbra Streisand - Evergreen (Theme From A Star Is Born)"
-    },
-    {
-        "timestamp": "2026-08-27T09:26:14.946914",
-        "song": "Dobie Gray - Drift Away"
     }
 ]
