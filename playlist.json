@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-03T20:01:08.602990",
+        "song": "Al Stewart - Year Of The Cat"
+    },
+    {
         "timestamp": "2026-09-03T17:24:52.896459",
         "song": "Jackson 5 - I Want You Back"
     },
@@ -130,9 +134,5 @@
     {
         "timestamp": "2026-08-28T16:32:12.364112",
         "song": ""
-    },
-    {
-        "timestamp": "2026-08-27T19:55:23.469393",
-        "song": "Barbra Streisand - Evergreen (Theme From A Star Is Born)"
     }
 ]
