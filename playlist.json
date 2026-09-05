@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-05T21:36:28.642344",
+        "song": "Chicago - Baby What A Big Surprise"
+    },
+    {
         "timestamp": "2026-09-05T19:29:26.082725",
         "song": "Hollies - Long Cool Woman"
     },
@@ -190,9 +194,5 @@
     {
         "timestamp": "2026-08-29T21:59:48.174535",
         "song": "Brook Benton - Rainy Night In Georgia"
-    },
-    {
-        "timestamp": "2026-08-29T19:45:09.140599",
-        "song": "Aretha Franklin - Day Dreaming"
     }
 ]
