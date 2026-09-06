@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-06T13:09:56.758124",
+        "song": "Patrick Hernandez - Born To Be Alive"
+    },
+    {
         "timestamp": "2026-09-06T09:42:26.963631",
         "song": "Dionne Warwick - Deja Vu"
     },
@@ -194,9 +198,5 @@
     {
         "timestamp": "2026-08-30T14:56:44.595454",
         "song": "Gloria Gaynor - I Will Survive"
-    },
-    {
-        "timestamp": "2026-08-30T10:31:43.195192",
-        "song": "Con Funk Shun - Ffun"
     }
 ]
