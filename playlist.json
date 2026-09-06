@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-06T20:34:47.462188",
+        "song": "Paul Anka - You're Having My Baby"
+    },
+    {
         "timestamp": "2026-09-06T18:22:53.540607",
         "song": "James Taylor - You've Got A Friend"
     },
@@ -198,9 +202,5 @@
     {
         "timestamp": "2026-08-30T21:23:55.599177",
         "song": "Chic - Good Times"
-    },
-    {
-        "timestamp": "2026-08-30T18:27:36.335465",
-        "song": "Sister Sledge - He's The Greatest Dancer"
     }
 ]
