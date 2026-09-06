@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-06T22:18:07.452650",
+        "song": "Atlanta Rhythm Section - Imaginary Lover"
+    },
+    {
         "timestamp": "2026-09-06T20:34:47.462188",
         "song": "Paul Anka - You're Having My Baby"
     },
@@ -198,9 +202,5 @@
     {
         "timestamp": "2026-08-30T23:40:02.724457",
         "song": "Billy Paul - Me And Mrs. Jones"
-    },
-    {
-        "timestamp": "2026-08-30T21:23:55.599177",
-        "song": "Chic - Good Times"
     }
 ]
