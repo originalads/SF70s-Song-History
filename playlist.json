@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-06T16:15:29.748448",
+        "song": "Steve Miller Band - Swingtown"
+    },
+    {
         "timestamp": "2026-09-06T13:09:56.758124",
         "song": "Patrick Hernandez - Born To Be Alive"
     },
@@ -194,9 +198,5 @@
     {
         "timestamp": "2026-08-30T18:27:36.335465",
         "song": "Sister Sledge - He's The Greatest Dancer"
-    },
-    {
-        "timestamp": "2026-08-30T14:56:44.595454",
-        "song": "Gloria Gaynor - I Will Survive"
     }
 ]
