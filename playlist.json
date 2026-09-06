@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-06T01:02:30.163291",
+        "song": "Chicago - Beginnings"
+    },
+    {
         "timestamp": "2026-09-05T23:15:22.939032",
         "song": "Creedence Clearwater Revival - Who'll Stop The Rain"
     },
@@ -190,9 +194,5 @@
     {
         "timestamp": "2026-08-30T05:18:26.311494",
         "song": "Brothers Johnson - I'll Be Good To You"
-    },
-    {
-        "timestamp": "2026-08-30T00:06:09.372679",
-        "song": "Donna Summer - Dim All The Lights"
     }
 ]
