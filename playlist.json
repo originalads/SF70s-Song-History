@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-07T00:02:34.800023",
+        "song": "Bee Gees - Nights On Broadway"
+    },
+    {
         "timestamp": "2026-09-06T22:18:07.452650",
         "song": "Atlanta Rhythm Section - Imaginary Lover"
     },
@@ -198,9 +202,5 @@
     {
         "timestamp": "2026-08-31T01:36:40.408322",
         "song": "Stephanie Mills - Never Knew Love Like This Before"
-    },
-    {
-        "timestamp": "2026-08-30T23:40:02.724457",
-        "song": "Billy Paul - Me And Mrs. Jones"
     }
 ]
