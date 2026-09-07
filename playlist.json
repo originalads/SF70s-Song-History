@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-07T22:00:39.420548",
+        "song": "Doobie Brothers - What A Fool Believes"
+    },
+    {
         "timestamp": "2026-09-07T19:09:53.347629",
         "song": "Temptations - Papa Was a Rolling Stone"
     },
@@ -202,9 +206,5 @@
     {
         "timestamp": "2026-09-01T00:25:11.934360",
         "song": "Jacksons - Shake Your Body"
-    },
-    {
-        "timestamp": "2026-08-31T20:56:42.222078",
-        "song": "Gloria Gaynor - Never Can Say Goodbye"
     }
 ]
