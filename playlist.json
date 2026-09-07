@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-07T04:25:55.160022",
+        "song": "Lou Rawls - Lady Love"
+    },
+    {
         "timestamp": "2026-09-07T00:02:34.800023",
         "song": "Bee Gees - Nights On Broadway"
     },
@@ -198,9 +202,5 @@
     {
         "timestamp": "2026-08-31T07:37:00.027103",
         "song": "Bobby Goldsboro - Summer (The First Time)"
-    },
-    {
-        "timestamp": "2026-08-31T01:36:40.408322",
-        "song": "Stephanie Mills - Never Knew Love Like This Before"
     }
 ]
