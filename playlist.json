@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-07T19:09:53.347629",
+        "song": "Temptations - Papa Was a Rolling Stone"
+    },
+    {
         "timestamp": "2026-09-07T15:11:39.118805",
         "song": "Chicago - 25 Or 6 To 4"
     },
@@ -202,9 +206,5 @@
     {
         "timestamp": "2026-08-31T20:56:42.222078",
         "song": "Gloria Gaynor - Never Can Say Goodbye"
-    },
-    {
-        "timestamp": "2026-08-31T15:30:02.537402",
-        "song": "Allman Brothers - Ramblin' Man"
     }
 ]
