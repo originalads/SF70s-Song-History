@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-08T13:31:27.901173",
+        "song": "Eric Clapton - After Midnight"
+    },
+    {
         "timestamp": "2026-09-08T09:03:27.364369",
         "song": "Barry White - You're The First, The Last, My Everything"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-01T14:59:08.449125",
         "song": "Edgar Winter Group - Frankenstein"
-    },
-    {
-        "timestamp": "2026-09-01T10:20:44.222625",
-        "song": "Olivia Newton-John - Hopelessly Devoted To You"
     }
 ]
