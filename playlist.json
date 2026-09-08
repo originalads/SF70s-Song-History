@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-08T17:24:34.574087",
+        "song": "Bay City Rollers - I Only Want To Be With You"
+    },
+    {
         "timestamp": "2026-09-08T13:31:27.901173",
         "song": "Eric Clapton - After Midnight"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-01T18:21:00.585792",
         "song": "Boz Scaggs - Harbor Lights"
-    },
-    {
-        "timestamp": "2026-09-01T14:59:08.449125",
-        "song": "Edgar Winter Group - Frankenstein"
     }
 ]
