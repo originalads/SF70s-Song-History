@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-08T09:03:27.364369",
+        "song": "Barry White - You're The First, The Last, My Everything"
+    },
+    {
         "timestamp": "2026-09-08T04:35:19.855598",
         "song": "Boston - More Than A Feeling"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-01T10:20:44.222625",
         "song": "Olivia Newton-John - Hopelessly Devoted To You"
-    },
-    {
-        "timestamp": "2026-09-01T05:27:02.862272",
-        "song": "Invisible Man's Band - All Night Thing"
     }
 ]
