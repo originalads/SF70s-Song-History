@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-08T04:35:19.855598",
+        "song": "Boston - More Than A Feeling"
+    },
+    {
         "timestamp": "2026-09-08T00:10:54.756392",
         "song": "Gloria Gaynor - Never Can Say Goodbye"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-01T05:27:02.862272",
         "song": "Invisible Man's Band - All Night Thing"
-    },
-    {
-        "timestamp": "2026-09-01T00:25:11.934360",
-        "song": "Jacksons - Shake Your Body"
     }
 ]
