@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-08T22:33:27.813636",
+        "song": "Johnny Nash - Stir It Up"
+    },
+    {
         "timestamp": "2026-09-08T20:01:37.029762",
         "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-01T23:16:58.537152",
         "song": "Three Dog Night - Celebrate"
-    },
-    {
-        "timestamp": "2026-09-01T21:08:57.463827",
-        "song": "Heatwave - The Groove Line"
     }
 ]
