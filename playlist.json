@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-08T20:01:37.029762",
+        "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
+    },
+    {
         "timestamp": "2026-09-08T17:24:34.574087",
         "song": "Bay City Rollers - I Only Want To Be With You"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-01T21:08:57.463827",
         "song": "Heatwave - The Groove Line"
-    },
-    {
-        "timestamp": "2026-09-01T18:21:00.585792",
-        "song": "Boz Scaggs - Harbor Lights"
     }
 ]
