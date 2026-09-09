@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-09T00:31:31.339065",
+        "song": "B.J. Thomas - Rock and Roll Lullaby"
+    },
+    {
         "timestamp": "2026-09-08T22:33:27.813636",
         "song": "Johnny Nash - Stir It Up"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-02T01:04:33.036370",
         "song": "Paul McCartney - Uncle Albert"
-    },
-    {
-        "timestamp": "2026-09-01T23:16:58.537152",
-        "song": "Three Dog Night - Celebrate"
     }
 ]
