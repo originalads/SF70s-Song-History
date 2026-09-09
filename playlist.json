@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-09T05:06:57.516745",
+        "song": "Gordon Lightfoot - Sundown"
+    },
+    {
         "timestamp": "2026-09-09T00:31:31.339065",
         "song": "B.J. Thomas - Rock and Roll Lullaby"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-02T05:44:17.582530",
         "song": "Kenny Rogers - You Decorated My Life"
-    },
-    {
-        "timestamp": "2026-09-02T01:04:33.036370",
-        "song": "Paul McCartney - Uncle Albert"
     }
 ]
