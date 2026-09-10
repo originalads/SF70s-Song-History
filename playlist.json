@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-10T09:35:22.143105",
+        "song": "David Bowie - Changes"
+    },
+    {
         "timestamp": "2026-09-10T05:01:12.861167",
         "song": "Hues Corporation - Rock the Boat"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-03T09:43:07.677062",
         "song": "Helen Reddy - I Am Woman"
-    },
-    {
-        "timestamp": "2026-09-03T05:07:09.998857",
-        "song": "Baby's - Isn't It Time"
     }
 ]
