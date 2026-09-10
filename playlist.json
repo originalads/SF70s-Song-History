@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-10T05:01:12.861167",
+        "song": "Hues Corporation - Rock the Boat"
+    },
+    {
         "timestamp": "2026-09-10T00:24:42.006850",
         "song": "Yvonne Elliman - If I Can't Have You"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-03T05:07:09.998857",
         "song": "Baby's - Isn't It Time"
-    },
-    {
-        "timestamp": "2026-09-03T00:42:08.493361",
-        "song": "Creedence Clearwater Revival - Down On The Corner"
     }
 ]
