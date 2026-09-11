@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-11T21:45:18.334090",
+        "song": "Elton John - Candle In The Wind"
+    },
+    {
         "timestamp": "2026-09-11T19:14:55.543768",
         "song": "Queen - Another One Bites the Dust"
     },
@@ -202,13 +206,5 @@
     {
         "timestamp": "2026-09-04T23:16:02.493478",
         "song": "Sweet - Little Willy"
-    },
-    {
-        "timestamp": "2026-09-04T21:34:22.035026",
-        "song": "Jackson Browne - Doctor My Eyes"
-    },
-    {
-        "timestamp": "2026-09-04T19:20:07.238116",
-        "song": "Al Green - Tired Of Being Alone"
     }
 ]
