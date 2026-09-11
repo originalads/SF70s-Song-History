@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-11T07:17:30.632838",
+        "song": "Aretha Franklin - Rock Steady"
+    },
+    {
         "timestamp": "2026-09-11T02:12:02.328667",
         "song": "The Cars - Bye Bye Love"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-04T09:04:31.075024",
         "song": "Edgar Winter Group - Free Ride"
-    },
-    {
-        "timestamp": "2026-09-04T04:43:12.814414",
-        "song": "Staple Singers - Let's Do It Again"
     }
 ]
