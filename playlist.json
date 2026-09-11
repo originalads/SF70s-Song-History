@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-11T02:12:02.328667",
+        "song": "The Cars - Bye Bye Love"
+    },
+    {
         "timestamp": "2026-09-10T23:53:07.457882",
         "song": "Ringo Starr - Photograph"
     },
@@ -206,9 +210,5 @@
     {
         "timestamp": "2026-09-04T04:43:12.814414",
         "song": "Staple Singers - Let's Do It Again"
-    },
-    {
-        "timestamp": "2026-09-04T00:17:58.687123",
-        "song": "Carpenters - Close To You"
     }
 ]
