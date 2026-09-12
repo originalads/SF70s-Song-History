@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-12T23:05:35.766159",
+        "song": "Jimmy Buffett - Margaritaville"
+    },
+    {
         "timestamp": "2026-09-12T21:20:47.235667",
         "song": "Elton John - Philadelphia Freedom"
     },
@@ -202,9 +206,5 @@
     {
         "timestamp": "2026-09-05T23:15:22.939032",
         "song": "Creedence Clearwater Revival - Who'll Stop The Rain"
-    },
-    {
-        "timestamp": "2026-09-05T21:36:28.642344",
-        "song": "Chicago - Baby What A Big Surprise"
     }
 ]
