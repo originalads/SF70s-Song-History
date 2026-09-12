@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-12T21:20:47.235667",
+        "song": "Elton John - Philadelphia Freedom"
+    },
+    {
         "timestamp": "2026-09-12T18:58:42.210333",
         "song": "Al Green - You Ought To Be With Me"
     },
@@ -202,9 +206,5 @@
     {
         "timestamp": "2026-09-05T21:36:28.642344",
         "song": "Chicago - Baby What A Big Surprise"
-    },
-    {
-        "timestamp": "2026-09-05T19:29:26.082725",
-        "song": "Hollies - Long Cool Woman"
     }
 ]
