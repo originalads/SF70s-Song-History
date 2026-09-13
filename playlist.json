@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-13T10:37:06.627473",
+        "song": "Ambrosia  - You're The Only Woman"
+    },
+    {
         "timestamp": "2026-09-13T05:39:48.696924",
         "song": "Marvin Gaye - Inner City Blues (Make Me Wanna Holler)"
     },
@@ -198,13 +202,5 @@
     {
         "timestamp": "2026-09-06T13:09:56.758124",
         "song": "Patrick Hernandez - Born To Be Alive"
-    },
-    {
-        "timestamp": "2026-09-06T09:42:26.963631",
-        "song": "Dionne Warwick - Deja Vu"
-    },
-    {
-        "timestamp": "2026-09-06T05:49:23.132499",
-        "song": "Donna Summer - Love To Love You Baby"
     }
 ]
