@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-13T23:39:02.030784",
+        "song": "Dr. Hook - Only Sixteen"
+    },
+    {
         "timestamp": "2026-09-13T21:47:20.329969",
         "song": "Gallery - Nice To Be With You"
     },
@@ -198,9 +202,5 @@
     {
         "timestamp": "2026-09-07T00:02:34.800023",
         "song": "Bee Gees - Nights On Broadway"
-    },
-    {
-        "timestamp": "2026-09-06T22:18:07.452650",
-        "song": "Atlanta Rhythm Section - Imaginary Lover"
     }
 ]
