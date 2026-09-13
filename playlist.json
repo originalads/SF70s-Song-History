@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-13T00:55:44.222273",
+        "song": "The Who - Won't Get Fooled Again"
+    },
+    {
         "timestamp": "2026-09-12T23:05:35.766159",
         "song": "Jimmy Buffett - Margaritaville"
     },
@@ -202,9 +206,5 @@
     {
         "timestamp": "2026-09-06T01:02:30.163291",
         "song": "Chicago - Beginnings"
-    },
-    {
-        "timestamp": "2026-09-05T23:15:22.939032",
-        "song": "Creedence Clearwater Revival - Who'll Stop The Rain"
     }
 ]
