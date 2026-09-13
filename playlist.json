@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-13T19:47:22.591413",
+        "song": "Marvin Gaye - Distant Lover"
+    },
+    {
         "timestamp": "2026-09-13T17:39:11.257057",
         "song": "Olivia Newton-John - Magic"
     },
@@ -198,9 +202,5 @@
     {
         "timestamp": "2026-09-06T20:34:47.462188",
         "song": "Paul Anka - You're Having My Baby"
-    },
-    {
-        "timestamp": "2026-09-06T18:22:53.540607",
-        "song": "James Taylor - You've Got A Friend"
     }
 ]
