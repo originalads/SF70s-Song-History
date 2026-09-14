@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-14T19:07:07.783586",
+        "song": "Leif Garrett - I Was Made For Dancing"
+    },
+    {
         "timestamp": "2026-09-14T13:57:50.485489",
         "song": "Arlo Guthrie - City Of New Orleans"
     },
@@ -198,9 +202,5 @@
     {
         "timestamp": "2026-09-07T19:09:53.347629",
         "song": "Temptations - Papa Was a Rolling Stone"
-    },
-    {
-        "timestamp": "2026-09-07T15:11:39.118805",
-        "song": "Chicago - 25 Or 6 To 4"
     }
 ]
