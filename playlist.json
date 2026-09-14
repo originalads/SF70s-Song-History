@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-14T22:27:19.469094",
+        "song": "Toby Beau - My Angel Baby"
+    },
+    {
         "timestamp": "2026-09-14T19:07:07.783586",
         "song": "Leif Garrett - I Was Made For Dancing"
     },
@@ -194,13 +198,5 @@
     {
         "timestamp": "2026-09-08T00:10:54.756392",
         "song": "Gloria Gaynor - Never Can Say Goodbye"
-    },
-    {
-        "timestamp": "2026-09-07T22:00:39.420548",
-        "song": "Doobie Brothers - What A Fool Believes"
-    },
-    {
-        "timestamp": "2026-09-07T19:09:53.347629",
-        "song": "Temptations - Papa Was a Rolling Stone"
     }
 ]
