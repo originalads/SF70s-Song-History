@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-14T07:05:43.638740",
+        "song": "James Taylor - How Sweet It Is"
+    },
+    {
         "timestamp": "2026-09-14T01:39:36.837196",
         "song": "William DeVaughn - Be Thankful"
     },
@@ -198,9 +202,5 @@
     {
         "timestamp": "2026-09-07T09:33:31.292413",
         "song": "Boston - Don't Look Back"
-    },
-    {
-        "timestamp": "2026-09-07T04:25:55.160022",
-        "song": "Lou Rawls - Lady Love"
     }
 ]
