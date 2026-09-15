@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-15T21:55:59.620524",
+        "song": "Van McCoy - The Hustle"
+    },
+    {
         "timestamp": "2026-09-15T18:56:26.699622",
         "song": "Michael Jackson - Ben"
     },
@@ -194,9 +198,5 @@
     {
         "timestamp": "2026-09-08T22:33:27.813636",
         "song": "Johnny Nash - Stir It Up"
-    },
-    {
-        "timestamp": "2026-09-08T20:01:37.029762",
-        "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
     }
 ]
