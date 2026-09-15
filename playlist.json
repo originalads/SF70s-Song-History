@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-15T00:48:57.272256",
+        "song": "Bee Gees - Night Fever"
+    },
+    {
         "timestamp": "2026-09-14T22:27:19.469094",
         "song": "Toby Beau - My Angel Baby"
     },
@@ -194,9 +198,5 @@
     {
         "timestamp": "2026-09-08T04:35:19.855598",
         "song": "Boston - More Than A Feeling"
-    },
-    {
-        "timestamp": "2026-09-08T00:10:54.756392",
-        "song": "Gloria Gaynor - Never Can Say Goodbye"
     }
 ]
