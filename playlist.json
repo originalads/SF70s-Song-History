@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-15T10:21:10.374465",
+        "song": "Gladys Knight & The Pips - If I Were Your Woman"
+    },
+    {
         "timestamp": "2026-09-15T05:28:45.396574",
         "song": "Brothers Johnson - Strawberry Letter 23"
     },
@@ -194,9 +198,5 @@
     {
         "timestamp": "2026-09-08T13:31:27.901173",
         "song": "Eric Clapton - After Midnight"
-    },
-    {
-        "timestamp": "2026-09-08T09:03:27.364369",
-        "song": "Barry White - You're The First, The Last, My Everything"
     }
 ]
