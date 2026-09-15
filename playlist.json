@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-15T15:06:01.310156",
+        "song": "Elton John - Levon"
+    },
+    {
         "timestamp": "2026-09-15T10:21:10.374465",
         "song": "Gladys Knight & The Pips - If I Were Your Woman"
     },
@@ -194,9 +198,5 @@
     {
         "timestamp": "2026-09-08T17:24:34.574087",
         "song": "Bay City Rollers - I Only Want To Be With You"
-    },
-    {
-        "timestamp": "2026-09-08T13:31:27.901173",
-        "song": "Eric Clapton - After Midnight"
     }
 ]
