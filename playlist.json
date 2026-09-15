@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-15T05:28:45.396574",
+        "song": "Brothers Johnson - Strawberry Letter 23"
+    },
+    {
         "timestamp": "2026-09-15T00:48:57.272256",
         "song": "Bee Gees - Night Fever"
     },
@@ -194,9 +198,5 @@
     {
         "timestamp": "2026-09-08T09:03:27.364369",
         "song": "Barry White - You're The First, The Last, My Everything"
-    },
-    {
-        "timestamp": "2026-09-08T04:35:19.855598",
-        "song": "Boston - More Than A Feeling"
     }
 ]
