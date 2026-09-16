@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-16T04:23:00.917019",
+        "song": "Maxine Nightingale - Right Back Where We Started From"
+    },
+    {
         "timestamp": "2026-09-15T23:58:29.130309",
         "song": "Steely Dan - FM"
     },
@@ -194,9 +198,5 @@
     {
         "timestamp": "2026-09-09T05:06:57.516745",
         "song": "Gordon Lightfoot - Sundown"
-    },
-    {
-        "timestamp": "2026-09-09T00:31:31.339065",
-        "song": "B.J. Thomas - Rock and Roll Lullaby"
     }
 ]
