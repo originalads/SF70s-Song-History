@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-16T21:20:31.023929",
+        "song": "Kenny Rogers - You Decorated My Life"
+    },
+    {
         "timestamp": "2026-09-16T18:13:18.149714",
         "song": "Patti Smith - Because The Night"
     },
@@ -190,9 +194,5 @@
     {
         "timestamp": "2026-09-09T22:25:07.317152",
         "song": "Three Dog Night - Never Been To Spain"
-    },
-    {
-        "timestamp": "2026-09-09T19:58:43.970813",
-        "song": "Gladys Knight & The Pips - I've Got To Use My Imagination"
     }
 ]
