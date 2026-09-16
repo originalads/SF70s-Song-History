@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-16T09:23:38.359541",
+        "song": "GQ - I Do Love You"
+    },
+    {
         "timestamp": "2026-09-16T04:23:00.917019",
         "song": "Maxine Nightingale - Right Back Where We Started From"
     },
@@ -194,9 +198,5 @@
     {
         "timestamp": "2026-09-09T09:39:48.463994",
         "song": "O'Jays - For The Love Of Money"
-    },
-    {
-        "timestamp": "2026-09-09T05:06:57.516745",
-        "song": "Gordon Lightfoot - Sundown"
     }
 ]
