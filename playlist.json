@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-16T23:40:55.227685",
+        "song": "Little River Band - Help Is On It's Way"
+    },
+    {
         "timestamp": "2026-09-16T21:20:31.023929",
         "song": "Kenny Rogers - You Decorated My Life"
     },
@@ -190,9 +194,5 @@
     {
         "timestamp": "2026-09-10T00:24:42.006850",
         "song": "Yvonne Elliman - If I Can't Have You"
-    },
-    {
-        "timestamp": "2026-09-09T22:25:07.317152",
-        "song": "Three Dog Night - Never Been To Spain"
     }
 ]
