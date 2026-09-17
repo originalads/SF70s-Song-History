@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-17T06:40:53.481906",
+        "song": "Paul Simon - Me And Julio Down By The Schoolyard"
+    },
+    {
         "timestamp": "2026-09-17T01:42:42.627178",
         "song": "James Taylor - Up On The Roof"
     },
@@ -190,9 +194,5 @@
     {
         "timestamp": "2026-09-10T09:35:22.143105",
         "song": "David Bowie - Changes"
-    },
-    {
-        "timestamp": "2026-09-10T05:01:12.861167",
-        "song": "Hues Corporation - Rock the Boat"
     }
 ]
