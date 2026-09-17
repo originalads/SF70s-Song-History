@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-17T16:54:48.282332",
+        "song": "Eddie Money - Two Tickets To Paradise"
+    },
+    {
         "timestamp": "2026-09-17T12:06:14.936585",
         "song": "Elton John - Lucy In The Sky With Diamonds"
     },
@@ -190,9 +194,5 @@
     {
         "timestamp": "2026-09-10T17:17:07.265505",
         "song": "Stylistics - You Make Me Feel Brand New"
-    },
-    {
-        "timestamp": "2026-09-10T13:46:57.264005",
-        "song": "Sylvers - Hotline"
     }
 ]
