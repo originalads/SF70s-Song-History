@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-17T22:46:36.025688",
+        "song": "Whispers - It's A Love Thing"
+    },
+    {
         "timestamp": "2026-09-17T19:58:41.870253",
         "song": "Al Stewart - Year Of The Cat"
     },
@@ -186,9 +190,5 @@
     {
         "timestamp": "2026-09-10T23:53:07.457882",
         "song": "Ringo Starr - Photograph"
-    },
-    {
-        "timestamp": "2026-09-10T21:58:13.091020",
-        "song": "Billy Joel - My Life"
     }
 ]
