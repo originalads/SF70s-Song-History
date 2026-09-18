@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-18T05:18:21.006626",
+        "song": "Bread - Everything I Own"
+    },
+    {
         "timestamp": "2026-09-18T00:49:02.266828",
         "song": "Love & Kisses - Thank God It's Friday"
     },
@@ -186,9 +190,5 @@
     {
         "timestamp": "2026-09-11T07:17:30.632838",
         "song": "Aretha Franklin - Rock Steady"
-    },
-    {
-        "timestamp": "2026-09-11T02:12:02.328667",
-        "song": "The Cars - Bye Bye Love"
     }
 ]
