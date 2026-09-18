@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-18T19:56:57.428918",
+        "song": "Dramatics - Whatcha See Is Whatcha Get"
+    },
+    {
         "timestamp": "2026-09-18T17:37:31.169068",
         "song": "Norman Connors - You Are My Starship"
     },
@@ -186,9 +190,5 @@
     {
         "timestamp": "2026-09-11T21:45:18.334090",
         "song": "Elton John - Candle In The Wind"
-    },
-    {
-        "timestamp": "2026-09-11T19:14:55.543768",
-        "song": "Queen - Another One Bites the Dust"
     }
 ]
