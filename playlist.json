@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-19T00:26:15.004773",
+        "song": "Paul Nicholas - Heaven On The Seventh Floor"
+    },
+    {
         "timestamp": "2026-09-18T22:22:05.955483",
         "song": "Janis Ian - At Seventeen"
     },
@@ -186,9 +190,5 @@
     {
         "timestamp": "2026-09-12T01:29:27.136062",
         "song": "O'Jays - Love Train"
-    },
-    {
-        "timestamp": "2026-09-11T23:33:07.334992",
-        "song": "Staple Singers - I'll Take You There"
     }
 ]
