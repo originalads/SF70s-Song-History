@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-20T19:26:24.809798",
+        "song": "Michael Jackson - Don't Stop 'Til You Get Enough"
+    },
+    {
         "timestamp": "2026-09-20T17:08:36.829680",
         "song": "Heatwave - The Groove Line"
     },
@@ -186,9 +190,5 @@
     {
         "timestamp": "2026-09-13T19:47:22.591413",
         "song": "Marvin Gaye - Distant Lover"
-    },
-    {
-        "timestamp": "2026-09-13T17:39:11.257057",
-        "song": "Olivia Newton-John - Magic"
     }
 ]
