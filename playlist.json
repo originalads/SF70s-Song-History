@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-21T01:35:03.929295",
+        "song": "KC & The Sunshine Band - That's The Way I Like It"
+    },
+    {
         "timestamp": "2026-09-20T23:34:41.992397",
         "song": "Journey - Wheel In The Sky"
     },
@@ -186,9 +190,5 @@
     {
         "timestamp": "2026-09-14T01:39:36.837196",
         "song": "William DeVaughn - Be Thankful"
-    },
-    {
-        "timestamp": "2026-09-13T23:39:02.030784",
-        "song": "Dr. Hook - Only Sixteen"
     }
 ]
