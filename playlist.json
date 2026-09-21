@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-21T07:05:37.310343",
+        "song": "Billy Swan - I Can Help"
+    },
+    {
         "timestamp": "2026-09-21T01:35:03.929295",
         "song": "KC & The Sunshine Band - That's The Way I Like It"
     },
@@ -186,9 +190,5 @@
     {
         "timestamp": "2026-09-14T07:05:43.638740",
         "song": "James Taylor - How Sweet It Is"
-    },
-    {
-        "timestamp": "2026-09-14T01:39:36.837196",
-        "song": "William DeVaughn - Be Thankful"
     }
 ]
