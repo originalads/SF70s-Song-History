@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-21T22:37:19.330201",
+        "song": "America - Ventura Highway"
+    },
+    {
         "timestamp": "2026-09-21T19:17:21.812001",
         "song": "Jimmy Buffett - Margaritaville"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-15T00:48:57.272256",
         "song": "Bee Gees - Night Fever"
-    },
-    {
-        "timestamp": "2026-09-14T22:27:19.469094",
-        "song": "Toby Beau - My Angel Baby"
     }
 ]
