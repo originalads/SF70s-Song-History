@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-21T14:00:50.343661",
+        "song": "Paul McCartney - Silly Love Songs"
+    },
+    {
         "timestamp": "2026-09-21T07:05:37.310343",
         "song": "Billy Swan - I Can Help"
     },
@@ -182,13 +186,5 @@
     {
         "timestamp": "2026-09-14T19:07:07.783586",
         "song": "Leif Garrett - I Was Made For Dancing"
-    },
-    {
-        "timestamp": "2026-09-14T13:57:50.485489",
-        "song": "Arlo Guthrie - City Of New Orleans"
-    },
-    {
-        "timestamp": "2026-09-14T07:05:43.638740",
-        "song": "James Taylor - How Sweet It Is"
     }
 ]
