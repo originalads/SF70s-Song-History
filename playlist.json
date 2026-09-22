@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-22T06:10:55.642641",
+        "song": "Earth, Wind & Fire - Let's Groove"
+    },
+    {
         "timestamp": "2026-09-22T01:08:09.508448",
         "song": "Meat Loaf - Two Out Of Three Ain't Bad"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-15T10:21:10.374465",
         "song": "Gladys Knight & The Pips - If I Were Your Woman"
-    },
-    {
-        "timestamp": "2026-09-15T05:28:45.396574",
-        "song": "Brothers Johnson - Strawberry Letter 23"
     }
 ]
