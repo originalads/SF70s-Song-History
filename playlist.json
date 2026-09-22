@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-22T01:08:09.508448",
+        "song": "Meat Loaf - Two Out Of Three Ain't Bad"
+    },
+    {
         "timestamp": "2026-09-21T22:37:19.330201",
         "song": "America - Ventura Highway"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-15T05:28:45.396574",
         "song": "Brothers Johnson - Strawberry Letter 23"
-    },
-    {
-        "timestamp": "2026-09-15T00:48:57.272256",
-        "song": "Bee Gees - Night Fever"
     }
 ]
