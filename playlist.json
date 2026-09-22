@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-22T11:37:57.542931",
+        "song": "Neil Diamond - Solitary Man"
+    },
+    {
         "timestamp": "2026-09-22T06:10:55.642641",
         "song": "Earth, Wind & Fire - Let's Groove"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-15T15:06:01.310156",
         "song": "Elton John - Levon"
-    },
-    {
-        "timestamp": "2026-09-15T10:21:10.374465",
-        "song": "Gladys Knight & The Pips - If I Were Your Woman"
     }
 ]
