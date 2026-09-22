@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-22T19:11:32.447432",
+        "song": "Hot Chocolate - Every 1's A Winner"
+    },
+    {
         "timestamp": "2026-09-22T15:41:11.797154",
         "song": "Allman Brothers - Ramblin' Man"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-15T21:55:59.620524",
         "song": "Van McCoy - The Hustle"
-    },
-    {
-        "timestamp": "2026-09-15T18:56:26.699622",
-        "song": "Michael Jackson - Ben"
     }
 ]
