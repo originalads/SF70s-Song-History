@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-24T18:28:08.417722",
+        "song": "Electric Light Orchestra - Livin' Thing"
+    },
+    {
         "timestamp": "2026-09-24T14:20:41.935056",
         "song": "Chi-Lites - Oh Girl"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-17T19:58:41.870253",
         "song": "Al Stewart - Year Of The Cat"
-    },
-    {
-        "timestamp": "2026-09-17T16:54:48.282332",
-        "song": "Eddie Money - Two Tickets To Paradise"
     }
 ]
