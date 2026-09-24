@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-24T21:42:28.045399",
+        "song": "Sugarloaf - Green Eyed Lady"
+    },
+    {
         "timestamp": "2026-09-24T18:28:08.417722",
         "song": "Electric Light Orchestra - Livin' Thing"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-17T22:46:36.025688",
         "song": "Whispers - It's A Love Thing"
-    },
-    {
-        "timestamp": "2026-09-17T19:58:41.870253",
-        "song": "Al Stewart - Year Of The Cat"
     }
 ]
