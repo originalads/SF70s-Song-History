@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-24T04:32:35.350132",
+        "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
+    },
+    {
         "timestamp": "2026-09-23T23:59:57.613101",
         "song": "Elton John - Bennie And The Jets"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-17T06:40:53.481906",
         "song": "Paul Simon - Me And Julio Down By The Schoolyard"
-    },
-    {
-        "timestamp": "2026-09-17T01:42:42.627178",
-        "song": "James Taylor - Up On The Roof"
     }
 ]
