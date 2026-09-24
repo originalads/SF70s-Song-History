@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-24T09:28:18.789872",
+        "song": "Meat Loaf - Two Out Of Three Ain't Bad"
+    },
+    {
         "timestamp": "2026-09-24T04:32:35.350132",
         "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-17T12:06:14.936585",
         "song": "Elton John - Lucy In The Sky With Diamonds"
-    },
-    {
-        "timestamp": "2026-09-17T06:40:53.481906",
-        "song": "Paul Simon - Me And Julio Down By The Schoolyard"
     }
 ]
