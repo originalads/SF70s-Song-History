@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-25T09:49:43.136002",
+        "song": "Rickie Lee Jones - Chuck E's In Love"
+    },
+    {
         "timestamp": "2026-09-25T04:44:42.245539",
         "song": "Miracles - Love Machine"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-18T09:53:05.598336",
         "song": "Mouth & MacNeal - How Do You Do"
-    },
-    {
-        "timestamp": "2026-09-18T05:18:21.006626",
-        "song": "Bread - Everything I Own"
     }
 ]
