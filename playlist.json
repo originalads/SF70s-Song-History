@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-25T04:44:42.245539",
+        "song": "Miracles - Love Machine"
+    },
+    {
         "timestamp": "2026-09-25T00:01:02.494220",
         "song": "The Cars - Bye Bye Love"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-09-18T05:18:21.006626",
         "song": "Bread - Everything I Own"
-    },
-    {
-        "timestamp": "2026-09-18T00:49:02.266828",
-        "song": "Love & Kisses - Thank God It's Friday"
     }
 ]
