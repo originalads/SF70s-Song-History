@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-26T22:53:01.055513",
+        "song": "Sylvers - Hotline"
+    },
+    {
         "timestamp": "2026-09-26T20:12:56.595860",
         "song": "Bob Seger & The Silver Bullet Band - Hollywood Nights"
     },
@@ -174,9 +178,5 @@
     {
         "timestamp": "2026-09-19T22:54:46.319661",
         "song": "Paul McCartney - Uncle Albert"
-    },
-    {
-        "timestamp": "2026-09-19T21:02:31.268395",
-        "song": "Bee Gees - Tragedy"
     }
 ]
