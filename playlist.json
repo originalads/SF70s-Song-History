@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-26T10:01:16.899481",
+        "song": "Foghat - Slow Ride"
+    },
+    {
         "timestamp": "2026-09-26T05:23:20.302828",
         "song": "Van McCoy - The Hustle"
     },
@@ -174,9 +178,5 @@
     {
         "timestamp": "2026-09-19T13:05:48.537911",
         "song": "Stevie Wonder - Master Blaster (Jammin')"
-    },
-    {
-        "timestamp": "2026-09-19T09:04:39.996487",
-        "song": "Carl Carlton - Everlasting Love"
     }
 ]
