@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-27T01:01:28.583210",
+        "song": "King Harvest - Dancing in the Moonlight"
+    },
+    {
         "timestamp": "2026-09-26T22:53:01.055513",
         "song": "Sylvers - Hotline"
     },
@@ -170,13 +174,5 @@
     {
         "timestamp": "2026-09-20T05:22:42.114817",
         "song": "Odyssey - Native New Yorker"
-    },
-    {
-        "timestamp": "2026-09-20T00:36:04.169691",
-        "song": "Derek & The Dominos - Layla"
-    },
-    {
-        "timestamp": "2026-09-19T22:54:46.319661",
-        "song": "Paul McCartney - Uncle Albert"
     }
 ]
