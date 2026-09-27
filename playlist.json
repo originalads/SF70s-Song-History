@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-27T20:06:40.709917",
+        "song": "Leif Garrett - I Was Made For Dancing"
+    },
+    {
         "timestamp": "2026-09-27T17:06:00.215845",
         "song": "Carpenters - Top Of The World"
     },
@@ -166,13 +170,5 @@
     {
         "timestamp": "2026-09-20T21:44:32.524044",
         "song": "Linda Ronstadt - Blue Bayou"
-    },
-    {
-        "timestamp": "2026-09-20T19:26:24.809798",
-        "song": "Michael Jackson - Don't Stop 'Til You Get Enough"
-    },
-    {
-        "timestamp": "2026-09-20T17:08:36.829680",
-        "song": "Heatwave - The Groove Line"
     }
 ]
