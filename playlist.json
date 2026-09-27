@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-27T23:00:09.507993",
+        "song": "Emotions - Best of My Love"
+    },
+    {
         "timestamp": "2026-09-27T20:06:40.709917",
         "song": "Leif Garrett - I Was Made For Dancing"
     },
@@ -166,9 +170,5 @@
     {
         "timestamp": "2026-09-20T23:34:41.992397",
         "song": "Journey - Wheel In The Sky"
-    },
-    {
-        "timestamp": "2026-09-20T21:44:32.524044",
-        "song": "Linda Ronstadt - Blue Bayou"
     }
 ]
