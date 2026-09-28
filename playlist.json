@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-28T07:31:17.494894",
+        "song": "Dionne Warwick - I'll Never Love This Way Again"
+    },
+    {
         "timestamp": "2026-09-28T01:31:47.691841",
         "song": "Ozark Mountain Daredevils - Jackie Blue"
     },
@@ -162,13 +166,5 @@
     {
         "timestamp": "2026-09-21T14:00:50.343661",
         "song": "Paul McCartney - Silly Love Songs"
-    },
-    {
-        "timestamp": "2026-09-21T07:05:37.310343",
-        "song": "Billy Swan - I Can Help"
-    },
-    {
-        "timestamp": "2026-09-21T01:35:03.929295",
-        "song": "KC & The Sunshine Band - That's The Way I Like It"
     }
 ]
