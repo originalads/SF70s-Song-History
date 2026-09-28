@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-28T01:31:47.691841",
+        "song": "Ozark Mountain Daredevils - Jackie Blue"
+    },
+    {
         "timestamp": "2026-09-27T23:00:09.507993",
         "song": "Emotions - Best of My Love"
     },
@@ -166,9 +170,5 @@
     {
         "timestamp": "2026-09-21T01:35:03.929295",
         "song": "KC & The Sunshine Band - That's The Way I Like It"
-    },
-    {
-        "timestamp": "2026-09-20T23:34:41.992397",
-        "song": "Journey - Wheel In The Sky"
     }
 ]
