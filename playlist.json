@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-29T13:31:11.212754",
+        "song": "Elton John - Saturday Night's Alright For Fighting"
+    },
+    {
         "timestamp": "2026-09-29T06:52:06.752856",
         "song": "Friends of Distinction  - Love Or Let Me Be Lonely"
     },
@@ -158,9 +162,5 @@
     {
         "timestamp": "2026-09-22T15:41:11.797154",
         "song": "Allman Brothers - Ramblin' Man"
-    },
-    {
-        "timestamp": "2026-09-22T11:37:57.542931",
-        "song": "Neil Diamond - Solitary Man"
     }
 ]
