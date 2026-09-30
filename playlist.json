@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-09-30T14:02:32.952974",
+        "song": "Brothers Johnson - Strawberry Letter 23"
+    },
+    {
         "timestamp": "2026-09-30T07:24:46.940445",
         "song": "Peter Brown - Do You Wanna Get Funky With Me"
     },
@@ -154,9 +158,5 @@
     {
         "timestamp": "2026-09-23T14:37:25.740661",
         "song": "Jefferson Starship - Miracles"
-    },
-    {
-        "timestamp": "2026-09-23T09:54:40.572392",
-        "song": "Poco - Heart Of The Night"
     }
 ]
