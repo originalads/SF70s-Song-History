@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-01T08:41:11.801020",
+        "song": "Billy Joel - Just The Way You Are"
+    },
+    {
         "timestamp": "2026-10-01T01:58:57.389266",
         "song": "Three Dog Night - Celebrate"
     },
@@ -150,9 +154,5 @@
     {
         "timestamp": "2026-09-24T09:28:18.789872",
         "song": "Meat Loaf - Two Out Of Three Ain't Bad"
-    },
-    {
-        "timestamp": "2026-09-24T04:32:35.350132",
-        "song": "Earth, Wind & Fire & The Emotions - Boogie Wonderland"
     }
 ]
