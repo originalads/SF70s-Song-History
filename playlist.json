@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-02T00:06:54.678350",
+        "song": "Michael Jackson - Working Day And Night"
+    },
+    {
         "timestamp": "2026-10-01T20:30:56.788071",
         "song": "Neil Diamond - Cracklin' Rose"
     },
@@ -142,13 +146,5 @@
     {
         "timestamp": "2026-09-25T04:44:42.245539",
         "song": "Miracles - Love Machine"
-    },
-    {
-        "timestamp": "2026-09-25T00:01:02.494220",
-        "song": "The Cars - Bye Bye Love"
-    },
-    {
-        "timestamp": "2026-09-24T21:42:28.045399",
-        "song": "Sugarloaf - Green Eyed Lady"
     }
 ]
