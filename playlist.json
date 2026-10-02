@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-02T16:40:45.281695",
+        "song": "Commodores - Too Hot Ta Trot"
+    },
+    {
         "timestamp": "2026-10-02T11:16:27.209524",
         "song": "O'Jays - For The Love Of Money"
     },
@@ -142,9 +146,5 @@
     {
         "timestamp": "2026-09-25T18:56:57.456313",
         "song": "Lobo - I'd Love You To Want Me"
-    },
-    {
-        "timestamp": "2026-09-25T14:46:47.385024",
-        "song": "Thelma Houston - Don't Leave Me This Way"
     }
 ]
