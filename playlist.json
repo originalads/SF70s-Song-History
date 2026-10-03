@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-03T18:21:21.195307",
+        "song": "Gordon Lightfoot - If You Could Read My Mind"
+    },
+    {
         "timestamp": "2026-10-03T14:50:45.956716",
         "song": "Earth, Wind & Fire - Let's Groove"
     },
@@ -138,9 +142,5 @@
     {
         "timestamp": "2026-09-26T20:12:56.595860",
         "song": "Bob Seger & The Silver Bullet Band - Hollywood Nights"
-    },
-    {
-        "timestamp": "2026-09-26T17:48:57.262182",
-        "song": "Parliament - Flash Light"
     }
 ]
