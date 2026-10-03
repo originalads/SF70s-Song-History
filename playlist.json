@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-03T23:59:44.349506",
+        "song": "Police - Roxanne"
+    },
+    {
         "timestamp": "2026-10-03T21:29:51.451016",
         "song": "Steely Dan - FM"
     },
@@ -138,9 +142,5 @@
     {
         "timestamp": "2026-09-27T01:01:28.583210",
         "song": "King Harvest - Dancing in the Moonlight"
-    },
-    {
-        "timestamp": "2026-09-26T22:53:01.055513",
-        "song": "Sylvers - Hotline"
     }
 ]
