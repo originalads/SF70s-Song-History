@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-04T11:17:08.293345",
+        "song": "Art Garfunkel - All I Know"
+    },
+    {
         "timestamp": "2026-10-04T05:39:32.225328",
         "song": "Elton John - Crocodile Rock"
     },
@@ -138,9 +142,5 @@
     {
         "timestamp": "2026-09-27T12:22:26.658973",
         "song": "Odyssey - Native New Yorker"
-    },
-    {
-        "timestamp": "2026-09-27T06:30:53.363162",
-        "song": "Edison Lighthouse - Love Grows"
     }
 ]
