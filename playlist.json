@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-04T05:39:32.225328",
+        "song": "Elton John - Crocodile Rock"
+    },
+    {
         "timestamp": "2026-10-03T23:59:44.349506",
         "song": "Police - Roxanne"
     },
@@ -138,9 +142,5 @@
     {
         "timestamp": "2026-09-27T06:30:53.363162",
         "song": "Edison Lighthouse - Love Grows"
-    },
-    {
-        "timestamp": "2026-09-27T01:01:28.583210",
-        "song": "King Harvest - Dancing in the Moonlight"
     }
 ]
