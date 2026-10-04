@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-04T15:50:38.662948",
+        "song": "Cliff Richard - We Don't Talk Anymore"
+    },
+    {
         "timestamp": "2026-10-04T11:17:08.293345",
         "song": "Art Garfunkel - All I Know"
     },
@@ -138,9 +142,5 @@
     {
         "timestamp": "2026-09-27T17:06:00.215845",
         "song": "Carpenters - Top Of The World"
-    },
-    {
-        "timestamp": "2026-09-27T12:22:26.658973",
-        "song": "Odyssey - Native New Yorker"
     }
 ]
