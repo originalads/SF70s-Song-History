@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-05T06:17:25.618141",
+        "song": "Todd Rundgren - I Saw The Light"
+    },
+    {
         "timestamp": "2026-10-05T00:44:48.197049",
         "song": "Electric Light Orchestra - Strange Magic"
     },
@@ -138,9 +142,5 @@
     {
         "timestamp": "2026-09-28T07:31:17.494894",
         "song": "Dionne Warwick - I'll Never Love This Way Again"
-    },
-    {
-        "timestamp": "2026-09-28T01:31:47.691841",
-        "song": "Ozark Mountain Daredevils - Jackie Blue"
     }
 ]
