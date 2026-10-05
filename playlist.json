@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-05T00:44:48.197049",
+        "song": "Electric Light Orchestra - Strange Magic"
+    },
+    {
         "timestamp": "2026-10-04T22:00:02.689119",
         "song": "Three Dog Night - Black And White"
     },
@@ -138,9 +142,5 @@
     {
         "timestamp": "2026-09-28T01:31:47.691841",
         "song": "Ozark Mountain Daredevils - Jackie Blue"
-    },
-    {
-        "timestamp": "2026-09-27T23:00:09.507993",
-        "song": "Emotions - Best of My Love"
     }
 ]
