@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-06T08:40:10.653050",
+        "song": "J.D. Souther - You're Only Lonely"
+    },
+    {
         "timestamp": "2026-10-06T01:56:42.272834",
         "song": "Boston - Long Time"
     },
@@ -134,9 +138,5 @@
     {
         "timestamp": "2026-09-29T13:31:11.212754",
         "song": "Elton John - Saturday Night's Alright For Fighting"
-    },
-    {
-        "timestamp": "2026-09-29T06:52:06.752856",
-        "song": "Friends of Distinction  - Love Or Let Me Be Lonely"
     }
 ]
