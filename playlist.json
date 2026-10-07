@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-07T18:50:34.640185",
+        "song": "First Class - Beach Baby"
+    },
+    {
         "timestamp": "2026-10-07T12:01:55.701915",
         "song": "Looking Glass - Brandy"
     },
@@ -134,9 +138,5 @@
     {
         "timestamp": "2026-09-30T19:08:24.040348",
         "song": "Tavares - More Than A Woman"
-    },
-    {
-        "timestamp": "2026-09-30T14:02:32.952974",
-        "song": "Brothers Johnson - Strawberry Letter 23"
     }
 ]
