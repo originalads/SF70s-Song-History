@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-07T23:21:01.351386",
+        "song": "England Dan & John Ford Coley - Nights Are Forever Without You"
+    },
+    {
         "timestamp": "2026-10-07T18:50:34.640185",
         "song": "First Class - Beach Baby"
     },
@@ -130,13 +134,5 @@
     {
         "timestamp": "2026-10-01T01:58:57.389266",
         "song": "Three Dog Night - Celebrate"
-    },
-    {
-        "timestamp": "2026-09-30T22:59:12.705218",
-        "song": "Boz Scaggs - Georgia"
-    },
-    {
-        "timestamp": "2026-09-30T19:08:24.040348",
-        "song": "Tavares - More Than A Woman"
     }
 ]
