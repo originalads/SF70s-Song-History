@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-08T02:45:18.392416",
+        "song": "Chic - Dance Dance Dance"
+    },
+    {
         "timestamp": "2026-10-07T23:21:01.351386",
         "song": "England Dan & John Ford Coley - Nights Are Forever Without You"
     },
@@ -130,9 +134,5 @@
     {
         "timestamp": "2026-10-01T08:41:11.801020",
         "song": "Billy Joel - Just The Way You Are"
-    },
-    {
-        "timestamp": "2026-10-01T01:58:57.389266",
-        "song": "Three Dog Night - Celebrate"
     }
 ]
