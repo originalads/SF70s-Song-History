@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-08T21:35:49.167756",
+        "song": "Jonathan Edwards - Sunshine"
+    },
+    {
         "timestamp": "2026-10-08T16:51:38.197686",
         "song": "Diana Ross - Theme From Mahogany"
     },
@@ -130,9 +134,5 @@
     {
         "timestamp": "2026-10-02T00:06:54.678350",
         "song": "Michael Jackson - Working Day And Night"
-    },
-    {
-        "timestamp": "2026-10-01T20:30:56.788071",
-        "song": "Neil Diamond - Cracklin' Rose"
     }
 ]
