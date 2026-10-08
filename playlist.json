@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-08T16:51:38.197686",
+        "song": "Diana Ross - Theme From Mahogany"
+    },
+    {
         "timestamp": "2026-10-08T09:31:34.391444",
         "song": "Paul McCartney - Let 'Em In"
     },
@@ -130,9 +134,5 @@
     {
         "timestamp": "2026-10-01T20:30:56.788071",
         "song": "Neil Diamond - Cracklin' Rose"
-    },
-    {
-        "timestamp": "2026-10-01T15:40:41.417340",
-        "song": "John Lennon - Imagine"
     }
 ]
