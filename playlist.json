@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-09T01:24:37.437581",
+        "song": "Tony Orlando & Dawn - Knock Three Times"
+    },
+    {
         "timestamp": "2026-10-08T21:35:49.167756",
         "song": "Jonathan Edwards - Sunshine"
     },
@@ -130,9 +134,5 @@
     {
         "timestamp": "2026-10-02T05:29:05.237963",
         "song": "Carly Simon - You're So Vain"
-    },
-    {
-        "timestamp": "2026-10-02T00:06:54.678350",
-        "song": "Michael Jackson - Working Day And Night"
     }
 ]
