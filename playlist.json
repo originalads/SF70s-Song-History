@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-09T23:35:19.110225",
+        "song": "Golden Earring - Radar Love"
+    },
+    {
         "timestamp": "2026-10-09T19:47:07.413662",
         "song": "Stories - Brother Louie"
     },
@@ -130,9 +134,5 @@
     {
         "timestamp": "2026-10-03T00:20:59.009307",
         "song": "Eagles  - Lyin' Eyes"
-    },
-    {
-        "timestamp": "2026-10-02T20:58:59.715478",
-        "song": "Bob Seger & The Silver Bullet Band - Still The Same"
     }
 ]
