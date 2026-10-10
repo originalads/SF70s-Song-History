@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-10T19:20:11.205711",
+        "song": "Chicago - If You Leave Me Now"
+    },
+    {
         "timestamp": "2026-10-10T15:16:36.295105",
         "song": "Little River Band - Happy Anniversary"
     },
@@ -126,9 +130,5 @@
     {
         "timestamp": "2026-10-03T21:29:51.451016",
         "song": "Steely Dan - FM"
-    },
-    {
-        "timestamp": "2026-10-03T18:21:21.195307",
-        "song": "Gordon Lightfoot - If You Could Read My Mind"
     }
 ]
