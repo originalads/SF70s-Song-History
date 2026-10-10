@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-10T15:16:36.295105",
+        "song": "Little River Band - Happy Anniversary"
+    },
+    {
         "timestamp": "2026-10-10T09:03:19.778823",
         "song": "Paul McCartney - Maybe I'm Amazed (live)"
     },
@@ -126,13 +130,5 @@
     {
         "timestamp": "2026-10-03T18:21:21.195307",
         "song": "Gordon Lightfoot - If You Could Read My Mind"
-    },
-    {
-        "timestamp": "2026-10-03T14:50:45.956716",
-        "song": "Earth, Wind & Fire - Let's Groove"
-    },
-    {
-        "timestamp": "2026-10-03T10:32:58.584030",
-        "song": "Blondie - One Way Or Another"
     }
 ]
