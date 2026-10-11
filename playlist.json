@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-11T14:09:42.156814",
+        "song": "Curtis Mayfield - Freddie's Dead"
+    },
+    {
         "timestamp": "2026-10-11T07:17:42.400793",
         "song": "Sniff N The Tears - Driver's Seat"
     },
@@ -126,9 +130,5 @@
     {
         "timestamp": "2026-10-04T15:50:38.662948",
         "song": "Cliff Richard - We Don't Talk Anymore"
-    },
-    {
-        "timestamp": "2026-10-04T11:17:08.293345",
-        "song": "Art Garfunkel - All I Know"
     }
 ]
