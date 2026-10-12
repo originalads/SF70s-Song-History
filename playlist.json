@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-12T17:47:32.490725",
+        "song": "James Taylor - You've Got A Friend"
+    },
+    {
         "timestamp": "2026-10-12T08:03:56.462922",
         "song": "Staple Singers - If You're Ready (Come Go with Me)"
     },
@@ -122,9 +126,5 @@
     {
         "timestamp": "2026-10-05T21:50:38.908212",
         "song": "Simon & Garfunkel - My Little Town"
-    },
-    {
-        "timestamp": "2026-10-05T14:56:24.816499",
-        "song": "Peter Frampton - I'm In You"
     }
 ]
