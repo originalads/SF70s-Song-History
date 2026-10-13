@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-13T23:01:25.959660",
+        "song": "Main Ingredient - Everybody Plays The Fool"
+    },
+    {
         "timestamp": "2026-10-13T18:28:22.249769",
         "song": "Barry White - You're The First, The Last, My Everything"
     },
@@ -122,9 +126,5 @@
     {
         "timestamp": "2026-10-07T00:00:37.634630",
         "song": "Grass Roots - Sooner or Later"
-    },
-    {
-        "timestamp": "2026-10-06T20:28:35.363588",
-        "song": "Fleetwood Mac - Rhiannon"
     }
 ]
