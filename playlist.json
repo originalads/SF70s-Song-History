@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-14T06:45:13.985531",
+        "song": "Brothers Johnson - Stomp"
+    },
+    {
         "timestamp": "2026-10-14T01:47:41.889890",
         "song": "Michael Jackson - Rock With You"
     },
@@ -122,9 +126,5 @@
     {
         "timestamp": "2026-10-07T12:01:55.701915",
         "song": "Looking Glass - Brandy"
-    },
-    {
-        "timestamp": "2026-10-07T05:42:58.298595",
-        "song": "Crosby, Stills, Nash & Young - Teach Your Children"
     }
 ]
