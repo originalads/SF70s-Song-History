@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-14T12:27:06.456751",
+        "song": "Chic - I Want Your Love"
+    },
+    {
         "timestamp": "2026-10-14T06:45:13.985531",
         "song": "Brothers Johnson - Stomp"
     },
@@ -122,9 +126,5 @@
     {
         "timestamp": "2026-10-07T18:50:34.640185",
         "song": "First Class - Beach Baby"
-    },
-    {
-        "timestamp": "2026-10-07T12:01:55.701915",
-        "song": "Looking Glass - Brandy"
     }
 ]
