@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-16T21:34:38.818786",
+        "song": "Bachman-Turner Overdrive - Takin' Care Of Business"
+    },
+    {
         "timestamp": "2026-10-16T18:27:30.908087",
         "song": "Cher - Take Me Home"
     },
@@ -142,9 +146,5 @@
     {
         "timestamp": "2026-10-09T23:35:19.110225",
         "song": "Golden Earring - Radar Love"
-    },
-    {
-        "timestamp": "2026-10-09T19:47:07.413662",
-        "song": "Stories - Brother Louie"
     }
 ]
