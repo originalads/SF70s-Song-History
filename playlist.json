@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-16T23:50:49.768902",
+        "song": "Steely Dan - Peg"
+    },
+    {
         "timestamp": "2026-10-16T21:34:38.818786",
         "song": "Bachman-Turner Overdrive - Takin' Care Of Business"
     },
@@ -142,9 +146,5 @@
     {
         "timestamp": "2026-10-10T02:42:27.725205",
         "song": "Andy Gibb - Shadow Dancing"
-    },
-    {
-        "timestamp": "2026-10-09T23:35:19.110225",
-        "song": "Golden Earring - Radar Love"
     }
 ]
