@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-17T06:10:59.288931",
+        "song": "Lou Rawls - Lady Love"
+    },
+    {
         "timestamp": "2026-10-17T01:38:49.993971",
         "song": "Little River Band - Help Is On It's Way"
     },
@@ -146,9 +150,5 @@
     {
         "timestamp": "2026-10-10T09:03:19.778823",
         "song": "Paul McCartney - Maybe I'm Amazed (live)"
-    },
-    {
-        "timestamp": "2026-10-10T02:42:27.725205",
-        "song": "Andy Gibb - Shadow Dancing"
     }
 ]
