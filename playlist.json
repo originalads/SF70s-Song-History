@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-17T21:22:30.412615",
+        "song": "Eric Clapton - Lay Down Sally"
+    },
+    {
         "timestamp": "2026-10-17T18:59:33.012367",
         "song": "Kenny Loggins - Whenever I Call You Friend"
     },
@@ -154,9 +158,5 @@
     {
         "timestamp": "2026-10-10T22:42:17.674263",
         "song": "Grass Roots - Temptation Eyes"
-    },
-    {
-        "timestamp": "2026-10-10T19:20:11.205711",
-        "song": "Chicago - If You Leave Me Now"
     }
 ]
