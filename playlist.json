@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-17T10:43:40.654962",
+        "song": "Neil Diamond - I Am...I Said"
+    },
+    {
         "timestamp": "2026-10-17T06:10:59.288931",
         "song": "Lou Rawls - Lady Love"
     },
@@ -146,9 +150,5 @@
     {
         "timestamp": "2026-10-10T15:16:36.295105",
         "song": "Little River Band - Happy Anniversary"
-    },
-    {
-        "timestamp": "2026-10-10T09:03:19.778823",
-        "song": "Paul McCartney - Maybe I'm Amazed (live)"
     }
 ]
