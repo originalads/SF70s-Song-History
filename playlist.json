@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-18T16:57:49.396028",
+        "song": "Diana Ross - Theme From Mahogany"
+    },
+    {
         "timestamp": "2026-10-18T13:49:22.868646",
         "song": "Orleans - Love Takes Time"
     },
@@ -162,9 +166,5 @@
     {
         "timestamp": "2026-10-11T18:53:16.925932",
         "song": "Styx - Lady"
-    },
-    {
-        "timestamp": "2026-10-11T14:09:42.156814",
-        "song": "Curtis Mayfield - Freddie's Dead"
     }
 ]
