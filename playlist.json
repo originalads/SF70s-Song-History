@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-18T23:36:56.789841",
+        "song": "Van Halen - Dance The Night Away"
+    },
+    {
         "timestamp": "2026-10-18T21:35:33.577104",
         "song": "Joe Walsh - Rocky Mountain Way"
     },
@@ -166,9 +170,5 @@
     {
         "timestamp": "2026-10-12T01:44:10.472944",
         "song": "England Dan & John Ford Coley - Love Is The Answer"
-    },
-    {
-        "timestamp": "2026-10-11T22:35:54.175360",
-        "song": "Derek & The Dominos - Layla"
     }
 ]
