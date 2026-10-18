@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-18T09:57:19.527451",
+        "song": "Blue Swede - Hooked On A Feeling"
+    },
+    {
         "timestamp": "2026-10-18T05:50:23.132049",
         "song": "Sylvers - Boogie Fever"
     },
@@ -158,9 +162,5 @@
     {
         "timestamp": "2026-10-11T14:09:42.156814",
         "song": "Curtis Mayfield - Freddie's Dead"
-    },
-    {
-        "timestamp": "2026-10-11T07:17:42.400793",
-        "song": "Sniff N The Tears - Driver's Seat"
     }
 ]
