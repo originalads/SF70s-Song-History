@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-19T14:04:19.615741",
+        "song": "James Taylor - Your Smiling Face"
+    },
+    {
         "timestamp": "2026-10-19T06:49:21.177479",
         "song": "Baby's - Isn't It Time"
     },
@@ -170,9 +174,5 @@
     {
         "timestamp": "2026-10-12T17:47:32.490725",
         "song": "James Taylor - You've Got A Friend"
-    },
-    {
-        "timestamp": "2026-10-12T08:03:56.462922",
-        "song": "Staple Singers - If You're Ready (Come Go with Me)"
     }
 ]
