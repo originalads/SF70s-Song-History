@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-20T20:39:46.715884",
+        "song": "Arlo Guthrie - City Of New Orleans"
+    },
+    {
         "timestamp": "2026-10-20T17:15:38.518394",
         "song": "Heart - Magic Man"
     },
@@ -178,9 +182,5 @@
     {
         "timestamp": "2026-10-13T23:01:25.959660",
         "song": "Main Ingredient - Everybody Plays The Fool"
-    },
-    {
-        "timestamp": "2026-10-13T18:28:22.249769",
-        "song": "Barry White - You're The First, The Last, My Everything"
     }
 ]
