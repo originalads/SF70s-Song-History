@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-20T06:42:57.774224",
+        "song": "Art Garfunkel - I Only Have Eyes For You"
+    },
+    {
         "timestamp": "2026-10-20T01:47:47.575992",
         "song": "Vanity Fair - Hitchin' A Ride"
     },
@@ -174,9 +178,5 @@
     {
         "timestamp": "2026-10-13T11:32:13.905710",
         "song": "Paul McCartney - Let 'Em In"
-    },
-    {
-        "timestamp": "2026-10-13T03:57:34.854969",
-        "song": "Dr. Hook - Sylvia's Mother"
     }
 ]
