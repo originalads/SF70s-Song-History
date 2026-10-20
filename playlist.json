@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-20T01:47:47.575992",
+        "song": "Vanity Fair - Hitchin' A Ride"
+    },
+    {
         "timestamp": "2026-10-19T23:08:36.529054",
         "song": "Little River Band - Happy Anniversary"
     },
@@ -174,9 +178,5 @@
     {
         "timestamp": "2026-10-13T03:57:34.854969",
         "song": "Dr. Hook - Sylvia's Mother"
-    },
-    {
-        "timestamp": "2026-10-12T23:48:28.863500",
-        "song": "Shaun Cassidy - Hey Deanie"
     }
 ]
