@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-20T23:24:13.049240",
+        "song": "Isaac Hayes - Theme From Shaft"
+    },
+    {
         "timestamp": "2026-10-20T20:39:46.715884",
         "song": "Arlo Guthrie - City Of New Orleans"
     },
@@ -178,9 +182,5 @@
     {
         "timestamp": "2026-10-14T01:47:41.889890",
         "song": "Michael Jackson - Rock With You"
-    },
-    {
-        "timestamp": "2026-10-13T23:01:25.959660",
-        "song": "Main Ingredient - Everybody Plays The Fool"
     }
 ]
