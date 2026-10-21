@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-21T12:24:19.275812",
+        "song": "Jim Stafford - Spiders And Snakes"
+    },
+    {
         "timestamp": "2026-10-21T06:38:24.788085",
         "song": "Grand Funk - We're An American Band"
     },
@@ -182,9 +186,5 @@
     {
         "timestamp": "2026-10-14T12:27:06.456751",
         "song": "Chic - I Want Your Love"
-    },
-    {
-        "timestamp": "2026-10-14T06:45:13.985531",
-        "song": "Brothers Johnson - Stomp"
     }
 ]
