@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-21T23:44:23.924894",
+        "song": "Bee Gees - Love So Right"
+    },
+    {
         "timestamp": "2026-10-21T20:50:21.042160",
         "song": "Joan Baez - The Night They Drove Old Dixie Down"
     },
@@ -178,13 +182,5 @@
     {
         "timestamp": "2026-10-15T01:47:26.735442",
         "song": "Evelyn 'Champagne' King  - Love Come Down"
-    },
-    {
-        "timestamp": "2026-10-14T23:34:58.455128",
-        "song": "Doobie Brothers - Black Water"
-    },
-    {
-        "timestamp": "2026-10-14T20:53:54.711319",
-        "song": "Van Morrison - Wild Night"
     }
 ]
