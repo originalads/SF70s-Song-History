@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-22T01:56:02.310240",
+        "song": "Suzi Quatro & Chris Norman - Stumblin' In"
+    },
+    {
         "timestamp": "2026-10-21T23:44:23.924894",
         "song": "Bee Gees - Love So Right"
     },
@@ -178,9 +182,5 @@
     {
         "timestamp": "2026-10-15T06:32:06.836880",
         "song": "Rolling Stones - Tumbling Dice"
-    },
-    {
-        "timestamp": "2026-10-15T01:47:26.735442",
-        "song": "Evelyn 'Champagne' King  - Love Come Down"
     }
 ]
