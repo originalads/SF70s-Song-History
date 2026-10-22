@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-22T23:49:24.121879",
+        "song": "Maxine Nightingale - Right Back Where We Started From"
+    },
+    {
         "timestamp": "2026-10-22T20:54:18.657569",
         "song": "James Taylor - You've Got A Friend"
     },
@@ -178,9 +182,5 @@
     {
         "timestamp": "2026-10-16T01:10:16.817140",
         "song": "Con Funk Shun - Ffun"
-    },
-    {
-        "timestamp": "2026-10-15T23:00:41.885428",
-        "song": "Paul McCartney - Listen To What The Man Said"
     }
 ]
