@@ -1,5 +1,9 @@
 [
     {
+        "timestamp": "2026-10-23T02:02:06.678364",
+        "song": "Electric Light Orchestra - Don't Bring Me Down"
+    },
+    {
         "timestamp": "2026-10-22T23:49:24.121879",
         "song": "Maxine Nightingale - Right Back Where We Started From"
     },
@@ -178,9 +182,5 @@
     {
         "timestamp": "2026-10-16T05:50:56.279628",
         "song": "Wet Willie - Keep on Smilin'"
-    },
-    {
-        "timestamp": "2026-10-16T01:10:16.817140",
-        "song": "Con Funk Shun - Ffun"
     }
 ]
